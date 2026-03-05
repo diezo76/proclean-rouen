@@ -3125,7 +3125,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       headingLevel: 3,
       paragraphs: [
         'Intervention rapide dans toute la métropole rouennaise et l\'agglomération. Devis gratuit sous 24h, intervention d\'urgence possible sous 48h pour les besoins critiques.',
-        '☎️ Contact Direct : 06.13.97.79.42',
+        '☎️ Contact Direct : 07.49.13.06.83',
       ],
     },
   ],
@@ -3294,7 +3294,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       headingLevel: 3,
       paragraphs: [
         'Intervention rapide dans toute la métropole rouennaise et l\'agglomération. Diagnostic gratuit sous 48h, devis personnalisé parfaitement adapté à vos besoins patrimoniaux.',
-        '☎️ Contact Direct : 06.13.97.79.42',
+        '☎️ Contact Direct : 07.49.13.06.83',
         '✉️ Email : contact@proclean-rouen.fr',
         'ProClean Rouen - Maîtres de l\'Entretien Patrimonial Normand *Siège social : Rouen, Seine-Maritime* *Zone d\'intervention : Rouen Métropole, Petit-Couronne, Grand-Couronne, Sotteville-lès-Rouen, Saint-Étienne-du-Rouvray, Canteleu, Maromme, Déville-lès-Rouen, Bonsecours, Franqueville-Saint-Pierre, Barentin, Elbeuf et toute la Seine-Maritime*',
         'Préservation du Patrimoine Rouennais L\'entretien professionnel régulier de vos toitures et façades permet de :',

@@ -58,7 +58,7 @@ export default function SiteHeader() {
               alt="ProClean - Société de nettoyage Rouen"
               width={200}
               height={70}
-              className="h-[72px] md:h-[90px] w-auto transition-opacity duration-300"
+              className="h-[90px] md:h-[110px] w-auto transition-opacity duration-300"
               priority
             />
           </Link>
