@@ -1,10 +1,11 @@
 'use client';
 
 import Image from 'next/image';
-import { Phone } from 'lucide-react';
+import Link from 'next/link';
+import { motion } from 'framer-motion';
+import { Phone, Star, ArrowRight, Check } from 'lucide-react';
 import type { HeroSectionProps } from '@/types';
 import { siteConfig } from '@/data/siteConfig';
-import Button from '@/components/ui/Button';
 import AnimateOnScroll from '@/components/ui/AnimateOnScroll';
 
 export default function HeroSection({
@@ -53,8 +54,32 @@ export default function HeroSection({
     );
   }
 
+  const containerVariants = {
+    hidden: {},
+    visible: {
+      transition: { staggerChildren: 0.1, delayChildren: 0.1 },
+    },
+  };
+
+  const fadeInUp = {
+    hidden: { opacity: 0, y: 30 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: { duration: 0.6, ease: [0.22, 1, 0.36, 1] as const },
+    },
+  };
+
+  const fadeIn = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: { duration: 0.8, ease: 'easeOut' as const },
+    },
+  };
+
   return (
-    <section className="relative min-h-screen flex items-center overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background image */}
       <Image
         src="/images/hero/hero-bg.webp"
@@ -68,57 +93,107 @@ export default function HeroSection({
 
       {/* Dark overlay gradient */}
       <div
-        className="absolute inset-0 bg-gradient-to-r from-navy/70 via-navy/45 to-navy/20"
+        className="absolute inset-0 bg-gradient-to-b from-navy/85 via-navy/65 to-navy/55 z-[1]"
+        aria-hidden="true"
+      />
+
+      {/* Blob bleu subtil */}
+      <div
+        className="absolute top-[30%] right-[20%] w-[500px] h-[500px] rounded-full z-[1]"
+        style={{ background: 'radial-gradient(circle, rgba(33,150,243,0.08) 0%, transparent 70%)' }}
+        aria-hidden="true"
+      />
+
+      {/* Blob vert subtil */}
+      <div
+        className="absolute bottom-[20%] left-[15%] w-[400px] h-[400px] rounded-full z-[1]"
+        style={{ background: 'radial-gradient(circle, rgba(139,195,74,0.06) 0%, transparent 60%)' }}
         aria-hidden="true"
       />
 
       {/* Top gradient for header readability */}
       <div
-        className="absolute top-0 left-0 right-0 h-24 bg-gradient-to-b from-black/30 to-transparent z-[1] pointer-events-none"
+        className="absolute top-0 left-0 right-0 h-24 bg-gradient-to-b from-black/30 to-transparent z-[2] pointer-events-none"
         aria-hidden="true"
       />
 
-      <div className="container-main relative z-10 py-20 md:py-28">
-        <AnimateOnScroll>
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-sm text-white text-sm font-medium mb-6 border border-white/20">
-            <span className="w-2 h-2 rounded-full bg-proclean-green animate-pulse" />
-            Nettoyage professionnel à {siteConfig.city}
+      {/* Content centré */}
+      <motion.div
+        className="relative z-10 text-center max-w-3xl px-6 mx-auto"
+        variants={containerVariants}
+        initial="hidden"
+        animate="visible"
+      >
+        {/* Badge Google */}
+        <motion.div variants={fadeInUp}>
+          <div className="inline-flex items-center gap-2 bg-white/[0.06] border border-white/10 px-5 py-2 rounded-full backdrop-blur-sm mb-10">
+            <div className="flex gap-0.5 text-yellow-400">
+              {[...Array(5)].map((_, i) => (
+                <Star key={i} size={14} fill="currentColor" />
+              ))}
+            </div>
+            <span className="text-[13px] text-white/70 font-medium">
+              5/5 sur Google — 530+ interventions
+            </span>
           </div>
-        </AnimateOnScroll>
+        </motion.div>
 
-        <AnimateOnScroll delay={0.1}>
-          <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight max-w-3xl leading-[1.1]">
-            {title}
-          </h1>
-        </AnimateOnScroll>
+        {/* H1 cinématique */}
+        <motion.h1
+          variants={fadeInUp}
+          className="font-display text-[40px] md:text-[56px] lg:text-[62px] font-extrabold text-white leading-[1.08] tracking-tight mb-6"
+        >
+          Le nettoyage<br />
+          <span className="text-proclean-blue">professionnel</span><br />
+          à Rouen
+        </motion.h1>
 
-        <AnimateOnScroll delay={0.2}>
-          <p className="mt-6 text-lg md:text-xl text-white/80 max-w-2xl leading-relaxed">
-            {subtitle}
-          </p>
-        </AnimateOnScroll>
+        {/* Sous-titre */}
+        <motion.p
+          variants={fadeInUp}
+          className="text-lg text-white/55 leading-relaxed max-w-[520px] mx-auto mb-11"
+        >
+          De la cathédrale Notre-Dame aux quartiers de la rive droite,
+          ProClean transforme vos espaces avec expertise et passion.
+        </motion.p>
 
-        <AnimateOnScroll delay={0.3}>
-          <div className="mt-8 flex flex-col sm:flex-row items-start gap-4">
-            <Button href={ctaHref} size="lg">
-              {ctaText}
-            </Button>
-            {secondaryCtaText && secondaryCtaHref ? (
-              <Button href={secondaryCtaHref} variant="outline" size="lg" className="border-white text-white hover:bg-white/10">
-                {secondaryCtaText}
-              </Button>
-            ) : (
-              <a
-                href={`tel:${siteConfig.phoneFormatted}`}
-                className="inline-flex items-center gap-2 px-6 py-4 text-white/80 font-medium hover:text-white transition-colors"
-              >
-                <Phone className="w-5 h-5" />
-                {siteConfig.phone}
-              </a>
-            )}
-          </div>
-        </AnimateOnScroll>
-      </div>
+        {/* Double CTA */}
+        <motion.div
+          variants={fadeInUp}
+          className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-14"
+        >
+          {/* CTA principal */}
+          <Link
+            href="/devis-gratuit-rouen"
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 bg-gradient-to-r from-proclean-blue to-[#1976D2] text-white text-base font-bold px-9 py-[18px] rounded-xl shadow-[0_4px_24px_rgba(33,150,243,0.35)] hover:shadow-[0_6px_32px_rgba(33,150,243,0.45)] transition-all"
+          >
+            Devis Gratuit
+            <ArrowRight size={18} />
+          </Link>
+
+          {/* CTA secondaire */}
+          <a
+            href={`tel:${siteConfig.phoneFormatted}`}
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 bg-white/[0.06] border border-white/15 text-white text-base font-semibold px-8 py-[18px] rounded-xl hover:bg-white/10 transition-all"
+          >
+            <Phone size={18} />
+            {siteConfig.phone}
+          </a>
+        </motion.div>
+
+        {/* Barre de confiance */}
+        <motion.div
+          variants={fadeIn}
+          className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-10 pt-6 border-t border-white/[0.08]"
+        >
+          {['Réponse en 24h', 'Sans engagement', 'Devis 100% gratuit'].map((text, i) => (
+            <div key={i} className="flex items-center gap-2 text-white/50 text-sm">
+              <Check size={16} className="text-proclean-green" />
+              {text}
+            </div>
+          ))}
+        </motion.div>
+      </motion.div>
     </section>
   );
 }
