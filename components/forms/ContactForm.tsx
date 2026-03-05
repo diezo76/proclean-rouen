@@ -167,6 +167,7 @@ export default function ContactForm() {
   const isLoading = status === 'loading';
   const inputBase =
     'w-full h-12 px-4 bg-white/5 border border-white/20 rounded-lg text-white placeholder-white/40 focus:outline-none focus:border-proclean-blue focus:ring-1 focus:ring-proclean-blue transition-colors';
+  const selectBase = `${inputBase} [&>option]:text-navy [&>option]:bg-white`;
   const labelBase = 'block text-sm font-medium text-white/80 mb-1.5';
 
   return (
@@ -360,7 +361,7 @@ export default function ContactForm() {
                   value={formData.typeLocal}
                   onChange={handleTextChange}
                   disabled={isLoading}
-                  className={inputBase}
+                  className={selectBase}
                 >
                   <option value="">Sélectionnez...</option>
                   {typeLocalOptions.map((opt) => (
@@ -399,7 +400,7 @@ export default function ContactForm() {
                   value={formData.frequence}
                   onChange={handleTextChange}
                   disabled={isLoading}
-                  className={inputBase}
+                  className={selectBase}
                 >
                   <option value="">Sélectionnez...</option>
                   {frequenceOptions.map((opt) => (
@@ -443,7 +444,7 @@ export default function ContactForm() {
                   value={formData.creneau}
                   onChange={handleTextChange}
                   disabled={isLoading}
-                  className={inputBase}
+                  className={selectBase}
                 >
                   <option value="">Sélectionnez...</option>
                   {creneauOptions.map((opt) => (
