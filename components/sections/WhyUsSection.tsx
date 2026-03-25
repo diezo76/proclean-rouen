@@ -66,14 +66,14 @@ export default function WhyUsSection({ items }: WhyUsSectionProps) {
         </div>
 
         {/* Grid 2×2 */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 md:grid-rows-[1fr_1fr]">
           {items.map((item, idx) => {
             const Icon = getIcon(item.icon);
             const accent = cardAccents[idx] || cardAccents[0];
 
             return (
-              <AnimateOnScroll key={item.title} delay={idx * 0.1}>
-                <div className="bg-white/5 border border-white/[0.08] backdrop-blur-[5px] rounded-2xl p-8 hover:bg-white/[0.08] hover:border-proclean-green/30 transition-all duration-300">
+              <AnimateOnScroll key={item.title} delay={idx * 0.1} className="h-full">
+                <div className="h-full flex flex-col bg-white/5 border border-white/[0.08] backdrop-blur-[5px] rounded-2xl p-8 hover:bg-white/[0.08] hover:border-proclean-green/30 transition-all duration-300">
                   {/* Icon + Title */}
                   <div className="flex items-center gap-4 mb-4">
                     <div
@@ -91,7 +91,7 @@ export default function WhyUsSection({ items }: WhyUsSectionProps) {
                   </div>
 
                   {/* Description */}
-                  <p className="text-sm text-slate-300 leading-relaxed mb-5">
+                  <p className="text-sm text-slate-300 leading-relaxed mb-5 flex-1">
                     {item.description}
                   </p>
 
