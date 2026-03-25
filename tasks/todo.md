@@ -372,162 +372,218 @@ Passer la homepage de 6 sections "flat" à 10 sections visuellement impactantes 
 - `npm run build` → 33 pages, 0 erreur
 - Seul fichier modifié : `content/rouen-sections.ts`
 
-## SEO Phase B — Lot 2/4 : Particuliers & Résidentiel (TERMINÉ)
+## SEO Phase B — Lot 2/4 : Particuliers & Résidentiel (TERMINÉ ✅)
 
 ### Récap
 
-| Page | `<strong>` | `<a href>` | Ancre devis | ProClean bold | Action |
-|------|-----------|-----------|-------------|---------------|--------|
-| apres-demenagement | 5 | 3 (vitres, appartement, devis) | formulation 1 | non | +1 bold |
-| debarras | 5 | 3 (diogene, devis, appartement) | formulation 1 | non | fix violation +2/-1 bolds |
-| appartement | 5 | 3 (apres-demenagement, vitres, devis) | formulation 2 | oui | -2 bolds excédentaires |
-| diogene | 5 | 3 (debarras, appartement, devis) | formulation 3 | oui | implémentation complète |
-| terrasse | 5 | 3 (vitres, toiture, devis) | formulation 2 | non | aucune modification |
-| **Total** | **25** | **15** | | **2/2 max** | |
+| Page | `<strong>` | `<a href>` | Ancre devis | ProClean bold |
+|------|-----------|-----------|-------------|---------------|
+| apres-demenagement | 5 | 3 (vitres, appartement, devis) | formulation 3 | oui |
+| appartement | 6 | 3 (apres-demenagement, vitres, devis) | formulation 4 | oui |
+| debarras | 5 | 3 (diogene, devis, appartement) | formulation 3 | non (destruction certifiée) |
+| diogene | 4 | 3 (debarras, appartement, devis) | formulation 3 | oui |
+| terrasse | 5 | 3 (vitres, toiture, devis) | formulation 4 | non (salissures incrustées) |
+| **Total** | **25** | **15** | | **3 pages** |
 
 ### Bolds détaillés par page
 
-**apres-demenagement** : nettoyage après déménagement, détartrage intensif, nettoyage fin de bail, état des lieux, métropole rouennaise (ajouté)
-**debarras** : débarras de maison, débarras appartement, tissu économique rouennais, destruction certifiée (ajouté), expertise spécialisée (ajouté) — architecture rouennaise retiré (violation 2 bolds/para)
-**appartement** : ProClean, grand ménage de printemps, logement rouennais, nettoyage d'appartements et maisons à Rouen, traitements spécialisés — ProClean dupliqué et technologies de nettoyage retirés (7→5)
-**diogene** : syndrome de Diogène, accumulation d'objets, ProClean, service global, désinfection renforcée
-**terrasse** : spécificités architecturales, résidus atmosphériques, salissures incrustées, agressions climatiques, ultra-respectueuses des matériaux anciens
+**apres-demenagement** : nettoyage après déménagement Rouen, nettoyage fin de bail, état des lieux, ProClean, métropole rouennaise
+**appartement** : ProClean, ménage régulier, grand ménage de printemps, patrimoine immobilier, nettoyage d'appartements et maisons à Rouen, remise en état complète
+**debarras** : débarras de maison Rouen, débarras appartement, tissu économique rouennais, destruction certifiée, expertise spécialisée
+**diogene** : syndrome de Diogène, accumulation d'objets, ProClean, désinfection renforcée
+**terrasse** : nettoyage de balcons et terrasses à Rouen, environnement séquanais, haute pression, salissures incrustées, traitements anti-mousses
 
-### Scripts utilisés
-- `scripts/seo-lot2-demenagement.py` — 1/1 OK
-- `scripts/seo-lot2-debarras.py` — 3/3 OK
-- `scripts/seo-lot2-appartement.py` — 2/2 OK
-- `scripts/seo-lot2-diogene.py` — 5/5 OK (bolds)
-- `scripts/seo-lot2-diogene-links.py` — 3/3 OK (links)
+### Corrections appliquées (PROMPT-SEO-PHASE-B-CORRECTIONS.md)
+- ProClean bold : uniquement sur apres-demenagement, appartement, diogene (pages conversion). Debarras et terrasse → mot-clé technique à la place
+- Ancres devis : formulations 3 et 4 pour ce lot, variées entre les pages
+- Phrases de transition : ton naturel, pas commercial. Liens existants conservés tels quels
+- Diogene : modifié dans `content/rouen.ts` (format sections inline), pas dans `rouen-sections.ts`
 
 ### Build
 - `npm run build` → 33 pages, 0 erreur
-- Fichiers modifiés : `content/rouen-sections.ts` (pages 6,7,8) + `content/rouen.ts` (page 9)
+- Fichiers modifiés : `content/rouen-sections.ts` (pages 6,7,8,10) + `content/rouen.ts` (page 9)
 
-## SEO Phase B — Lot 3/4 : Services Professionnels (TERMINÉ)
+## SEO Phase B — Lot 3/4 : Services Professionnels (TERMINÉ ✅)
 
 ### Récap
 
-| Page | `<strong>` | `<a href>` | Ancre devis | ProClean bold | Action |
-|------|-----------|-----------|-------------|---------------|--------|
-| bureaux | 5 | 3 (commerces, vitres, devis) | formulation 1 | oui | +1 bold +2 links |
-| commerces | 5 | 3 (devis, bureaux, vitres) | non-standard (existant) | non | +1 bold +1 link |
-| parking | 5 | 3 (bureaux, devis, immeubles) | non-standard (existant) | non | +1 link |
-| immeubles | 5 | 3 (parking, vitres, devis) | formulation 5 | non | implémentation complète |
-| distributeurs | 5 | 3 (devis, commerces, bureaux) | formulation 1 | oui | implémentation complète |
-| **Total** | **25** | **15** | | **2/2 max** | |
+| Page | `<strong>` | `<a href>` | Ancre devis | ProClean bold |
+|------|-----------|-----------|-------------|---------------|
+| bureaux | 5 | 3 (vitres, devis, commerces) | formulation 1 | oui |
+| commerces | 5 | 3 (devis, vitres, bureaux) | formulation 5 | oui |
+| parking | 5 | 3 (bureaux, immeubles, devis) | formulation 1 | non (décontamination) |
+| immeubles | 5 | 3 (parking, vitres, devis) | formulation 5 | non (espaces communs) |
+| distributeurs | 5 | 3 (devis, commerces, bureaux) | formulation 1 | non (équipements libre-service) |
+| **Total** | **25** | **15** | | **2 pages** |
 
 ### Bolds détaillés par page
 
-**bureaux** : nettoyage de bureaux, horaires étendus, exemplaire, ultra-compétitif rouennais, ProClean (ajouté)
-**commerces** : activité commerciale rouennaise, ultra-spécialisés, ultra-spécifiques, marque, centres commerciaux (ajouté)
-**parking** : infrastructure automobile rouennaise, ultra-compétitif, haute pression, préservation de vos actifs immobiliers, prédictive — aucun changement
-**immeubles** : entretien d'immeubles, savoir-faire spécialisé, copropriétés modernes, valorisation immobilière, performance économique
-**distributeurs** : ProClean, nettoyage préventif, normes d'hygiène, hygiène alimentaire, maintenance préventive
+**bureaux** : entretien professionnel, nettoyage de bureaux à Rouen, environnement métropolitain, désinfection complète, ProClean
+**commerces** : ProClean, entretien de commerces à Rouen, image de marque, centres commerciaux, hygiène commerciale
+**parking** : nettoyage de parking à Rouen, décontamination, copropriétés, haute pression, traitements préventifs
+**immeubles** : entretien d'immeubles, copropriétés modernes, espaces communs, valorisation immobilière, contraintes d'hygiène
+**distributeurs** : équipements libre-service, nettoyage préventif, normes d'hygiène, hygiène alimentaire, maintenance préventive
 
-### Scripts utilisés
-- `scripts/seo-lot3-bureaux.py` — 3/3 OK
-- `scripts/seo-lot3-commerces.py` — 2/2 OK
-- `scripts/seo-lot3-parking.py` — 1/1 OK
-- `scripts/seo-lot3-immeubles.py` — 8/8 OK
-- `scripts/seo-lot3-distributeurs.py` — 7/8 OK (1 fix nécessaire)
-- `scripts/seo-lot3-distributeurs-fix.py` — 1/1 OK
+### Corrections appliquées (PROMPT-SEO-PHASE-B-CORRECTIONS.md)
+- ProClean bold : uniquement sur bureaux et commerces (pages conversion). Parking, immeubles, distributeurs → mot-clé technique à la place
+- Ancres devis : formulations 1 et 5, variées entre pages. Commerces et parking avaient "Contactez-nous pour un devis" → corrigé
+- Liens existants déjà conformes aux instructions (3 liens/page, bon placement)
 
 ### Build
 - `npm run build` → 33 pages, 0 erreur
 - Fichier modifié : `content/rouen-sections.ts` (5 pages)
 
-## SEO Phase B — Lot 4/4 : Spécialisés + Vérification Finale (TERMINÉ)
+## SEO Phase B — Lot 4/4 : Spécialisés + Vérification Finale (TERMINÉ ✅)
 
 ### Récap
 
-| Page | `<strong>` | `<a href>` | Ancre devis | ProClean bold | Action |
-|------|-----------|-----------|-------------|---------------|--------|
-| apres-travaux | 6 | 3 (devis, bureaux, vitres) | "Demandez votre devis gratuit" | oui | **DÉJÀ COMPLET (Phase A)** |
-| lustre | 6 | 3 (vitres, bureaux, devis) | "demandez votre devis gratuit" | oui | **DÉJÀ COMPLET (Phase A)** |
-| vitres | 5 | 3 (immeubles, bureaux, devis) | "obtenir votre devis personnalisé" | oui | implémentation complète |
-| toiture | 5 | 3 (terrasse, vitres, devis) | "estimation gratuite et sans engagement" | non | implémentation complète |
-| camion | 5 | 3 (voiture, bureaux, devis) | "obtenir votre devis personnalisé" | non | implémentation complète |
-| **Total** | **27** | **15** | | **3** | |
+| Page | `<strong>` | `<a href>` | Ancre devis | ProClean bold |
+|------|-----------|-----------|-------------|---------------|
+| apres-travaux | 6 | 3 (devis, bureaux, vitres) | formulation 2 | oui |
+| lustre | 5 | 3 (vitres, bureaux, devis) | formulation 3 | non (éclairage historique) |
+| vitres | 5 | 3 (immeubles, bureaux, devis) | formulation 2 | oui |
+| toiture | 5 | 3 (terrasse, vitres, devis) | formulation 3 | non |
+| camion | 5 | 3 (voiture, bureaux, devis) | formulation 2 | non (hygiène, techniciens) |
+| **Total** | **26** | **15** | | **2 pages** |
 
 ### Bolds détaillés par page
 
-**apres-travaux** (6, Phase A) : nettoyage de fin de chantier, métropole rouennaise, nettoyage post chantier, remise en état après travaux, ProClean, produits de nettoyage professionnels
-**lustre** (6, Phase A) : cristal de Baccarat, mise en sécurité électrique, produits professionnels, ProClean, patrimoine architectural rouennais, éclairages patrimoniaux
+**apres-travaux** (6) : nettoyage de fin de chantier, métropole rouennaise, nettoyage post chantier, remise en état après travaux, ProClean, produits de nettoyage professionnels
+**lustre** (5) : cristal de Baccarat, mise en sécurité électrique, patrimoine architectural rouennais, nettoyage lustres Rouen, éclairage historique
 **vitres** (5) : lavage professionnel de vitres, ProClean, vitres sans la moindre trace, mouilleur-raclette, travaux en hauteur
 **toiture** (5) : nettoyage et démoussage de toitures, mousses lichens et algues, traitement hydrofuge, toitures en ardoise, démoussage complet
-**camion** (5) : cabines poids lourds, désinfections adaptées, couchettes intégrées, métropole rouennaise, flottes premium
+**camion** (5) : cabines poids lourds, désinfections adaptées, flottes premium, hygiène, techniciens spécialisés
 
-### Scripts utilisés
-- `scripts/seo-lot4-vitres.py` — 8/8 OK
-- `scripts/seo-lot4-toiture.py` — 8/8 OK
-- `scripts/seo-lot4-camion.py` — 8/8 OK
-- `scripts/seo-fix-missing-bolds.py` — 5/5 OK (fix ProClean bureaux/vitres + immeubles + tapis×2)
+### Corrections appliquées (PROMPT-SEO-PHASE-B-CORRECTIONS.md)
+- ProClean bold : uniquement sur apres-travaux et vitres. Lustre et camion → mot-clé technique. Toiture inchangé.
+- apres-travaux : devis "Demandez votre devis gratuit" (Phase A) → standardisé en formulation 2
+- lustre : 3 bolds retirés (ProClean, produits professionnels, éclairages patrimoniaux), 2 ajoutés (nettoyage lustres Rouen, éclairage historique)
+- camion : ProClean retiré + couchettes intégrées + métropole rouennaise. Ajout hygiène + techniciens spécialisés
 
 ### Build
 - `npm run build` → 33 pages, 0 erreur
-- Fichier modifié : `content/rouen-sections.ts` (3 pages + 4 fixes)
 
 ---
 
-## Audit Global Final — 20 pages SEO Phase B (COMPLET)
+## Review SEO Phase B — Maillage + Bold (AUDIT FINAL)
 
-### Tableau récapitulatif
+### Tableau récapitulatif (20 pages)
 
 | # | Page | `<strong>` | `<a href>` | ProClean | Ancre devis |
 |---|------|-----------|-----------|----------|-------------|
-| 1 | nettoyage-apres-travaux-rouen | 6 | 3 | oui | Demandez votre devis gratuit |
-| 2 | nettoyage-lustre-rouen | 6 | 3 | oui | demandez votre devis gratuit |
-| 3 | nettoyage-apres-demenagement-rouen | 4 | 3 | - | demandez votre devis gratuit |
-| 4 | debarras-maison-rouen | 5 | 3 | - | demandez votre devis gratuit |
-| 5 | nettoyage-appartement-rouen | 6 | 3 | oui | Obtenez un devis personnalisé |
-| 6 | nettoyage-voiture-rouen | 4 | 3 | - | Obtenez un devis personnalisé |
-| 7 | nettoyage-terrasse-rouen | 6 | 3 | - | Obtenez un devis personnalisé |
-| 8 | nettoyage-bureaux-rouen | 5 | 3 | oui | demander un devis gratuit |
-| 9 | entretien-commerces-rouen | 5 | 3 | - | Contactez-nous pour un devis |
-| 10 | nettoyage-parking-rouen | 5 | 3 | - | Contactez-nous pour un devis |
-| 11 | entretien-immeubles-rouen | 5 | 3 | - | demande de devis |
-| 12 | nettoyage-distributeurs-rouen | 5 | 3 | oui | demander un devis gratuit |
-| 13 | nettoyage-camion-rouen | 5 | 3 | - | obtenir votre devis personnalisé |
-| 14 | nettoyage-canape-rouen | 6 | 3 | - | demander un devis gratuit |
-| 15 | nettoyage-tapis-rouen | 5 | 3 | - | obtenir votre devis personnalisé |
-| 16 | nettoyage-moquette-rouen | 6 | 3 | oui | demander un devis gratuit |
-| 17 | nettoyage-matelas-rouen | 5 | 3 | oui | obtenir votre devis personnalisé |
+| 1 | nettoyage-canape-rouen | 5 | 3 | oui | demander un devis gratuit |
+| 2 | nettoyage-tapis-rouen | 4 | 3 | non | obtenir votre devis personnalisé |
+| 3 | nettoyage-moquette-rouen | 5 | 3 | oui | demander un devis gratuit |
+| 4 | nettoyage-matelas-rouen | 5 | 3 | non | obtenir votre devis personnalisé |
+| 5 | nettoyage-voiture-rouen | 5 | 3 | oui | obtenir votre devis personnalisé |
+| 6 | nettoyage-apres-demenagement-rouen | 5 | 3 | oui | estimation gratuite et sans engagement |
+| 7 | nettoyage-appartement-rouen | 6 | 3 | oui | devis gratuit en ligne |
+| 8 | debarras-maison-rouen | 5 | 3 | non | estimation gratuite et sans engagement |
+| 9 | nettoyage-diogene-rouen | 4 | 3 | oui | estimation gratuite et sans engagement |
+| 10 | nettoyage-terrasse-rouen | 5 | 3 | non | devis gratuit en ligne |
+| 11 | nettoyage-bureaux-rouen | 5 | 3 | oui | demander un devis gratuit |
+| 12 | entretien-commerces-rouen | 5 | 3 | oui | demande de devis |
+| 13 | nettoyage-parking-rouen | 5 | 3 | non | demander un devis gratuit |
+| 14 | entretien-immeubles-rouen | 5 | 3 | non | demande de devis |
+| 15 | nettoyage-distributeurs-rouen | 5 | 3 | non | demander un devis gratuit |
+| 16 | nettoyage-apres-travaux-rouen | 6 | 3 | oui | obtenir votre devis personnalisé |
+| 17 | nettoyage-lustre-rouen | 5 | 3 | non | estimation gratuite et sans engagement |
 | 18 | nettoyage-vitres-rouen | 5 | 3 | oui | obtenir votre devis personnalisé |
-| 19 | nettoyage-toiture-rouen | 5 | 3 | - | estimation gratuite et sans engagement |
-| 20 | nettoyage-diogene-rouen | 5 | 3 | oui | estimation gratuite et sans engagement |
-| | **TOTAL** | **104** | **60** | **9/20** | **8 formulations** |
+| 19 | nettoyage-toiture-rouen | 5 | 3 | non | estimation gratuite et sans engagement |
+| 20 | nettoyage-camion-rouen | 5 | 3 | non | obtenir votre devis personnalisé |
+| | **TOTAL** | **100** | **60** | **10/20** | **5 formulations** |
 
-### Vérifications
+### Totaux
 
-- **`<strong>` par page** : 4-6 (toutes dans les limites, max 6) ✅
-- **`<a href>` par page** : 3 (toutes identiques) ✅
-- **ProClean bold** : 9 pages sur 20 (bonne distribution) ✅
-- **Lien devis** : 20/20 pages ont un lien devis ✅
-- **Build** : 33 pages, 0 erreur ✅
+- Total `<strong>` : **100** (objectif 90-110 ✅)
+- Total `<a href>` : **60** (objectif 60-80 ✅)
+- Total liens vers /devis : **20/20** ✅
+- Pages avec bold ProClean : **10/20** ✅
+- Formulations devis : **5 variantes utilisées** ✅
+- Violations détectées : **0** ✅
 
-### Distribution des ancres devis (8 formulations)
+### Distribution des ancres devis (5 formulations standard)
 
 | Formulation | Count | Pages |
 |-------------|-------|-------|
-| demander un devis gratuit | 4 | bureaux, distributeurs, canape, moquette |
-| obtenir votre devis personnalisé | 4 | camion, tapis, matelas, vitres |
-| demandez votre devis gratuit | 3 | lustre, demenagement, debarras |
-| Obtenez un devis personnalisé | 3 | appartement, voiture, terrasse |
-| Contactez-nous pour un devis | 2 | commerces, parking |
-| estimation gratuite et sans engagement | 2 | toiture, diogene |
-| Demandez votre devis gratuit | 1 | apres-travaux |
-| demande de devis | 1 | immeubles |
+| obtenir votre devis personnalisé | 6 | tapis, matelas, voiture, apres-travaux, vitres, camion |
+| demander un devis gratuit | 5 | canape, moquette, bureaux, parking, distributeurs |
+| estimation gratuite et sans engagement | 5 | demenagement, diogene, debarras, lustre, toiture |
+| devis gratuit en ligne | 2 | appartement, terrasse |
+| demande de devis | 2 | commerces, immeubles |
 
-### Bug corrigé : `re.search` first-match
+### Build final
+- Pages générées : **33**
+- Erreurs : **0**
+- Warnings : **0**
 
-Certains `<strong>` atterrissaient dans la mauvaise section car `re.search` retourne le 1er match dans tout le fichier. Quand un texte identique existe dans 2 sections, le bold se retrouve dans la section qui apparaît en premier dans le fichier.
+## Redesign HeroSection — Prompt 1/8 (Centré Cinématique)
 
-**Correction** : script `seo-fix-missing-bolds.py` avec des chaînes de recherche suffisamment spécifiques et uniques pour cibler la bonne section.
+### Éléments déjà conformes au prompt (ne pas toucher)
+- ✅ Structure section (min-h-screen, flex center, overflow-hidden)
+- ✅ Image de fond (next/image fill, priority, object-cover)
+- ✅ Overlay gradient (from-navy/85 via-navy/65 to-navy/55)
+- ✅ Blobs décoratifs (bleu top-right + vert bottom-left, mêmes positions/opacités)
+- ✅ Top gradient header (from-black/30, z-[2])
+- ✅ Badge Google glassmorphism (5 étoiles jaunes pleines, "5/5 sur Google — 530+ interventions")
+- ✅ Container content centré (relative z-10, text-center, max-w-3xl, px-6)
+- ✅ Double CTA (Devis gradient bleu from-proclean-blue to-[#1976D2] + Phone outline blanc)
+- ✅ H1 tailles responsive (40px / 56px / 62px)
+- ✅ Framer Motion stagger container (containerVariants avec staggerChildren: 0.1)
+- ✅ Variants fadeInUp et fadeIn déjà définis
+- ✅ Variant service (lignes 21-55) — NE PAS TOUCHER
 
-**5 bolds corrigés** :
-- tapis L2316 : "moisissures et acariens"
-- tapis L2324 : "traitements anti-pollution renforcés"
-- immeubles L1043 : "savoir-faire spécialisé"
-- bureaux L859 : "ProClean"
-- vitres L3011 : "ProClean"
+### Changements à effectuer (branche homepage UNIQUEMENT)
+
+- [x] **1. H1 — texte et structure** : Remplacer "Nettoyage de Pro pour les Pros / et les Particuliers" (2 lignes) → "Le nettoyage<br/>professionnel<br/>à Rouen" (3 lignes avec `<br/>` forcés pour l'effet cinématique)
+- [x] **2. H1 — mot en bleu** : "Pros" en `text-proclean-blue` → "professionnel" en `text-proclean-blue`
+- [x] **3. Sous-titre — retirer le style bold** : Retirer le `<span className="text-white font-bold">ProClean</span>` → texte simple "ProClean" (conforme au prompt qui montre du texte brut)
+- [x] **4. Barre de confiance — ajouter le bloc complet** : Après les CTAs (dans le motion.div content), ajouter :
+  - Container : `flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-10 pt-6 border-t border-white/[0.08]`
+  - 3 items : "Réponse en 24h", "Sans engagement", "Devis 100% gratuit"
+  - Chaque item : `flex items-center gap-2 text-white/50 text-sm`
+  - Icône Check (lucide) en `text-proclean-green` (le prompt dit `text-lime` mais cette couleur n'existe pas dans notre config Tailwind → `text-proclean-green` #8BC34A est l'équivalent)
+- [x] **5. Animation barre de confiance** : Wrapper motion.div avec `variants={fadeIn}` (opacity seulement, PAS de mouvement Y — le fadeIn est déjà défini ligne 73-79)
+- [x] **6. Build** : `npm run build` → 0 erreurs
+- [x] **7. Vérif régression** : Les pages service (ex: /nettoyage-canape-rouen) doivent rester intactes — le variant service (lignes 21-55) n'est pas modifié
+
+## Redesign WhyUsSection — Prompt 2/8 (Navy 2×2)
+
+- [x] **Résultat** : Composant déjà 100% conforme au prompt. Aucune modification nécessaire.
+  - Fond navy, blobs décoratifs, badge "Nos engagements", H2 avec ProClean en vert
+  - Badge 530+ glassmorphism, grid 2×2, cards avec icônes colorées + hover + stat badges
+  - Animations AnimateOnScroll avec stagger, responsive 1col/2col, types et données OK
+
+## Redesign ServicesGrid — Prompt 3/8 (Bandeaux Couleur 2×2)
+
+- [x] **Résultat** : Composant déjà 100% conforme au prompt. Aucune modification nécessaire.
+  - Fond gray-bg, grid 2×2, cards avec bandeaux navy/bleu en damier
+  - Tags catégorie (Particuliers/Professionnels/Spécialisé), liens colorés par card
+  - Ligne décorative gradient, CTA navy en bas, animations stagger, responsive OK
+
+## SEO Phase B — Lot 1/4 : Tissus & Véhicules (5/20)
+
+### Corrections appliquées
+- Correction 1 : ProClean bold sur 3/5 pages (canape, moquette, voiture). Tapis et matelas → bold technique
+- Correction 3 : Phrases de transition existantes déjà naturelles, conservées
+- Correction 4 : 2 formulations devis utilisées (alternance)
+- Correction 5 : Tableau récap ci-dessous
+
+### Tableau récap
+
+| Page | `<strong>` (nb) | Contenu bolds | `<a href>` (nb) | Ancre devis |
+|------|----------------|---------------|-----------------|-------------|
+| canape | 5 | ProClean, tissus d'ameublement, injection-extraction, nettoyage de canapé, détachage professionnel | 3 | demander un devis gratuit |
+| tapis | 4 | nettoyage de tapis à Rouen, nettoyage en profondeur, fibres naturelles, acariens | 3 | obtenir votre devis personnalisé |
+| moquette | 5 | nettoyage de moquette à Rouen, ProClean, injection-extraction, moquettes de bureau, traitement anti-acariens | 3 | demander un devis gratuit |
+| matelas | 5 | nettoyage de matelas à Rouen, anti-acariens, hygiène de literie, désinfection en profondeur, traitement anti-bactérien | 3 | obtenir votre devis personnalisé |
+| voiture | 5 | nettoyage intérieur voiture, ProClean, injection-extraction, traitement anti-odeurs, sellerie automobile | 3 | obtenir votre devis personnalisé |
+
+### Vérifications
+- [x] Aucun paragraphe avec 2 `<strong>` ou 2 `<a href>`
+- [x] Max 5 `<strong>` par page (tapis à 4, le terme "shampouinage" n'existe pas dans le texte)
+- [x] 3 `<a href>` par page (2 contextuels + 1 devis)
+- [x] 2 formulations devis alternées
+- [x] ProClean bold sur 3/5 pages seulement
+- [x] TypeScript : 0 erreurs (`tsc --noEmit`)
+- [ ] Build : en attente (timeouts filesystem système, pas liés au code)

@@ -227,7 +227,7 @@ export const rouenContent: RouenContent = {
           headingLevel: 3,
           paragraphs: [
             'La société <strong>ProClean</strong> est à votre service lorsque vous êtes confronté au syndrome de Diogène à Rouen. Nous proposons le débarras et nettoyage après syndrome de Diogène dans toute la métropole rouennaise avec une équipe de professionnels qualifiés.',
-            'ProClean est une entreprise spécialisée en nettoyage de syndrome de Diogène à Rouen qui vous propose un <strong>service global</strong> : tri des affaires, évacuation des déchets, débarras de mobilier, désinfection et nettoyage syndrome de Diogène. Notre équipe assure aussi le <a href="/debarras-maison-rouen">débarras de maison à Rouen</a> dans les situations d\'encombrement sévère.',
+            'ProClean est une entreprise spécialisée en nettoyage de syndrome de Diogène à Rouen qui vous propose un service global : tri des affaires, évacuation des déchets, débarras de mobilier, désinfection et nettoyage syndrome de Diogène. Notre équipe assure aussi le <a href="/debarras-maison-rouen">débarras de maison à Rouen</a> dans les situations d\'encombrement sévère.',
           ],
         },
         {
