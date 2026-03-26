@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { Phone, Mail, MapPin } from 'lucide-react';
 import { siteConfig } from '@/data/siteConfig';
 import { navigation } from '@/data/navigation';
+import { cities } from '@/data/cities';
 
 export default function SiteFooter() {
   const particuliers = navigation.mainMenu.find(m => m.label === 'Particuliers');
@@ -11,7 +12,7 @@ export default function SiteFooter() {
   return (
     <footer className="bg-navy text-white">
       <div className="container-main section-padding">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-10 lg:gap-8">
           {/* Column 1 — Particuliers */}
           <div>
             <h3 className="font-display text-lg font-semibold mb-4">
@@ -98,7 +99,26 @@ export default function SiteFooter() {
             </ul>
           </div>
 
-          {/* Column 4 — Contact */}
+          {/* Column 4 — Nos villes */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-4">
+              Nos villes
+            </h3>
+            <ul className="space-y-2.5">
+              {cities.map((city) => (
+                <li key={city.slug}>
+                  <Link
+                    href={`/nettoyage-${city.slug}`}
+                    className="text-sm text-white/60 hover:text-proclean-blue-light transition-colors"
+                  >
+                    {city.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Column 5 — Contact */}
           <div>
             <h3 className="font-display text-lg font-semibold mb-4">
               Contact

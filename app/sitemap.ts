@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { siteConfig } from '@/data/siteConfig';
 import { services } from '@/data/services';
+import { cities } from '@/data/cities';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = siteConfig.url;
@@ -63,5 +64,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: service.priority,
   }));
 
-  return [...staticPages, ...servicePages];
+  const cityPages: MetadataRoute.Sitemap = cities.map((city) => ({
+    url: `${baseUrl}/nettoyage-${city.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  return [...staticPages, ...servicePages, ...cityPages];
 }
