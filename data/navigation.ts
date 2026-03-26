@@ -2,6 +2,7 @@ import type { NavigationConfig } from '@/types';
 
 export const navigation: NavigationConfig = {
   mainMenu: [
+    { label: 'L\'entreprise', href: '/entreprise-nettoyage-rouen' },
     { label: 'Devis', href: '/devis-gratuit-rouen' },
     { label: 'Vitres', href: '/nettoyage-vitres-rouen' },
     { label: 'Toiture', href: '/nettoyage-toiture-rouen' },
