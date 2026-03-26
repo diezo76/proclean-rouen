@@ -42,6 +42,7 @@ export default function SiteHeader() {
   }, [mobileOpen]);
 
   return (
+    <>
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
@@ -54,7 +55,7 @@ export default function SiteHeader() {
           {/* Logo — CLean.png sur fond sombre, logo.png sur fond blanc */}
           <Link href="/" className="relative z-[70] flex-shrink-0" onClick={() => mobileOpen && setMobileOpen(false)}>
             <Image
-              src={!scrolled && hasDarkHero ? '/images/CLean.png' : '/images/logo.png'}
+              src={mobileOpen || (!scrolled && hasDarkHero) ? '/images/CLean.png' : '/images/logo.png'}
               alt={!scrolled && hasDarkHero ? 'ProClean entreprise de nettoyage Rouen' : 'ProClean société de nettoyage à Rouen'}
               width={200}
               height={70}
@@ -147,91 +148,92 @@ export default function SiteHeader() {
           </button>
         </div>
       </div>
-
-      {/* Mobile overlay */}
-      <AnimatePresence>
-        {mobileOpen && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 0.3 }}
-            className="fixed inset-0 bg-navy z-[60] lg:hidden"
-          >
-            <nav className="pt-24 px-6 pb-8 h-full overflow-y-auto">
-              {navigation.mainMenu.map((item, idx) =>
-                item.children && item.children.length > 0 ? (
-                  /* Dropdown accordion */
-                  <div key={item.label} className="border-b border-white/10">
-                    <button
-                      className="flex items-center justify-between w-full py-4 text-lg font-display font-semibold text-white"
-                      onClick={() =>
-                        setMobileAccordion(mobileAccordion === idx ? null : idx)
-                      }
-                      aria-expanded={mobileAccordion === idx}
-                    >
-                      {item.label}
-                      <ChevronDown
-                        className={`w-5 h-5 text-white/60 transition-transform duration-200 ${
-                          mobileAccordion === idx ? 'rotate-180' : ''
-                        }`}
-                      />
-                    </button>
-                    <AnimatePresence>
-                      {mobileAccordion === idx && (
-                        <motion.div
-                          initial={{ height: 0, opacity: 0 }}
-                          animate={{ height: 'auto', opacity: 1 }}
-                          exit={{ height: 0, opacity: 0 }}
-                          transition={{ duration: 0.25 }}
-                          className="overflow-hidden"
-                        >
-                          <div className="pb-3 pl-4 space-y-1">
-                            {item.children.map((link) => (
-                              <Link
-                                key={link.href}
-                                href={link.href}
-                                className="block py-2 text-white/70 hover:text-proclean-blue-light transition-colors"
-                                onClick={() => setMobileOpen(false)}
-                              >
-                                {link.label}
-                              </Link>
-                            ))}
-                          </div>
-                        </motion.div>
-                      )}
-                    </AnimatePresence>
-                  </div>
-                ) : (
-                  /* Direct link */
-                  <div key={item.label} className="border-b border-white/10">
-                    <Link
-                      href={item.href}
-                      className="block py-4 text-lg font-display font-semibold text-white hover:text-proclean-blue-light transition-colors"
-                      onClick={() => setMobileOpen(false)}
-                    >
-                      {item.label}
-                    </Link>
-                  </div>
-                )
-              )}
-
-              <div className="mt-8 space-y-4">
-                <a
-                  href={`tel:${siteConfig.phoneFormatted}`}
-                  className="flex items-center justify-center gap-2 py-3 text-lg font-medium text-white"
-                >
-                  <Phone className="w-5 h-5" />
-                  {siteConfig.phone}
-                </a>
-                <Button href={navigation.ctaButton.href} size="lg" className="w-full">
-                  {navigation.ctaButton.label}
-                </Button>
-              </div>
-            </nav>
-          </motion.div>
-        )}
-      </AnimatePresence>
     </header>
+
+    {/* Mobile overlay — outside header to avoid backdrop-blur stacking context */}
+    <AnimatePresence>
+      {mobileOpen && (
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+          transition={{ duration: 0.3 }}
+          className="fixed top-0 left-0 w-full h-full bg-navy z-[60] lg:hidden overflow-y-auto"
+        >
+          <nav className="pt-24 px-6 pb-8">
+            {navigation.mainMenu.map((item, idx) =>
+              item.children && item.children.length > 0 ? (
+                /* Dropdown accordion */
+                <div key={item.label} className="border-b border-white/10">
+                  <button
+                    className="flex items-center justify-between w-full py-4 text-lg font-display font-semibold text-white"
+                    onClick={() =>
+                      setMobileAccordion(mobileAccordion === idx ? null : idx)
+                    }
+                    aria-expanded={mobileAccordion === idx}
+                  >
+                    {item.label}
+                    <ChevronDown
+                      className={`w-5 h-5 text-white/60 transition-transform duration-200 ${
+                        mobileAccordion === idx ? 'rotate-180' : ''
+                      }`}
+                    />
+                  </button>
+                  <AnimatePresence>
+                    {mobileAccordion === idx && (
+                      <motion.div
+                        initial={{ height: 0, opacity: 0 }}
+                        animate={{ height: 'auto', opacity: 1 }}
+                        exit={{ height: 0, opacity: 0 }}
+                        transition={{ duration: 0.25 }}
+                        className="overflow-hidden"
+                      >
+                        <div className="pb-3 pl-4 space-y-1">
+                          {item.children.map((link) => (
+                            <Link
+                              key={link.href}
+                              href={link.href}
+                              className="block py-2 text-white/70 hover:text-proclean-blue-light transition-colors"
+                              onClick={() => setMobileOpen(false)}
+                            >
+                              {link.label}
+                            </Link>
+                          ))}
+                        </div>
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
+                </div>
+              ) : (
+                /* Direct link */
+                <div key={item.label} className="border-b border-white/10">
+                  <Link
+                    href={item.href}
+                    className="block py-4 text-lg font-display font-semibold text-white hover:text-proclean-blue-light transition-colors"
+                    onClick={() => setMobileOpen(false)}
+                  >
+                    {item.label}
+                  </Link>
+                </div>
+              )
+            )}
+
+            <div className="mt-8 space-y-4">
+              <a
+                href={`tel:${siteConfig.phoneFormatted}`}
+                className="flex items-center justify-center gap-2 py-3 text-lg font-medium text-white"
+              >
+                <Phone className="w-5 h-5" />
+                {siteConfig.phone}
+              </a>
+              <Button href={navigation.ctaButton.href} size="lg" className="w-full">
+                {navigation.ctaButton.label}
+              </Button>
+            </div>
+          </nav>
+        </motion.div>
+      )}
+    </AnimatePresence>
+    </>
   );
 }
