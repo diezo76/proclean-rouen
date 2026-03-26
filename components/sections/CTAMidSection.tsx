@@ -48,7 +48,7 @@ export default function CTAMidSection({
             <div className="relative h-[300px] lg:h-[380px] rounded-2xl overflow-hidden">
               <Image
                 src="/images/cta/cta-cleaner.webp"
-                alt="Professionnel de nettoyage ProClean à Rouen"
+                alt="Technicien ProClean prêt pour intervention à Rouen"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

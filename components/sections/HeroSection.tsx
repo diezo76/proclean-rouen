@@ -83,7 +83,7 @@ export default function HeroSection({
       {/* Background image */}
       <Image
         src="/images/hero/newhero.jpg"
-        alt="Nettoyage professionnel de bureaux et espaces commerciaux à Rouen"
+        alt="Nettoyage professionnel à Rouen — ProClean"
         fill
         className="object-cover"
         priority

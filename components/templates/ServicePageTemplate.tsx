@@ -122,7 +122,7 @@ export default function ServicePageTemplate({
         <ContentSections
           sections={content.sections}
           contentImage={service.contentImage}
-          contentImageAlt={`${service.title} à Rouen - ProClean`}
+          contentImageAlt={`${service.title} à domicile à Rouen — ProClean`}
         />
       )}
 

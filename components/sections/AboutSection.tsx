@@ -101,7 +101,7 @@ export default function AboutSection({ content }: AboutSectionProps) {
               <div className="relative w-[75%] h-[80%] rounded-2xl overflow-hidden shadow-lg">
                 <Image
                   src="/images/about/about-1.webp"
-                  alt="Équipe ProClean en intervention de nettoyage professionnel à Rouen"
+                  alt="Équipe ProClean en intervention à Rouen"
                   fill
                   className="object-cover"
                   sizes="(max-width: 1024px) 75vw, 35vw"
@@ -111,7 +111,7 @@ export default function AboutSection({ content }: AboutSectionProps) {
               <div className="absolute bottom-0 right-0 w-[55%] h-[50%] rounded-2xl overflow-hidden shadow-lg border-4 border-white dark:border-dark-bg">
                 <Image
                   src="/images/about/about-2.webp"
-                  alt="Résultat nettoyage professionnel bureaux Rouen"
+                  alt="Résultat après nettoyage professionnel à Rouen"
                   fill
                   className="object-cover"
                   sizes="(max-width: 1024px) 55vw, 25vw"

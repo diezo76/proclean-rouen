@@ -55,7 +55,7 @@ export default function SiteHeader() {
           <Link href="/" className="relative z-50 flex-shrink-0">
             <Image
               src={!scrolled && hasDarkHero ? '/images/CLean.png' : '/images/logo.png'}
-              alt="ProClean - Société de nettoyage Rouen"
+              alt={!scrolled && hasDarkHero ? 'ProClean entreprise de nettoyage Rouen' : 'ProClean société de nettoyage à Rouen'}
               width={200}
               height={70}
               className="h-[90px] md:h-[110px] w-auto transition-opacity duration-300"
