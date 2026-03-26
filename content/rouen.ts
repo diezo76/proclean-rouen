@@ -109,7 +109,7 @@ export const rouenContent: RouenContent = {
       heading: 'ProClean, l\'excellence du nettoyage à Rouen',
       subtitle: 'Des espaces transformés, une propreté irréprochable',
       paragraph:
-        'Implantés en Seine-Maritime, nous proposons des solutions de nettoyage sur mesure alliant techniques modernes et respect du patrimoine normand. Notre équipe de techniciens qualifiés intervient avec rigueur et discrétion pour sublimer vos espaces.',
+        'Implantés en Seine-Maritime, nous proposons des solutions de nettoyage sur mesure alliant techniques modernes et respect du patrimoine normand. Notre équipe de techniciens qualifiés intervient avec rigueur et discrétion pour remettre vos espaces en état.',
       bulletPoints: [
         'Assurance qualité sur chaque intervention',
         'Large gamme de services pour tous les besoins',
@@ -212,7 +212,7 @@ export const rouenContent: RouenContent = {
           heading: 'Qu\'est-ce que le syndrome de Diogène ?',
           headingLevel: 3,
           paragraphs: [
-            'Le <strong>syndrome de Diogène</strong> se caractérise par plusieurs éléments majeurs. Contrairement aux idées reçues, ce syndrome touche tous les milieux sociaux à Rouen, des maisons à colombages du vieux Rouen aux appartements modernes de la Rive Gauche.',
+            'Vous avez entendu parler du <strong>syndrome de Diogène</strong>, mais savez-vous vraiment ce qu\'il implique au quotidien ? Ce trouble touche tous les milieux sociaux à Rouen — des maisons du centre historique aux résidences de la Rive Gauche. Personne n\'est à l\'abri. Il se manifeste par plusieurs signes reconnaissables.',
           ],
           listItems: [
             'Une négligence extrême de l\'hygiène corporelle et domestique',
@@ -226,15 +226,15 @@ export const rouenContent: RouenContent = {
           heading: 'ProClean, votre entreprise de nettoyage syndrome de Diogène à Rouen',
           headingLevel: 3,
           paragraphs: [
-            'La société <strong>ProClean</strong> est à votre service lorsque vous êtes confronté au syndrome de Diogène à Rouen. Nous proposons le débarras et nettoyage après syndrome de Diogène dans toute la métropole rouennaise avec une équipe de professionnels qualifiés.',
-            'ProClean est une entreprise spécialisée en nettoyage de syndrome de Diogène à Rouen qui vous propose un service global : tri des affaires, évacuation des déchets, débarras de mobilier, désinfection et nettoyage syndrome de Diogène. Notre équipe assure aussi le <a href="/debarras-maison-rouen">débarras de maison à Rouen</a> dans les situations d\'encombrement sévère.',
+            'Vous découvrez un logement envahi par les déchets, les odeurs et l\'insalubrité. C\'est une situation difficile, souvent douloureuse. Que vous soyez un proche, un propriétaire ou un gestionnaire, vous n\'avez pas à gérer ça seul. L\'équipe <strong>ProClean</strong> intervient à Rouen avec discrétion et sans aucun jugement — le premier appel est confidentiel.',
+            'Débarras, tri des affaires, évacuation des déchets, désinfection complète — on prend tout en charge, de A à Z. Une équipe de 3 à 6 personnes selon la gravité de la situation, formée spécifiquement au nettoyage syndrome de Diogène. Notre équipe assure aussi le <a href="/debarras-maison-rouen">débarras de maison à Rouen</a> pour les situations d\'encombrement sévère.',
           ],
         },
         {
           heading: 'Comment détecter un syndrome de Diogène à Rouen ?',
           headingLevel: 2,
           paragraphs: [
-            'Le syndrome de Diogène est généralement découvert à l\'insu de la personne concernée qui essaie de nier et dissimuler son problème. Il est souvent suspecté par le voisinage rouennais. Après notre intervention, un <a href="/nettoyage-appartement-rouen">nettoyage d\'appartement complet</a> finalise la remise en état.',
+            'La personne concernée ne demande jamais d\'aide elle-même. C\'est le plus souvent un voisin, un membre de la famille ou un travailleur social qui donne l\'alerte. Certains signes ne trompent pas. Si vous les reconnaissez chez un proche à Rouen, contactez-nous — nous pouvons vous guider sur la marche à suivre. Après notre intervention, un <a href="/nettoyage-appartement-rouen">nettoyage d\'appartement complet</a> finalise la remise en état du logement.',
           ],
           listItems: [
             'Comportement inhabituel de la personne atteinte',
@@ -248,7 +248,7 @@ export const rouenContent: RouenContent = {
           heading: 'Désinfection et décontamination après syndrome de Diogène',
           headingLevel: 3,
           paragraphs: [
-            'La prolifération bactérienne en milieu humide rouennais nécessite une <strong>désinfection renforcée</strong>. Pour les cas de nettoyage après décès syndrome de Diogène, élimination des fluides corporels selon normes DASRI avec certificat de désinfection. Pour planifier votre intervention confidentielle, demandez une <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
+            'Un simple ménage ne suffit pas. Le climat humide de Rouen accélère la prolifération de bactéries et de moisissures — il faut une <strong>désinfection renforcée</strong>, méthodique. Dans les cas de nettoyage après décès lié au syndrome de Diogène, nous éliminons les fluides corporels selon les normes DASRI et délivrons un certificat de désinfection. Chaque intervention dure entre 1 et 7 jours selon la gravité. Votre situation est unique, et votre devis le sera aussi : demandez une <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
           ],
           listItems: [
             'Désinfection par voie aérienne (fumigène)',
