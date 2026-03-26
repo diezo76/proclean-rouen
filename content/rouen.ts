@@ -42,7 +42,7 @@ export const rouenContent: RouenContent = {
         {
           title: 'Service rapide - Estimation en 24h',
           description:
-            'Disponibilité assurée dans toute la métropole rouennaise : Rive Gauche, Rive Droite, Saint-Sever, Grammont. Nos techniciens interviennent promptement, en situation d\'urgence comme pour vos rendez-vous programmés.',
+            'Disponibilité assurée dans toute la agglomération : Rive Gauche, Rive Droite, Saint-Sever, Grammont. Nos techniciens interviennent promptement, en situation d\'urgence comme pour vos rendez-vous programmés.',
           icon: 'Clock',
           stat: '24h',
           statLabel: 'délai de réponse',
@@ -101,7 +101,7 @@ export const rouenContent: RouenContent = {
     zone: {
       heading: 'Secteur d\'intervention autour de Rouen',
       paragraph:
-        'Nous opérons dans toute la métropole rouennaise et villes proches.',
+        'Nous opérons dans toute la agglomération et villes proches.',
       cities: ZONE_CITIES,
       paymentMethods: PAYMENT_METHODS,
     },
@@ -187,9 +187,9 @@ export const rouenContent: RouenContent = {
       },
       {
         question:
-          'Vos produits préservent-ils le patrimoine architectural ?',
+          'Vos produits préservent-ils le bâtiments anciens ?',
         answer:
-          'Parfaitement. Nos agents de nettoyage sont rigoureusement choisis pour respecter les matériaux anciens. Sur les pierres et boiseries des demeures rouennaises, nous privilégions des solutions douces non agressives. Les tissus délicats reçoivent des soins enzymatiques spécialisés adaptés à l\'humidité de la vallée de Seine.',
+          'Parfaitement. Nos agents de nettoyage sont rigoureusement choisis pour respecter les matériaux anciens. Sur les pierres et boiseries des demeures rouennaises, nous privilégions des solutions douces non agressives. Les tissus délicats reçoivent des soins enzymatiques spécialisés adaptés à l\'humidité de la région.',
       },
       {
         question:
@@ -212,7 +212,7 @@ export const rouenContent: RouenContent = {
           heading: 'Qu\'est-ce que le syndrome de Diogène ?',
           headingLevel: 3,
           paragraphs: [
-            'Vous avez entendu parler du <strong>syndrome de Diogène</strong>, mais savez-vous vraiment ce qu\'il implique au quotidien ? Ce trouble touche tous les milieux sociaux à Rouen — des maisons du centre historique aux résidences de la Rive Gauche. Personne n\'est à l\'abri. Il se manifeste par plusieurs signes reconnaissables.',
+            'Le <strong>syndrome de Diogène</strong>, c\'est rarement la personne concernée qui en parle. C\'est un voisin qui se plaint des odeurs. Une famille qui découvre l\'état du logement après des mois sans nouvelles. Un propriétaire qui récupère un appartement inhabitable. Ce trouble touche tous les milieux, tous les âges — et quand on le découvre, c\'est souvent un choc. Voici les signes les plus fréquents.',
           ],
           listItems: [
             'Une négligence extrême de l\'hygiène corporelle et domestique',
@@ -226,15 +226,15 @@ export const rouenContent: RouenContent = {
           heading: 'ProClean, votre entreprise de nettoyage syndrome de Diogène à Rouen',
           headingLevel: 3,
           paragraphs: [
-            'Vous découvrez un logement envahi par les déchets, les odeurs et l\'insalubrité. C\'est une situation difficile, souvent douloureuse. Que vous soyez un proche, un propriétaire ou un gestionnaire, vous n\'avez pas à gérer ça seul. L\'équipe <strong>ProClean</strong> intervient à Rouen avec discrétion et sans aucun jugement — le premier appel est confidentiel.',
-            'Débarras, tri des affaires, évacuation des déchets, désinfection complète — on prend tout en charge, de A à Z. Une équipe de 3 à 6 personnes selon la gravité de la situation, formée spécifiquement au nettoyage syndrome de Diogène. Notre équipe assure aussi le <a href="/debarras-maison-rouen">débarras de maison à Rouen</a> pour les situations d\'encombrement sévère.',
+            'Personne ne sait par où commencer. C\'est normal — c\'est une situation que la plupart des gens n\'ont jamais vue. Nous, on la connaît. L\'équipe <strong>ProClean</strong> intervient à Rouen en véhicule banalisé, sans logo sur les tenues. Les voisins ne savent pas pourquoi on est là. La discrétion, c\'est la première chose qu\'on garantit. Le premier appel est confidentiel, sans jugement.',
+            'Débarras complet, tri des affaires personnelles, évacuation des déchets, puis désinfection en profondeur. On coordonne avec la famille ou les services sociaux si nécessaire — chaque situation est différente, on s\'adapte. Une équipe de 3 à 6 personnes, formée spécifiquement à ce type d\'intervention. On assure aussi le <a href="/debarras-maison-rouen">débarras de maison à Rouen</a> pour les situations d\'encombrement sévère.',
           ],
         },
         {
           heading: 'Comment détecter un syndrome de Diogène à Rouen ?',
           headingLevel: 2,
           paragraphs: [
-            'La personne concernée ne demande jamais d\'aide elle-même. C\'est le plus souvent un voisin, un membre de la famille ou un travailleur social qui donne l\'alerte. Certains signes ne trompent pas. Si vous les reconnaissez chez un proche à Rouen, contactez-nous — nous pouvons vous guider sur la marche à suivre. Après notre intervention, un <a href="/nettoyage-appartement-rouen">nettoyage d\'appartement complet</a> finalise la remise en état du logement.',
+            'La personne concernée ne demande jamais d\'aide elle-même — c\'est ce qui rend la situation si difficile à repérer. C\'est presque toujours un voisin, un membre de la famille ou un travailleur social qui donne l\'alerte. Si vous reconnaissez ces signes chez un proche, appelez-nous. On ne vous jugera pas, on vous expliquera concrètement la marche à suivre. Après notre intervention, un <a href="/nettoyage-appartement-rouen">nettoyage d\'appartement complet</a> finalise la remise en état du logement.',
           ],
           listItems: [
             'Comportement inhabituel de la personne atteinte',
@@ -248,7 +248,7 @@ export const rouenContent: RouenContent = {
           heading: 'Désinfection et décontamination après syndrome de Diogène',
           headingLevel: 3,
           paragraphs: [
-            'Un simple ménage ne suffit pas. Le climat humide de Rouen accélère la prolifération de bactéries et de moisissures — il faut une <strong>désinfection renforcée</strong>, méthodique. Dans les cas de nettoyage après décès lié au syndrome de Diogène, nous éliminons les fluides corporels selon les normes DASRI et délivrons un certificat de désinfection. Chaque intervention dure entre 1 et 7 jours selon la gravité. Votre situation est unique, et votre devis le sera aussi : demandez une <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
+            'Un simple ménage ne suffit pas — et on préfère être honnêtes là-dessus. Après des mois ou des années d\'accumulation, il faut une <strong>désinfection renforcée</strong>, méthodique, pièce par pièce. Murs, sols, sanitaires — tout est nettoyé et désinfecté. Dans les cas de décès, nous éliminons les fluides corporels selon les normes DASRI et délivrons un certificat de désinfection. On gère aussi les nuisibles si besoin. Chaque intervention dure entre 1 et 7 jours selon la gravité. Après notre passage, le logement est habitable. Demandez une <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
           ],
           listItems: [
             'Désinfection par voie aérienne (fumigène)',
@@ -623,3 +623,4 @@ for (const slug of Object.keys(rouenContent.services)) {
     svc.sections = serviceSections[slug];
   }
 }
+                             

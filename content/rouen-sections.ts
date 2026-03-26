@@ -9,106 +9,106 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'ProClean, votre entreprise de nettoyage de fin de chantier à Rouen',
       headingLevel: 3,
       paragraphs: [
-        'ProClean est une entreprise de <strong>nettoyage de fin de chantier</strong> qui réalise la remise en état de logements et locaux après travaux à Rouen. Étape cruciale avant la livraison des locaux, le ménage après travaux est commandé par l\'architecte, l\'entreprise de bâtiment ou le propriétaire dans la <strong>métropole rouennaise</strong>. <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a> pour une estimation sous 24h.',
-        'Le <strong>nettoyage post chantier</strong> est une opération déterminante avant la livraison du chantier à Rouen et c\'est sur la propreté des locaux que se fera la première impression. Nous intervenons dans tous les secteurs rouennais : du vieux Rouen historique aux quartiers modernes de la Rive Gauche.',
-        'La <strong>remise en état après travaux</strong> est réalisée par une société spécialisée en nettoyage de fin de chantier pour tous types de locaux ayant subi des transformations engendrant poussière, résidus de plâtre, gravats, traces de peinture dans les bâtiments rouennais, particulièrement sensibles à l\'humidité de la vallée de Seine.',
+        'Les artisans sont partis. Et ils ont laissé derrière eux un champ de bataille : poussière de plâtre sur le carrelage, traces de peinture au sol, joints de silicone qui débordent, copeaux de bois dans tous les coins. <strong>ProClean</strong> intervient pour le <strong>nettoyage de fin de chantier</strong> et transforme ce chaos en logement habitable. <a href="/devis-gratuit-rouen">Obtenir votre devis personnalisé</a> pour une estimation sous 24h.',
+        'Le problème avec la poussière de chantier, c\'est qu\'elle est ultra-fine. Vous passez l\'aspirateur, elle se redépose deux heures après. Le <strong>nettoyage post chantier</strong> demande du matériel industriel et une méthode précise — sinon vous tournez en rond pendant des jours sans résultat.',
+        'La <strong>remise en état après travaux</strong> couvre tout ce que les artisans ne font pas : retirer les protections, aspirer la poussière jusque dans les placards, décaper les traces de colle et de peinture, laver les vitres opaques, nettoyer chaque pièce du plafond au sol. À la fin, vous pouvez poser vos meubles et vivre dedans.',
       ],
     },
     {
-      heading: 'Nettoyage de maisons et appartements après travaux à Rouen',
+      heading: 'Nettoyage de maisons et appartements après travaux',
       headingLevel: 3,
       paragraphs: [
-        'Une société de nettoyage après travaux comme <strong>ProClean</strong> intervient pour le nettoyage de maisons et appartements après travaux de rénovation ou construction à Rouen. Nous travaillons directement avec les particuliers rouennais pour les aider à emménager dans leur logement dans les meilleures conditions.',
-        'Le nettoyage de fin de chantier est particulièrement délicat à Rouen pour les maisons à colombages et bâtiments anciens nécessitant des précautions spécifiques. Les <a href="/nettoyage-bureaux-rouen">bureaux et locaux professionnels</a> rencontrent des problématiques similaires après rénovation.',
+        '<strong>ProClean</strong> intervient chez les particuliers après rénovation ou construction. Que vous ayez refait une salle de bain, cassé une cloison ou rénové entièrement votre appartement, on s\'occupe du nettoyage complet pour que vous puissiez emménager dans un logement propre, pas dans un chantier.',
+        'On travaille aussi bien dans les logements récents que dans les bâtiments anciens où les matériaux demandent plus de précautions — tomettes, parquets, poutres apparentes. Les <a href="/nettoyage-bureaux-rouen">bureaux et locaux professionnels</a> ont exactement les mêmes problèmes après des travaux.',
       ],
     },
     {
-      heading: 'Pourquoi faire appel à une société de nettoyage de fin de chantier à Rouen ?',
+      heading: 'Pourquoi faire appel à une société de nettoyage de fin de chantier ?',
       headingLevel: 3,
       paragraphs: [
-        'Vous avez rénové votre maison rouennaise, vous y avez mis de beaux matériaux maintenant couverts de poussière ? Le nettoyage après travaux est complexe car il faut un équipement et des <strong>produits de nettoyage professionnels</strong> adaptés aux matériaux anciens.',
-        'Le <a href="/nettoyage-vitres-rouen">nettoyage de vitres</a> en fin de chantier dans les bâtiments rouennais est particulièrement délicat. Comment traiter les traces de peinture et plâtre sur les encadrements historiques sans les endommager ? Nous maîtrisons les techniques professionnelles respectueuses du patrimoine.',
-        'L\'humidité de la vallée de Seine peut compliquer le séchage et nécessite des méthodes adaptées. Une monobrosse ou autolaveuse spécialisée peut être indispensable pour traiter les sols anciens.',
+        'Vous venez de rénover, vous avez posé de beaux matériaux — et tout est recouvert d\'une pellicule grise. Votre aspirateur domestique n\'y fera rien. Il faut des <strong>produits de nettoyage professionnels</strong> et un aspirateur industriel avec filtre HEPA pour capter la poussière fine sans la remettre en suspension.',
+        'Le <a href="/nettoyage-vitres-rouen">nettoyage de vitres</a> après chantier est un bon exemple : les vitres sont couvertes de projections de plâtre et de peinture. Si vous grattez au mauvais endroit ou avec le mauvais outil, vous rayez le verre. Nous utilisons des grattoirs professionnels et des solvants adaptés à chaque type de tache.',
+        'Et puis il y a les sols. Traces de colle, résidus de mortier, peinture séchée — chaque matériau demande un traitement différent. Une monobrosse ou autolaveuse professionnelle fait en une heure ce qui vous prendrait un week-end à genoux.',
       ],
     },
     {
-      heading: 'Équipements professionnels adaptés au patrimoine rouennais',
+      heading: 'Équipements professionnels pour le nettoyage après travaux',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: 'Matériel spécialisé patrimoine',
+      heading: 'Matériel spécialisé chantier',
       headingLevel: 3,
       paragraphs: [
       ],
       listItems: [
-        'Aspirateurs HEPA pour poussières fines sans abrasion',
-        'Monobrosses adaptées aux sols anciens (tomettes, parquets)',
-        'Nettoyeurs basse pression pour façades historiques',
-        'Grattoirs doux pour résidus sans endommager supports anciens',
-        'Échelles spécialisées pour hauteurs importantes des bâtiments rouennais',
+        'Aspirateurs industriels HEPA pour poussières fines (plâtre, ciment, bois)',
+        'Monobrosses et autolaveuses pour sols durs (carrelage, parquet, tomettes)',
+        'Nettoyeurs vapeur pour désincruster les résidus tenaces',
+        'Grattoirs professionnels pour traces de colle, peinture et silicone',
+        'Échelles et perches télescopiques pour les plafonds et hauteurs',
       ],
     },
     {
-      heading: 'Produits respectueux du patrimoine',
+      heading: 'Produits adaptés à chaque surface',
       headingLevel: 3,
       paragraphs: [
       ],
       listItems: [
-        'Décapants neutres non acides pour matériaux calcaires',
-        'Solvants doux pour traces peinture sur boiseries anciennes',
-        'Désinfectants écologiques pour locaux historiques',
-        'Produits anti-humidité adaptés au climat de Seine',
-        'Traitements spécifiques selon matériaux (pierre, bois, terre cuite)',
+        'Décapants neutres non acides pour carrelage et pierre',
+        'Solvants doux pour traces de peinture sur boiseries et menuiseries',
+        'Dégraissants professionnels pour résidus de colle et mastic',
+        'Produits vitrificateurs pour redonner de l\'éclat aux sols nettoyés',
+        'Traitements spécifiques selon matériaux (pierre, bois, terre cuite, PVC)',
       ],
     },
     {
-      heading: 'Processus de nettoyage après travaux adapté à Rouen',
+      heading: 'Notre méthode de nettoyage après travaux, étape par étape',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: '1. Diagnostic patrimonial',
+      heading: '1. État des lieux',
       headingLevel: 3,
       paragraphs: [
-        'Analyse des matériaux anciens et contraintes spécifiques des bâtiments rouennais. Évaluation de l\'humidité ambiante.',
+        'On fait le tour du chantier avec vous : quels matériaux ont été posés, quelles surfaces sont fragiles, où sont les taches les plus tenaces. Ça évite les mauvaises surprises.',
       ],
     },
     {
-      heading: '2. Évacuation respectueuse',
+      heading: '2. Évacuation des déchets',
       headingLevel: 3,
       paragraphs: [
-        'Débarras des gravats avec tri pour éventuelle réutilisation de matériaux anciens selon normes patrimoine.',
+        'On retire les protections (bâches, scotch, cartons), on évacue les gravats restants, les chutes de matériaux et les emballages que les artisans ont laissés.',
       ],
     },
     {
-      heading: '3. Dépoussiérage délicat',
+      heading: '3. Dépoussiérage complet',
       headingLevel: 3,
       paragraphs: [
-        'Dépoussiérage minutieux avec techniques douces pour préserver poutres, colombages, enduits anciens.',
+        'Aspiration du plafond au sol avec filtre HEPA : murs, plinthes, rebords de fenêtre, intérieur des placards, prises électriques. Tout ce qui a pris la poussière.',
       ],
     },
     {
-      heading: '4. Traitement spécialisé des résidus',
+      heading: '4. Décapage des traces',
       headingLevel: 3,
       paragraphs: [
-        'Élimination des traces avec produits adaptés aux supports historiques. Attention particulière aux jointoiements anciens.',
+        'Traitement ciblé de chaque tache : peinture, colle, silicone, plâtre, mortier. Chaque résidu a son produit et sa technique pour partir sans abîmer le support.',
       ],
     },
     {
-      heading: '5. Nettoyage et protection',
+      heading: '5. Lavage pièce par pièce',
       headingLevel: 3,
       paragraphs: [
-        'Nettoyage respectueux avec séchage contrôlé compte tenu de l\'humidité. Protection préventive contre moisissures.',
+        'Nettoyage humide méthodique de chaque pièce : sols, vitres, sanitaires, plan de travail, interrupteurs. On avance du fond vers la sortie pour ne rien salir derrière nous.',
       ],
     },
     {
-      heading: '6. Finitions patrimoniales',
+      heading: '6. Finitions et contrôle',
       headingLevel: 3,
       paragraphs: [
-        'Nettoyage des vitrages anciens avec précautions. Désinfection adaptée aux matériaux historiques.',
+        'Dernier passage sur les détails : traces de doigts sur les portes, poussière dans les rails de placard, joints de fenêtre. On vérifie chaque pièce avant de vous rendre les clés.',
       ],
     },
   ],
@@ -118,108 +118,108 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Étape 1 : Analyse Préliminaire et Mise en Sécurité (35 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention de nettoyage lustres Rouen débute par une analyse technique complète de l\'installation électrique et de la structure du luminaire. Cette phase critique du nettoyage luminaires Rouen comprend l\'inspection des points d\'ancrage, l\'évaluation de la stabilité structurelle, et l\'identification précise des matériaux constituants (<strong>cristal de Baccarat</strong>, bronze patiné, laiton doré, verre soufflé).',
-        'La <strong>mise en sécurité électrique</strong> constitue le fondement de notre nettoyage lustres et luminaires Rouen. Nos techniciens certifiés procèdent à la coupure complète de l\'alimentation électrique, utilisent des détecteurs de tension professionnels, et installent des protections individuelles. Cette procédure rigoureuse élimine tout risque d\'électrocution et protège les circuits électriques anciens fréquents dans l\'habitat rouennais.',
+        'Votre lustre éclaire moitié moins qu\'avant ? C\'est normal. La poussière et la graisse de cuisine se déposent sur chaque pampille, chaque bras, chaque ampoule — la lumière ne passe plus. Avant de toucher quoi que ce soit, on inspecte le point d\'ancrage, la stabilité de la structure, et on identifie les matériaux : <strong>cristal de Baccarat</strong>, bronze patiné, laiton doré, verre soufflé. Chaque matériau demande un traitement différent.',
+        'La <strong>mise en sécurité électrique</strong> passe en premier. On coupe le courant au disjoncteur, on vérifie avec un détecteur de tension qu\'il n\'y a plus de jus, et on protège le sol en dessous. Un lustre de 15 kg qui tombe, ça ne pardonne pas — et un fil mal isolé non plus.',
       ],
     },
     {
       heading: 'Étape 2 : Démontage Méthodique Sécurisé (50 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage lustres Rouen implique un démontage partiel minutieux des composants amovibles. Nos spécialistes procèdent systématiquement au retrait des pendeloques, coupelles, globes, chaînettes et ornements décoratifs. Chaque élément est photographié in situ, numéroté et répertorié pour garantir un remontage identique.',
-        'Notre équipement spécialisé pour le nettoyage luminaires Rouen comprend des réceptacles de sécurité matelassés, des systèmes d\'accroche temporaires, et des échelles articulées adaptées aux espaces contraints des immeubles anciens rouennais. La protection des sols et mobiliers environnants s\'effectue avec des bâches professionnelles imperméables.',
+        'On photographie le lustre sous tous les angles avant de démonter quoi que ce soit. Pendeloques, coupelles, globes, chaînettes, ornements — chaque pièce est retirée à la main, numérotée et rangée dans un bac matelassé. C\'est la seule façon de tout remettre exactement au bon endroit après.',
+        'Le démontage demande du matériel adapté : échelles articulées pour les plafonds hauts, systèmes d\'accroche temporaires pour soulager la structure pendant qu\'on travaille, bâches imperméables pour protéger vos sols et meubles des gouttes de produit nettoyant.',
       ],
     },
     {
       heading: 'Étape 3 : Nettoyage Intensif Spécialisé (75 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage lustres et luminaires Rouen utilise une gamme complète de produits professionnels formulés spécifiquement pour chaque matériau. Les cristaux et verres anciens bénéficient d\'un traitement dégraissant suivi d\'un produit anticalcaire adapté à la composition minérale de l\'eau rouennaise. Les éléments métalliques subissent un traitement anti-oxydation préventif.',
-        'Chaque composant démonté lors du nettoyage lustres Rouen est nettoyé individuellement dans des bains de solutions professionnelles thermostatées, puis rincé à l\'eau déminéralisée pour éliminer toute trace résiduelle. Le séchage s\'effectue par micro-fibres techniques anti-rayures spécialement sélectionnées pour les surfaces délicates et les matériaux précieux.',
+        'Chaque pièce démontée est nettoyée individuellement. Les cristaux et verres passent dans un bain dégraissant puis un traitement anticalcaire — l\'eau calcaire laisse des dépôts blancs qui ternissent le verre avec le temps. Les parties métalliques reçoivent un traitement anti-oxydation pour éviter qu\'elles ne verdissent ou noircissent.',
+        'Après le bain, chaque élément est rincé à l\'eau déminéralisée (pas d\'eau du robinet, sinon on remet du calcaire) puis séché à la main avec des microfibres anti-rayures. C\'est long, c\'est minutieux, mais c\'est ce qui fait la différence entre un lustre propre et un lustre qui brille vraiment.',
       ],
     },
     {
       heading: 'Étape 4 : Traitement de la Structure Principale (55 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'La structure centrale du luminaire exige un nettoyage luminaires Rouen particulièrement approfondi. Nos techniciens utilisent des perches télescopiques équipées de têtes de nettoyage interchangeables pour atteindre chaque recoin sans compromettre l\'intégrité des circuits électriques apparents.',
-        'Le nettoyage lustres et luminaires Rouen de la structure inclut le dépoussiérage exhaustif des composants électriques visibles, l\'inspection des connexions et soudures, et le nettoyage minutieux des douilles, supports d\'ampoules, et mécanismes de suspension. Cette étape révèle d\'éventuelles défaillances nécessitant une intervention électrique spécialisée.',
+        'Pendant que les pièces sèchent, on s\'attaque à la structure centrale — les bras, la tige, la coupole. On utilise des perches télescopiques avec des têtes de nettoyage interchangeables pour atteindre chaque recoin sans risquer de tirer sur les fils électriques.',
+        'On en profite pour dépoussiérer les douilles, vérifier l\'état des connexions et des soudures, nettoyer les supports d\'ampoules. Si on repère un fil dénudé ou une connexion douteuse, on vous le signale — mieux vaut le savoir maintenant que quand le lustre est remonté.',
       ],
     },
     {
       heading: 'Étape 5 : Remontage Précis et Tests (45 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Le remontage lors du <strong>nettoyage lustres Rouen</strong> suit rigoureusement la documentation photographique établie lors du démontage. Chaque élément retrouve son emplacement exact selon un protocole de traçabilité numéroté. Nos techniciens vérifient l\'équilibrage parfait du luminaire et la stabilité de l\'ensemble structurel.',
-        'La remise en service du nettoyage luminaires Rouen comprend la restauration progressive de l\'alimentation électrique et les tests fonctionnels complets de tous les circuits d\'éclairage. Nous contrôlons l\'intensité lumineuse, l\'absence de dysfonctionnement, et le bon fonctionnement des systèmes de variation d\'intensité.',
+        'Le remontage suit les photos prises au début. Chaque pampille, chaque chaînette retrouve sa place exacte grâce au système de numérotation. On vérifie que le <strong>lustre est parfaitement équilibré</strong> — un lustre qui penche, c\'est qu\'une pièce n\'est pas au bon endroit ou qu\'un bras a été mal repositionné.',
+        'On remet le courant progressivement et on teste chaque circuit d\'éclairage. On vérifie que toutes les ampoules fonctionnent, que le variateur répond correctement, qu\'il n\'y a pas de scintillement. Durée totale de l\'intervention : 2 à 4 heures selon la taille du lustre.',
       ],
     },
     {
       heading: 'Étape 6 : Contrôle Qualité Final et Finitions (25 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Notre nettoyage lustres et luminaires Rouen se conclut par un contrôle qualité exhaustif selon nos standards professionnels. Nos spécialistes inspectent visuellement chaque composant, vérifient l\'absence totale de traces, résidus ou zones négligées. Un éclairage de contrôle professionnel révèle la qualité optimale du nettoyage réalisé.',
-        'Les finitions comprennent le nettoyage intégral de la zone d\'intervention, l\'aspiration des micro-résidus, et la déprotection soigneuse des sols et mobiliers. Nos équipes garantissent un environnement rouennais parfaitement préservé après intervention, y compris le <a href="/nettoyage-vitres-rouen">nettoyage des vitres</a> à proximité des luminaires.',
+        'On allume le lustre et on inspecte chaque élément sous la lumière : pas de trace, pas de résidu, pas de zone oubliée. Un éclairage de contrôle nous permet de repérer la moindre marque invisible à l\'oeil nu en lumière ambiante.',
+        'On termine en nettoyant tout ce qu\'on a sali : aspiration des micro-résidus tombés au sol, retrait des bâches de protection, remise en place du mobilier déplacé. Vous retrouvez votre pièce exactement comme avant — sauf que le lustre éclaire à nouveau comme au premier jour. On peut aussi en profiter pour le <a href="/nettoyage-vitres-rouen">nettoyage des vitres</a> à proximité.',
       ],
     },
     {
-      heading: 'Spécialisations ProClean pour Rouen',
+      heading: 'Types de lustres que nous nettoyons',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: 'Nettoyage Lustres Patrimoine Médiéval Rouennais',
+      heading: 'Lustres anciens et lustres d\'époque',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage lustres Rouen dans les bâtiments médiévaux et Renaissance nécessite une expertise historique que ProClean a spécialement développée pour le <strong>patrimoine architectural rouennais</strong> exceptionnel. Nos techniciens maîtrisent les techniques de conservation respectueuses des matériaux ancestraux et des contraintes patrimoniales strictes.',
-        'L\'architecture gothique et Renaissance de Rouen présente des défis uniques en matière d\'<strong>éclairage historique</strong>. Notre nettoyage luminaires Rouen s\'adapte aux luminaires d\'époque, aux créations artisanales locales, et aux installations intégrées dans ce patrimoine UNESCO. Nous respectons scrupuleusement les préconisations des Monuments Historiques.',
+        'Les lustres anciens sont les plus délicats à nettoyer. Pampilles en cristal taillé, bras en bronze ciselé, dorure à la feuille — chaque matériau vieillit différemment et demande un produit spécifique. On ne nettoie pas du <strong>cristal ancien</strong> comme du verre moderne, et on ne frotte pas de la dorure comme du laiton brut.',
+        'On intervient régulièrement sur des lustres d\'époque dans des appartements, des maisons de maître et des établissements de prestige. On connaît les précautions à prendre : pas de produit acide sur le cristal, pas de chiffon abrasif sur la dorure, manipulation avec des gants pour éviter les traces de doigts sur les surfaces polies.',
       ],
     },
     {
-      heading: 'Adaptation aux Conditions Climatiques Normandes',
+      heading: 'Lustres modernes et contemporains',
       headingLevel: 3,
       paragraphs: [
-        'Le climat océanique normand impose des contraintes spécifiques au nettoyage lustres et luminaires Rouen. L\'humidité persistante, les variations thermiques importantes et la pollution urbaine accélèrent l\'encrassement des éclairages. ProClean utilise des produits anti-humidité et des techniques préventives adaptées au climat rouennais.',
-        'Nos protocoles de nettoyage lustres Rouen incluent des traitements protecteurs spécifiques contre les effets de l\'humidité normande. Cette approche préventive prolonge significativement la durée entre les interventions d\'entretien et préserve l\'intégrité des matériaux sensibles à l\'oxydation.',
+        'Les lustres design en verre soufflé, métal brossé ou inox posent d\'autres problèmes. Les surfaces mates retiennent les empreintes digitales, les formes complexes accumulent la poussière dans des recoins impossibles à atteindre sans démonter, et certains assemblages sont fragiles malgré leur apparence robuste.',
+        'On adapte nos produits et notre méthode à chaque lustre. Un lustre en acier brossé ne se traite pas comme un lustre en verre de Murano. L\'objectif est toujours le même : redonner au luminaire toute sa luminosité sans risquer de l\'abîmer.',
       ],
     },
     {
-      heading: 'Intervention en Milieu Professionnel Rouennais',
+      heading: 'Lustres en milieu professionnel à Rouen',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage luminaires Rouen dans les établissements du secteur tertiaire rouennais (restaurants, hôtels, bureaux, commerces) nécessite une adaptation aux contraintes professionnelles spécifiques. ProClean planifie ses interventions pour minimiser l\'impact sur l\'activité commerciale intensive du centre-ville.',
-        'Notre nettoyage lustres et luminaires Rouen en milieu professionnel respecte les normes d\'hygiène renforcées, particulièrement dans la restauration gastronomique rouennaise. Nous utilisons des produits certifiés alimentaires et des protocoles sanitaires pour garantir la sécurité totale. Ce savoir-faire profite aussi au <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a>, pour un éclairage optimal dans les espaces de travail.',
+        'Restaurants, hôtels, halls d\'immeubles, salles de réception — les lustres professionnels s\'encrassent plus vite à cause de la fréquentation, de la cuisine, de la climatisation. Et il faut intervenir en dehors des heures d\'ouverture pour ne pas gêner l\'activité.',
+        'On planifie l\'intervention tôt le matin ou tard le soir selon vos contraintes. En restauration, on utilise des produits certifiés contact alimentaire pour ne prendre aucun risque sanitaire. Ce type d\'intervention se combine bien avec le <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux</a> pour un entretien complet de vos locaux.',
       ],
     },
     {
-      heading: 'Maintenance Préventive et Conseils Experts',
+      heading: 'Maintenance Préventive et Conseils Pratiques',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: 'Programme de Maintenance Adaptée',
+      heading: 'Programme de Maintenance Régulière',
       headingLevel: 3,
       paragraphs: [
-        'ProClean propose un programme de maintenance préventive pour le nettoyage lustres Rouen parfaitement adapté aux conditions climatiques normandes. La fréquence recommandée varie selon l\'exposition : semestrielle pour les luminaires en rez-de-chaussée exposés à la pollution urbaine, annuelle pour les étages supérieurs.',
-        'Notre nettoyage luminaires Rouen préventif inclut l\'inspection complète des fixations, la vérification électrique approfondie, et l\'entretien courant spécialisé. Cette approche anticipative évite la dégradation accélérée due au climat humide normand et prolonge considérablement la durée de vie des installations délicates. Pour planifier votre entretien, <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
+        'Un lustre bien entretenu se nettoie en profondeur une à deux fois par an. En rez-de-chaussée ou près d\'une cuisine, la graisse et la poussière s\'accumulent plus vite — on recommande un passage tous les 6 mois. En étage, dans une pièce peu utilisée, une fois par an suffit.',
+        'Notre programme d\'entretien inclut l\'inspection des fixations, la vérification électrique, et le nettoyage complet. Ça évite que la saleté s\'incruste en profondeur et prolonge la durée de vie de votre lustre. <a href="/devis-gratuit-rouen">Estimation gratuite et sans engagement</a> pour planifier votre entretien.',
       ],
     },
     {
-      heading: 'Conseils d\'Entretien Professionnel',
+      heading: 'Conseils d\'Entretien entre les Interventions',
       headingLevel: 3,
       paragraphs: [
-        'Entre les interventions professionnelles de nettoyage lustres et luminaires Rouen, quelques gestes experts préservent l\'éclat de vos éclairages. L\'utilisation d\'un plumeau antistatique professionnel hebdomadaire limite l\'accumulation de poussière, particulièrement importante dans l\'atmosphère urbaine rouennaise chargée en particules.',
-        'La ventilation régulière et contrôlée des pièces réduit significativement l\'humidité qui favorise l\'encrassement rapide des luminaires. Pour le nettoyage lustres Rouen d\'entretien, évitez impérativement les produits ménagers standard qui peuvent endommager irréversiblement les matériaux nobles ou laisser des résidus permanents.',
+        'Entre deux nettoyages professionnels, un coup de plumeau antistatique une fois par semaine empêche la poussière de s\'accumuler. C\'est simple et ça fait une vraie différence. Par contre, n\'utilisez jamais de produit ménager classique sur un lustre — les sprays multi-surfaces laissent un film gras qui attire encore plus la poussière.',
+        'Aérez régulièrement vos pièces : moins d\'humidité = moins de dépôts sur le lustre. Et si votre lustre est dans une cuisine ou une pièce avec cheminée, le nettoyage professionnel sera nécessaire plus souvent — la graisse et la suie sont les pires ennemis des cristaux.',
       ],
     },
     {
-      heading: 'Détection Professionnelle des Problèmes',
+      heading: 'Quand Appeler un Professionnel',
       headingLevel: 3,
       paragraphs: [
-        'Nos clients formés reconnaissent les signes nécessitant un nettoyage luminaires Rouen professionnel immédiat : diminution notable de l\'intensité lumineuse, apparition de traces blanchâtres caractéristiques (dépôts calcaires), ternissement progressif des métaux précieux, ou accumulation visible de poussière dans les recoins inaccessibles.',
-        'L\'intervention précoce pour le nettoyage lustres et luminaires Rouen évite l\'encrassement profond qui nécessiterait des techniques plus invasives et potentiellement dangereuses. Cette vigilance professionnelle préserve l\'intégrité parfaite des matériaux et maintient l\'esthétique exceptionnelle de vos éclairages patrimoniaux.',
+        'Votre lustre éclaire moins qu\'avant alors que les ampoules sont neuves ? Vous voyez des traces blanches sur les cristaux (calcaire) ou un voile gris sur les parties métalliques (oxydation) ? De la poussière visible s\'accumule dans les recoins que vous ne pouvez pas atteindre ? C\'est le moment de faire intervenir un professionnel.',
+        'N\'attendez pas que l\'encrassement soit profond. Plus on attend, plus le nettoyage est long et plus les risques d\'abîmer les matériaux augmentent. Un lustre entretenu régulièrement se nettoie plus vite, coûte moins cher, et dure des décennies sans perdre son éclat.',
       ],
     },
   ],
@@ -229,48 +229,48 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Étape 1 : Diagnostic Technique et Planification (50 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention de <strong>nettoyage après déménagement Rouen</strong> débute par une analyse technique complète de l\'état du logement et de ses spécificités. Cette phase critique du nettoyage fin de bail Rouen comprend l\'évaluation pièce par pièce, l\'identification des problématiques spécifiques (humidité, calcaire, graisse, moisissures), et l\'adaptation des techniques aux matériaux présents.',
-        'La planification de notre nettoyage après déménagement et fin de bail Rouen tient compte des contraintes architecturales rouennaises : hauteurs de plafond importantes, matériaux anciens, installations électriques spécifiques. Cette approche personnalisée garantit un résultat optimal adapté aux exigences de l\'habitat historique rouennais.',
+        'Chaque intervention de <strong>nettoyage après déménagement Rouen</strong> commence par un tour complet du logement. On regarde tout : l\'état du four, les joints de douche, les traces de meubles au sol, le calcaire dans les WC. On sait exactement ce que le proprio va vérifier le jour de l\'état des lieux — parce qu\'on fait ça tous les jours.',
+        'En fonction de ce qu\'on trouve, on adapte le plan d\'attaque. Parquet ancien qui craint l\'eau, carrelage encrassé, moquette tachée : chaque surface a son traitement. On vous dit aussi combien de temps ça va prendre, sans surprise.',
       ],
     },
     {
       heading: 'Étape 2 : Remise à Neuf Complète de la Cuisine (95 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage après déménagement Rouen de la cuisine constitue l\'intervention la plus technique et critique. Nos spécialistes procèdent au dégraissage intensif des appareils électroménagers : décapage complet du four avec produits professionnels, dégraissage de la hotte aspirante et remplacement des filtres, nettoyage intégral du réfrigérateur avec désinfection et élimination des odeurs.',
-        'Notre nettoyage fin de bail Rouen de la cuisine inclut le détartrage approfondi des robinets et éviers, le lessivage méticuleux des placards avec désinfection, le dégraissage des plans de travail et crédences. L\'humidité normande nécessite des traitements anti-moisissures spécifiques et des techniques de séchage adaptées au climat rouennais.',
+        'La cuisine, c\'est toujours là que ça coince. Le four plein de graisse brûlée, la hotte qui colle, le frigo qui sent. On décape tout avec des produits pro : le four est passé au dégraissant industriel, la hotte démontée et nettoyée filtre par filtre, le frigo désinfecté et désodorisé de fond en comble.',
+        'Ensuite, on s\'attaque aux détails que le proprio va forcément vérifier : détartrage des robinets et de l\'évier, intérieur des placards lessivé, plans de travail et crédences dégraissés. Les joints qui noircissent ? Traités avec un antifongique. Quand on quitte la cuisine, elle est plus propre que le jour où vous avez emménagé.',
       ],
     },
     {
       heading: 'Étape 3 : Restauration Complète des Sanitaires (85 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Les sanitaires exigent un nettoyage après déménagement et fin de bail Rouen particulièrement rigoureux et approfondi. Nos techniciens utilisent des produits professionnels ultra-concentrés pour le détartrage intensif des robinets, pommaux de douche, et canalisations. Le climat humide rouennais favorise les dépôts calcaires et le développement de moisissures que nous éliminons totalement.',
-        'Notre nettoyage après déménagement Rouen des sanitaires comprend la désinfection complète et virucide des toilettes, le traitement des joints de carrelage avec produits fongicides, le polissage des surfaces vitrées et miroirs. Chaque recoin inaccessible est traité avec des outils spécialisés pour garantir une hygiène parfaite lors de l\'état des lieux.',
+        'Les sanitaires, c\'est le deuxième point noir des états des lieux. Le tartre dans les WC, les joints de douche qui virent au noir, le pommeau de douche entartré — le proprio voit tout ça en une seconde. On attaque avec des produits pro concentrés qui dissolvent le calcaire et éliminent les moisissures en profondeur.',
+        'On désinfecte les toilettes de A à Z, on traite chaque joint de carrelage avec un fongicide, on polit les miroirs et parois vitrées jusqu\'à ce qu\'il n\'y ait plus une seule trace. Même derrière la cuvette, même sous le lavabo. On ne laisse aucun recoin au hasard parce qu\'on sait que c\'est là que le proprio va regarder.',
       ],
     },
     {
       heading: 'Étape 4 : Traitement Intégral des Sols et Revêtements (90 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Le <strong>nettoyage fin de bail</strong> Rouen des sols nécessite une expertise technique adaptée à chaque type de revêtement présent dans l\'habitat rouennais. Nos spécialistes maîtrisent le traitement du parquet ancien avec produits respectueux, le décapage des carrelages encrassés avec machines professionnelles, l\'aspiration et shampoing des moquettes avec élimination des odeurs.',
-        'Notre nettoyage après déménagement et fin de bail Rouen inclut le lessivage complet des murs avec élimination des traces diverses (mains, scotch, clous, marques), le nettoyage minutieux des plinthes, interrupteurs, prises électriques, et poignées de portes. Cette attention aux détails garantit un résultat irréprochable pour votre <strong>état des lieux</strong>.',
+        'Les sols racontent toute l\'histoire de votre passage. Traces de meubles, rayures, taches incrustées : le <strong>nettoyage fin de bail</strong> des sols demande un traitement adapté à chaque revêtement. Parquet ancien ? Produits doux qui respectent le bois. Carrelage encrassé ? Machine pro qui décape sans abîmer. Moquette ? Shampoing en profondeur avec élimination des odeurs.',
+        'Mais les sols, c\'est pas tout. On lave aussi les murs — les traces de doigts, les marques de scotch, les trous de clous rebouchés. Les plinthes, les interrupteurs, les prises, les poignées de porte : tout y passe. C\'est cette obsession du détail qui fait la différence le jour de l\'<strong>état des lieux</strong>.',
       ],
     },
     {
       heading: 'Étape 5 : Nettoyage Professionnel Vitres et Menuiseries (70 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Le <a href="/nettoyage-vitres-rouen">nettoyage des vitres</a> constitue un élément déterminant du nettoyage après déménagement Rouen. Nos techniciens spécialisés utilisent la technique professionnelle mouilleur-raclette pour un résultat sans traces, adaptée aux conditions climatiques normandes souvent humides et venteuses. Les encadrements, rebords, et volets sont intégralement traités.',
-        'Le nettoyage fin de bail Rouen des menuiseries comprend le nettoyage approfondi des portes intérieures et extérieures, des gonds, poignées, serrures, et mécanismes. L\'habitat rouennais ancien nécessite une attention particulière aux éléments en bois et métal susceptibles de nécessiter des traitements spécifiques.',
+        'Le <a href="/nettoyage-vitres-rouen">nettoyage des vitres</a>, c\'est souvent ce qu\'on oublie — et c\'est souvent ce que le proprio remarque en premier. On utilise la technique mouilleur-raclette des pros : zéro trace, même en pleine lumière. Les encadrements, les rebords de fenêtre, les volets : tout est nettoyé. Le proprio peut passer son doigt partout, c\'est impeccable.',
+        'On s\'occupe aussi des menuiseries : portes intérieures et extérieures, gonds, poignées, serrures. Ces petits détails qu\'on ne pense jamais à nettoyer mais que le propriétaire va inspecter. Un gond poussiéreux ou une poignée grasse, ça suffit à créer un doute sur l\'état général du logement.',
       ],
     },
     {
       heading: 'Étape 6 : Contrôle Qualité Final et Certification (35 minutes)',
       headingLevel: 3,
       paragraphs: [
-        'Notre nettoyage après déménagement et fin de bail Rouen se termine par un contrôle qualité exhaustif selon nos standards professionnels les plus stricts. Nos techniciens inspectent chaque pièce selon une check-list de 127 points de contrôle, vérifient l\'absence totale de traces, résidus, ou zones négligées.',
-        'Les finitions incluent l\'aspiration finale avec élimination des micro-résidus, l\'aération optimale du logement, la vérification de la propreté des équipements techniques (VMC, radiateurs, luminaires). Cette étape de certification garantit la récupération intégrale de votre caution lors de l\'état des lieux dans la métropole rouennaise.',
+        'Avant de partir, on refait le tour complet. Chaque pièce est inspectée selon notre check-list de 127 points de contrôle. On vérifie qu\'il n\'y a plus une seule trace, plus un seul résidu, plus un seul recoin oublié. Si quelque chose ne passe pas notre contrôle, on reprend.',
+        'Dernière passe d\'aspirateur pour les micro-résidus, aération du logement, vérification des VMC, radiateurs et luminaires. L\'objectif est simple : que votre état des lieux se passe en 10 minutes chrono, sans une seule remarque. Et que vous récupériez 100% de votre caution.',
       ],
     },
     {
@@ -283,24 +283,24 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Patrimoine Médiéval et Renaissance',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage après déménagement Rouen dans les bâtiments historiques nécessite une expertise patrimoniale que <strong>ProClean</strong> a spécialement développée pour l\'architecture rouennaise exceptionnelle. Nos techniciens maîtrisent les techniques de conservation respectueuses des matériaux ancestraux (colombages, pierre de Caumont, ardoise) et des contraintes des Monuments Historiques.',
-        'L\'habitat médiéval et Renaissance de Rouen présente des défis techniques uniques pour le nettoyage fin de bail Rouen. Notre approche préserve l\'authenticité architecturale tout en garantissant les standards d\'hygiène contemporains. Nous respectons scrupuleusement les préconisations des Bâtiments de France pour les interventions en secteur protégé. Ce savoir-faire patrimonial se retrouve dans notre <a href="/nettoyage-appartement-rouen">entretien professionnel des appartements à Rouen</a>, adapté aux logements anciens.',
+        'Beaucoup de logements ici ont des colombages, de la pierre ancienne, des parquets d\'époque. Pas question de balancer du produit industriel sur un sol en tomettes ou un mur en pierre de taille. <strong>ProClean</strong> adapte ses techniques aux matériaux : produits doux sur les surfaces fragiles, nettoyage mécanique où c\'est possible, zéro risque de dégradation.',
+        'On intervient régulièrement dans des immeubles anciens, parfois classés. On connaît les contraintes et les précautions à prendre. Résultat impeccable sans abîmer ce qui fait le charme du logement. Ce savoir-faire se retrouve dans notre <a href="/nettoyage-appartement-rouen">entretien professionnel des appartements à Rouen</a>, pensé pour les logements anciens comme les neufs.',
       ],
     },
     {
       heading: 'Adaptation au Climat Normand Humide',
       headingLevel: 3,
       paragraphs: [
-        'Le climat océanique normand impose des contraintes environnementales spécifiques au nettoyage après déménagement et fin de bail Rouen. L\'humidité persistante, les variations thermiques importantes et la pollution urbaine accélèrent l\'encrassement et favorisent le développement de moisissures. ProClean utilise des produits fongicides et des techniques de séchage adaptées.',
-        'Nos protocoles de nettoyage après déménagement Rouen incluent des traitements préventifs spécifiques contre les effets de l\'humidité normande. Cette approche technique évite la réapparition rapide des problèmes et garantit un résultat durable malgré les conditions climatiques défavorables de la région rouennaise.',
+        'L\'humidité, ici, c\'est l\'ennemi numéro un. Moisissures dans les coins de la douche, joints qui noircissent, odeurs de renfermé dans les placards — on voit ça dans un logement sur deux. On utilise des fongicides pro et des techniques de séchage qui éliminent le problème à la source, pas juste en surface.',
+        'On ne se contente pas de nettoyer : on traite les zones à risque pour que les moisissures ne reviennent pas dans les jours qui suivent. C\'est la différence entre un nettoyage qui tient jusqu\'à l\'état des lieux et un nettoyage qui jaunit dès le lendemain.',
       ],
     },
     {
       heading: 'Intervention Logements Étudiants et Secteur Universitaire',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage fin de bail Rouen pour les logements étudiants nécessite des techniques spécialisées pour traiter les encrassements intensifs et les dégradations spécifiques à cette occupation. ProClean adapte ses méthodes aux problématiques récurrentes : taches alimentaires, traces d\'adhésifs, odeurs persistantes.',
-        'Notre nettoyage après déménagement et fin de bail Rouen du secteur universitaire bénéficie de tarifs négociés et de prestations standardisées. Cette expertise nous permet d\'optimiser les coûts tout en garantissant la qualité requise pour la remise en location rapide dans le marché locatif étudiant rouennais. Pour votre projet, <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
+        'Les logements étudiants, on connaît par coeur. Taches de sauce sur le plan de travail, scotch double-face sur les murs, moquette qui a vu passer trois colocs, odeurs de cuisine qui s\'incrustent. On a les techniques pour traiter chaque problème sans que ça vous coûte votre caution.',
+        'On propose des tarifs adaptés pour les étudiants, avec des prestations calibrées sur les problèmes qu\'on retrouve à chaque fin de bail. C\'est rapide, efficace, et le logement est prêt pour le prochain locataire. Pour votre projet, <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
       ],
     },
     {
@@ -313,24 +313,24 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Préparation Optimale Avant Intervention',
       headingLevel: 3,
       paragraphs: [
-        'Pour maximiser l\'efficacité du nettoyage après déménagement et fin de bail Rouen, nous recommandons l\'évacuation complète des biens personnels et du mobilier. Cette préparation permet l\'accès intégral à toutes les surfaces et garantit un résultat optimal pour votre état des lieux dans l\'habitat rouennais complexe.',
-        'La planification de votre nettoyage après déménagement Rouen doit intégrer les spécificités climatiques normandes. Nous conseillons de programmer l\'intervention 72h avant l\'état des lieux pour permettre l\'aération complète et le séchage optimal du logement dans l\'environnement humide rouennais.',
+        'Pour qu\'on soit efficaces, il faut que le logement soit vide. Plus de meubles, plus de cartons, plus rien. On a besoin d\'accéder à chaque surface, chaque recoin, chaque mur. Si le canapé est encore là, on ne peut pas nettoyer dessous — et c\'est dessous que le proprio va regarder.',
+        'Idéalement, planifiez notre passage 2 à 3 jours avant l\'état des lieux. Ça laisse le temps au logement de sécher et de s\'aérer correctement. Un logement qui sent le propre et le frais le jour J, ça change tout pour la première impression.',
       ],
     },
     {
       heading: 'Optimisation des Résultats Techniques',
       headingLevel: 3,
       paragraphs: [
-        'L\'identification préalable des zones problématiques améliore significativement le nettoyage fin de bail Rouen. Nous analysons les points sensibles spécifiques à l\'habitat rouennais (humidité, calcaire, moisissures) pour adapter nos techniques et garantir une remise en état parfaite.',
-        'La coordination avec l\'agence immobilière ou le propriétaire optimise le nettoyage après déménagement et fin de bail Rouen. Cette communication permet d\'adapter notre intervention aux exigences spécifiques et d\'éviter les litiges lors de la restitution du logement dans le marché locatif rouennais.',
+        'Si vous savez déjà ce qui pose problème — le four jamais nettoyé, la tache de vin sur la moquette, les joints de la douche — dites-le nous avant. On adapte notre matériel et nos produits en conséquence, et on gagne du temps le jour J.',
+        'Si vous avez le contact de l\'agence ou du proprio, c\'est encore mieux. On peut leur demander leurs points d\'attention et s\'assurer que notre intervention colle exactement à leurs attentes. Zéro mauvaise surprise à l\'état des lieux.',
       ],
     },
     {
       heading: 'Conseils Post-Intervention Personnalisés',
       headingLevel: 3,
       paragraphs: [
-        'Après notre nettoyage après déménagement Rouen, quelques précautions préservent le résultat jusqu\'à l\'état des lieux. Le climat humide normand nécessite une surveillance de l\'aération et de l\'hygrométrie pour éviter la réapparition de moisissures ou d\'odeurs d\'humidité.',
-        'La documentation photographique professionnelle de l\'état post-nettoyage constitue une sécurité juridique pour votre nettoyage fin de bail Rouen. Ces preuves visuelles haute définition peuvent être déterminantes en cas de contestation lors de l\'état des lieux de sortie dans la <strong>métropole rouennaise</strong>.',
+        'Entre notre passage et l\'état des lieux, gardez les fenêtres entre-ouvertes si possible. Ça évite l\'humidité stagnante et les odeurs de renfermé. Ne cuisinez pas, ne prenez pas de douche — bref, ne salissez plus rien. L\'objectif, c\'est que le logement reste exactement comme on l\'a laissé.',
+        'On vous conseille aussi de prendre des photos juste après notre intervention. En cas de litige avec le propriétaire, ces preuves visuelles datées peuvent faire toute la différence. C\'est une <strong>sécurité juridique</strong> simple et gratuite qui protège votre caution.',
       ],
     },
   ],
@@ -346,24 +346,24 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Débarras Patrimoine Historique Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Le <strong>débarras de maison Rouen</strong> dans les bâtiments historiques nécessite une expertise patrimoniale que ProClean a spécialement développée pour l\'architecture rouennaise exceptionnelle. Nos techniciens spécialisés maîtrisent les contraintes des Monuments Historiques, les techniques de conservation respectueuses des matériaux ancestraux, et les procédures administratives spécifiques aux secteurs protégés.',
-        'Notre <strong>débarras appartement</strong> Rouen patrimonial collabore étroitement avec les services de la DRAC Normandie, les Architectes des Bâtiments de France, et les conservateurs du patrimoine. Cette approche institutionnelle garantit la conformité réglementaire et la préservation de l\'authenticité architecturale lors de chaque intervention.',
+        'Maison d\'un parent décédé pleine à craquer, cave remplie de bazar depuis 30 ans, grenier où on ne peut plus entrer — c\'est exactement pour ça qu\'on est là. Le <strong>débarras de maison Rouen</strong> par ProClean, c\'est simple : on s\'occupe de tout, vous n\'avez rien à porter. On vient, on trie, on évacue.',
+        'On fait le <strong>débarras appartement</strong> comme le débarras maison, quelle que soit la taille du chantier. Studio encombré ou pavillon sur trois niveaux, même méthode : on trie ce qui peut être donné, ce qui se recycle, et ce qui part en déchetterie. Rien ne finit n\'importe où.',
       ],
     },
     {
       heading: 'Débarras Professionnel et Commercial',
       headingLevel: 3,
       paragraphs: [
-        'Le débarras complet Rouen pour professionnels répond aux besoins spécifiques du <strong>tissu économique rouennais</strong> : fermeture de commerces rue du Gros-Horloge, déménagement d\'entreprises depuis les zones d\'activités de Saint-Étienne-du-Rouvray, liquidation d\'entrepôts dans le port autonome, réorganisation de bureaux dans les tours du centre d\'affaires.',
-        'Notre débarras maison et locaux Rouen professionnel propose des services haute valeur ajoutée : <strong>destruction certifiée</strong> d\'archives confidentielles selon les normes bancaires et juridiques, évacuation d\'équipements industriels spécialisés, traitement des déchets dangereux conformément aux réglementations sectorielles, coordination avec les mandataires judiciaires pour les liquidations. Dans les cas les plus sensibles, notre <a href="/nettoyage-diogene-rouen">intervention syndrome de Diogène</a> prend le relais avec un protocole sanitaire renforcé.',
+        'On intervient aussi pour les pros : fermeture de commerce, déménagement de bureau, liquidation d\'entrepôt, réorganisation de locaux. Vous nous dites ce qui part et ce qui reste, on gère le reste. Pas besoin de louer un camion ou de mobiliser vos équipes — c\'est notre métier.',
+        'Pour les entreprises, on propose aussi la <strong>destruction certifiée</strong> d\'archives confidentielles, l\'évacuation d\'équipements lourds, et le traitement réglementaire des déchets spéciaux. On peut se coordonner avec un mandataire judiciaire si c\'est une liquidation. Dans les cas les plus sensibles, notre <a href="/nettoyage-diogene-rouen">intervention syndrome de Diogène</a> prend le relais avec un protocole sanitaire renforcé.',
       ],
     },
     {
       heading: 'Débarras Universitaire et Étudiant',
       headingLevel: 3,
       paragraphs: [
-        'Le débarras de maison Rouen dans le secteur universitaire bénéficie de notre <strong>expertise spécialisée</strong> : logements étudiants du campus de Mont-Saint-Aignan, résidences CROUS, colocations du centre-ville, appartements meublés des propriétaires investisseurs. Cette clientèle spécifique nécessite des approches adaptées et des tarifs étudiés. Pour toute demande, <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
-        'Notre débarras appartement Rouen étudiant intègre des services pratiques : stockage temporaire pendant les vacances universitaires, tri des affaires personnelles et mobilier loué, coordination avec les propriétaires bailleurs, remise en état pour les nouveaux locataires. Cette expertise sectorielle facilite la rotation locative intensive du marché étudiant rouennais. La <a href="/nettoyage-appartement-rouen">remise en état complète des appartements</a> termine le processus de rotation locative.',
+        'Fin de bail étudiant, coloc qui se sépare, proprio qui récupère un meublé en vrac — on gère le débarras de A à Z avec notre <strong>expertise spécialisée</strong>. Meubles cassés, matelas usés, vaisselle dépareillée : on trie, on évacue, et le logement est prêt pour le suivant. Pour toute demande, <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>.',
+        'On peut aussi stocker temporairement des affaires, trier ce qui appartient au locataire et ce qui est au proprio, et se coordonner avec le bailleur pour la remise en location. L\'objectif : que le logement soit vide et propre le plus vite possible. La <a href="/nettoyage-appartement-rouen">remise en état complète des appartements</a> termine le processus pour une relocation rapide.',
       ],
     },
   ],
@@ -373,36 +373,36 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Ménage Régulier à Domicile : Sérénité et Régularité pour votre Quotidien Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Le service de ménage régulier <strong>ProClean</strong> à Rouen transforme votre rapport au temps libre en vous libérant définitivement des contraintes d\'entretien ménager. Nos équipes qualifiées interviennent selon votre rythme de vie : hebdomadaire pour les familles nombreuses, bi-mensuel pour les couples actifs, mensuel pour les résidences secondaires ou logements peu occupés. Cette flexibilité s\'adapte parfaitement à la diversité des modes de vie rouennais.',
-        'Notre protocole de <strong>ménage régulier</strong> rouennais intègre les spécificités locales : traitement préventif de l\'humidité liée à la proximité fluviale, attention particulière aux revêtements anciens des logements historiques, adaptation aux contraintes de stationnement du centre-ville, respect des horaires adaptés au rythme métropolitain. Chaque intervention comprend le dépoussiérage exhaustif de tous les meubles et surfaces avec attention aux moulures et ornements des logements anciens, l\'aspiration minutieuse de tous les sols en respectant les spécificités de chaque revêtement (tomettes anciennes, parquets classés, carrelages modernes), le lavage et la désinfection des sols avec des produits adaptés à leur nature et à leur âge, le nettoyage complet des sanitaires incluant détartrage renforcé nécessaire en région calcaire, l\'entretien approfondi de la cuisine avec dégraissage et désinfection de tous les équipements, le rangement respectueux de vos habitudes de vie rouennaises.',
-        'L\'agrément service à la personne de ProClean permet à nos clients rouennais de bénéficier de la réduction fiscale de 50%, rendant cette prestation particulièrement avantageuse. La régularité des interventions optimise l\'efficacité du nettoyage tout en préservant la beauté et la longévité de vos intérieurs, qu\'ils soient patrimoniaux ou contemporains.',
+        'Vous rentrez chez vous après une journée de travail et la dernière chose dont vous avez envie, c\'est de sortir l\'aspirateur. Le <strong>ménage régulier ProClean</strong> règle le problème : on s\'occupe de tout pendant que vous vivez votre vie. Intervention hebdomadaire si vous avez des enfants et un chien qui sème des poils partout, bi-mensuelle si vous êtes un couple actif, mensuelle si le logement est peu occupé. Vous choisissez le rythme, on s\'adapte.',
+        'Concrètement, chaque passage suit un protocole précis. On commence par le <strong>dépoussiérage</strong> de toutes les surfaces — y compris les moulures et les dessus d\'armoires que personne ne fait jamais. Aspiration de tous les sols en adaptant la technique au revêtement (on ne traite pas un parquet ancien comme un carrelage). Lavage et désinfection des sols. Nettoyage complet des sanitaires avec détartrage sérieux des robinets et de la douche — le calcaire, c\'est notre ennemi numéro un. Cuisine : dégraissage de la plaque, du plan de travail, des façades de meubles. Et on remet tout en place comme vous aimez.',
+        'Bonus non négligeable : l\'agrément service à la personne de ProClean vous donne droit à une réduction fiscale de 50%. Un ménage pro à moitié prix, ça vaut le coup d\'y réfléchir. Et plus on vient régulièrement, plus c\'est efficace — la crasse n\'a jamais le temps de s\'installer.',
       ],
     },
     {
       heading: 'Grand Ménage de Printemps : Renaissance Saisonnière de votre Habitat Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Le <strong>grand ménage de printemps</strong> ProClean à Rouen constitue un véritable rituel de renouveau pour votre habitat normand. Cette prestation intensive annuelle élimine les traces de l\'hiver rouennais : humidité accumulée, dépôts de pollution urbaine, encrassement des surfaces exposées aux intempéries. Notre intervention redonnes éclat et fraîcheur à votre logement pour accueillir les beaux jours dans les meilleures conditions.',
-        'Notre protocole de grand ménage de printemps s\'adapte aux particularités climatiques et architecturales rouennaises. Il inclut le nettoyage exhaustif de tous les sols avec traitement spécifique selon leur nature (pierres anciennes, parquets historiques, revêtements modernes), le dépoussiérage complet incluant les zones complexes d\'accès typiques des logements rouennais (poutres apparentes, alcôves, recoins architecturaux), le nettoyage des vitres intérieures et extérieures avec attention particulière aux fenêtres à petits carreaux du patrimoine ancien, le lavage des murs et plafonds adapté à leurs revêtements (badigeons anciens, peintures modernes, tapisseries), le nettoyage intensif des sanitaires avec détartrage renforcé nécessaire en région calcaire normande, le dégraissage complet de la cuisine incluant équipements et rangements intérieurs, le traitement des espaces de rangement avec désinfection préventive contre l\'humidité, la remise à neuf des points de contact (poignées, interrupteurs, rampes d\'escalier), le nettoyage des espaces extérieurs privatifs (balcons, terrasses, cours intérieures).',
-        'Cette intervention complète révèle la beauté authentique de votre logement rouennais et crée un environnement sain propice au bien-être familial. L\'expertise de nos équipes dans le traitement des matériaux anciens garantit un résultat respectueux du patrimoine et durable dans le temps.',
+        'Le <strong>grand ménage de printemps</strong>, c\'est celui que vous repoussez depuis des mois. La poussière sur les moulures, le calcaire incrusté sur les robinets, les joints de salle de bain qui ont viré au noir, le four qu\'on n\'ose plus ouvrir. Après l\'hiver, tout s\'est accumulé : humidité, poussière, crasse. ProClean débarque et on remet tout à zéro.',
+        'On attaque de haut en bas, pièce par pièce. Dépoussiérage complet — y compris les endroits qu\'on oublie toujours : dessus de meubles, poutres apparentes, recoins derrière les radiateurs. Nettoyage des vitres intérieures et extérieures. Lavage des murs et plafonds. Sanitaires : détartrage en profondeur, joints traités à l\'anti-moisissures. Cuisine : dégraissage complet des équipements, y compris l\'intérieur des placards. Les espaces de rangement sont désinfectés. Poignées, interrupteurs, rampes d\'escalier — tout est nettoyé. Balcon, terrasse, cour intérieure si vous en avez : on s\'en occupe aussi.',
+        'Le résultat, c\'est un appart qui sent le propre et qui brille. Pas juste en surface — en profondeur. Et nos équipes savent faire la différence entre un parquet ancien qu\'il faut traiter avec précaution et un carrelage moderne qu\'on peut attaquer plus fort. Chaque matériau a son traitement.',
       ],
     },
     {
       heading: 'Nettoyage Avant et Après Déménagement : Excellence pour vos Transitions Immobilières Rouennaises',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage avant ou après déménagement <a href="/nettoyage-apres-demenagement-rouen">ProClean à Rouen</a> garantit des transitions immobilières sereines dans un marché locatif exigeant. Notre connaissance précise des standards imposés par les agences immobilières rouennaises et les bailleurs privés nous permet de proposer un service d\'état des lieux parfaitement adapté aux attentes locales, assurant récupération intégrale des cautions et emménagement dans un environnement impeccable.',
-        'Notre protocole de nettoyage d\'état des lieux rouennais répond aux exigences les plus strictes du marché immobilier local. Il comprend le nettoyage intégral de toutes les pièces avec attention particulière aux spécificités architecturales rouennaises, l\'élimination minutieuse de toutes traces sur murs et plafonds (impacts, résidus adhésifs, marques de cadres), le traitement spécialisé de la cuisine avec dégraissage intensif, nettoyage de tous les électroménagers et détartrage complet des robinetteries, le nettoyage exhaustif des sanitaires incluant joints, évacuations et traitement anti-calcaire renforcé, le nettoyage de toutes les vitres côtés intérieur et extérieur avec attention aux menuiseries anciennes, le dépoussiérage complet des équipements techniques (radiateurs, ventilations, systèmes de chauffage), l\'élimination de toutes traces de mobilier sur sols et murs, le nettoyage des espaces de rangement, placards et dépendances.',
-        'Notre expertise du marché immobilier rouennais nous permet de conseiller nos clients sur les points de vigilance spécifiques aux différents quartiers et types de logements. Cette approche préventive évite les litiges et garantit des transitions immobilières apaisées.',
+        'Vous venez d\'emménager et l\'ancien locataire a laissé une couche de crasse partout ? Ou vous partez et vous voulez récupérer l\'intégralité de votre caution ? Le <a href="/nettoyage-apres-demenagement-rouen">nettoyage avant ou après déménagement ProClean</a> est fait pour ça. On connaît les standards des agences et des propriétaires — et on sait exactement ce qu\'ils vérifient lors de l\'état des lieux.',
+        'On passe tout au peigne fin : élimination des traces sur les murs (trous de chevilles, résidus adhésifs, marques de cadres), dégraissage intensif de la cuisine avec nettoyage de tous les électroménagers et détartrage des robinets, sanitaires nettoyés à fond — joints, évacuations, anti-calcaire. Toutes les vitres, intérieur et extérieur. Radiateurs, ventilations, systèmes de chauffage dépoussiérés. Les traces de meubles sur les sols et les murs, on les élimine. Placards, rangements, dépendances — tout est nettoyé.',
+        'On vous conseille aussi sur les points que les agences regardent en premier. Les joints de salle de bain, l\'intérieur du four, les traces de calcaire sur la robinetterie — c\'est souvent là que ça coince. Avec ProClean, zéro litige à l\'état des lieux.',
       ],
     },
     {
       heading: 'Remise en État Après Travaux : Votre Logement Rouennais Transformé Clé en Main',
       headingLevel: 3,
       paragraphs: [
-        'La remise en état après travaux ProClean à Rouen transforme votre chantier en véritable cocon de vie immédiatement habitable. Notre équipe spécialisée maîtrise parfaitement les techniques d\'élimination des résidus de chantier spécifiques aux différents corps de métier intervenant à Rouen : restauration du patrimoine ancien, rénovation énergétique, aménagements contemporains.',
-        'Notre protocole de nettoyage après travaux s\'adapte à tous types d\'interventions courantes à Rouen : restauration de logements historiques, rénovation énergétique, installation d\'équipements modernes, réfection complète. Il inclut l\'élimination totale des poussières fines de chantier par aspiration professionnelle et techniques humides, le nettoyage spécialisé des résidus selon leur nature (plâtre, peinture, colle, mortier, résines), le décapage et traitement des sols salis ou tachés par les travaux, le nettoyage expert des vitres et menuiseries avec élimination des résidus adhésifs et protections, le traitement des surfaces neuves pour révéler leur beauté définitive, la désinfection complète pour éliminer poussières et résidus potentiellement nocifs.',
-        'Cette prestation technique requiert un savoir-faire spécialisé et des équipements professionnels que seule une entreprise expérimentée peut garantir. Nos agents formés aux spécificités du nettoyage post-travaux redonnent vie à votre projet immobilier rouennais.',
+        'Vos travaux sont terminés, mais votre appart ressemble encore à un chantier. Poussière de plâtre partout, projections de peinture sur les vitres, résidus de colle au sol, film blanc sur tous les meubles. Vous n\'allez pas vivre là-dedans. La remise en état après travaux ProClean transforme ce chaos en un logement habitable — le jour même.',
+        'On commence par aspirer toute la poussière fine avec du matériel pro à filtration HEPA — pas un aspirateur domestique qui recrache la moitié dans l\'air. Ensuite, nettoyage des résidus selon leur nature : le plâtre ne se traite pas comme la peinture ou la colle. Sols décapés et traités. Vitres nettoyées avec élimination des résidus adhésifs et des protections. Les surfaces neuves sont traitées pour révéler leur aspect final. Et on désinfecte tout pour éliminer les poussières nocives.',
+        'C\'est un travail technique qui demande du matériel pro et des agents formés. Avec un balai et du produit vaisselle, vous y passeriez un week-end entier sans résultat satisfaisant. Nos équipes font ça tous les jours — le résultat est incomparable.',
       ],
     },
     {
@@ -415,99 +415,99 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Étape 1 : Diagnostic Personnalisé et Évaluation Technique Approfondie',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention ProClean à Rouen débute par un diagnostic technique complet de votre logement. Notre responsable régional se déplace gratuitement pour évaluer précisément vos besoins, identifier les caractéristiques spécifiques de votre appartement ou maison rouennaise (époque de construction, matériaux, équipements, exposition), analyser les contraintes environnementales (humidité, pollution, accessibilité), et définir avec vous le niveau de prestation optimal.',
-        'Cette étape fondamentale nous permet d\'établir un devis rouennais personnalisé, de planifier l\'intervention dans les meilleures conditions logistiques (stationnement, accès, horaires), et de vous présenter nos recommandations d\'expert pour l\'entretien optimal de votre <strong>patrimoine immobilier</strong>. Nous intégrons également vos contraintes personnelles : présence d\'enfants, d\'animaux, d\'œuvres d\'art, de collections, ou de zones particulièrement sensibles.',
+        'Avant de commencer quoi que ce soit, on vient chez vous gratuitement pour voir de quoi il s\'agit. Taille du logement, type de sols, état des surfaces, points problématiques (moisissures dans la salle de bain ? Graisse incrustée dans la cuisine ? Calcaire partout ?). On regarde aussi les contraintes pratiques : accès, stationnement, horaires qui vous arrangent.',
+        'Résultat : un devis précis, sans surprise, adapté à votre situation. On prend aussi en compte vos contraintes personnelles — enfants en bas âge, animaux, objets fragiles, zones sensibles. Tout ça pour vous proposer la meilleure intervention possible pour votre <strong>patrimoine immobilier</strong>.',
       ],
     },
     {
       heading: 'Étape 2 : Préparation Méticuleuse et Protection Patrimoniale',
       headingLevel: 3,
       paragraphs: [
-        'La phase de préparation revêt une importance cruciale dans le contexte rouennais où de nombreux logements présentent des éléments patrimoniaux ou des équipements de valeur. Elle inclut la protection renforcée des meubles anciens, œuvres d\'art et objets de collection, l\'identification et sécurisation des équipements électroniques et installations sensibles, la préparation optimisée des zones de travail pour maximiser l\'efficacité, la vérification et test de tous les équipements et produits spécialisés.',
-        'Nos équipes rouennaises sont particulièrement formées au respect du patrimoine et à la manipulation délicate des biens de valeur. Cette expertise particulière garantit la préservation intégrale de vos biens tout en optimisant les conditions d\'intervention.',
+        'Avant de toucher à quoi que ce soit, on protège. Meubles, objets de valeur, appareils électroniques — tout ce qui est fragile est sécurisé. On prépare les zones de travail pour être efficaces sans rien abîmer. On vérifie et on teste nos équipements et nos produits sur place.',
+        'Nos équipes sont formées à manipuler les biens avec précaution. Ça paraît évident, mais c\'est la différence entre un pro et quelqu\'un qui casse un vase en passant l\'aspirateur. Vos affaires sont en sécurité.',
       ],
     },
     {
       heading: 'Étape 3 : Dépoussiérage Systématique et Préparation des Surfaces',
       headingLevel: 3,
       paragraphs: [
-        'Le dépoussiérage préalable constitue la base indispensable de toute intervention de qualité. Adapté aux spécificités architecturales rouennaises, il comprend le traitement de tous les éléments horizontaux et verticaux en respectant la logique gravitationnelle, l\'attention particulière aux ornements, moulures et éléments décoratifs typiques de l\'architecture rouennaise, le dépoussiérage spécialisé des équipements techniques (radiateurs anciens, installations électriques apparentes), la préparation des surfaces selon leur nature et leur sensibilité.',
-        'Nos techniques de dépoussiérage utilisent des équipements adaptés : microfibres électrostatiques pour les surfaces délicates, brosses spécialisées pour les reliefs complexes, aspirateurs à filtration HEPA pour la capture des particules fines. Cette préparation conditionne directement la qualité de toutes les phases suivantes.',
+        'On commence toujours par le haut et on descend. Plafonds, luminaires, dessus de meubles, étagères, moulures, radiateurs — la poussière tombe, on la récupère en descendant. C\'est logique, mais beaucoup de gens font l\'inverse et repassent deux fois. On dépoussiére aussi les équipements techniques : radiateurs, grilles de ventilation, prises et interrupteurs.',
+        'On utilise des microfibres électrostatiques pour les surfaces délicates, des brosses spéciales pour les reliefs et les recoins, et des aspirateurs à filtration HEPA qui captent les particules fines au lieu de les remettre en suspension dans l\'air. Cette étape conditionne tout le reste — si on la bâcle, le nettoyage qui suit sera médiocre.',
       ],
     },
     {
       heading: 'Étape 4 : Nettoyage Spécialisé Adapté aux Spécificités Rouennaises',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage spécialisé par zones représente le cœur technique de notre intervention rouennaise. Chaque espace bénéficie d\'un traitement expert adapté à sa fonction et à ses matériaux. La cuisine fait l\'objet d\'un dégraissage professionnel avec des produits adaptés aux différentes surfaces et époques, suivi d\'un nettoyage complet de tous les équipements. Les sanitaires reçoivent un traitement anti-calcaire renforcé adapté à la dureté de l\'eau rouennaise, avec attention particulière aux joints et évacuations.',
-        'Les espaces de vie bénéficient d\'un nettoyage respectueux des matériaux patrimoniaux ou contemporains selon les cas : parquets anciens, tomettes d\'époque, carrelages modernes, revêtements textiles. Nos agents maîtrisent les techniques spécifiques à chaque matériau pour garantir efficacité et préservation.',
+        'Chaque pièce a son protocole. La cuisine, c\'est dégraissage intensif : hotte, plaques, four, façades de meubles, plan de travail. On ne se contente pas de passer un coup d\'éponge — on dégraisse vraiment, avec des produits pro qui dissolvent la graisse cuite. La salle de bain, c\'est la guerre au calcaire : détartrage des robinets, de la douche, traitement anti-moisissures sur les joints. L\'eau est dure ici, ça se voit sur les parois.',
+        'Les pièces de vie, on adapte selon le sol. Un parquet ancien, on le lave avec un produit adapté et une serpillière bien essorée — pas question de le noyer. Des tomettes, du carrelage, de la moquette : chaque revêtement a sa technique. Nos agents connaissent la différence et ne font pas n\'importe quoi.',
       ],
     },
     {
       heading: 'Étape 5 : Traitement Expert des Sols et Finitions de Qualité',
       headingLevel: 3,
       paragraphs: [
-        'Le traitement des sols rouennais nécessite une expertise particulière compte tenu de la diversité des revêtements rencontrés : pavés anciens, tomettes d\'époque, parquets classés, carrelages contemporains, revêtements souples modernes. Chaque type reçoit un traitement spécialisé avec des produits et techniques appropriés.',
-        'Les finitions incluent le traitement méticuleux des plinthes et moulures, l\'élimination de toutes traces et auréoles, l\'application de produits de protection pour préserver la beauté des sols dans le temps. Cette attention au détail différencie une prestation amateur d\'un service professionnel de référence.',
+        'Les sols, c\'est ce qui se voit le plus et ce qui prend le plus cher à remplacer. Parquet, tomettes, carrelage, lino — chaque type de sol a besoin d\'un produit et d\'une technique différente. Utiliser le mauvais produit sur un parquet ancien, c\'est le moyen le plus sûr de l\'abîmer.',
+        'Les finitions font toute la différence : plinthes essuyées, moulures propres, traces et auréoles éliminées. On applique aussi des produits de protection pour que vos sols restent beaux plus longtemps. C\'est ce souci du détail qui sépare un nettoyage pro d\'un coup de balai du dimanche.',
       ],
     },
     {
       heading: 'Étape 6 : Contrôle Qualité Rigoureux et Validation Client Systématique',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention ProClean à Rouen s\'achève par un contrôle qualité exhaustif effectué par notre responsable d\'équipe régional. Cette vérification garantit le respect de nos standards d\'excellence et la conformité parfaite à vos attentes spécifiques. Le tour complet de votre logement en votre présence permet de valider chaque zone traitée et de s\'assurer de votre satisfaction totale.',
-        'Cette démarche qualité systématique maintient notre niveau d\'excellence et nous permet de bénéficier de vos retours pour l\'amélioration continue de nos services rouennais. Votre satisfaction constitue notre unique validation.',
+        'On ne part pas sans vérifier. Notre responsable d\'équipe fait le tour complet du logement avec vous, pièce par pièce. Si quelque chose ne vous convient pas, on le refait sur place. C\'est aussi simple que ça.',
+        'Vos retours comptent. Si un point n\'est pas parfait, on veut le savoir pour corriger immédiatement — pas dans deux jours par email. Votre satisfaction, c\'est notre seule validation.',
       ],
     },
     {
       heading: 'Innovations Techniques et Équipements de Pointe pour Rouen',
       headingLevel: 2,
       paragraphs: [
-        'ProClean investit massivement dans les technologies de nettoyage les plus avancées pour offrir à sa clientèle rouennaise des prestations à la pointe de l\'innovation technique. Nos équipements incluent des aspirateurs à filtration HEPA haute performance pour capturer allergènes et particules fines, des mono-brosses professionnelles pour le traitement optimal des sols durs, des injecteurs-extracteurs pour l\'entretien des tapis et moquettes, des nettoyeurs vapeur haute température pour désinfection écologique, des équipements de nettoyage vitres garantissant un résultat parfait sans traces.',
-        'Nos produits de nettoyage professionnels sont rigoureusement sélectionnés pour leur efficacité maximale et leur respect environnemental. Nous privilégions les formulations concentrées écologiques certifiées par les organismes de référence. Cette approche garantit des résultats supérieurs tout en préservant la qualité de l\'air intérieur et en limitant notre impact environnemental.',
-        'La formation permanente de nos équipes rouennaises constitue un investissement prioritaire. Nos agents bénéficient de formations régulières aux techniques innovantes, à l\'utilisation des équipements dernière génération, aux spécificités des matériaux patrimoniaux et contemporains, aux normes évolutives de sécurité et d\'hygiène. Cette politique garantit un service toujours optimal.',
+        'On ne travaille pas avec du matériel de supermarché. Nos équipements : aspirateurs à filtration HEPA qui captent les allergènes et les particules fines, mono-brosses professionnelles pour les sols durs, injecteurs-extracteurs pour les tapis et moquettes, nettoyeurs vapeur haute température pour désinfecter sans chimie, et du matériel de nettoyage de vitres qui garantit zéro trace.',
+        'Nos produits sont sélectionnés pour deux critères : efficacité et sécurité. On privilégie les formulations concentrées écologiques certifiées. Ça veut dire de vrais résultats sans empoisonner l\'air que vous respirez chez vous. Pas de compromis là-dessus.',
+        'Nos agents sont formés en continu : nouvelles techniques, nouveaux équipements, spécificités des différents matériaux, normes de sécurité et d\'hygiène. Ce n\'est pas juste du nettoyage — c\'est un métier technique, et nos équipes le maîtrisent.',
       ],
     },
     {
       heading: 'Spécificités du Nettoyage à Rouen : Notre Expertise Normande Approfondie',
       headingLevel: 2,
       paragraphs: [
-        'Le <strong>nettoyage d\'appartements et maisons à Rouen</strong> présente des défis uniques liés à l\'environnement urbain et fluvial normand. ProClean a développé une expertise spécialisée pour traiter les problématiques caractéristiques de la métropole rouennaise : humidité constante due à la proximité de la Seine et aux vallées encaissantes, pollution urbaine et industrielle nécessitant des traitements spécifiques, diversité architecturale extrême entre patrimoine médiéval et constructions ultra-modernes, variations micro-climatiques entre centre-ville et coteaux.',
-        'Nos techniques adaptées au contexte rouennais incluent l\'utilisation de produits anti-humidité préventifs renforcés, des traitements spécialisés contre moisissures et champignons spécifiques au climat de vallée, des méthodes de décontamination urbaine pour éliminer particules fines et résidus atmosphériques, des protocoles de nettoyage différenciés selon l\'exposition et l\'altitude des logements.',
-        'Notre connaissance fine de la géographie rouennaise nous permet d\'adapter nos interventions aux spécificités de chaque secteur. Les logements de la rive droite subissent des contraintes d\'humidité différentes de ceux des hauteurs. Le centre historique nécessite des précautions particulières tandis que les quartiers modernes bénéficient de techniques contemporaines. Cette expertise territoriale optimise la qualité et la durabilité de nos prestations.',
+        'Le <strong>nettoyage d\'appartements et maisons à Rouen</strong> a ses particularités. L\'humidité est un problème récurrent — les moisissures dans les salles de bain, les traces d\'humidité sur les murs, le calcaire qui s\'incruste sur tout ce qui touche à l\'eau. Ajoutez la pollution urbaine qui dépose un voile gris sur les surfaces exposées, et vous comprenez pourquoi un nettoyage standard ne suffit pas toujours.',
+        'C\'est pour ça qu\'on utilise des produits anti-humidité préventifs, des traitements spécialisés contre les moisissures et les champignons, des méthodes pour éliminer les particules fines et la pollution qui se déposent. On adapte nos protocoles selon votre logement : un rez-de-chaussée humide ne se traite pas comme un dernier étage bien ventilé.',
+        'Un appartement en centre-ville avec des moulures et du parquet ancien ne se nettoie pas comme un T3 récent dans un quartier neuf. On adapte : produits doux pour les matériaux fragiles, techniques plus musclées quand le sol et les surfaces le permettent. Le but, c\'est un résultat impeccable qui dure, pas un coup de propre qui disparaît en deux jours.',
       ],
     },
     {
       heading: 'Engagements Qualité ProClean Rouen : Vos Garanties Concrètes',
       headingLevel: 2,
       paragraphs: [
-        'ProClean Rouen s\'engage à vos côtés avec des garanties mesurables et vérifiables :',
-        'Garantie Satisfaction Totale : Reprise gratuite sous 48h en cas de non-conformité constatée, Service client rouennais réactif et personnalisé, Suivi qualité systématique après chaque intervention avec questionnaire de satisfaction',
-        'Garantie Sécurité Maximale : Personnel sélectionné, formé et assuré responsabilité civile professionnelle, Respect strict des consignes de sécurité adaptées aux spécificités rouennaises, Utilisation exclusive de produits certifiés conformes aux normes européennes les plus strictes, Protection systématique de vos biens avec matériel professionnel adapté',
-        'Garantie Ponctualité Absolue : Respect scrupuleux des horaires convenus avec marge de sécurité, Information immédiate par SMS/téléphone en cas d\'imprévu avec solution alternative, Flexibilité maximale pour s\'adapter à vos contraintes personnelles et professionnelles',
-        'Garantie Environnementale : Produits respectueux de l\'environnement avec certifications écologiques reconnues, Gestion responsable des déchets selon les filières rouennaises appropriées, Optimisation des déplacements pour réduire l\'empreinte carbone sur l\'agglomération',
+        'Chez ProClean, on ne fait pas de promesses en l\'air. Voici nos engagements concrets :',
+        'Garantie Satisfaction : Quelque chose ne va pas ? On revient sous 48h et on reprend gratuitement. Un vrai service client qui répond au téléphone et qui suit la qualité après chaque intervention.',
+        'Garantie Sécurité : Personnel sélectionné, formé et couvert par une assurance responsabilité civile professionnelle. Produits certifiés conformes aux normes européennes. Protection de vos biens avec du matériel adapté — on ne prend pas de risques.',
+        'Garantie Ponctualité : On arrive à l\'heure prévue. En cas d\'imprévu (ça arrive), on vous prévient immédiatement par SMS ou téléphone avec une solution alternative. On s\'adapte à vos contraintes, pas l\'inverse.',
+        'Garantie Environnement : Produits écologiques certifiés, gestion responsable des déchets, déplacements optimisés. On fait le ménage sans salir la planète.',
       ],
     },
     {
       heading: 'Services Complémentaires : L\'Offre Intégrée ProClean Rouen',
       headingLevel: 2,
       paragraphs: [
-        'Au-delà du nettoyage d\'appartements et maisons, ProClean Rouen vous propose une gamme complète de services spécialisés pour l\'entretien global de votre habitat normand :',
-        'Entretien des Vitres : <a href="/nettoyage-vitres-rouen">Nettoyage intérieur et extérieur</a> avec techniques anti-traces, Traitement des baies vitrées et vérandas avec équipement professionnel, Maintenance des menuiseries anciennes avec respect du patrimoine',
-        'Remise à Neuf des Textiles : Nettoyage professionnel de canapés et fauteuils avec techniques injection-extraction, Traitement spécialisé des tapis et moquettes adapté à leurs fibres, Assainissement des matelas avec élimination des acariens et allergènes',
-        'Espaces Extérieurs : Nettoyage haute pression de terrasses et allées avec traitement préventif, Remise en état de cours et cheminements privés, Nettoyage de façades avec techniques adaptées aux matériaux rouennais',
-        'Prestations Spécialisées : Débarras et désencombrement avec tri sélectif, Nettoyage post-sinistre avec coordination assurance, Remise en état de biens en succession avec discrétion garantie',
+        'On ne fait pas que le ménage classique. ProClean propose aussi des prestations spécialisées pour tout ce qui concerne votre logement :',
+        'Vitres : <a href="/nettoyage-vitres-rouen">Nettoyage intérieur et extérieur</a> sans traces, baies vitrées et vérandas avec du matériel pro, entretien des menuiseries — même les anciennes qu\'il faut manipuler avec précaution.',
+        'Textiles : Nettoyage de canapés et fauteuils par injection-extraction (la technique qui aspire la saleté en profondeur), tapis et moquettes traités selon leurs fibres, matelas assainis avec élimination des acariens et allergènes.',
+        'Extérieur : Terrasses et allées nettoyées au haute pression avec traitement préventif anti-mousse, cours et cheminements remis en état, façades nettoyées avec des techniques adaptées au matériau.',
+        'Cas particuliers : Débarras et désencombrement avec tri sélectif, nettoyage après un sinistre (on coordonne avec votre assurance), remise en état de biens en succession — avec la discrétion que ça demande.',
       ],
     },
     {
       heading: 'ProClean Rouen : Votre Partenaire Propreté de Référence',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour l\'entretien de votre appartement ou maison à Rouen, c\'est opter pour l\'excellence du service résidentiel normand et la sérénité au quotidien. Notre expertise locale approfondie, développée grâce à notre connaissance intime de l\'agglomération rouennaise, nous permet de proposer des solutions parfaitement calibrées aux spécificités de votre logement et de votre environnement de vie.',
-        'Notre engagement qualité se matérialise par des résultats visibles immédiatement et durables dans le temps. Nos équipes expertes utilisent exclusivement des équipements de pointe et des produits certifiés pour garantir un nettoyage en profondeur respectueux de votre santé, de votre patrimoine et de l\'environnement normand.',
-        'La flexibilité de notre offre nous permet de nous adapter parfaitement à la diversité des modes de vie rouennais. Que vous ayez besoin d\'un entretien ponctuel ou régulier, d\'une <strong>remise en état complète</strong> ou d\'un rafraîchissement saisonnier, ProClean a la solution experte adaptée à votre situation particulière.',
-        'Rejoignez dès aujourd\'hui les nombreuses familles rouennaises qui font confiance à ProClean pour l\'entretien de leur logement. Découvrez le plaisir de retrouver chaque jour un intérieur impeccable sans contrainte personnelle. Contactez-nous immédiatement pour votre devis gratuit et personnalisé ! <a href="/devis-gratuit-rouen">devis gratuit en ligne</a>.',
-        'ProClean Rouen - L\'excellence normande du nettoyage résidentiel depuis 2020',
+        'ProClean, c\'est simple : vous nous confiez votre ménage, et vous récupérez votre temps libre. Plus besoin de sacrifier votre samedi matin pour frotter la douche. On connaît les logements de la région, leurs matériaux, leurs problèmes récurrents — et on sait comment les traiter.',
+        'Le résultat se voit tout de suite et dure dans le temps. On utilise du matériel pro et des produits certifiés — pas de compromis entre efficacité et respect de votre santé.',
+        'Entretien ponctuel ou régulier, <strong>remise en état complète</strong> ou coup de frais saisonnier — on a la formule qui correspond à votre situation. Pas de forfait rigide : on s\'adapte à ce dont vous avez vraiment besoin.',
+        'Essayez une fois, vous comprendrez pourquoi nos clients ne reviennent plus au ménage par eux-mêmes. Contactez-nous pour un devis gratuit et personnalisé — on vous répond sous 24h. <a href="/devis-gratuit-rouen">devis gratuit en ligne</a>.',
+        'ProClean Rouen — Votre ménage, notre métier, depuis 2020.',
       ],
     },
   ],
@@ -517,17 +517,17 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Intérieur Voiture à Rouen - ProClean, Innovation Mobile au Cœur de la Normandie',
       headingLevel: 2,
       paragraphs: [
-        'ProClean étend son expertise automobile reconnue au <strong>nettoyage intérieur voiture</strong> à domicile à Rouen, apportant à la capitale normande l\'excellence de nos services mobiles éprouvés. Fort de notre succès havrais, nous investissons le territoire rouennais avec la même exigence de qualité et d\'innovation qui fait notre réputation. Que votre véhicule soit stationné dans le centre historique de Rouen, sur les hauteurs de Bonsecours, ou dans les nouveaux quartiers de la rive gauche, notre équipe mobile spécialisée intervient avec efficacité pour redonner à votre habitacle propreté, fraîcheur et confort optimal.',
-        'L\'implantation de notre service mobile à Rouen répond à une demande croissante de praticité et d\'excellence dans l\'entretien automobile. Notre approche avancée élimine toutes les contraintes traditionnelles : plus besoin de vous déplacer vers des centres de lavage bondés, plus d\'attente interminable, plus d\'horaires imposés. <strong>ProClean</strong> s\'adapte parfaitement à votre emploi du temps et intervient exactement où vous le souhaitez : devant votre domicile du Plateau-Est, sur votre parking d\'entreprise de la Tecknopole, ou dans la cour de votre résidence des Sapins. Cette flexibilité inégalée s\'accompagne d\'une expertise technique de premier plan, garantissant des résultats professionnels dignes des meilleurs spécialistes automobile.',
+        'L\'intérieur de votre voiture sent le chien mouillé, le McDo de la semaine dernière et vaguement la cigarette du propriétaire précédent ? On s\'en occupe. Sièges, tapis, plafond, coffre — tout y passe. Notre équipe de <strong>nettoyage intérieur voiture</strong> se déplace directement chez vous, sur votre parking ou devant votre bureau. Pas besoin de faire la queue dans un centre de lavage.',
+        'On sait que personne n\'a envie de passer son samedi à nettoyer sa voiture. C\'est pour ça que <strong>ProClean</strong> vient à vous. Miettes entre les sièges, taches de café sur la console, poils de chien incrustés dans la banquette, traces de chaussures boueuses sur les tapis — on traite tout sur place, avec du matériel pro. Vous nous donnez vos clés, vous récupérez une voiture propre.',
       ],
     },
     {
       heading: 'ProClean Rouen : Expertise Mobile et Savoir-Faire Normand',
       headingLevel: 2,
       paragraphs: [
-        'Le déploiement de notre service de nettoyage intérieur voiture mobile à Rouen s\'appuie sur une analyse fine des spécificités locales. L\'environnement rouennais présente des défis particuliers pour l\'entretien automobile : humidité constante due à la proximité de la Seine et au relief de vallée, pollution urbaine et industrielle, circulation dense générant poussières et résidus atmosphériques. Ces conditions spécifiques nécessitent des adaptations techniques que seule notre expérience régionale peut maîtriser parfaitement.',
-        'Notre équipe rouennaise spécialisée bénéficie d\'une formation approfondie aux particularités climatiques et environnementales locales. Nous adaptons nos techniques, nos produits et nos équipements aux contraintes spécifiques du territoire : traitement préventif contre l\'humidité, produits adaptés à la qualité de l\'eau locale, techniques renforcées contre les pollutions urbaines caractéristiques des vallées industrielles.',
-        'La logistique mobile optimisée pour Rouen prend en compte les contraintes de circulation, de stationnement et d\'accessibilité propres à la métropole normande. Nos équipes maîtrisent parfaitement les spécificités de chaque quartier, des ruelles étroites du centre historique aux voiries modernes des zones d\'extension, garantissant une intervention efficace dans tous les environnements. La technique est similaire à notre <a href="/nettoyage-canape-rouen">nettoyage de canapé à Rouen</a>, adaptée aux tissus automobiles.',
+        'Une voiture, ça prend tout : poussière, pollen, miettes, poils d\'animaux, transpiration dans les sièges. Ajoutez à ça les chaussures mouillées en hiver et les glaces fondues des enfants en été. Au bout de quelques mois, l\'intérieur est méconnaissable. L\'aspirateur domestique ne suffit plus — il faut un nettoyage en profondeur avec du matériel qui aspire vraiment.',
+        'On utilise des produits adaptés à chaque matériau : cuir, tissu, alcantara, plastique. Pas de produit générique qui laisse un film gras sur le tableau de bord. Chaque surface reçoit son traitement spécifique pour un résultat propre et durable, pas juste un coup de chiffon cosmétique.',
+        'On vient avec tout notre matériel : aspirateur pro, injecteur-extracteur, produits de détachage, vapeur. On est autonomes, on n\'a besoin de rien chez vous. Que votre voiture soit garée dans une rue, un parking souterrain ou votre allée — on s\'adapte. La technique est similaire à notre <a href="/nettoyage-canape-rouen">nettoyage de canapé à Rouen</a>, adaptée aux tissus automobiles.',
       ],
     },
     {
@@ -539,36 +539,36 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Intérieur Express : Efficacité et Rapidité Rouennaises',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage intérieur express à Rouen répond aux besoins des actifs rouennais pressés par le temps mais exigeants sur la qualité. Cette prestation optimisée concentre l\'essentiel de nos techniques en une intervention de 30 minutes, parfaite pour maintenir régulièrement la propreté de votre habitacle sans contrainte majeure d\'organisation.',
-        'Le protocole express rouennais comprend l\'aspiration complète et méthodique de tous les sièges, sols et espaces de rangement avec notre équipement haute performance, le dépoussiérage systématique du tableau de bord et des surfaces plastiques avec des produits adaptés aux matériaux automobiles, le nettoyage des vitres intérieures pour une visibilité parfaite et une luminosité optimale, le traitement des tapis avec élimination des salissures superficielles, la désinfection des points de contact principaux (volant, levier de vitesse, poignées de portes), la pulvérisation d\'un désodorisant professionnel adapté aux habitacles automobiles.',
-        'Cette prestation express transforme rapidement l\'ambiance de votre véhicule, éliminant efficacement les traces du quotidien tout en préservant un budget maîtrisé. Idéale pour l\'entretien régulier ou la préparation rapide avant un rendez-vous important.',
+        'Formule express en 30 minutes : vous n\'avez pas le temps de bloquer une demi-journée, on comprend. Cette formule va à l\'essentiel — aspiration complète, nettoyage des surfaces, vitres intérieures, désodorisant pro. Vous repartez avec une voiture propre sans y passer la journée.',
+        'Concrètement, on aspire tout : sièges, sols, coffre, recoins entre les sièges où s\'accumulent les miettes. On dépoussiére le tableau de bord et les plastiques avec des produits adaptés, on nettoie les vitres intérieures (fini le film gras qui vous éblouit au soleil), on désinfecte le volant, le levier de vitesse et les poignées, et on termine avec un désodorisant pro qui ne sent pas le sapin de station-service.',
+        'C\'est la formule idéale pour un entretien régulier ou quand vous avez un rendez-vous client et que votre voiture ressemble à une poubelle. Petit budget, gros résultat.',
       ],
     },
     {
       heading: 'Nettoyage Intérieur Complet : Excellence Professionnelle Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage intérieur complet à Rouen mobilise l\'intégralité de notre expertise et de nos équipements professionnels pour un résultat d\'exception. Cette prestation premium, d\'une durée de 90 minutes, transforme littéralement votre habitacle en lui redonnant un aspect, une propreté et une fraîcheur comparables au neuf.',
-        'Le protocole complet rouennais inclut le nettoyage approfondi de tous les sièges avec traitement spécialisé selon les matériaux (cuir naturel, simili-cuir, tissu, alcantara) utilisant des produits professionnels et des techniques d\'<strong>injection-extraction</strong>, le shampoing intégral des tapis et moquettes avec élimination des taches incrustées et des odeurs persistantes, le traitement expert du ciel de toit souvent négligé mais particulièrement exposé aux odeurs et à l\'encrassement, le nettoyage intensif de tous les plastiques intérieurs avec restauration de leur brillance d\'origine et application d\'une protection UV, le nettoyage minutieux de tous les recoins et espaces difficiles d\'accès (aérations, interstices, vide-poches, compartiments), la désinfection complète de l\'habitacle avec élimination des bactéries, virus et allergènes, l\'application de produits de finition et de protection pour une durabilité maximale du résultat.',
-        'Cette intervention complète représente un véritable investissement dans la préservation et la valorisation de votre véhicule, particulièrement recommandée avant une vente, après l\'achat d\'un véhicule d\'occasion, ou pour un entretien saisonnier approfondi.',
+        'Le nettoyage complet, c\'est 90 minutes et votre voiture ressort comme neuve. On ne se contente pas d\'aspirer — on traite chaque surface en profondeur. C\'est le traitement qu\'il faut quand l\'intérieur a été négligé depuis un moment, ou quand vous voulez remettre une voiture en état avant de la vendre.',
+        'On nettoie les sièges en profondeur par <strong>injection-extraction</strong> (cuir, tissu, alcantara — chaque matériau a son traitement), on shampouine les tapis et moquettes pour éliminer taches incrustées et odeurs, on traite le ciel de toit (celui que personne ne pense à nettoyer mais qui absorbe toutes les odeurs), on restaure les plastiques intérieurs, on nettoie chaque recoin (aérations, vide-poches, interstices), on désinfecte tout l\'habitacle et on applique des protections longue durée.',
+        'C\'est le traitement à faire avant de vendre votre voiture (ça peut vous rapporter des centaines d\'euros sur le prix de vente), après l\'achat d\'une occasion (vous ne savez pas ce que le précédent propriétaire a fait dedans), ou simplement une fois par an pour repartir sur des bases saines.',
       ],
     },
     {
       heading: 'Traitement Spécialisé Anti-Odeurs : Solutions Expertes Rouennaises',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise rouennaise en élimination d\'odeurs automobiles traite les problématiques les plus complexes et tenaces. L\'environnement humide de la vallée de Seine favorise le développement d\'odeurs persistantes dans les habitacles : moisissures, tabac incrusté, odeurs alimentaires, odeurs d\'animaux, odeurs de produits chimiques. Notre approche scientifique garantit une élimination définitive de ces nuisances olfactives.',
-        'Nos techniques de <strong>traitement anti-odeurs</strong> rouennaises comprennent l\'analyse précise des sources d\'odeurs par inspection technique approfondie de l\'habitacle, le traitement à l\'ozone utilisant un générateur professionnel pour décomposer les molécules odorantes au niveau moléculaire, l\'utilisation de nettoyeurs vapeur haute température pour une désinfection en profondeur des tissus et surfaces poreuses, l\'application de produits enzymatiques spécialisés pour éliminer définitivement les odeurs organiques, le remplacement du filtre d\'habitacle si nécessaire pour éviter la réapparition des odeurs, la pulvérisation de désodorisants professionnels longue durée spécialement formulés pour l\'automobile.',
-        'Ces traitements spécialisés nécessitent parfois plusieurs interventions selon l\'intensité et l\'ancienneté des odeurs. Notre expertise nous permet d\'évaluer précisément la faisabilité et d\'adapter notre approche pour garantir un résultat définitif.',
+        'Votre voiture sent le tabac froid, le chien mouillé ou une odeur de moisi que vous n\'arrivez pas à identifier ? Les petits sapins et les sprays parfumés ne font que masquer le problème — l\'odeur revient toujours. C\'est parce que la source est incrustée dans les tissus, les mousses et les conduits de ventilation. Il faut traiter en profondeur, pas en surface.',
+        'Notre <strong>traitement anti-odeurs</strong> fonctionne en plusieurs étapes : on identifie d\'abord d\'où vient l\'odeur exactement, puis on traite à l\'ozone (un gaz qui détruit les molécules odorantes, pas juste les couvre), on passe la vapeur haute température sur les tissus et surfaces poreuses, on applique des produits enzymatiques qui digèrent les résidus organiques, et si nécessaire, on remplace le filtre d\'habitacle qui peut être la source du problème.',
+        'Certaines odeurs (tabac ancien, moisissure installée) peuvent nécessiter deux passages. On vous le dit honnêtement dès le diagnostic — pas de surprise. L\'objectif, c\'est que l\'odeur disparaisse pour de bon, pas qu\'elle revienne au bout d\'une semaine.',
       ],
     },
     {
       heading: 'Nettoyage de Remise en État : Restauration Automobile Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de remise en état automobile à Rouen intervient dans les situations les plus délicates nécessitant une restauration complète de l\'habitacle. Véhicules accidentés, sinistres divers, négligence prolongée, vandalisme : ces situations critiques demandent une expertise technique pointue et des équipements spécialisés pour redonner habitabilité et salubrité au véhicule.',
-        'Notre protocole de remise en état rouennais comprend l\'évaluation technique complète des dommages et de la faisabilité de restauration avec rapport détaillé, l\'extraction et l\'élimination de tous les éléments contaminés ou irrécupérables, le nettoyage en profondeur avec des produits spécialisés selon la nature exacte des dégâts constatés, la désinfection et désodorisation complète de l\'habitacle avec techniques professionnelles avancées, la vérification du bon fonctionnement de tous les équipements électroniques après intervention, la documentation photographique complète pour les compagnies d\'assurance si nécessaire.',
-        'Ces interventions techniques complexes requièrent souvent plusieurs séances et une coordination étroite avec les experts d\'assurance. Notre expérience reconnue dans ce domaine optimise les chances de récupération complète du véhicule.',
+        'Voiture achetée d\'occasion dans un état douteux ? Habitacle laissé à l\'abandon pendant des mois ? Dégâts après un sinistre ou du vandalisme ? On a vu des intérieurs dans des états que vous n\'imaginez pas — et on les a remis en état. Ce n\'est pas un simple nettoyage, c\'est une restauration complète.',
+        'On commence par évaluer ce qui est récupérable et ce qui ne l\'est pas — on vous fait un rapport honnête. Ensuite : extraction de tout ce qui est contaminé, nettoyage intensif avec des produits adaptés à chaque type de dégât, désinfection et désodorisation complète, vérification que tout fonctionne (électronique, etc.), et photos avant/après pour votre assurance si besoin.',
+        'Ce type d\'intervention peut prendre plusieurs séances selon la gravité. On peut aussi se coordonner avec votre assureur si c\'est pris en charge. Dans la majorité des cas, on sauve l\'habitacle — et ça coûte beaucoup moins cher que de tout remplacer.',
       ],
     },
     {
@@ -580,68 +580,68 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Étape 1 : Diagnostic Mobile Gratuit et Personnalisé',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention ProClean à Rouen débute par un diagnostic complet de votre véhicule réalisé directement sur votre lieu de stationnement. Notre technicien expert examine minutieusement l\'état de votre habitacle, identifie précisément les problématiques rencontrées (nature des taches, origine des odeurs, type de salissures), évalue le temps d\'intervention nécessaire selon nos standards de qualité, et vous présente nos recommandations techniques personnalisées.',
-        'Cette analyse préalable nous permet d\'établir un devis rouennais transparent et détaillé, d\'adapter notre équipement mobile et nos produits spécialisés aux besoins identifiés, de planifier l\'intervention dans les meilleures conditions logistiques, et de vous expliquer en détail le déroulement de chaque phase de la prestation. Nous intégrons également toutes vos contraintes personnelles et professionnelles pour optimiser l\'organisation.',
+        'On commence toujours par regarder l\'état de votre voiture avant de toucher à quoi que ce soit. Notre technicien fait le tour : il repère les taches, identifie les odeurs, vérifie les matériaux (cuir, tissu, alcantara...) et évalue le temps nécessaire. Ensuite il vous explique ce qu\'il va faire et vous donne un prix ferme.',
+        'Pas de mauvaise surprise : le devis est clair, détaillé, et le prix ne bouge pas. On adapte nos produits et notre matériel en fonction de ce qu\'on a trouvé pendant le diagnostic. Et on s\'organise autour de vos contraintes — pas l\'inverse.',
       ],
     },
     {
       heading: 'Étape 2 : Préparation Technique et Sécurisation',
       headingLevel: 3,
       paragraphs: [
-        'La phase de préparation technique garantit une intervention efficace et totalement sécurisée pour votre véhicule. Elle inclut la protection systématique de tous les éléments sensibles (écrans multimédia, équipements électroniques, surfaces délicates), l\'adaptation précise de notre équipement mobile aux spécificités techniques de votre véhicule, la vérification de l\'alimentation électrique autonome et de l\'approvisionnement en eau selon les besoins, la préparation et le dosage des produits spécialisés adaptés aux matériaux identifiés lors du diagnostic.',
-        'Cette préparation méthodique conditionne directement la qualité de l\'intervention et prévient totalement les risques de dommage. Notre équipe mobile rouennaise est spécifiquement formée à intervenir dans tous les environnements urbains avec le maximum de précautions et d\'efficacité.',
+        'Avant de commencer, on protège tout ce qui est fragile : écran tactile, GPS, sièges chauffants, surfaces sensibles. On prépare nos produits en fonction des matériaux de votre voiture — pas question de mettre du détergent basique sur du cuir ou de l\'alcantara. On est autonomes en eau et en électricité, on n\'a besoin de rien de votre côté.',
+        'Cette étape prend quelques minutes mais elle est importante : c\'est ce qui garantit qu\'on ne risque pas d\'abîmer quoi que ce soit dans votre véhicule. On traite chaque voiture comme si c\'était la nôtre.',
       ],
     },
     {
       heading: 'Étape 3 : Aspiration Professionnelle et Dépoussiérage Systématique',
       headingLevel: 3,
       paragraphs: [
-        'L\'aspiration professionnelle haute performance constitue la fondation indispensable de toute intervention de qualité supérieure. Utilisant exclusivement des équipements industriels de dernière génération, nous procédons à l\'aspiration exhaustive de tous les sièges, sols, recoins et espaces les plus difficiles d\'accès, l\'élimination complète de tous les détritus, résidus et particules accumulés, le dépoussiérage méticuleux de toutes les surfaces horizontales et verticales de l\'habitacle, la préparation optimale de toutes les surfaces pour les traitements spécialisés suivants.',
-        'Cette étape fondamentale élimine jusqu\'à 80% des salissures visibles et prépare parfaitement l\'habitacle pour maximiser l\'efficacité des traitements techniques spécialisés. La qualité exceptionnelle de notre aspiration conditionne directement la réussite de toutes les phases d\'intervention suivantes.',
+        'On aspire tout avec un aspirateur industriel — pas un petit aspirateur de maison. Sièges, sols, rails de sièges, entre les coussins, les poches des portières, le coffre, sous les tapis. Toutes les miettes, poils, poussières et saletés accumulées depuis des mois sont éliminées. On dépoussiére aussi le tableau de bord, les aérations et toutes les surfaces de l\'habitacle.',
+        'Cette aspiration élimine environ 80% des salissures visibles. C\'est la base indispensable : si on ne retire pas toutes les particules d\'abord, les traitements suivants ne peuvent pas agir correctement sur les tissus et les surfaces.',
       ],
     },
     {
       heading: 'Étape 4 : Nettoyage Technique Spécialisé par Zones',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage technique spécialisé adapte précisément les techniques professionnelles et les produits experts à chaque zone et matériau spécifique de votre habitacle. La <strong>sellerie automobile</strong> reçoit un traitement différencié selon sa composition exacte (cuir véritable, simili-cuir, tissu, alcantara, matériaux composites) avec des produits spécialement formulés et des techniques appropriées. Le tableau de bord et toutes les garnitures plastiques sont traités avec des produits non agressifs préservant parfaitement leur aspect d\'origine et leur protection UV. Les vitres intérieures font l\'objet d\'un nettoyage ultra-spécialisé garantissant une transparence parfaite sans trace ni reflet.',
-        'Cette approche technique différenciée garantit un résultat optimal sur chaque élément constitutif de votre habitacle, respectant scrupuleusement les spécificités de chaque matériau tout en maximisant l\'efficacité globale du nettoyage professionnel.',
+        'Chaque zone de la voiture a ses propres problèmes. La <strong>sellerie automobile</strong> en cuir ne se traite pas comme du tissu — on adapte les produits et les techniques à chaque matériau (cuir, simili, tissu, alcantara). Le tableau de bord et les plastiques reçoivent un traitement qui nettoie sans laisser de brillance artificielle. Les vitres intérieures sont nettoyées sans trace — fini le film gras qui vous aveugle au moindre rayon de soleil.',
+        'Le résultat : chaque surface est propre, protégée, et a son aspect d\'origine — pas un aspect "trop nettoyé" avec des plastiques brillants et des sièges décolorés. On respecte les matériaux.',
       ],
     },
     {
       heading: 'Étape 5 : Traitements Spéciaux et Désinfection',
       headingLevel: 3,
       paragraphs: [
-        'Les traitements spéciaux rouennais ciblent les problématiques spécifiques identifiées lors du diagnostic initial. La désinfection complète utilise des produits homologués automobile pour éliminer bactéries, virus et allergènes. Les traitements anti-odeurs mobilisent nos techniques avancées selon les besoins. Les applications de protection préservent durablement les matériaux traités contre l\'usure et les agressions futures.',
-        'Cette phase technique avancée personnalise notre intervention selon vos besoins spécifiques, garantissant un résultat parfaitement adapté à votre situation et à vos attentes de qualité.',
+        'Si votre voiture a des problèmes spécifiques — odeurs tenaces, taches anciennes, allergènes — c\'est à cette étape qu\'on s\'en occupe. Désinfection avec des produits homologués auto pour éliminer bactéries et allergènes, traitement anti-odeurs si nécessaire, et application de protections qui empêchent les taches de s\'incruster à l\'avenir.',
+        'Tout le monde n\'a pas les mêmes problèmes : certains ont un chien qui bave sur la banquette, d\'autres des enfants qui renversent du jus de pomme partout. On adapte le traitement à votre situation réelle.',
       ],
     },
     {
       heading: 'Étape 6 : Finition Premium et Contrôle Qualité Intégral',
       headingLevel: 3,
       paragraphs: [
-        'La phase de finition premium parachève notre intervention rouennaise avec l\'application de produits de finition et de protection longue durée sur toutes les surfaces traitées, la désinfection finale complète de l\'habitacle avec aération contrôlée, l\'élimination de toutes les odeurs résiduelles de produits d\'entretien, le contrôle qualité systématique et rigoureux de chaque zone traitée selon nos standards d\'excellence.',
-        'Cette étape finale garantit la durabilité maximale du résultat obtenu et votre satisfaction totale. Notre technicien effectue systématiquement un tour complet et détaillé du véhicule en votre présence pour validation définitive de la prestation réalisée.',
+        'On applique des produits de finition et de protection longue durée sur toutes les surfaces traitées, on aère l\'habitacle pour éliminer toute odeur de produit, et on fait un contrôle zone par zone pour s\'assurer que rien n\'a été oublié.',
+        'On fait le tour de la voiture avec vous avant de partir. Si quelque chose ne vous convient pas, on le reprend immédiatement. Vous ne payez que quand vous êtes satisfait du résultat.',
       ],
     },
     {
       heading: 'Spécificités du Nettoyage Automobile à Rouen',
       headingLevel: 2,
       paragraphs: [
-        'Le nettoyage intérieur de véhicules à Rouen présente des défis spécifiques liés à l\'environnement urbain et fluvial de la vallée de Seine. ProClean a développé une expertise locale spécialisée pour traiter les problématiques caractéristiques de la métropole rouennaise : humidité constante due à la proximité de la Seine et au relief encaissé de vallée, pollution urbaine et industrielle générant des particules fines, circulation dense produisant poussières et résidus atmosphériques, variations micro-climatiques entre centre-ville et coteaux affectant les conditions de stationnement.',
-        'Nos adaptations techniques rouennaises incluent l\'utilisation systématique de produits anti-humidité préventifs haute performance, des traitements spécialisés contre moisissures et champignons spécifiques au climat de vallée humide, des techniques de décontamination urbaine pour éliminer efficacement particules fines et résidus de pollution atmosphérique, des protocoles différenciés selon l\'exposition et l\'altitude des zones de stationnement habituelles.',
-        'Cette expertise territoriale rouennaise nous permet d\'offrir des résultats parfaitement durables et adaptés aux conditions locales spécifiques, garantissant une satisfaction client optimale et une préservation maximale de votre investissement automobile.',
+        'Les vrais problèmes d\'intérieur auto, ce ne sont pas des histoires de climat — c\'est la vie quotidienne. Les enfants qui mangent à l\'arrière, le chien qui monte avec les pattes boueuses, le café qui se renverse sur le trajet du matin, les chaussures mouillées qui trempent les tapis. En quelques mois, l\'habitacle accumule des kilos de saletés invisibles : poussière, peaux mortes, bactéries, acariens.',
+        'On adapte nos traitements au problème réel : produits anti-humidité si votre voiture stationne dehors et sent le renfermé, traitement anti-moisissures si vous voyez des taches suspectes sous les tapis, décontamination complète si l\'habitacle n\'a pas été nettoyé depuis longtemps. Chaque voiture a son histoire — on traite en fonction.',
+        'Résultat : un intérieur propre, sain, qui sent bon — et qui le reste. On ne fait pas de cosmétique. On nettoie en profondeur pour que le résultat dure, pas juste pour que ça ait l\'air bien pendant 48h.',
       ],
     },
     {
       heading: 'ProClean Rouen : Votre Partenaire Automobile Mobile de Référence',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour le nettoyage intérieur de votre véhicule à Rouen, c\'est opter résolument pour l\'excellence du service automobile mobile et la tranquillité d\'esprit absolue au quotidien. Notre expertise locale spécialisée, développée spécifiquement pour les conditions rouennaises, nous permet de proposer des solutions parfaitement calibrées et adaptées à votre environnement urbain et à vos besoins personnels ou professionnels.',
-        'Notre engagement qualité inébranlable se traduit par des résultats visibles immédiatement et parfaitement durables dans le temps. Nos équipes expertes utilisent exclusivement des équipements professionnels de dernière génération et des produits rigoureusement certifiés pour garantir un nettoyage en profondeur maximale, respectueux intégralement de votre véhicule et de l\'environnement normand.',
-        'La flexibilité exceptionnelle de notre service mobile s\'adapte parfaitement aux rythmes de vie rouennais contemporains. Que vous soyez un particulier soucieux de l\'entretien optimal de votre véhicule personnel, un professionnel gérant une flotte d\'entreprise, ou une famille nombreuse ayant besoin d\'un service régulier et fiable, ProClean a la solution technique parfaitement adaptée à votre situation spécifique. Notre <a href="/nettoyage-camion-rouen">nettoyage intérieur camion</a> complète cette offre pour les véhicules utilitaires et poids lourds.',
-        'Rejoignez dès aujourd\'hui les nombreuses familles et entreprises rouennaises qui font entièrement confiance à ProClean pour l\'entretien irréprochable de leurs véhicules. Découvrez le plaisir authentique de conduire dans un habitacle absolument impeccable sans aucune contrainte de déplacement. Contactez-nous immédiatement pour votre devis gratuit et personnalisé ! <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>.',
-        'ProClean Rouen - L\'excellence mobile normande du nettoyage automobile depuis 2020',
+        'Pourquoi choisir ProClean plutôt qu\'un centre de lavage ou le faire vous-même ? Parce qu\'on vient chez vous, on utilise du matériel pro, et le résultat n\'a rien à voir avec un passage au rouleau ou un coup d\'aspirateur maison. On nettoie en profondeur des choses que vous ne pouvez pas atteindre sans le bon équipement.',
+        'Le résultat est visible immédiatement et dure dans le temps. On n\'utilise que des produits certifiés et du matériel professionnel — pas de risque pour vos sièges en cuir ou votre tableau de bord. Et on respecte votre véhicule comme s\'il était le nôtre.',
+        'Particulier avec une voiture familiale pleine de miettes ? Professionnel avec une flotte de véhicules à entretenir ? VTC qui veut offrir un habitacle impeccable à ses clients ? On s\'adapte à chaque situation. Notre <a href="/nettoyage-camion-rouen">nettoyage intérieur camion</a> complète cette offre pour les véhicules utilitaires et poids lourds.',
+        'Envie de retrouver le plaisir de monter dans une voiture qui sent bon et qui brille ? Contactez-nous pour un devis gratuit — on vous répond sous 24h et on peut intervenir dans la semaine. <a href="/devis-gratuit-rouen">Obtenir votre devis personnalisé</a>.',
+        'ProClean — Nettoyage intérieur voiture à domicile à Rouen depuis 2020.',
       ],
     },
   ],
@@ -651,17 +651,17 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Balcon et Terrasse à Rouen - ProClean, Excellence Mobile au Cœur de la Normandie',
       headingLevel: 2,
       paragraphs: [
-        'ProClean étend son expertise avancée de <strong>nettoyage de balcons et terrasses à Rouen</strong>, apportant à la prestigieuse capitale normande l\'innovation technique et l\'excellence opérationnelle qui caractérisent notre approche mobile ultra-spécialisée. Forte de notre succès havrais et de notre parfaite connaissance des spécificités régionales, notre entreprise investit le territoire rouennais avec la même exigence de qualité et la même passion de l\'innovation qui distinguent notre service professionnel d\'entretien d\'espaces extérieurs. Que votre balcon domine les méandres historiques de la Seine, que votre terrasse s\'épanoisse dans les quartiers résidentiels de la Rive Droite, ou que vos espaces extérieurs agrémentent votre résidence des nouveaux quartiers de l\'Île Lacroix, notre équipe ultra-spécialisée intervient avec une efficacité remarquable pour redonner à vos espaces extérieurs leur splendeur d\'origine et leur fonctionnalité optimale.',
-        'Le déploiement de notre service mobile avancée de nettoyage d\'espaces extérieurs à Rouen répond à une demande croissante de praticité, d\'expertise et de résultats durables dans l\'entretien des balcons et terrasses rouennais. Notre approche disruptive élimine définitivement toutes les contraintes traditionnelles de l\'entretien extérieur : fini les équipements domestiques insuffisants et inadaptés aux vrais défis de nettoyage, fini les produits généralistes inefficaces sur les salissures spécifiques à l\'environnement urbain rouennais, fini les techniques approximatives qui risquent d\'endommager vos revêtements coûteux et délicats. ProClean révolutionne votre expérience en apportant directement chez vous l\'expertise professionnelle, les équipements industriels de pointe et les techniques ultra-spécialisées qui garantissent des résultats exceptionnels et parfaitement durables. Cette innovation avancée s\'accompagne d\'une adaptation parfaite aux spécificités architecturales et environnementales rouennaises.',
+        'Mousse verte entre les dalles. Taches noires sur la pierre. Le mobilier de jardin couvert d\'un film grisâtre. Votre terrasse est glissante quand il pleut — c\'est dangereux en plus d\'être moche. Le <strong>nettoyage de balcons et terrasses ProClean</strong> remet tout ça en état : on débarque avec le matériel pro, on nettoie, on traite, et vous retrouvez une terrasse où vous avez envie de passer du temps.',
+        'Soyons honnêtes : avec un Kärcher domestique et du produit acheté en grande surface, vous allez y passer le week-end pour un résultat moyen. Et vous risquez d\'abîmer vos dalles si vous ne réglez pas la bonne pression. ProClean apporte le matériel professionnel, les bons produits et surtout le savoir-faire : on adapte la technique à chaque surface pour un résultat net et durable, sans rien détériorer.',
       ],
     },
     {
       heading: 'ProClean Rouen : Innovation Technique et Expertise Séquanaise',
       headingLevel: 2,
       paragraphs: [
-        'L\'implantation stratégique de notre service de nettoyage d\'espaces extérieurs mobile à Rouen s\'appuie sur une analyse experte et approfondie des spécificités environnementales et climatiques de la métropole rouennaise. L\'<strong>environnement séquanais</strong> présente des défis particuliers et complexes pour l\'entretien optimal des balcons et terrasses : climat océanique dégradé avec influences continentales, humidité constante liée à la proximité de la Seine favorisant mousses et moisissures, pollution urbaine spécifique aux métropoles historiques densément peuplées, circulation intense dans les centres anciens générant poussières fines et résidus atmosphériques, variations micro-climatiques entre vallée de Seine et plateaux environnants affectant différemment les conditions d\'exposition des espaces extérieurs.',
-        'Notre équipe rouennaise ultra-spécialisée bénéficie d\'une formation technique approfondie et continue aux particularités climatiques, environnementales et patrimoniales locales. Nous adaptons méticuleusement nos techniques avancées, nos produits professionnels et nos équipements de pointe aux contraintes spécifiques du territoire rouennais : techniques anti-humidité pour préserver les matériaux des effets de la proximité fluviale, produits spécialement formulés contre les mousses et lichens séquanais, méthodes renforcées contre l\'encrassement urbain des centres historiques, protocoles adaptés aux contraintes architecturales des immeubles anciens et des copropriétés historiques.',
-        'La logistique mobile ultra-optimisée pour Rouen prend scrupuleusement en compte toutes les contraintes de circulation, de stationnement et d\'accessibilité propres à la métropole rouennaise. Nos équipes maîtrisent parfaitement les spécificités de chaque secteur urbain, des ruelles étroites du Vieux Rouen aux avenues modernes de la Rive Gauche, garantissant une intervention d\'une efficacité maximale dans tous les environnements urbains et périurbains de l\'agglomération.',
+        'Les terrasses et balcons prennent cher avec le temps. L\'humidité favorise mousses et moisissures. La pollution dépose un voile gris sur tout. Les fientes d\'oiseaux attaquent la pierre. Et si votre terrasse est orientée nord ou à l\'ombre, c\'est encore pire : la mousse s\'installe en quelques mois et rend le sol glissant. On connaît ces <strong>problèmes</strong> par coeur et on sait comment les régler.',
+        'Notre équipe est formée aux différents types de surfaces et sait adapter la technique. Produits anti-humidité pour prévenir le retour des mousses, traitements spécifiques pour les lichens, méthodes de dégraissage pour la pollution urbaine. On adapte aussi nos protocoles aux contraintes de votre immeuble : copropriété, accès limité, voisinage — on gère.',
+        'Côté logistique, on s\'organise pour intervenir sans vous compliquer la vie. Stationnement, accès, contraintes horaires — on a l\'habitude. Que vous soyez en centre-ville avec un accès compliqué ou en pavillon avec un grand jardin, on s\'adapte.',
       ],
     },
     {
@@ -674,36 +674,36 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Premium Balcons : Excellence et Raffinement Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage premium balcons à Rouen représente le summum de notre expertise technique et de notre savoir-faire spécialisé, destiné aux propriétaires d\'espaces extérieurs prestigieux et aux résidents les plus exigeants souhaitant un résultat d\'exception absolue. Cette prestation d\'élite mobilise l\'intégralité de nos compétences techniques les plus avancées et de nos équipements professionnels les plus performants pour un résultat pleinement spectaculaire et parfaitement durable dans l\'environnement rouennais spécifique.',
-        'Le protocole premium rouennais comprend l\'aspiration haute performance de tous les détritus, feuilles mortes et résidus accumulés avec notre équipement industriel dernière génération parfaitement adapté aux contraintes d\'accès des immeubles rouennais, le dépoussiérage systématique et minutieux de toutes les surfaces avec attention particulière aux garde-corps forgés et mobiliers extérieurs typiques de l\'architecture normande, le nettoyage expert des revêtements selon leur nature spécifique (carrelage ancien, bois exotique, composite moderne, pierre de Caen) avec produits ultra-spécialisés respectueux du patrimoine, le traitement ciblé des fientes de pigeons et oiseaux urbains avec désinfection complète et élimination définitive des odeurs nauséabondes, la désinfection professionnelle de tous les éléments avec produits homologués espaces extérieurs, l\'application de traitements de protection longue durée spécialement formulés pour résister aux conditions climatiques séquanaises.',
-        'Cette prestation d\'exception transforme littéralement l\'ambiance et le standing de votre balcon, lui redonnant une propreté et une fraîcheur comparables aux plus prestigieuses réalisations architecturales rouennaises. Particulièrement recommandée pour les balcons avec vue sur Seine, les terrasses d\'appartements haut de gamme du centre historique, ou les espaces de réception extérieurs des résidences de prestige.',
+        'Votre balcon est dans un sale état ? Fientes de pigeons, mousse verte, garde-corps noirci, dalle qui colle sous les pieds ? Notre nettoyage balcon remet tout à neuf. On ne fait pas un coup de jet d\'eau rapide — on fait un vrai travail de fond avec du matériel pro.',
+        'On commence par tout débarrasser : feuilles mortes, détritus, résidus accumulés. Ensuite, dépoussiérage complet — garde-corps, mobilier extérieur, rebords. Le revêtement est nettoyé en fonction de ce qu\'il est : carrelage, bois, composite, pierre — chaque matériau a son produit et sa pression. Les fientes de pigeons sont éliminées et désinfectées (avec les odeurs qui vont avec). On termine par l\'application d\'un traitement de protection longue durée.',
+        'Le résultat, c\'est un balcon où vous avez envie de prendre votre café le matin. Propre, désinfecté, protégé. Que ce soit un petit balcon de deux mètres carrés ou une grande loggia, on fait le même travail de fond.',
       ],
     },
     {
       heading: 'Nettoyage Intégral Terrasses : Restauration Complète Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage intégral terrasses à Rouen mobilise l\'ensemble de notre expertise professionnelle et de nos équipements techniques de pointe pour une transformation complète et durable de vos espaces extérieurs. Cette prestation intégrale, adaptée à la superficie et à la complexité de chaque terrasse rouennaise, constitue un véritable investissement dans la préservation et la valorisation de votre patrimoine immobilier séquanais.',
-        'Le protocole intégral rouennais inclut le nettoyage approfondi et spécialisé de tous les revêtements avec traitement expert différencié selon les matériaux constitutifs (bois exotique résistant à l\'humidité séquanaise, composite haute performance, pierre naturelle normande, carrelage extérieur spécialisé, béton décoratif, pavés autobloquants) utilisant exclusivement des produits professionnels certifiés et des techniques industrielles de dernière génération parfaitement adaptées au climat rouennais, le décapage <strong>haute pression</strong> des surfaces encrassées avec réglages ultra-précis selon la résistance de chaque matériau et les contraintes patrimoniales des centres historiques, le traitement ultra-spécialisé des joints et espaces entre dalles souvent négligés mais particulièrement exposés aux infiltrations d\'humidité séquanaise et à la végétation parasite urbaine, le nettoyage intensif et restaurateur de tous les équipements et mobiliers extérieurs avec remise à neuf de leur aspect d\'origine et protection contre les agressions climatiques locales, l\'élimination minutieuse et exhaustive de toutes les mousses, lichens, algues et végétations indésirables particulièrement prolifiques dans l\'environnement humide rouennais, la désinfection complète et professionnelle de la terrasse avec élimination totale des bactéries, champignons et micro-organismes favorisés par l\'humidité constante, l\'application de produits de finition premium et de protection maximale pour une durabilité exceptionnelle du résultat obtenu dans les conditions climatiques séquanaises.',
-        'Cette intervention intégrale représente un investissement stratégique dans la préservation optimale et la valorisation maximale de vos espaces extérieurs, particulièrement recommandée avant la saison estivale, après les rigueurs de l\'hiver normand, ou pour un entretien saisonnier d\'excellence adapté aux spécificités rouennaises.',
+        'Votre terrasse fait grise mine ? Dalles vertes, joints noirs, mobilier qui a perdu sa couleur d\'origine ? On s\'en occupe de A à Z. C\'est un vrai investissement : une terrasse bien entretenue, ça se voit à la revente et ça évite des réparations coûteuses.',
+        'On passe au nettoyeur <strong>haute pression</strong> — mais pas n\'importe comment. Trop de pression sur du bois, ça arrache les fibres. Sur de la pierre tendre, ça creuse. On adapte : 80 bars pour le bois, 150 bars pour le béton, 200 pour le granit. Chaque matériau (bois exotique, composite, pierre naturelle, carrelage, béton décoratif, pavés) reçoit son traitement spécifique avec des produits pro. Les joints entre les dalles — souvent envahis de mousse et de mauvaises herbes — sont nettoyés en profondeur. Le mobilier extérieur est remis à neuf. Toutes les mousses, lichens et algues sont éliminés. La terrasse est désinfectée et on applique un traitement de protection longue durée.',
+        'Après le nettoyage, traitement anti-mousse qui protège pendant 12 à 18 mois. Votre terrasse reste propre tout l\'été. On recommande cette prestation au printemps pour profiter de la belle saison, ou à l\'automne pour protéger avant l\'hiver.',
       ],
     },
     {
       heading: 'Expertise Anti-Fientes et Désinfection : Solutions Sanitaires Rouennaises',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise rouennaise ultra-spécialisée en élimination de fientes d\'oiseaux traite avec une efficacité scientifique les problématiques sanitaires les plus complexes et les plus sensibles spécifiques à l\'environnement urbain séquanais. L\'environnement rouennais et la richesse de ses espaces verts urbains favorisent particulièrement la présence massive d\'oiseaux de toutes espèces : pigeons urbains prolifiques, mouettes remontant la Seine, corneilles, merles, moineaux, qui laissent des déjections importantes et régulières sur balcons et terrasses. Ces fientes présentent des risques sanitaires majeurs et dégradent esthétiquement et structurellement vos espaces extérieurs. Notre approche scientifique et méthodique garantit une élimination définitive et une désinfection complète de toutes ces contaminations.',
-        'Nos techniques anti-fientes rouennaises comprennent l\'analyse sanitaire précise de l\'ampleur de la contamination par inspection technique ultra-approfondie avec équipements de détection spécialisés adaptés aux spécificités des balcons rouennais, l\'élimination sécurisée de toutes les fientes avec équipements de protection individuelle professionnels et techniques de grattage sans endommagement des surfaces souvent délicates des immeubles anciens, le nettoyage haute pression avec réglages parfaitement adaptés pour éliminer intégralement tous les résidus incrustés sans altérer les revêtements historiques ou modernes, l\'application de produits désinfectants ultra-spécialisés et certifiés pour éliminer définitivement toutes les bactéries pathogènes et virus potentiellement dangereux concentrés dans les déjections aviaires, le rinçage professionnel avec évacuation contrôlée des eaux de nettoyage selon les réglementations environnementales strictes de la métropole rouennaise, l\'application de produits répulsifs longue durée écologiques et respectueux de la faune locale pour prévenir durablement les nouvelles contaminations.',
-        'Ces traitements sanitaires ultra-spécialisés protègent votre santé et celle de votre famille tout en préservant l\'esthétique et la fonctionnalité de vos espaces extérieurs. Notre expertise scientifique reconnue nous permet d\'intervenir avec la plus grande sécurité et d\'obtenir des résultats définitifs et parfaitement durables dans l\'environnement urbain rouennais.',
+        'Les fientes de pigeons, c\'est pas juste un problème esthétique. C\'est acide — ça attaque la pierre, le bois, le métal. Et c\'est un nid à bactéries potentiellement dangereuses pour la santé. Si votre balcon ou votre terrasse est régulièrement visité par les pigeons (ou les mouettes), il faut traiter le problème sérieusement, pas juste passer un coup de jet d\'eau.',
+        'On commence par évaluer l\'ampleur du problème. Ensuite, élimination sécurisée des fientes avec des équipements de protection — on gratte sans abîmer les surfaces, même les plus délicates. Nettoyage haute pression calibré pour éliminer les résidus incrustés sans altérer le revêtement. Application de désinfectants certifiés pour tuer bactéries et virus. Rinçage et évacuation propre des eaux usées. Et pour finir : application d\'un répulsif longue durée écologique pour décourager les oiseaux de revenir.',
+        'Résultat : un espace propre, désinfecté et protégé contre les prochaines visites. On protège votre santé et celle de votre famille — les fientes d\'oiseaux, ce n\'est vraiment pas quelque chose à laisser traîner.',
       ],
     },
     {
       heading: 'Restauration Post-Hivernale : Expertise Saisonnière Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de restauration post-hivernale à Rouen intervient pour redonner vie et beauté à vos espaces extérieurs après les rigueurs de la saison froide normande particulièrement marquée dans la vallée de Seine. L\'hiver rouennais, avec ses cycles répétés de gel-dégel amplifiés par l\'humidité fluviale, ses intempéries persistantes, ses vents humides, laisse des traces importantes et spécifiques sur balcons et terrasses : accumulation massive de mousses et lichens favorisés par l\'humidité constante, dégradation accélérée des joints sous l\'effet des cycles thermiques, encrassement général amplifié par la pollution urbaine hivernale, dépôts de particules fines et de résidus atmosphériques concentrés par les inversions thermiques séquanaises.',
-        'Notre protocole de restauration post-hivernale rouennais comprend l\'évaluation technique complète et experte de tous les dégâts constatés et des besoins de restauration spécifiques à l\'environnement rouennais avec établissement d\'un rapport technique détaillé et illustré, l\'élimination systématique et complète de toutes les végétations parasites, mousses, lichens et algues particulièrement développées dans l\'humidité séquanaise avec produits écologiques ultra-efficaces respectueux de l\'environnement fluvial, le nettoyage en profondeur maximale avec utilisation d\'équipements haute pression ultra-performants et de produits ultra-spécialisés sélectionnés selon la nature exacte des encrassements spécifiques à la région rouennaise, la réfection et le traitement des joints dégradés par les cycles gel-dégel avec produits de haute technicité spécialement formulés pour résister aux conditions climatiques séquanaises, la vérification technique approfondie de l\'état général et de la stabilité de tous les éléments après intervention complète, l\'application de traitements préventifs longue durée pour optimiser la résistance aux prochains hivers normands.',
-        'Ces interventions techniques saisonnières représentent un investissement préventif intelligent qui préserve durablement vos espaces extérieurs et optimise leur résistance aux conditions climatiques particulières de la vallée de Seine. Notre expérience technique reconnue et notre expertise spécialisée dans ce domaine garantissent une remise en état complète et parfaitement satisfaisante adaptée aux spécificités rouennaises.',
+        'L\'hiver a fait des dégâts sur votre terrasse ? C\'est normal. Les cycles gel-dégel abîment les joints. L\'humidité persistante fait exploser la mousse et les lichens. La pollution hivernale dépose une couche grisâtre sur tout. Et personne ne sort nettoyer sa terrasse en janvier. Résultat : au printemps, c\'est la catastrophe.',
+        'On évalue d\'abord l\'état réel de la terrasse : qu\'est-ce qui est juste sale et qu\'est-ce qui est abîmé. Ensuite : élimination de toute la mousse, des lichens et des algues avec des produits écologiques efficaces. Nettoyage haute pression en profondeur avec des réglages adaptés à chaque surface. Les joints dégradés par le gel sont refaits avec des produits qui résistent aux prochains hivers. Vérification de la stabilité de tous les éléments. Et application de traitements préventifs longue durée.',
+        'C\'est un investissement préventif intelligent : une terrasse bien entretenue au printemps résiste beaucoup mieux à l\'hiver suivant. Ça vous évite des réparations coûteuses et ça prolonge la durée de vie de vos revêtements.',
       ],
     },
     {
@@ -716,74 +716,74 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Étape 1 : Diagnostic Expert Gratuit et Ultra-Personnalisé',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention ProClean à Rouen débute systématiquement par un diagnostic technique complet et expert de vos espaces extérieurs réalisé directement et gratuitement sur votre lieu de résidence rouennais. Notre technicien expert ultra-spécialisé examine avec la plus grande minutie l\'état précis de vos balcons et terrasses, identifie avec précision toutes les problématiques rencontrées spécifiques à l\'environnement rouennais (nature exacte des salissures urbaines, degré d\'encrassement lié à la pollution séquanaise, état des revêtements face aux conditions climatiques locales, problèmes d\'étanchéité amplifiés par l\'humidité), analyse méthodiquement les contraintes d\'accès particulières aux immeubles rouennais et les spécificités techniques architecturales, évalue le temps d\'intervention nécessaire selon nos standards d\'excellence les plus stricts, et vous présente nos recommandations techniques personnalisées et parfaitement adaptées à votre situation spécifique rouennaise.',
-        'Cette analyse préalable experte et approfondie nous permet d\'établir un devis rouennais transparent, détaillé et parfaitement personnalisé, d\'adapter précisément notre équipement mobile de pointe et nos produits ultra-spécialisés aux besoins techniques identifiés et aux contraintes locales, de planifier l\'intervention dans les meilleures conditions logistiques et techniques possibles en tenant compte des spécificités de circulation rouennaise, et de vous expliquer en détail le déroulement méthodique de chaque phase de la prestation prévue. Nous intégrons également toutes vos contraintes personnelles, d\'accès et de voisinage pour optimiser parfaitement l\'organisation de l\'intervention dans le contexte urbain rouennais.',
+        'On commence par venir voir. Gratuit, sans engagement. Notre technicien examine l\'état de votre terrasse ou balcon : quel type de salissures, quel matériau, quel degré d\'encrassement, est-ce qu\'il y a des problèmes d\'étanchéité. On regarde aussi les contraintes pratiques — accès, alimentation en eau, voisinage — et on estime le temps nécessaire.',
+        'Résultat : un devis transparent et détaillé, adapté à votre situation. On vous explique ce qu\'on va faire, dans quel ordre, avec quels produits. Pas de surprise à la fin. On planifie l\'intervention en tenant compte de vos contraintes : horaires, accès, voisinage.',
       ],
     },
     {
       heading: 'Étape 2 : Préparation Technique Ultra-Méticuleuse et Sécurisation Maximale',
       headingLevel: 3,
       paragraphs: [
-        'La phase de préparation technique ultra-méticuleuse garantit une intervention d\'une efficacité maximale et d\'une sécurisation totale pour vos espaces extérieurs et leur environnement rouennais. Elle inclut la protection systématique et renforcée de tous les éléments les plus sensibles (mobiliers extérieurs, végétations à préserver, équipements techniques extérieurs, éléments architecturaux patrimoniaux), l\'installation sécurisée de notre équipement mobile de dernière génération avec adaptation aux contraintes d\'accès spécifiques des résidences rouennaises, la vérification scrupuleuse de l\'alimentation électrique et de l\'approvisionnement optimal en eau selon les besoins techniques spécifiques et les contraintes d\'infrastructure locales, la préparation experte et le dosage précis des produits ultra-spécialisés parfaitement adaptés aux matériaux identifiés lors du diagnostic préalable et aux conditions environnementales séquanaises.',
-        'Cette préparation technique ultra-méthodique et scrupuleuse conditionne directement la qualité exceptionnelle de l\'intervention finale et prévient totalement tous les risques de dommage. Notre équipe mobile rouennaise ultra-spécialisée est spécifiquement formée à intervenir dans tous les environnements résidentiels avec le maximum de précautions techniques et d\'efficacité opérationnelle, en respectant parfaitement les contraintes particulières de l\'habitat rouennais.',
+        'On protège tout ce qui doit l\'être : plantes, mobilier, murs adjacents, équipements extérieurs. On installe notre matériel en vérifiant l\'alimentation en eau et en électricité. Les produits sont dosés précisément selon les matériaux identifiés lors du diagnostic.',
+        'Cette préparation prend un peu de temps, mais c\'est ce qui garantit un résultat propre sans dommages collatéraux. On ne lance pas le nettoyeur haute pression sans avoir tout sécurisé autour.',
       ],
     },
     {
       heading: 'Étape 3 : Débarrassage et Préparation des Surfaces',
       headingLevel: 3,
       paragraphs: [
-        'Le débarrassage méthodique et la préparation optimale des surfaces constituent la fondation technique indispensable de toute intervention de qualité supérieure et de niveau professionnel dans l\'environnement rouennais. Utilisant exclusivement des techniques manuelles minutieuses et des équipements spécialisés adaptés aux contraintes locales, nous procédons à l\'évacuation soigneuse de tous les mobiliers et objets déplaçables vers des zones protégées selon vos instructions et les contraintes d\'espace rouennaises, l\'élimination complète de tous les détritus, feuilles mortes particulièrement abondantes dans l\'environnement urbain arboré rouennais, résidus végétaux et accumulations diverses favorisées par l\'humidité séquanaise, le balayage ultra-méticuleux de toutes les surfaces horizontales et verticales avec attention particulière aux angles et recoins souvent humides, la préparation technique optimale de toutes les surfaces pour maximiser l\'efficacité des traitements techniques spécialisés suivants dans les conditions spécifiques du climat rouennais.',
-        'Cette étape technique fondamentale et cruciale élimine tous les obstacles à un nettoyage parfait et prépare idéalement vos espaces extérieurs pour optimiser au maximum l\'efficacité de tous les traitements techniques spécialisés suivants. La qualité exceptionnelle et la minutie de notre préparation conditionnent directement la réussite technique et esthétique de toutes les phases d\'intervention ultérieures dans le contexte environnemental rouennais.',
+        'On déplace le mobilier et les objets vers une zone protégée. On débarrasse tout : feuilles mortes, détritus, résidus végétaux, accumulations dans les angles et les recoins. Balayage complet de toutes les surfaces. C\'est la base : si on nettoie haute pression sur des feuilles mortes, on n\'obtient rien de bon.',
+        'Une bonne préparation, c\'est 50% du résultat. On ne saute jamais cette étape, même si ça ne se voit pas dans le rendu final.',
       ],
     },
     {
       heading: 'Étape 4 : Nettoyage Technique Ultra-Spécialisé par Matériaux',
       headingLevel: 3,
       paragraphs: [
-        'Le nettoyage technique ultra-spécialisé et différencié adapte avec une précision scientifique les techniques professionnelles les plus avancées et les produits experts de dernière génération à chaque type de revêtement et à chaque matériau constitutif de vos espaces extérieurs rouennais. Les terrasses en bois reçoivent un traitement ultra-différencié selon leur essence et leur état (bois exotique résistant à l\'humidité, résineux locaux, composite haute performance) avec des produits respectueux et des techniques préservant leur intégrité structurelle face aux conditions climatiques séquanaises. Les revêtements en pierre naturelle normande et carrelage traditionnel bénéficient de techniques haute pression parfaitement calibrées selon leur résistance spécifique et leur valeur patrimoniale. Les surfaces en béton et pavés sont traitées avec des équipements industriels ultra-performants pour éliminer toutes les <strong>salissures incrustées</strong> par l\'humidité et la pollution urbaine rouennaise.',
-        'Cette approche technique ultra-différenciée et scientifique garantit un résultat optimal et durable sur chaque élément constitutif de vos espaces extérieurs, respectant scrupuleusement les spécificités techniques de chaque matériau tout en maximisant l\'efficacité globale du nettoyage professionnel de niveau supérieur dans l\'environnement rouennais spécifique.',
+        'C\'est là que la différence se fait. Terrasse en bois ? On adapte : bois exotique, résineux, composite — chaque essence a sa pression et son produit. Trop fort sur du bois tendre, ça arrache les fibres et c\'est foutu. Pierre naturelle et carrelage : haute pression calibrée selon la dureté du matériau. Béton et pavés : on y va plus fort pour éliminer les <strong>salissures incrustées</strong>. Chaque surface reçoit exactement le traitement qu\'elle supporte, pas plus.',
+        'C\'est cette approche différenciée qui garantit un résultat propre ET durable. Nettoyer trop fort, c\'est abîmer. Pas assez, c\'est inefficace. On trouve le bon réglage pour chaque surface.',
       ],
     },
     {
       heading: 'Étape 5 : Traitements Ultra-Spéciaux et Désinfection Professionnelle',
       headingLevel: 3,
       paragraphs: [
-        'Les traitements ultra-spéciaux rouennais ciblent avec une précision scientifique les problématiques spécifiques identifiées lors du diagnostic initial expert et liées à l\'environnement séquanais. La désinfection complète et professionnelle utilise des produits ultra-spécialisés homologués espaces extérieurs pour éliminer intégralement bactéries pathogènes, virus, champignons et micro-organismes de toutes natures particulièrement prolifiques dans l\'humidité constante rouennaise. Les <strong>traitements anti-mousses</strong> et anti-lichens ultra-avancés mobilisent nos techniques scientifiques les plus pointues selon les types de contamination spécifiques favorisés par le climat séquanais. Les applications de protection premium préservent durablement tous les matériaux traités contre l\'usure prématurée et toutes les agressions climatiques futures typiques de la région rouennaise.',
-        'Cette phase technique ultra-avancée et personnalisée adapte notre intervention selon vos besoins ultra-spécifiques et les contraintes environnementales rouennaises, garantissant un résultat parfaitement calibré à votre situation particulière et à vos attentes de qualité les plus élevées dans le contexte séquanais.',
+        'Après le nettoyage, on passe aux traitements. Désinfection avec des produits homologués pour l\'extérieur qui éliminent bactéries, champignons et micro-organismes. <strong>Traitements anti-mousses</strong> et anti-lichens pour empêcher le retour des végétations indésirables. Et application de produits de protection qui préservent vos matériaux contre l\'usure et les intempéries.',
+        'Ces traitements sont adaptés à votre situation précise — le type de mousse, le matériau, l\'exposition. C\'est du sur-mesure, pas du tout-venant.',
       ],
     },
     {
       heading: 'Étape 6 : Finition Premium et Contrôle Qualité Ultra-Rigoureux',
       headingLevel: 3,
       paragraphs: [
-        'La phase de finition premium ultra-soignée parachève notre intervention rouennaise avec l\'application méticuleuse de traitements de finition et de protection longue durée premium spécialement formulés pour résister aux conditions climatiques séquanaises sur toutes les surfaces traitées, le rinçage final professionnel avec évacuation contrôlée des eaux selon les réglementations environnementales strictes de la métropole rouennaise, l\'élimination totale de toutes les odeurs résiduelles de produits d\'entretien, le contrôle qualité systématique, rigoureux et exhaustif de chaque zone traitée selon nos standards d\'excellence les plus stricts et les plus exigeants adaptés aux spécificités rouennaises.',
-        'Cette étape finale cruciale garantit la durabilité maximale et exceptionnelle du résultat obtenu dans les conditions environnementales séquanaises et votre satisfaction totale et définitive. Notre technicien expert effectue systématiquement un tour complet et ultra-détaillé de vos espaces extérieurs en votre présence pour validation définitive et approbation de la prestation intégralement réalisée selon les standards rouennais d\'excellence.',
+        'Dernière couche de protection appliquée sur toutes les surfaces. Rinçage final propre avec évacuation contrôlée des eaux usées. Élimination des odeurs de produits. Et contrôle qualité zone par zone — on vérifie chaque mètre carré avant de considérer le travail terminé.',
+        'Notre technicien fait le tour avec vous pour valider le résultat. Si un endroit n\'est pas parfait, on le reprend immédiatement. On ne part que quand vous êtes satisfait.',
       ],
     },
     {
       heading: 'Étape 7 : Validation Client et Suivi Post-Intervention',
       headingLevel: 3,
       paragraphs: [
-        'La validation client finale constitue l\'aboutissement de notre processus d\'excellence rouennais. Notre technicien vous accompagne pour un tour complet de contrôle, recueille votre appréciation sur chaque aspect de l\'intervention, vous remet les conseils d\'entretien personnalisés adaptés aux spécificités climatiques séquanaises, et programme si nécessaire les interventions futures selon vos besoins saisonniers et les cycles climatiques rouennais. Nos équipes interviennent aussi pour le <a href="/nettoyage-vitres-rouen">nettoyage de vitres</a> des baies donnant sur vos espaces extérieurs.',
-        'Ce suivi post-intervention inclut un rappel de satisfaction sous 48h, des conseils d\'entretien adaptés à vos revêtements et à votre exposition dans l\'environnement rouennais, et la possibilité d\'une retouche gratuite si nécessaire. Cette approche garantit votre satisfaction durable et fidélise notre relation de confiance dans le contexte séquanais.',
+        'On fait le point ensemble. Vous validez le résultat, on vous donne des conseils d\'entretien pour que ça dure le plus longtemps possible. Si vous voulez programmer un entretien régulier (par saison par exemple), on cale ça tout de suite. Nos équipes interviennent aussi pour le <a href="/nettoyage-vitres-rouen">nettoyage de vitres</a> des baies vitrées qui donnent sur votre terrasse.',
+        'Dans les 48h qui suivent, on vous rappelle pour vérifier que tout est toujours en ordre. Si un point vous chiffonne, retouche gratuite. C\'est notre façon de travailler : on assume le résultat.',
       ],
     },
     {
       heading: 'Spécificités Ultra-Expertes du Nettoyage Extérieur à Rouen',
       headingLevel: 2,
       paragraphs: [
-        'Le nettoyage de balcons et terrasses à Rouen présente des défis spécifiques et complexes liés à l\'environnement séquanais et au patrimoine architectural exceptionnel de la métropole rouennaise. ProClean a développé une expertise locale ultra-spécialisée et reconnue pour traiter avec excellence les problématiques caractéristiques de la capitale normande : climat océanique dégradé avec influences continentales créant des conditions d\'humidité constante particulièrement favorables au développement de mousses et lichens, proximité immédiate de la Seine générant une hygrométrie permanente affectant tous les matériaux extérieurs, pollution urbaine spécifique aux métropoles historiques densément peuplées concentrant particules fines et résidus atmosphériques, circulation intense dans les centres anciens aux voiries étroites générant des défis logistiques particuliers, variations micro-climatiques importantes entre vallée de Seine et plateaux environnants créant des expositions très différenciées, patrimoine architectural exceptionnel nécessitant des techniques ultra-respectueuses des matériaux anciens et des contraintes de conservation.',
-        'Nos adaptations techniques ultra-spécialisées rouennaises incluent l\'utilisation systématique et exclusive de produits anti-humidité haute performance spécialement développés pour l\'environnement fluvial séquanais, des traitements ultra-spécialisés contre mousses et lichens particulièrement développés dans l\'humidité constante de la vallée de Seine, des techniques de nettoyage haute pression parfaitement calibrées pour respecter les matériaux patrimoniaux tout en éliminant efficacement les salissures urbaines, des protocoles ultra-différenciés selon l\'exposition aux vents humides dominants et à l\'orientation par rapport au fleuve, des applications préventives longue durée spécialement formulées pour optimiser la résistance aux conditions de forte hygrométrie séquanaise, des méthodes logistiques adaptées aux contraintes de circulation et de stationnement des centres historiques rouennais. Les mêmes techniques de nettoyage extérieur sont utilisées pour notre <a href="/nettoyage-toiture-rouen">nettoyage de toiture à Rouen</a>.',
-        'Cette expertise territoriale rouennaise ultra-approfondie nous permet d\'offrir des résultats parfaitement durables et optimalement adaptés aux conditions locales ultra-spécifiques, garantissant une satisfaction client maximale et une préservation optimale de vos investissements immobiliers dans l\'environnement séquanais particulier.',
+        'Chaque terrasse a ses problèmes, mais certains reviennent souvent : mousse qui pousse vite à cause de l\'humidité, pollution qui noircit les surfaces, fientes d\'oiseaux qui attaquent les matériaux, joints qui se dégradent avec le gel. ProClean connaît ces problèmes et a développé des solutions adaptées à chaque situation. On sait aussi travailler sur des matériaux anciens qui demandent de la délicatesse — la pression qui convient au béton détruirait de la pierre tendre.',
+        'Nos adaptations : produits anti-humidité haute performance, traitements anti-mousses et anti-lichens efficaces dans la durée, nettoyage haute pression calibré pour respecter chaque matériau, applications préventives longue durée, et une logistique qui s\'adapte à chaque situation (accès, stationnement, contraintes de copropriété). Les mêmes techniques de nettoyage extérieur sont utilisées pour notre <a href="/nettoyage-toiture-rouen">nettoyage de toiture à Rouen</a>.',
+        'Le résultat : une terrasse propre qui le reste. Pas un nettoyage cosmétique qui disparaît en deux semaines, mais un vrai traitement en profondeur qui protège vos surfaces sur le long terme.',
       ],
     },
     {
       heading: 'ProClean Rouen : Votre Partenaire Espaces Extérieurs de Référence Absolue',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour le nettoyage de vos balcons et terrasses à Rouen, c\'est opter résolument pour l\'excellence absolue du service d\'entretien extérieur mobile et la tranquillité d\'esprit totale au quotidien. Notre expertise locale ultra-spécialisée, développée spécifiquement pour les conditions rouennaises, nous permet de proposer des solutions parfaitement calibrées et optimalement adaptées à votre environnement séquanais et à tous vos besoins résidentiels ou professionnels spécifiques.',
-        'Rejoignez dès aujourd\'hui les très nombreuses familles et entreprises rouennaises qui font entièrement confiance à ProClean pour l\'entretien irréprochable de leurs espaces extérieurs. Découvrez le plaisir authentique de profiter d\'espaces extérieurs absolument impeccables sans aucune contrainte technique. Contactez-nous immédiatement pour votre devis gratuit, détaillé et entièrement personnalisé ! <a href="/devis-gratuit-rouen">devis gratuit en ligne</a>.',
-        'ProClean Rouen - L\'excellence mobile séquanaise absolue de l\'entretien d\'espaces extérieurs depuis 2020',
+        'ProClean pour vos terrasses et balcons, c\'est la garantie d\'un travail bien fait. On ne bâcle pas, on ne sur-facture pas, et on adapte notre intervention à votre situation réelle. Matériel pro, produits adaptés, techniciens formés — tout ce qu\'il faut pour un résultat qui dure.',
+        'Envie de profiter de votre terrasse cet été sans avoir honte de l\'état des dalles ? Contactez-nous pour un devis gratuit et personnalisé. On vient voir, on vous dit ce qu\'on peut faire et combien ça coûte. <a href="/devis-gratuit-rouen">devis gratuit en ligne</a>.',
+        'ProClean Rouen — Des terrasses propres et protégées, depuis 2020.',
       ],
     },
   ],
@@ -793,17 +793,17 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage de Bureaux à Rouen - ProClean, Excellence Métropolitaine Normande',
       headingLevel: 2,
       paragraphs: [
-        'ProClean révolutionne le nettoyage de bureaux à Rouen en apportant à la prestigieuse métropole normande une expertise technique ultra-spécialisée et une excellence opérationnelle qui redéfinissent les standards de l\'<strong>entretien professionnel</strong> d\'espaces de travail. Forte de notre parfaite maîtrise des spécificités environnementales continentales et de notre connaissance approfondie du tissu économique rouennais, notre entreprise déploie sur le territoire de la capitale normande des solutions d\'entretien avancées parfaitement adaptées aux contraintes des environnements professionnels métropolitains. Que vos bureaux dominent les méandres de Seine depuis les tours de la Presqu\'île, que vos locaux s\'épanouissent dans les quartiers d\'affaires de la rive droite, ou que vos espaces de travail agrémentent les technopôles du Madrillet et de Saint-Étienne-du-Rouvray, notre équipe ultra-spécialisée intervient avec une efficacité remarquable pour garantir un environnement professionnel d\'une propreté irréprochable et d\'une hygiène parfaite.',
-        'Le déploiement de notre service professionnel avancée de <strong>nettoyage de bureaux à Rouen</strong> répond aux exigences croissantes de qualité, d\'hygiène et de performance des entreprises rouennaises évoluant dans un environnement économique métropolitain ultra-dynamique. Notre approche disruptive élimine définitivement toutes les contraintes traditionnelles de l\'entretien professionnel : fini les prestations standardisées inadaptées aux spécificités des environnements de travail métropolitains, fini les interventions superficielles qui négligent les détails cruciaux pour l\'image professionnelle, fini les planifications rigides incompatibles avec les rythmes opérationnels des entreprises technologiques et tertiaires. ProClean révolutionne votre expérience en proposant des solutions d\'entretien sur-mesure, des techniques ultra-spécialisées et une flexibilité opérationnelle qui s\'adaptent parfaitement aux contraintes et aux ambitions de votre activité professionnelle rouennaise.',
+        'Vos bureaux sentent le renfermé dès le lundi matin. Les poubelles du vendredi débordent encore. Les claviers sont couverts de miettes, les sanitaires personne ne veut les nettoyer, et vos collaborateurs s\'en plaignent sans que rien ne change. C\'est exactement le genre de situation que ProClean règle pour de bon. Notre service d\'<strong>entretien professionnel</strong> de bureaux est pensé pour que vous n\'ayez plus jamais à y penser — on s\'occupe de tout, proprement, discrètement, et selon un planning qui colle à votre activité.',
+        'Le <strong>nettoyage de bureaux à Rouen</strong> avec ProClean, c\'est simple : on passe le soir ou tôt le matin, vos équipes ne nous voient même pas. Aspiration, vidange des corbeilles, nettoyage des sanitaires, désinfection des surfaces de travail — chaque semaine ou chaque jour selon vos besoins. Fini les prestataires qui font le minimum, fini les interventions bâclées où on retrouve la même tache de café trois jours de suite. On traite vos locaux comme si c\'étaient les nôtres, avec un vrai suivi et un interlocuteur dédié qui répond au téléphone.',
       ],
     },
     {
       heading: 'ProClean Rouen : Innovation Technique et Expertise Métropolitaine Professionnelle',
       headingLevel: 2,
       paragraphs: [
-        'L\'implantation stratégique de notre service de nettoyage de bureaux professionnel à Rouen s\'appuie sur une analyse experte et approfondie des spécificités environnementales, climatiques et économiques de la métropole normande. L\'environnement continental rouennais présente des défis particuliers et complexes pour l\'entretien optimal des espaces de travail professionnels : climat océanique continental avec importantes variations thermiques saisonnières affectant les systèmes de climatisation et les équipements sensibles, humidité continentale modérée mais constante favorisant le développement de moisissures dans les espaces mal ventilés, pollution urbaine spécifique aux métropoles industrielles et universitaires concentrant particules fines et résidus atmosphériques, circulation urbaine intense dans les centres historiques et les zones d\'activités générant poussières et vibrations continues, variations micro-climatiques importantes entre vallée de Seine humide et plateaux ventés créant des conditions d\'entretien différenciées, proximité des activités chimiques et pétrochimiques générant des défis de décontamination ultra-spécialisés.',
-        'Notre équipe rouennaise ultra-spécialisée bénéficie d\'une formation technique approfondie et continue aux particularités climatiques, environnementales et sectorielles locales. Nous adaptons méticuleusement nos techniques avancées, nos produits professionnels et nos équipements de pointe aux contraintes spécifiques du territoire rouennais : techniques adaptées aux variations thermiques continentales pour préserver les équipements électroniques sensibles et les matériaux de construction, produits spécialement formulés contre l\'humidité continentale et les développements fongiques favorisés par le climat local, méthodes renforcées contre les salissures urbaines et industrielles particulièrement tenaces dans l\'<strong>environnement métropolitain</strong>, protocoles adaptés aux contraintes d\'accès des centres urbains denses et des zones d\'activités technologiques, planifications flexibles compatibles avec les rythmes opérationnels des entreprises tertiaires et technologiques fonctionnant en horaires étendus.',
-        'La logistique professionnelle ultra-optimisée pour Rouen prend scrupuleusement en compte toutes les contraintes de circulation, de stationnement et d\'accessibilité propres à la métropole normande. Nos équipes maîtrisent parfaitement les spécificités de chaque secteur d\'activité, des immeubles historiques du centre-ville aux complexes technologiques des technopôles, garantissant une intervention d\'une efficacité maximale dans tous les environnements professionnels de l\'agglomération rouennaise.',
+        'Un bureau sale, ça coûte cher. Pas juste en image — en productivité. Des études montrent qu\'un environnement de travail propre réduit l\'absentéisme de 12% et augmente la concentration. À l\'inverse, des sanitaires négligés, des sols collants et des poubelles qui débordent, ça mine le moral des équipes. Les candidats qui visitent vos locaux pour un entretien d\'embauche ? Ils voient tout ça aussi. Un bureau bien entretenu, c\'est un investissement direct dans la performance de votre entreprise.',
+        'Notre équipe intervient avec du matériel professionnel et des produits adaptés à chaque type de surface. On ne passe pas le même produit sur un parquet massif et sur du carrelage technique — ça paraît évident, mais beaucoup de prestataires ne font pas la différence. Nous, on adapte nos méthodes à votre <strong>environnement professionnel</strong> : open space avec 50 postes de travail, cabinet médical avec des normes d\'hygiène strictes, ou bureau d\'architecte avec du mobilier design — chaque configuration a son protocole.',
+        'On s\'organise aussi autour de vos contraintes réelles : badges d\'accès, alarmes, horaires de fermeture, zones confidentielles. Nos équipes sont formées, assurées et habituées à intervenir dans des locaux professionnels où la discrétion et la fiabilité ne sont pas négociables.',
       ],
     },
     {
@@ -815,36 +815,36 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Quotidien Premium : Excellence Opérationnelle Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage quotidien premium à Rouen représente le summum de notre expertise technique et de notre savoir-faire spécialisé, destiné aux entreprises les plus exigeantes souhaitant un environnement de travail d\'exception absolue. Cette prestation d\'élite mobilise l\'intégralité de nos compétences techniques les plus avancées et de nos équipements professionnels les plus performants pour maintenir quotidiennement un standard de propreté et d\'hygiène pleinement exemplaire dans l\'environnement métropolitain rouennais spécifique.',
-        'Le protocole quotidien premium rouennais comprend l\'évacuation systématique et le tri sélectif de tous les déchets avec gestion écologique respectueuse des réglementations métropolitaines strictes, le dépoussiérage minutieux et anti-statique de tous les équipements informatiques et électroniques particulièrement sensibles aux variations thermiques continentales, le nettoyage expert et désinfectant de toutes les surfaces de travail avec attention particulière aux zones de contact fréquent et aux espaces de collaboration high-tech, l\'entretien spécialisé des sols selon leur nature spécifique (moquettes techniques, parquets de prestige, carrelages design, revêtements anti-statiques) avec produits adaptés aux contraintes des environnements professionnels continentaux, le nettoyage et la <strong>désinfection complète</strong> des sanitaires et espaces de restauration avec protocoles renforcés conformes aux normes d\'hygiène les plus strictes, la maintenance préventive des équipements d\'entretien et l\'application de traitements de protection longue durée spécialement formulés pour résister aux conditions continentales normandes.',
-        'Cette prestation quotidienne d\'exception garantit un environnement de travail constamment impeccable, renforçant l\'image professionnelle de votre entreprise et optimisant le bien-être et la productivité de vos équipes dans le contexte économique ultra-compétitif rouennais.',
+        'Le nettoyage quotidien, c\'est pour les entreprises qui ne veulent aucun compromis. Vos locaux accueillent du public, vos équipes sont nombreuses, ou vous avez tout simplement des standards élevés — on passe tous les jours, et chaque matin vos collaborateurs retrouvent un espace impeccable.',
+        'Concrètement, ça veut dire : vidange et tri de toutes les corbeilles, dépoussiérage des bureaux et équipements informatiques, nettoyage et désinfection de toutes les surfaces de contact (poignées, interrupteurs, téléphones, claviers), entretien des sols adapté à leur nature (moquette, parquet, carrelage, revêtement technique), <strong>désinfection complète</strong> des sanitaires et des espaces de pause, et réapprovisionnement des consommables (savon, papier, essuie-mains). Rien n\'est oublié parce que tout est listé dans un cahier des charges validé avec vous.',
+        'Résultat : vos équipes travaillent dans un environnement sain, vos visiteurs sont bien accueillis, et vous n\'avez plus jamais à envoyer un mail pour demander qui va nettoyer la cuisine.',
       ],
     },
     {
       heading: 'Nettoyage Hebdomadaire Intégral : Performance Globale Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage hebdomadaire intégral à Rouen mobilise l\'ensemble de notre expertise professionnelle et de nos équipements techniques de pointe pour une remise à neuf complète et approfondie de vos espaces de travail. Cette prestation intégrale, parfaitement adaptée aux rythmes opérationnels et aux contraintes budgétaires des entreprises rouennaises, constitue un investissement stratégique dans la préservation et la valorisation de votre environnement professionnel.',
-        'Le protocole hebdomadaire intégral rouennais inclut le nettoyage approfondi et ultra-spécialisé de tous les espaces avec traitement expert différencié selon leur fonction et leur niveau d\'exposition aux contraintes continentales (bureaux individuels et collectifs, salles de réunion et de formation, espaces de détente et de restauration, zones de stockage et d\'archivage, locaux techniques et de service) utilisant exclusivement des produits professionnels certifiés et des techniques industrielles de dernière génération parfaitement adaptées au climat continental rouennais, le décapage et la remise à neuf des sols avec réglages ultra-précis selon la résistance de chaque revêtement et les contraintes techniques des constructions métropolitaines, le nettoyage intensif et restaurateur de toutes les vitres intérieures et extérieures avec élimination complète des dépôts atmosphériques et des résidus urbains, l\'entretien approfondi de tous les équipements et mobiliers professionnels avec remise à neuf de leur aspect d\'origine et protection contre les agressions climatiques continentales, l\'élimination systématique de toutes les traces d\'humidité, moisissures et développements bactériens particulièrement favorisés par l\'environnement continental, la désinfection complète et professionnelle de tous les espaces avec élimination totale des micro-organismes et optimisation de la qualité de l\'air intérieur, l\'application de produits de finition premium et de protection maximale pour une durabilité exceptionnelle du résultat obtenu dans les conditions climatiques continentales rouennaises.',
-        'Cette intervention hebdomadaire intégrale représente un investissement intelligent dans la préservation optimale et la valorisation maximale de vos actifs immobiliers professionnels, particulièrement recommandée pour les entreprises soucieuses d\'excellence opérationnelle et d\'image de marque irréprochable.',
+        'Pour les bureaux de taille moyenne ou les locaux moins fréquentés, un passage hebdomadaire complet suffit souvent. C\'est notre formule la plus demandée : une remise à zéro complète de vos espaces chaque semaine, pour que rien ne s\'accumule et que vos locaux restent toujours présentables.',
+        'Le passage hebdomadaire couvre tout en profondeur : nettoyage de chaque espace selon sa fonction (bureaux, salles de réunion, coin cuisine, stockage, sanitaires), lavage des sols avec les bons produits selon le revêtement, nettoyage des vitres intérieures, dépoussiérage du mobilier et des étagères, élimination des traces d\'humidité et des taches, désinfection complète de tous les points de contact, et application de produits de protection pour que le résultat tienne toute la semaine. On traite aussi les petits détails que les autres oublient : les plinthes, les dessus d\'armoires, les traces de doigts sur les portes vitrées.',
+        'C\'est un investissement malin : vous protégez vos locaux de l\'usure prématurée, vous gardez une image pro auprès de vos clients et partenaires, et vos équipes bossent dans de bonnes conditions sans que ça vous coûte le prix d\'un passage quotidien.',
       ],
     },
     {
       heading: 'Nettoyage de Moquettes Techniques : Expertise Spécialisée Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise rouennaise ultra-spécialisée en nettoyage de moquettes techniques traite avec une efficacité scientifique les défis spécifiques des revêtements textiles professionnels dans l\'environnement métropolitain. Les moquettes des bureaux rouennais subissent des contraintes particulières liées au climat continental et à l\'activité urbaine intense : accumulation de poussières fines favorisée par l\'humidité continentale, incrustations de salissures urbaines particulièrement tenaces, développement d\'allergènes et d\'acariens dans les fibres textiles, taches diverses liées à l\'activité professionnelle intensive, usure prématurée causée par le passage fréquent et les variations thermiques. Notre approche scientifique et méthodique garantit une restauration complète et une préservation optimale de tous vos investissements textiles.',
-        'Nos techniques de nettoyage moquettes rouennaises comprennent l\'analyse technique précise de l\'état et de la composition des revêtements textiles par inspection experte ultra-approfondie avec équipements de détection spécialisés, l\'aspiration haute performance avec extracteurs industriels pour éliminer toutes les particules incrustées et les résidus atmosphériques, le prétraitement ciblé des taches et zones d\'usure avec produits ultra-spécialisés adaptés à chaque type de fibre et de salissure, le nettoyage injection-extraction avec équipements professionnels haute performance et solutions de nettoyage spécialement formulées pour les conditions continentales, le rinçage professionnel et l\'extraction maximale de l\'humidité pour prévenir tous les développements fongiques, l\'application de traitements de protection et d\'entretien longue durée pour optimiser la résistance aux futures salissures et préserver l\'aspect esthétique.',
-        'Ces traitements textiles ultra-spécialisés prolongent significativement la durée de vie de vos investissements et maintiennent un environnement professionnel sain et esthétique. Notre expertise reconnue nous permet d\'intervenir sur tous types de moquettes de bureau avec des résultats garantis parfaitement durables.',
+        'Le problème des moquettes de bureau : 200 passages par jour, café renversé, semelles mouillées. En 6 mois, c\'est gris. En un an, ça sent. Et quand on laisse traîner, les allergènes s\'accumulent dans les fibres — acariens, poussières, résidus divers. Vos collaborateurs éternuent, et vous vous demandez pourquoi. La moquette, c\'est souvent la coupable.',
+        'Notre traitement en profondeur commence par un diagnostic de l\'état des fibres et du type de moquette (bouclée, velours, dalles techniques). On aspire d\'abord avec des extracteurs industriels qui vont chercher la saleté au fond de la fibre, pas juste en surface. Ensuite, on prétraite les taches tenaces une par une avec des produits adaptés. Puis on passe au nettoyage injection-extraction : on injecte une solution nettoyante sous pression et on l\'aspire immédiatement avec toute la saleté. Séchage rapide pour éviter tout problème d\'humidité. Enfin, on applique un traitement anti-taches pour prolonger la durée de vie.',
+        'On recommande un shampoing complet tous les 3 à 6 mois selon la fréquentation. Vos moquettes retrouvent leur couleur d\'origine, l\'air est plus sain, et vous repoussez leur remplacement de plusieurs années. C\'est concret, mesurable, et ça se voit dès le lendemain.',
       ],
     },
     {
       heading: 'Nettoyage Vitres Professionnelles : Expertise Hauteur Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage vitres professionnelles à Rouen maîtrise parfaitement les défis techniques et sécuritaires du nettoyage des surfaces vitrées en hauteur dans l\'environnement urbain métropolitain. Les vitres des immeubles de bureaux rouennais présentent des spécificités liées à leur exposition aux conditions climatiques continentales et à la pollution urbaine : dépôts atmosphériques particulièrement tenaces liés à la circulation dense, traces d\'humidité et de condensation favorisées par les variations thermiques, accumulation de poussières industrielles et urbaines, contraintes d\'accès complexes dans les centres urbains denses, exigences de sécurité renforcées pour les interventions en hauteur. Notre expertise technique et notre maîtrise sécuritaire garantissent des résultats parfaits et une sécurité totale.',
-        'Nos techniques vitres hauteur rouennaises incluent l\'évaluation sécuritaire complète des conditions d\'intervention avec analyse des contraintes d\'accès et mise en place des équipements de sécurité réglementaires, le nettoyage professionnel des surfaces vitrées avec produits ultra-spécialisés éliminant toutes les salissures sans laisser de traces ni de résidus, l\'entretien des cadres et joints avec techniques adaptées à chaque matériau (aluminium, PVC, bois) et aux conditions d\'exposition continentales, la vérification et l\'entretien des systèmes d\'ouverture et de sécurité des fenêtres, l\'application de traitements de protection longue durée pour faciliter l\'entretien futur et optimiser la résistance aux agressions climatiques, la documentation photographique avant/après pour validation qualité et traçabilité complète.',
-        'Ces interventions vitres spécialisées transforment l\'aspect de vos bureaux et optimisent la luminosité naturelle, contribuant au bien-être des équipes et à l\'image professionnelle de votre entreprise dans l\'environnement métropolitain rouennais. Découvrez notre page dédiée au <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a> pour tous vos bâtiments professionnels.',
+        'Des vitres sales, ça se voit de l\'extérieur comme de l\'intérieur. Vos collaborateurs perdent en luminosité naturelle, et vos visiteurs voient un bâtiment terne. Le problème, c\'est que les vitres de bureaux prennent tout : poussière, traces de pluie, pollution, condensation. Et plus on attend, plus c\'est difficile à nettoyer. Les dépôts s\'incrustent et finissent par attaquer les joints si on ne fait rien.',
+        'On intervient en toute sécurité, que vos bureaux soient au rez-de-chaussée ou en étage. Notre équipe évalue les conditions d\'accès, met en place les équipements de sécurité réglementaires, puis nettoie chaque surface vitrée avec des produits professionnels qui ne laissent ni traces ni résidus. On s\'occupe aussi des cadres et des joints (aluminium, PVC, bois — chacun a son traitement), on vérifie les systèmes d\'ouverture, et on applique un traitement hydrophobe pour que les vitres restent propres plus longtemps. Photos avant/après incluses pour que vous constatiez le résultat.',
+        'Des vitres propres, c\'est plus de lumière naturelle, un meilleur confort visuel pour les équipes, et une façade qui donne envie d\'entrer. Découvrez notre page dédiée au <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a> pour tous vos bâtiments professionnels.',
       ],
     },
     {
@@ -856,23 +856,23 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Étape 1 : Audit Professionnel Gratuit et Diagnostic Technique Approfondi',
       headingLevel: 3,
       paragraphs: [
-        'Chaque intervention <strong>ProClean</strong> à Rouen débute systématiquement par un audit professionnel complet et expert de vos espaces de travail réalisé directement et gratuitement sur votre site d\'activité rouennais. Notre consultant expert ultra-spécialisé examine avec la plus grande minutie l\'état précis de vos bureaux et locaux professionnels, identifie avec précision toutes les problématiques rencontrées spécifiques à l\'environnement continental (nature exacte des salissures urbaines et industrielles, degré d\'exposition aux variations thermiques, état des équipements face aux conditions d\'humidité continentale, problèmes de circulation d\'air et de qualité atmosphérique), analyse méthodiquement les contraintes d\'organisation et les spécificités opérationnelles de votre activité, évalue précisément les besoins en fréquence et en intensité d\'intervention selon vos standards qualité et vos contraintes budgétaires, et vous présente nos recommandations techniques personnalisées et parfaitement adaptées à votre situation professionnelle rouennaise spécifique.',
-        'Cette analyse préalable experte et approfondie nous permet d\'établir un devis rouennais transparent, détaillé et parfaitement personnalisé, d\'adapter précisément notre organisation logistique, nos équipements mobiles de pointe et nos produits ultra-spécialisés aux besoins techniques identifiés et aux contraintes opérationnelles locales, de planifier les interventions dans les créneaux optimaux en tenant compte de vos rythmes d\'activité et des spécificités de circulation métropolitaine, et de vous expliquer en détail la méthodologie et les standards de qualité de chaque phase de prestation prévue. Nous intégrons également toutes vos contraintes de sécurité, de confidentialité et de coordination avec vos équipes pour optimiser parfaitement l\'organisation des interventions dans le contexte professionnel rouennais. N\'hésitez pas à <a href="/devis-gratuit-rouen">demander un devis gratuit</a> pour vos locaux professionnels.',
+        'On ne vous envoie pas un devis au hasard par mail. Chaque intervention <strong>ProClean</strong> commence par une visite gratuite de vos locaux. Un de nos responsables vient sur place, fait le tour avec vous, regarde l\'état des sols, des sanitaires, des espaces communs. Il vous pose les bonnes questions : combien de personnes travaillent ici ? Quels sont les horaires ? Y a-t-il des zones sensibles ou confidentielles ? Des contraintes d\'accès ? Il note tout, identifie les vrais problèmes (pas juste ceux qu\'on voit, mais aussi ceux qu\'on sent ou qu\'on ne remarque plus à force d\'y être), et il évalue précisément la fréquence et l\'intensité d\'intervention nécessaires selon vos standards et votre budget.',
+        'À partir de là, on vous remet un devis clair, détaillé, sans surprise. Chaque poste est listé : ce qu\'on fait, à quelle fréquence, avec quels produits. On cale les créneaux d\'intervention pour ne jamais gêner votre activité, on gère les accès, les badges, les alarmes. Et si vous avez des exigences particulières — confidentialité, normes sectorielles, coordination avec votre gestionnaire d\'immeuble — on les intègre dès le départ. N\'hésitez pas à <a href="/devis-gratuit-rouen">demander un devis gratuit</a> pour vos locaux professionnels.',
       ],
     },
     {
       heading: 'Étape 2 : Planification Stratégique et Organisation Logistique Ultra-Optimisée',
       headingLevel: 3,
       paragraphs: [
-        'La phase de planification stratégique ultra-méthodique garantit une parfaite intégration de nos interventions dans vos rythmes opérationnels et une efficacité maximale de tous nos process d\'entretien dans l\'environnement professionnel rouennais. Elle inclut l\'établissement d\'un planning d\'intervention personnalisé et flexible tenant compte de vos pics d\'activité, de vos contraintes de sécurité et de vos impératifs de confidentialité, la coordination approfondie avec vos équipes de gestion et de sécurité pour optimiser l\'accès aux différents espaces et minimiser les perturbations opérationnelles, la préparation logistique complète avec approvisionnement en produits et équipements spécialisés adaptés aux spécificités de votre activité et aux conditions continentales, la formation continue de nos équipes aux procédures spécifiques de votre entreprise et aux contraintes réglementaires de votre secteur d\'activité.',
-        'Cette planification stratégique ultra-personnalisée et adaptive conditionne directement l\'efficacité opérationnelle de nos interventions et garantit une parfaite compatibilité avec vos exigences professionnelles les plus strictes dans le contexte économique rouennais ultra-compétitif.',
+        'Une fois le devis validé, on organise tout pour que ça tourne sans accroc. On établit un planning d\'intervention calé sur vos horaires et vos pics d\'activité. On se coordonne avec vos équipes (accueil, sécurité, facility manager) pour l\'accès aux différents espaces. On prépare le matériel et les produits adaptés à vos surfaces. Et on forme nos agents aux procédures spécifiques de votre entreprise : où sont les clés, comment fonctionne l\'alarme, quelles zones ne pas toucher, quels produits utiliser dans la cuisine vs. dans les sanitaires.',
+        'Tout ça, c\'est ce qui fait la différence entre un prestataire fiable et un prestataire qui oublie de passer un vendredi sur deux. Chez ProClean, le planning est respecté, le suivi est réel, et si quelque chose ne va pas, vous avez un numéro direct pour nous le dire.',
       ],
     },
     {
       heading: 'ProClean Rouen : Votre Partenaire Professionnel de Référence Métropolitaine',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour le nettoyage de vos bureaux à Rouen, c\'est opter résolument pour l\'excellence absolue du service d\'entretien professionnel et la sérénité opérationnelle totale au quotidien. Notre expertise locale ultra-spécialisée, développée spécifiquement pour les conditions rouennaises, nous permet de proposer des solutions parfaitement calibrées et optimalement adaptées à votre environnement professionnel métropolitain et à tous vos besoins sectoriels spécifiques. Ce savoir-faire professionnel se décline aussi pour l\' <a href="/entretien-commerces-rouen">entretien de commerces à Rouen</a>.',
+        'Confier le nettoyage de vos bureaux à ProClean, c\'est choisir la tranquillité. Vous ne gérez plus les réclamations des équipes, vous ne relancez plus le prestataire, vous ne vérifiez plus si les sanitaires ont été faits. On s\'en charge, avec un suivi qualité régulier et un interlocuteur unique qui connaît vos locaux par coeur. Notre approche fonctionne aussi pour l\' <a href="/entretien-commerces-rouen">entretien de commerces à Rouen</a>.',
       ],
     },
   ],
@@ -882,17 +882,17 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Entretien de Commerces à Rouen - ProClean, Excellence Commerciale Métropolitaine',
       headingLevel: 2,
       paragraphs: [
-        '<strong>ProClean</strong> révolutionne l\'<strong>entretien de commerces à Rouen</strong> en apportant à la prestigieuse métropole normande une expertise technique ultra-spécialisée et une excellence opérationnelle qui redéfinissent les standards de l\'entretien professionnel d\'espaces commerciaux. Forte de notre parfaite maîtrise des spécificités environnementales continentales et de notre connaissance approfondie de l\'écosystème commercial rouennais, notre entreprise déploie sur le territoire de la capitale normande des solutions d\'entretien avancées parfaitement adaptées aux contraintes des environnements commerciaux métropolitains. Que votre commerce anime les rues historiques du Vieux-Marché, que votre boutique s\'épanouisse dans les centres commerciaux de la Presqu\'île, ou que vos espaces de vente agrémentent les zones d\'activités commerciales de Saint-Étienne-du-Rouvray et Mont-Saint-Aignan, notre équipe ultra-spécialisée intervient avec une efficacité remarquable pour garantir un environnement commercial d\'une propreté irréprochable et d\'une attractivité maximale.',
-        'Le déploiement de notre service commercial avancée d\'entretien d\'espaces de vente à Rouen répond aux exigences croissantes de qualité, d\'hygiène et d\'<strong>image de marque</strong> des commerçants rouennais évoluant dans un environnement économique métropolitain ultra-dynamique. Notre approche disruptive élimine définitivement toutes les contraintes traditionnelles de l\'entretien commercial : fini les prestations standardisées inadaptées aux spécificités des environnements de vente métropolitains, fini les interventions superficielles qui négligent les détails cruciaux pour l\'expérience client, fini les planifications rigides incompatibles avec les rythmes d\'ouverture des commerces urbains et touristiques. ProClean révolutionne votre expérience en proposant des solutions d\'entretien sur-mesure, des techniques ultra-spécialisées et une flexibilité opérationnelle qui s\'adaptent parfaitement aux contraintes et aux ambitions de votre activité commerciale rouennaise. <a href="/devis-gratuit-rouen">demande de devis</a> adapté à votre commerce.',
+        'Vos clients voient la vitrine avant d\'entrer. Si elle est sale, ils passent leur chemin. Le sol colle, les rayons sont poussiéreux, les cabines d\'essayage sentent — c\'est des ventes en moins, chaque jour. <strong>ProClean</strong> s\'occupe de l\'<strong>entretien de commerces à Rouen</strong> pour que votre espace de vente donne envie d\'acheter. Boutique de centre-ville, magasin en galerie marchande, ou commerce de quartier — on adapte notre intervention à votre activité, vos horaires et vos contraintes.',
+        'Un commerce propre, c\'est un commerce qui vend. Votre <strong>image de marque</strong> se joue dans les détails : les traces de doigts sur la porte vitrée, l\'odeur en entrant, l\'état des sanitaires clients. ProClean intervient avant l\'ouverture ou après la fermeture — zéro perturbation pour vos clients. Sols, vitrines, sanitaires, réserve, tout est prêt quand vous ouvrez le rideau. On s\'adapte à vos jours d\'ouverture, à vos pics de fréquentation, et on ajuste la fréquence selon la saison. <a href="/devis-gratuit-rouen">demande de devis</a> adapté à votre commerce.',
       ],
     },
     {
       heading: 'ProClean Rouen : Innovation Technique et Expertise Commerciale Métropolitaine',
       headingLevel: 2,
       paragraphs: [
-        'L\'implantation stratégique de notre service d\'entretien d\'espaces commerciaux à Rouen s\'appuie sur une analyse experte et approfondie des spécificités environnementales, climatiques et commerciales de la métropole normande. L\'environnement continental rouennais présente des défis particuliers et complexes pour l\'entretien optimal des espaces commerciaux : climat océanique continental avec importantes variations thermiques saisonnières affectant les systèmes de présentation et les équipements d\'étalage, humidité continentale modérée mais constante favorisant le développement de moisissures dans les espaces de stockage, pollution urbaine spécifique aux métropoles industrielles et universitaires concentrant particules fines et résidus atmosphériques sur les vitrines et surfaces d\'exposition, circulation urbaine intense dans les centres historiques et les zones d\'activités générant poussières et vibrations affectant les présentations de produits, variations micro-climatiques importantes entre vallée de Seine humide et plateaux ventés créant des conditions d\'entretien différenciées selon les emplacements commerciaux, proximité des activités chimiques et pétrochimiques générant des défis de nettoyage ultra-spécialisés pour les façades et espaces extérieurs.',
-        'Notre équipe commerciale rouennaise ultra-spécialisée bénéficie d\'une formation technique approfondie et continue aux particularités climatiques, environnementales et sectorielles locales. Nous adaptons méticuleusement nos techniques avancées, nos produits professionnels et nos équipements de pointe aux contraintes spécifiques du territoire rouennais : techniques adaptées aux variations thermiques continentales pour préserver les équipements d\'étalage et les systèmes de conservation, produits spécialement formulés contre l\'humidité continentale et les développements fongiques favorisés par le climat local, méthodes renforcées contre les salissures urbaines et industrielles particulièrement tenaces dans l\'environnement métropolitain, protocoles adaptés aux contraintes d\'accès des centres urbains denses et des zones commerciales modernes, planifications flexibles compatibles avec les rythmes d\'ouverture des commerces urbains et des grands magasins fonctionnant en horaires étendus.',
-        'La logistique commerciale ultra-optimisée pour Rouen prend scrupuleusement en compte toutes les contraintes de circulation, de livraison et d\'accessibilité propres à la métropole normande. Nos équipes maîtrisent parfaitement les spécificités de chaque zone commerciale, des rues médiévales du centre historique aux galeries marchandes des complexes contemporains, garantissant une intervention d\'une efficacité maximale dans tous les environnements commerciaux de l\'agglomération rouennaise.',
+        'Un commerce sale fait fuir les clients — c\'est aussi simple que ça. Une étude montre que 95% des consommateurs associent la propreté d\'un magasin à la qualité de ses produits. Si votre sol est terne, si vos vitrines sont opaques, si ça sent le renfermé quand on pousse la porte, le client repart et va chez le concurrent d\'à côté. L\'entretien de votre commerce n\'est pas une charge, c\'est un levier de chiffre d\'affaires. Chaque euro investi dans la propreté se retrouve directement dans l\'expérience client et dans votre taux de conversion.',
+        'Notre équipe connaît les contraintes des commerçants. On sait qu\'un magasin de vêtements n\'a pas les mêmes besoins qu\'une boulangerie ou qu\'un salon de coiffure. On adapte nos produits et nos méthodes à votre activité : produits alimentaires compatibles HACCP pour les commerces de bouche, nettoyage délicat pour les boutiques avec du mobilier fragile, désinfection renforcée pour les espaces de soin. On intervient tôt le matin ou tard le soir, selon vos horaires — et on est là quand il faut, pas quand ça nous arrange.',
+        'On gère aussi les contraintes pratiques : accès par l\'arrière-boutique, stationnement limité, livraisons qui bloquent l\'entrée le matin. Nos équipes connaissent le terrain et s\'organisent pour intervenir sans vous compliquer la vie. Vous ouvrez, c\'est propre. Point.',
       ],
     },
     {
@@ -904,63 +904,63 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Entretien Premium Centres Commerciaux : Excellence Métropolitaine Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'entretien premium <strong>centres commerciaux</strong> à Rouen représente le summum de notre expertise technique et de notre savoir-faire spécialisé, destiné aux enseignes les plus prestigieuses et aux centres commerciaux les plus exigeants souhaitant un environnement de vente d\'exception absolue. Cette prestation d\'élite mobilise l\'intégralité de nos compétences techniques les plus avancées et de nos équipements professionnels les plus performants pour maintenir quotidiennement un standard de propreté et d\'attractivité pleinement exemplaire dans l\'environnement métropolitain rouennais spécifique.',
-        'Le protocole premium centres commerciaux rouennais comprend l\'entretien ultra-minutieux de toutes les surfaces d\'exposition et de circulation avec produits spécialisés préservant l\'éclat des présentations de produits et l\'attractivité des espaces communs, le nettoyage expert de toutes les vitrines et surfaces vitrées avec élimination complète des traces d\'humidité et des dépôts atmosphériques particulièrement visibles dans l\'environnement continental, l\'entretien spécialisé des sols commerciaux selon leur nature spécifique (carrelages grand passage, moquettes d\'accueil, revêtements techniques, escalators et tapis roulants) avec produits adaptés aux contraintes du trafic client intense et aux conditions continentales, le nettoyage et la désinfection complète de tous les sanitaires publics avec protocoles renforcés conformes aux normes d\'<strong>hygiène commerciale</strong>s les plus strictes, l\'entretien des espaces de restauration et des aires de repos avec techniques préservant la qualité sanitaire et l\'attractivité des zones de détente, la maintenance préventive de tous les équipements commerciaux et l\'application de traitements de protection longue durée spécialement formulés pour résister aux conditions continentales normandes.',
-        'Cette prestation premium d\'exception garantit un environnement commercial constamment irréprochable, renforçant l\'image de marque collective du centre et optimisant l\'expérience d\'achat de la clientèle dans le contexte économique ultra-compétitif rouennais.',
+        'Les <strong>centres commerciaux</strong> ont un problème spécifique : des milliers de passages par jour, des sols qui s\'usent vite, des sanitaires publics sollicités en permanence, et une image collective qui dépend de la propreté de chaque recoin. Un centre commercial sale, c\'est des enseignes qui se plaignent, des clients qui préfèrent aller ailleurs, et une réputation qui se dégrade. On intervient quotidiennement pour que rien ne s\'accumule.',
+        'Notre protocole couvre tout ce qui fait la différence : nettoyage des allées et zones de circulation avec des produits adaptés au trafic intense, entretien des vitrines et surfaces vitrées sans traces, nettoyage des sols selon leur type (carrelage grand passage, moquette d\'accueil, escalators, tapis roulants), désinfection complète des sanitaires publics selon les normes d\'<strong>hygiène commerciale</strong>s les plus strictes, entretien des espaces de restauration et des aires de repos, et maintenance préventive de tous les équipements communs. Chaque zone a son traitement, chaque surface a son produit.',
+        'Le résultat : un centre commercial où les clients se sentent bien, où les enseignes sont fières de leur emplacement, et où personne ne se demande si les toilettes ont été nettoyées ce matin. Parce que oui, elles l\'ont été.',
       ],
     },
     {
       heading: 'Entretien Magasins Spécialisés : Expertise Sectorielle Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'entretien magasins spécialisés à Rouen adapte avec une précision technique nos méthodes aux contraintes spécifiques de chaque secteur d\'activité commerciale. L\'écosystème commercial rouennais présente une diversité remarquable d\'activités nécessitant des approches différenciées : commerces alimentaires soumis aux normes d\'hygiène les plus strictes, boutiques de mode et accessoires exigeant un entretien préservant l\'esthétique des présentations, magasins d\'électronique et high-tech nécessitant des environnements ultra-propres et anti-statiques, pharmacies et parapharmacies requérant des protocoles sanitaires renforcés, librairies et magasins culturels sensibles à l\'humidité et aux variations thermiques. Notre approche sectorielle garantit une adaptation parfaite aux besoins ultra-spécifiques de chaque activité.',
-        'Nos techniques magasins spécialisés rouennaises incluent l\'analyse préalable des contraintes spécifiques de chaque secteur d\'activité avec établissement de protocoles personnalisés conformes aux réglementations sectorielles, l\'entretien différencié des espaces selon leur fonction et leur niveau de sensibilité avec produits ultra-spécialisés adaptés aux contraintes de chaque activité, le nettoyage et la désinfection des zones de manipulation et de présentation avec techniques préservant la qualité des produits et l\'hygiène optimale, l\'entretien spécialisé des équipements sectoriels (balances, caisses enregistreuses, systèmes de réfrigération, présentoirs spécialisés) avec méthodes préservant leur fonctionnement et leur précision, l\'application de traitements préventifs adaptés aux contraintes de conservation et de présentation spécifiques à chaque secteur, la coordination avec les contraintes opérationnelles pour minimiser les perturbations d\'activité.',
-        'Ces interventions sectorielles ultra-spécialisées optimisent les conditions d\'exercice de votre activité et préservent la qualité de vos produits dans l\'environnement continental rouennais, contribuant directement à votre performance commerciale et à la satisfaction de votre clientèle. Nos techniciens assurent également le <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a> pour mettre en valeur vos devantures.',
+        'Chaque commerce a ses propres contraintes. Une boulangerie a des normes sanitaires strictes. Une boutique de vêtements a besoin de cabines d\'essayage impeccables et de miroirs sans traces. Un magasin d\'électronique ne supporte pas la poussière sur ses écrans de démonstration. Une pharmacie exige des protocoles de désinfection renforcés. On ne fait pas du copier-coller d\'un commerce à l\'autre — on adapte tout : les produits, les techniques, la fréquence, les zones prioritaires.',
+        'Avant de commencer, on fait le tour avec vous. On identifie les zones critiques, les équipements sensibles (balances, caisses, vitrines réfrigérées, présentoirs), les produits à utiliser et ceux à éviter. On établit un protocole sur mesure, conforme aux réglementations de votre secteur. Ensuite, on nettoie et on désinfecte chaque zone selon son niveau de sensibilité — les zones de manipulation des produits ne sont pas traitées comme l\'arrière-boutique. Et on se coordonne avec vos horaires pour ne jamais gêner votre activité ni vos clients.',
+        'Un commerce bien entretenu, c\'est un commerce qui inspire confiance. Vos produits sont mieux mis en valeur, vos clients restent plus longtemps, et votre équipe travaille dans de meilleures conditions. Nos techniciens assurent également le <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a> pour mettre en valeur vos devantures.',
       ],
     },
     {
       heading: 'Nettoyage Parkings Commerciaux : Accueil Client Optimal Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise rouennaise de nettoyage parkings commerciaux traite avec une efficacité technique les défis spécifiques des espaces d\'accueil automobile dans l\'environnement métropolitain. Les parkings des centres commerciaux rouennais subissent des contraintes particulières liées au climat continental et à l\'activité urbaine intense : accumulation de feuilles mortes et débris végétaux particulièrement abondants dans l\'environnement urbain arboré, salissures automobiles (huiles, carburants, résidus de freinage) particulièrement tenaces sur les revêtements, dépôts atmosphériques et poussières urbaines concentrés dans les espaces semi-couverts, dégradations causées par les intempéries et les variations thermiques importantes, problématiques de sécurité liées à l\'état des sols et à la visibilité des marquages. Notre approche technique garantit un accueil client optimal et une sécurité maximale.',
-        'Nos techniques parkings commerciaux rouennaises comprennent le nettoyage haute pression des surfaces avec équipements spécialisés éliminant toutes les salissures automobiles et les dépôts atmosphériques, l\'entretien et la remise à neuf des marquages au sol pour optimiser la circulation et la sécurité des utilisateurs, le nettoyage et la maintenance des systèmes de drainage pour prévenir les accumulations d\'eau et les risques de dégradation, l\'élimination de tous les détritus et débris avec tri sélectif selon les réglementations environnementales, l\'application de traitements de protection pour optimiser la résistance des revêtements aux agressions automobiles et climatiques, la vérification et l\'entretien de tous les équipements de signalisation et de sécurité.',
-        'Ces interventions parkings spécialisées optimisent l\'expérience d\'accueil de votre clientèle et contribuent à l\'image globale de votre espace commercial dans l\'environnement métropolitain rouennais.',
+        'Le parking, c\'est la première chose que voient vos clients — et souvent la dernière impression qu\'ils gardent. Un parking sale avec des flaques d\'huile, des déchets qui traînent et des marquages effacés, ça ne donne pas envie de revenir. C\'est aussi un risque de sécurité : sols glissants, visibilité réduite, systèmes de drainage bouchés. On s\'en occupe pour que vos clients se garent dans un espace propre et sécurisé.',
+        'On passe au nettoyeur haute pression pour éliminer les taches d\'huile, les résidus de freinage et la crasse accumulée. On remet les marquages au sol en état pour que la circulation reste fluide et sécurisée. On nettoie et on vérifie les systèmes de drainage pour éviter les accumulations d\'eau. On évacue tous les déchets, on vérifie la signalétique et les équipements de sécurité. Bref, on remet votre parking en état pour que vos clients s\'y sentent en sécurité.',
+        'Un parking propre et bien entretenu, c\'est un détail que vos clients remarquent — surtout quand ils comparent avec celui du concurrent. Ça fait partie de l\'expérience d\'achat, que ça vous plaise ou non.',
       ],
     },
     {
       heading: 'Nettoyage Après Événements : Expertise Événementielle Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage après événements commerciaux à Rouen intervient avec une réactivité exceptionnelle pour remettre en état vos espaces après les manifestations commerciales, lancements de produits, soldes exceptionnelles et événements promotionnels. L\'environnement commercial rouennais connaît une activité événementielle intense nécessitant des remises en état rapides et efficaces : affluence exceptionnelle générant des salissures importantes et une usure accélérée des surfaces, installations temporaires laissant des traces et nécessitant une remise en état complète, déchets et résidus événementiels nécessitant un tri et une évacuation spécialisée, perturbations des organisations habituelles nécessitant une remise en ordre optimale. Notre expertise événementielle garantit une reprise d\'activité dans les meilleures conditions.',
-        'Nos techniques après événements rouennaises incluent l\'évaluation immédiate de l\'état post-événement avec planification optimisée de la remise en état, l\'évacuation rapide et le tri sélectif de tous les déchets événementiels selon les réglementations environnementales, le nettoyage intensif de toutes les surfaces avec techniques adaptées aux salissures spécifiques générées par l\'affluence, la remise en état complète des espaces de présentation et des zones d\'accueil avec restauration de l\'organisation optimale, l\'entretien spécialisé des sols avec techniques réparant l\'usure accélérée et restaurant l\'aspect esthétique, la désinfection complète de tous les espaces pour éliminer toutes les contaminations liées à l\'affluence exceptionnelle.',
-        'Ces interventions événementielles ultra-spécialisées permettent une reprise d\'activité commerciale optimale et préservent votre image de marque après chaque événement majeur dans l\'environnement commercial rouennais.',
+        'Soldes, ventes privées, lancement de produit, soirée d\'inauguration — après un événement commercial, vos locaux sont dans un sale état. Sols piétinés, poubelles qui débordent, traces partout, installations temporaires à démonter. Et le lendemain matin, il faut que tout soit comme neuf pour ouvrir. C\'est exactement pour ça qu\'on existe. On intervient le soir même ou dans la nuit pour remettre vos espaces en état avant la réouverture.',
+        'On commence par évacuer et trier tous les déchets. Ensuite, nettoyage intensif de toutes les surfaces — sols, vitrines, comptoirs, sanitaires. On s\'attaque aux taches et aux traces laissées par l\'affluence. On remet en état les espaces de présentation et les zones d\'accueil. On traite les sols en profondeur pour réparer l\'usure accélérée. Et on désinfecte l\'ensemble pour repartir sur une base saine. Le lendemain matin, vos clients ne devinent même pas qu\'il y a eu un événement la veille.',
+        'Vous organisez l\'événement, on gère l\'après. Vous n\'avez pas à vous soucier du ménage à 23h — on est là pour ça, et on le fait vite et bien.',
       ],
     },
     {
       heading: 'ProClean Rouen : Votre Partenaire Commercial de Référence Métropolitaine',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour l\'entretien de votre commerce à Rouen, c\'est opter résolument pour l\'excellence absolue du service d\'entretien commercial et la sérénité opérationnelle totale au quotidien. Notre expertise locale ultra-spécialisée, développée spécifiquement pour les conditions rouennaises, nous permet de proposer des solutions parfaitement calibrées et optimalement adaptées à votre environnement commercial métropolitain. Notre expertise couvre aussi le <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> pour les espaces tertiaires adjacents.',
+        'Confier l\'entretien de votre commerce à ProClean, c\'est ne plus jamais stresser à cause d\'un sol sale ou d\'une vitrine opaque un jour de forte affluence. On s\'occupe de tout, vous vous concentrez sur vos clients et vos ventes. Notre équipe intervient aussi pour le <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> pour les espaces tertiaires adjacents.',
       ],
     },
   ],
 
   'nettoyage-parking-rouen': [
     {
-      heading: 'Nettoyage de Parking à Rouen - ProClean, Excellence Automobile Métropolitaine',
+      heading: 'Nettoyage de Parking à Rouen - ProClean, le Parking Propre qui Change Tout',
       headingLevel: 2,
       paragraphs: [
-        'ProClean révolutionne le <strong>nettoyage de parking à Rouen</strong> en apportant à la prestigieuse métropole normande une expertise technique ultra-spécialisée et une excellence opérationnelle qui redéfinissent les standards de l\'entretien professionnel d\'infrastructures automobiles. Forte de notre parfaite maîtrise des spécificités environnementales continentales et de notre connaissance approfondie des contraintes urbaines rouennaises, notre entreprise déploie sur le territoire de la capitale normande des solutions d\'entretien avancées parfaitement adaptées aux défis des espaces de stationnement métropolitains. Que votre parking souterrain s\'étende sous les immeubles de la Presqu\'île, que vos espaces de stationnement extérieurs agrémentent les centres commerciaux de Saint-Sever, ou que vos garages de copropriété équipent les résidences de Mont-Saint-Aignan et Bois-Guillaume, notre équipe ultra-spécialisée intervient avec une efficacité remarquable pour garantir des infrastructures d\'une propreté irréprochable et d\'une fonctionnalité optimale.',
-        'Le déploiement de notre service automobile avancée de nettoyage de parking à Rouen répond aux exigences croissantes de qualité, d\'hygiène et d\'image de marque des gestionnaires immobiliers rouennais évoluant dans un environnement urbain métropolitain ultra-dynamique. Notre approche disruptive élimine définitivement toutes les contraintes traditionnelles de l\'entretien automobile : fini les prestations standardisées inadaptées aux spécificités des infrastructures de stationnement métropolitaines, fini les interventions superficielles qui négligent les détails cruciaux pour la sécurité et l\'esthétique urbaine, fini les planifications rigides incompatibles avec les rythmes d\'utilisation des parkings résidentiels et commerciaux denses. ProClean révolutionne votre expérience en proposant des solutions d\'entretien sur-mesure, des techniques ultra-spécialisées et une flexibilité opérationnelle qui s\'adaptent parfaitement aux contraintes et aux ambitions de votre infrastructure automobile rouennaise.',
+        'Taches d\'huile au sol, mégots partout, odeur d\'urine dans les coins, murs tagués, poubelles qui débordent. Si vous gérez un immeuble, vous connaissez le tableau. Vos résidents se plaignent, les visiteurs font demi-tour, et le syndic reçoit des courriers de mécontentement. Le <strong>nettoyage de parking à Rouen</strong> par ProClean règle le problème à la source. On ne passe pas un coup de balai pour la forme — on remet votre parking dans un état qui redonne confiance aux résidents et aux copropriétaires.',
+        'Un parking sale, c\'est un immeuble qui perd de la valeur. Les acheteurs et locataires potentiels jugent un bien dès le sous-sol. Si ça pue et que c\'est crasseux, ils passent leur chemin. Les syndics et gestionnaires qui travaillent avec nous le savent : un parking bien entretenu, c\'est moins de réclamations en AG, des locataires qui restent plus longtemps, et un bien qui se vend mieux. On intervient dans les parkings souterrains, les garages de copropriété, les parkings extérieurs — peu importe la taille ou l\'état actuel.',
       ],
     },
     {
-      heading: 'ProClean Rouen : Innovation Technique et Expertise Automobile Métropolitaine',
+      heading: 'Comment on Nettoie un Parking : du Concret, pas du Blabla',
       headingLevel: 2,
       paragraphs: [
-        'L\'implantation stratégique de notre service de nettoyage d\'infrastructures automobiles à Rouen s\'appuie sur une analyse experte et approfondie des spécificités environnementales, climatiques et urbaines de la métropole normande. L\'environnement continental rouennais présente des défis particuliers et complexes pour l\'entretien optimal des espaces de stationnement : climat océanique continental avec importantes variations thermiques saisonnières affectant les structures et les équipements des parkings, humidité continentale modérée mais constante favorisant le développement de moisissures dans les espaces souterrains mal ventilés, pollution urbaine spécifique aux métropoles industrielles et universitaires concentrant particules fines et résidus atmosphériques sur les surfaces, circulation urbaine intense dans les centres historiques et les zones d\'activités générant poussières et vibrations continues, variations micro-climatiques importantes entre vallée de Seine humide et plateaux ventés créant des conditions d\'entretien différenciées, proximité des activités chimiques et pétrochimiques générant des défis de <strong>décontamination</strong> ultra-spécialisés.',
-        'Notre équipe automobile rouennaise ultra-spécialisée bénéficie d\'une formation technique approfondie et continue aux particularités climatiques, environnementales et infrastructurelles locales. Nous adaptons méticuleusement nos techniques avancées, nos produits professionnels et nos équipements de pointe aux contraintes spécifiques du territoire rouennais : techniques adaptées aux variations thermiques continentales pour préserver les équipements mécaniques et électriques des infrastructures sensibles, produits spécialement formulés contre l\'humidité continentale et les développements fongiques favorisés par le climat local, méthodes renforcées contre les salissures urbaines et industrielles particulièrement tenaces dans l\'environnement métropolitain dense, protocoles adaptés aux contraintes d\'accès des centres urbains historiques et des infrastructures modernes, planifications flexibles compatibles avec les rythmes d\'utilisation des espaces résidentiels et commerciaux métropolitains.',
-        'La logistique automobile ultra-optimisée pour Rouen prend scrupuleusement en compte toutes les contraintes de circulation, de stationnement et d\'accessibilité propres à la métropole normande. Nos équipes maîtrisent parfaitement les spécificités de chaque type d\'infrastructure, des parkings souterrains du centre historique aux espaces extérieurs des technopôles, garantissant une intervention d\'une efficacité maximale dans tous les environnements automobiles de l\'agglomération rouennaise.',
+        'On commence par un état des lieux avec vous ou votre gardien. On identifie les zones critiques : coins où s\'accumulent les déchets, zones de fuite d\'huile récurrentes, murs dégradés, problèmes d\'odeurs. Ensuite on intervient avec du matériel industriel. Karcher 200 bars sur le béton — ça décolle tout : huile incrustée, gomme de pneu, traces de freinage, résidus de toute sorte. Les murs sont nettoyés, dégrafités si besoin. Les zones à odeur sont traitées avec des produits <strong>décontaminants</strong> professionnels, pas du parfum d\'ambiance.',
+        'On ne se contente pas du sol. On nettoie les places de parking une par une, les allées de circulation, les rampes d\'accès, les cages d\'escalier qui donnent sur le parking, les locaux poubelles attenants. Les équipements aussi : portes de garage, éclairages, signalétique. Tout ce qui est sale est nettoyé. Tout ce qui est cassé vous est signalé dans notre compte-rendu d\'intervention.',
+        'On s\'adapte à vos contraintes. Intervention de nuit pour ne pas gêner les résidents, coordination avec le syndic pour prévenir les copropriétaires de déplacer leurs véhicules, travail par zones pour maintenir l\'accès. On a l\'habitude — c\'est notre métier.',
       ],
     },
     {
@@ -969,66 +969,66 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       paragraphs: [],
     },
     {
-      heading: 'Nettoyage Premium Parkings Résidentiels : Excellence Habitat Rouennaise',
+      heading: 'Nettoyage de Parkings de Copropriété : Fini les Plaintes en AG',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de nettoyage premium parkings résidentiels à Rouen représente le summum de notre expertise technique et de notre savoir-faire spécialisé, destiné aux <strong>copropriétés</strong> les plus prestigieuses et aux gestionnaires les plus exigeants souhaitant un environnement automobile d\'exception absolue. Cette prestation d\'élite mobilise l\'intégralité de nos compétences techniques les plus avancées et de nos équipements professionnels les plus performants pour maintenir régulièrement un standard de propreté et de confort pleinement exemplaire dans l\'environnement résidentiel rouennais spécifique.',
-        'Le protocole premium résidentiel rouennais comprend le balayage ultra-minutieux de toutes les surfaces de circulation et de stationnement avec autolaveuses compactes parfaitement adaptées aux contraintes d\'accessibilité des parkings résidentiels, l\'élimination experte de toutes les traces d\'huile, de carburant et de fluides automobiles avec techniques respectueuses des revêtements résidentiels et des contraintes de voisinage, le nettoyage ciblé de toutes les taches tenaces et résidus avec équipements calibrés pour préserver l\'esthétique des espaces privatifs, l\'entretien spécialisé de tous les équipements résidentiels (portes de garage automatiques, systèmes d\'éclairage, interphones) avec techniques préservant leur fonctionnement et leur esthétique, le débarras respectueux de tous les encombrants et objets abandonnés avec coordination préalable auprès des syndics et des résidents, la désinfection discrète des zones communes avec produits respectueux de l\'environnement résidentiel et de la santé des habitants.',
-        'Cette prestation résidentielle d\'exception garantit un environnement de stationnement constamment irréprochable, valorisant votre patrimoine immobilier et optimisant le confort de vie des résidents dans le contexte urbain métropolitain rouennais ultra-compétitif.',
+        'Le parking de <strong>copropriétés</strong>, c\'est souvent le parent pauvre de l\'entretien. Personne ne veut payer pour, mais tout le monde se plaint quand c\'est sale. Résultat : l\'huile s\'incruste, les mégots s\'accumulent, les coins deviennent des toilettes improvisées. On intervient régulièrement — une à deux fois par mois selon la taille — pour maintenir un niveau de propreté qui coupe court aux réclamations.',
+        'Concrètement, on passe l\'autolaveuse sur toutes les surfaces de circulation et de stationnement, on traite les taches d\'huile et de fluide automobile avec des dégraissants professionnels, on nettoie les équipements (portes automatiques, éclairages, interphones), on évacue les encombrants abandonnés en coordination avec le syndic, et on désinfecte les zones communes. Les résidents voient la différence dès la première intervention.',
+        'Un parking de copropriété propre, c\'est un argument concret en AG. Les charges d\'entretien sont justifiées, les copropriétaires sont satisfaits, et la valeur des lots se maintient. C\'est aussi simple que ça.',
       ],
     },
     {
-      heading: 'Entretien Parkings Commercial : Performance Retail Rouennaise',
+      heading: 'Entretien de Parkings Commerciaux : Vos Clients Jugent dès le Parking',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'entretien parkings commerciaux à Rouen adapte avec une précision commerciale nos méthodes aux contraintes spécifiques des espaces de stationnement dédiés au retail et aux services. L\'environnement commercial rouennais présente des défis particuliers liés à l\'intensité d\'utilisation et aux exigences d\'image : trafic client intense nécessitant des techniques d\'entretien non-perturbantes et des interventions rapides, salissures diversifiées liées à l\'affluence et aux conditions météorologiques variées, contraintes d\'accessibilité permanente pour la clientèle et les livraisons, exigences esthétiques élevées pour l\'image de marque des enseignes, coordination complexe avec les rythmes d\'ouverture et les événements commerciaux. Notre approche retail garantit une adaptation parfaite aux besoins ultra-spécifiques du commerce.',
-        'Nos techniques parkings commerciaux rouennaises incluent la planification ultra-flexible des interventions avec adaptation temps réel aux flux clients et aux contraintes opérationnelles des enseignes, l\'utilisation d\'équipements haute performance et discrets pour minimiser les perturbations tout en maximisant l\'efficacité du nettoyage, l\'entretien renforcé des zones à fort passage avec techniques résistant à l\'utilisation intensive caractéristique des espaces commerciaux, le nettoyage et la maintenance de tous les équipements de signalisation et de sécurité pour garantir leur visibilité et leur fonctionnement optimal, l\'application de traitements de protection pour optimiser la résistance des revêtements aux agressions liées au trafic commercial intense, la coordination avec les équipes de sécurité et de gestion commerciale pour optimiser l\'organisation des interventions.',
-        'Ces interventions commerciales ultra-spécialisées optimisent l\'expérience client et préservent l\'image de marque de vos espaces commerciaux dans l\'environnement retail rouennais, contribuant directement à votre attractivité commerciale et à votre performance économique. Les <a href="/nettoyage-bureaux-rouen">bureaux attenants</a> profitent aussi de notre expertise en nettoyage professionnel.',
+        'Votre parking commercial, c\'est la première impression que vos clients ont de votre enseigne. Si c\'est sale, mal éclairé et plein de détritus, ils associent ça à votre commerce. On intervient tôt le matin ou tard le soir, avant l\'ouverture ou après la fermeture, pour que vos clients trouvent toujours un parking impeccable. Pas de perturbation, pas de zones barrées pendant les heures d\'affluence.',
+        'On traite les zones à fort passage en priorité : entrées, sorties, escaliers, ascenseurs, zones piétonnes. On nettoie la signalétique et les équipements de sécurité pour qu\'ils restent visibles et fonctionnels. On applique des traitements de protection sur les sols pour qu\'ils résistent mieux au trafic intense et se salissent moins vite entre deux interventions. Et on coordonne tout avec votre équipe sur site pour ne jamais gêner l\'exploitation.',
+        'Un parking commercial propre, c\'est directement lié à la fréquentation et au chiffre d\'affaires. Les enseignes qui font attention à ça le savent. Les <a href="/nettoyage-bureaux-rouen">bureaux attenants</a> profitent aussi de notre intervention pour un ensemble cohérent.',
       ],
     },
     {
-      heading: 'Nettoyage Haute Pression Spécialisé : Décontamination Technique Rouennaise',
+      heading: 'Nettoyage Haute Pression : On Décolle Ce que les Autres Laissent',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise rouennaise de nettoyage haute pression spécialisé traite avec une efficacité technique les défis les plus complexes de décontamination des infrastructures automobiles. Les parkings rouennais accumulent des salissures particulièrement tenaces liées à l\'environnement urbain dense et aux activités industrielles : incrustations d\'huile et de graisse particulièrement résistantes dans l\'environnement continental humide, dépôts atmosphériques et résidus de combustion concentrés par la circulation urbaine intense, taches chimiques et contaminations diverses liées à la proximité des activités industrielles, moisissures et développements biologiques favorisés par l\'humidité des espaces confinés, salissures incrustées par l\'ancienneté et l\'absence d\'entretien régulier. Notre approche <strong>haute pression</strong> garantit une décontamination complète et durable.',
-        'Nos techniques haute pression rouennaises comprennent l\'évaluation technique précise de la nature et de l\'ancienneté des contaminations par inspection experte avec équipements de détection spécialisés, l\'application de traitements préparatoires pour ramollir et faciliter l\'élimination des incrustations les plus tenaces, l\'utilisation d\'équipements haute pression industriels avec réglages ultra-précis selon la résistance des supports et la nature des contaminations, l\'application de produits décontaminants ultra-spécialisés pour éliminer définitivement toutes les traces résiduelles et les odeurs, le rinçage professionnel avec récupération et traitement des eaux selon les réglementations environnementales strictes, l\'application de traitements de protection longue durée pour faciliter l\'entretien futur et prévenir les récontaminations.',
-        'Ces interventions haute pression ultra-spécialisées transforment l\'état de vos infrastructures et leur redonnent un aspect neuf dans l\'environnement métropolitain rouennais, représentant un investissement stratégique dans la valorisation et la préservation de vos actifs immobiliers.',
+        'Certains parkings n\'ont pas été nettoyés depuis des années. L\'huile a pénétré le béton, les gommes de pneu forment des traînées noires partout, les murs sont couverts de traces et de tags. Un coup de serpillère ne suffit plus. C\'est là qu\'on sort le matériel lourd. Notre équipement <strong>haute pression</strong> industriel — jusqu\'à 200 bars — décolle tout ce qui s\'est incrusté au fil des années.',
+        'On procède méthodiquement : d\'abord un traitement chimique adapté pour ramollir les incrustations les plus tenaces (huile, graisse, résidus chimiques), puis passage haute pression zone par zone, puis traitement des odeurs avec des produits professionnels qui éliminent la source et pas juste le symptôme. Les eaux de lavage sont récupérées et traitées selon les normes en vigueur. En fin d\'intervention, on applique un traitement de protection qui facilite l\'entretien futur.',
+        'Le résultat est visible immédiatement : le béton retrouve sa couleur d\'origine, les odeurs disparaissent, l\'ensemble a l\'air neuf. C\'est souvent ce type d\'intervention de remise en état qui convainc les syndics de passer à un entretien régulier ensuite.',
       ],
     },
     {
-      heading: 'Maintenance Préventive Continue : Expertise Prédictive Rouennaise',
+      heading: 'Entretien Régulier de Parking : Mieux Vaut Prévenir que Rattraper',
       headingLevel: 3,
       paragraphs: [
-        'Notre service de maintenance préventive continue à Rouen anticipe et prévient les dégradations avant qu\'elles ne nécessitent des interventions lourdes et coûteuses. L\'environnement continental rouennais présente des cycles de dégradation prévisibles liés aux variations saisonnières et aux contraintes d\'utilisation : accumulation progressive de salissures favorisée par l\'humidité automnale et hivernale, développement de moisissures et d\'efflorescences pendant les périodes humides, usure accélérée des revêtements pendant les périodes de gel-dégel, encrassement des systèmes techniques et de drainage, détérioration des équipements exposés aux variations thermiques importantes. Notre approche prédictive optimise la durabilité et minimise les coûts de maintenance.',
-        'Nos techniques préventives rouennaises incluent la mise en place de calendriers d\'intervention optimisés selon les cycles climatiques et les rythmes d\'utilisation spécifiques à votre infrastructure, l\'application régulière de <strong>traitements préventifs</strong> pour ralentir l\'accumulation des salissures et prévenir les développements biologiques, la vérification et la maintenance systématique de tous les équipements techniques pour prévenir les pannes et optimiser leur durée de vie, l\'application de protections saisonnières adaptées aux conditions climatiques continentales pour préserver les revêtements et les structures, la surveillance continue de l\'état général avec reporting détaillé et recommandations d\'optimisation, la planification anticipée des interventions exceptionnelles selon l\'évolution prévisible des besoins.',
-        'Ces interventions préventives ultra-spécialisées optimisent la rentabilité de votre infrastructure et préservent sa valeur patrimoniale dans l\'environnement continental rouennais, représentant un investissement intelligent dans la gestion optimale de vos actifs immobiliers. Nous proposons aussi l\'<a href="/entretien-immeubles-rouen">entretien d\'immeubles à Rouen</a> pour compléter la maintenance de vos infrastructures.',
+        'Un nettoyage ponctuel c\'est bien, mais un entretien régulier c\'est ce qui fait vraiment la différence sur la durée. On met en place un calendrier d\'intervention adapté à votre parking : fréquence, jours, horaires — tout est calé selon vos contraintes. En général, un passage toutes les deux semaines suffit pour un parking résidentiel, une fois par semaine pour un parking commercial à fort passage.',
+        'À chaque passage, on applique des <strong>traitements préventifs</strong> : anti-mousse dans les zones humides, dégraissant sur les zones de stationnement, désinfectant dans les coins et les locaux poubelles. On vérifie l\'état des équipements (éclairage, portes, signalétique) et on vous signale tout dysfonctionnement. Vous recevez un compte-rendu après chaque intervention — vous savez exactement ce qui a été fait et ce qui nécessite votre attention.',
+        'L\'entretien régulier coûte beaucoup moins cher qu\'une remise en état complète tous les deux ans. Et votre parking reste propre en permanence, ce qui évite les plaintes et valorise votre bien. Nous proposons aussi l\'<a href="/entretien-immeubles-rouen">entretien d\'immeubles à Rouen</a> pour compléter la maintenance de vos parties communes.',
       ],
     },
     {
-      heading: 'ProClean Rouen : Votre Partenaire Automobile de Référence Métropolitaine',
+      heading: 'ProClean : le Partenaire des Syndics et Gestionnaires qui Veulent du Résultat',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour le nettoyage de vos parkings à Rouen, c\'est opter résolument pour l\'excellence absolue du service d\'entretien automobile et la sérénité de gestion totale au quotidien. Notre expertise locale ultra-spécialisée, développée spécifiquement pour les conditions rouennaises, nous permet de proposer des solutions parfaitement calibrées et optimalement adaptées à votre environnement automobile métropolitain. <a href="/devis-gratuit-rouen">demander un devis gratuit</a> adapté à votre parking.',
+        'On travaille avec des syndics, des bailleurs sociaux et des gestionnaires de patrimoine qui en ont assez des prestataires qui font semblant. Chez ProClean, le parking est propre ou on repasse. C\'est aussi simple que ça. <a href="/devis-gratuit-rouen">Demandez un devis gratuit</a> adapté à votre parking — on vous répond sous 24h.',
       ],
     },
   ],
 
   'entretien-immeubles-rouen': [
     {
-      heading: 'Entretien d\'Immeubles à Rouen - ProClean, Excellence Immobilière Métropolitaine',
+      heading: 'Entretien d\'Immeubles à Rouen - ProClean, des Parties Communes qui Font Bonne Impression',
       headingLevel: 2,
       paragraphs: [
-        'ProClean révolutionne l\'<strong>entretien d\'immeubles</strong> à Rouen en apportant à la prestigieuse métropole normande une expertise technique ultra-spécialisée et une excellence opérationnelle qui redéfinissent les standards de l\'entretien professionnel de bâtiments. Forte de notre parfaite maîtrise des spécificités environnementales continentales et de notre connaissance approfondie du patrimoine immobilier rouennais, notre entreprise déploie sur le territoire de la capitale normande des solutions d\'entretien avancées parfaitement adaptées aux défis des bâtiments métropolitains. Que votre immeuble résidentiel domine les méandres de Seine depuis la Presqu\'île, que votre bâtiment commercial s\'épanouisse dans les quartiers d\'affaires de la rive droite, ou que vos structures immobilières agrémentent les zones d\'activités de Saint-Étienne-du-Rouvray et Mont-Saint-Aignan, notre équipe ultra-spécialisée intervient avec une efficacité remarquable pour garantir un patrimoine bâti d\'une propreté irréprochable et d\'une durabilité optimale.',
-        'Le déploiement de notre service immobilier avancée d\'entretien de bâtiments à Rouen répond aux exigences croissantes de qualité, d\'hygiène et de valorisation patrimoniale des gestionnaires immobiliers rouennais évoluant dans un environnement urbain métropolitain ultra-dynamique. Notre approche disruptive élimine définitivement toutes les contraintes traditionnelles de l\'entretien immobilier : fini les prestations standardisées inadaptées aux spécificités des bâtiments métropolitains, fini les interventions superficielles qui négligent les détails cruciaux pour la préservation du patrimoine historique et contemporain, fini les planifications rigides incompatibles avec les rythmes d\'occupation des immeubles résidentiels et commerciaux denses. ProClean révolutionne votre expérience en proposant des solutions d\'entretien sur-mesure, des techniques ultra-spécialisées et une flexibilité opérationnelle qui s\'adaptent parfaitement aux contraintes et aux ambitions de votre patrimoine immobilier rouennais.',
+        'La cage d\'escalier sent le moisi. L\'ascenseur colle. Les boîtes aux lettres sont sales. L\'entrée fait mauvaise impression à chaque visiteur. Vos locataires menacent de ne plus payer les charges. Si vous êtes syndic ou gestionnaire, vous connaissez cette situation. L\'<strong>entretien d\'immeubles</strong> par ProClean, c\'est la solution concrète : on passe régulièrement, on nettoie tout, et les parties communes donnent enfin le ton que votre immeuble mérite.',
+        'Un immeuble bien entretenu, c\'est moins de turnover locataire et une meilleure valeur à la revente. C\'est aussi moins de tensions en AG, moins de courriers de réclamation, et un gestionnaire qui peut se concentrer sur autre chose que les plaintes. On intervient 1 à 3 fois par semaine selon la taille de l\'immeuble — entrée, escaliers, paliers, ascenseur, local poubelles, tout est pris en charge. Que ce soit un petit immeuble de 10 lots ou une résidence de 150 appartements, on adapte notre intervention à vos besoins réels.',
       ],
     },
     {
-      heading: 'ProClean Rouen : Innovation Technique et Expertise Immobilière Métropolitaine',
+      heading: 'Ce qu\'on Fait Concrètement dans Votre Immeuble',
       headingLevel: 2,
       paragraphs: [
-        'L\'implantation stratégique de notre service d\'entretien de bâtiments à Rouen s\'appuie sur une analyse experte et approfondie des spécificités environnementales, climatiques et urbaines de la métropole normande. L\'environnement continental rouennais présente des défis particuliers et complexes pour l\'entretien optimal des immeubles : climat océanique continental avec importantes variations thermiques saisonnières affectant les structures et les équipements des bâtiments, humidité continentale modérée mais constante favorisant le développement de moisissures dans les espaces mal ventilés, pollution urbaine spécifique aux métropoles industrielles et universitaires concentrant particules fines et résidus atmosphériques sur les façades, circulation urbaine intense dans les centres historiques et les zones d\'activités générant poussières et vibrations continues, variations micro-climatiques importantes entre vallée de Seine humide et plateaux ventés créant des conditions d\'entretien différenciées, proximité des activités chimiques et pétrochimiques générant des défis de décontamination ultra-spécialisés.',
-        'Notre équipe immobilière rouennaise ultra-spécialisée bénéficie d\'une formation technique approfondie et continue aux particularités climatiques, environnementales et patrimoniales locales. Nous adaptons méticuleusement nos techniques avancées, nos produits professionnels et nos équipements de pointe aux contraintes spécifiques du territoire rouennais : techniques adaptées aux variations thermiques continentales pour préserver les équipements techniques et les matériaux de construction sensibles, produits spécialement formulés contre l\'humidité continentale et les développements fongiques favorisés par le climat local, méthodes renforcées contre les salissures urbaines et industrielles particulièrement tenaces dans l\'environnement métropolitain dense, protocoles adaptés aux contraintes d\'accès des centres urbains historiques et des bâtiments de grande hauteur, planifications flexibles compatibles avec les rythmes d\'occupation des immeubles résidentiels et commerciaux métropolitains.',
-        'La logistique immobilière ultra-optimisée pour Rouen prend scrupuleusement en compte toutes les contraintes de circulation, de stationnement et d\'accessibilité propres à la métropole normande. Nos équipes maîtrisent parfaitement les spécificités de chaque type de bâtiment, des immeubles historiques du centre-ville aux complexes modernes des technopôles, garantissant une intervention d\'une efficacité maximale dans tous les environnements immobiliers de l\'agglomération rouennaise.',
+        'On commence par visiter l\'immeuble avec vous pour identifier les points critiques : sols encrassés, murs tachés, odeurs persistantes, équipements négligés. Ensuite on établit un planning d\'intervention adapté — jours, horaires, fréquence — en fonction de la taille de l\'immeuble et du nombre de résidents. On s\'occupe de tout : le hall d\'entrée, les escaliers étage par étage, les paliers, l\'ascenseur (sol, parois, boutons), les boîtes aux lettres, le local poubelles, les caves communes, les couloirs techniques.',
+        'On utilise des produits professionnels adaptés à chaque surface. Le carrelage n\'est pas traité comme le parquet, et le marbre n\'est pas traité comme le béton. On désinfecte les zones sensibles (poignées, boutons d\'ascenseur, interrupteurs) et on traite les odeurs à la source. Pas de parfum pour masquer — on élimine ce qui sent mauvais. À chaque passage, nos agents vérifient l\'état général et vous signalent tout problème (ampoule grillée, fuite, dégradation).',
+        'On laisse un immeuble propre, qui sent bon, où les résidents sont contents de rentrer chez eux. C\'est ce que vous attendez d\'un prestataire d\'entretien, et c\'est ce qu\'on livre à chaque intervention.',
       ],
     },
     {
@@ -1037,46 +1037,46 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       paragraphs: [],
     },
     {
-      heading: 'Entretien Premium Immeubles Patrimoniaux : Excellence Historique Rouennaise',
+      heading: 'Entretien d\'Immeubles Anciens : Respecter les Matériaux, Pas les Salissures',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'entretien premium immeubles patrimoniaux à Rouen représente le summum de notre expertise technique et de notre savoir-faire spécialisé, destiné aux bâtiments historiques les plus prestigieux et aux gestionnaires les plus exigeants souhaitant un environnement patrimonial d\'exception absolue. Cette prestation d\'élite mobilise l\'intégralité de nos compétences techniques les plus avancées et de nos équipements professionnels les plus performants pour maintenir régulièrement un standard de propreté et d\'authenticité pleinement exemplaire dans l\'environnement historique rouennais spécifique.',
-        'Le protocole premium patrimonial rouennais comprend l\'entretien ultra-respectueux de toutes les structures historiques avec produits spécialisés préservant l\'authenticité des matériaux anciens et l\'intégrité architecturale, le nettoyage expert de toutes les façades patrimoniales avec techniques adaptées aux pierres anciennes, aux colombages et aux matériaux traditionnels normands, l\'entretien spécialisé des sols selon leur nature historique (pavés anciens, pierres de taille, parquets d\'époque, carrelages traditionnels) avec produits respectueux des matériaux authentiques, le nettoyage et la conservation de tous les éléments architecturaux (sculptures, ornements, ferronneries anciennes) avec techniques préservant leur valeur patrimoniale, l\'entretien des espaces verts historiques et jardins à la française avec techniques respectueuses des aménagements paysagers d\'époque, la maintenance préventive de tous les équipements d\'époque et l\'application de traitements de protection spécialement formulés pour les matériaux historiques.',
-        'Cette prestation patrimoniale d\'exception garantit un environnement historique constamment irréprochable, préservant votre patrimoine architectural et optimisant sa valeur culturelle et économique dans le contexte urbain historique rouennais ultra-précieux.',
+        'Les immeubles anciens ont du cachet, mais ils demandent un entretien spécifique. Les sols en pierre, les parquets d\'époque, les rampes en fer forgé, les carrelages anciens — tout ça ne se nettoie pas au dégraissant industriel. On utilise des produits adaptés à chaque matériau pour nettoyer sans abîmer. Les pierres de taille sont traitées avec des produits neutres, les parquets sont entretenus avec des cires adaptées, les ferronneries sont nettoyées et protégées.',
+        'On s\'occupe aussi des éléments spécifiques aux bâtiments anciens : entretien des moulures et ornements, nettoyage des vitraux si présents, traitement des zones d\'humidité fréquentes dans les immeubles plus anciens. Les sols irréguliers (pavés, dalles de pierre) sont nettoyés manuellement là où les machines ne passent pas. On adapte nos techniques au bâtiment, pas l\'inverse.',
+        'L\'objectif est simple : un immeuble ancien propre et bien entretenu prend de la valeur. Un immeuble ancien sale et négligé en perd. Nos interventions régulières maintiennent vos parties communes dans un état qui honore le caractère du bâtiment et satisfait les copropriétaires.',
       ],
     },
     {
-      heading: 'Entretien Immeubles Résidentiels Modernes : Performance Habitat Rouennaise',
+      heading: 'Entretien de Résidences Modernes : Technique et Régularité',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'entretien immeubles résidentiels modernes à Rouen adapte avec une précision technique nos méthodes aux contraintes spécifiques des bâtiments contemporains et des <strong>copropriétés modernes</strong>. L\'habitat résidentiel rouennais présente des défis particuliers liés aux nouvelles normes de construction et aux exigences contemporaines : équipements techniques sophistiqués nécessitant un entretien spécialisé, matériaux modernes requérant des produits et techniques adaptés, espaces communs design exigeant un entretien esthétique de haut niveau, systèmes de sécurité et de contrôle d\'accès nécessitant une maintenance technique précise, performances énergétiques optimales dépendant de l\'entretien des équipements. Notre approche moderne garantit une préservation parfaite des investissements contemporains.',
-        'Nos techniques immeubles modernes rouennaises incluent l\'entretien ultra-spécialisé de tous les équipements techniques contemporains (ascenseurs dernière génération, systèmes de ventilation performants, éclairages LED, systèmes domotiques) avec techniques préservant leur fonctionnement optimal et leur garantie, le nettoyage expert des matériaux contemporains (bétons architectoniques, métaux nobles, verres techniques, résines design) avec produits spécialement formulés pour préserver leur esthétique et leurs performances, l\'entretien des <strong>espaces communs</strong> design (halls contemporains, salles de réunion, espaces de coworking, salles de sport) avec techniques respectueuses du design et du mobilier moderne, la maintenance des systèmes de sécurité et de contrôle d\'accès avec vérification de leur fonctionnement et mise à jour des protocoles, l\'optimisation de l\'entretien pour préserver les performances énergétiques et contribuer aux certifications environnementales.',
-        'Ces interventions modernes ultra-spécialisées optimisent la valeur de vos investissements contemporains et préservent leur attractivité résidentielle dans l\'environnement métropolitain rouennais compétitif. Nous assurons aussi le <a href="/nettoyage-parking-rouen">nettoyage de parking à Rouen</a> pour vos espaces de stationnement.',
+        'Les résidences récentes ont d\'autres contraintes. Les <strong>copropriétés modernes</strong> ont des halls vitrés qui se salissent vite, des ascenseurs en inox qui marquent les traces de doigts, des systèmes de ventilation qui brassent la poussière, des espaces communs (salle de sport, coworking, local vélos) qui demandent un entretien régulier. On connaît ces bâtiments et on sait ce qu\'ils exigent.',
+        'On entretient les équipements techniques sans les dégrader : ascenseurs dernière génération, éclairages LED, systèmes de contrôle d\'accès, digicodes et interphones. On nettoie les matériaux modernes (béton ciré, verre, métal, résine) avec les produits qui conviennent. On s\'occupe des <strong>espaces communs</strong> partagés — halls design, salles communes, locaux techniques — avec le même soin que les espaces privatifs.',
+        'Résultat : votre résidence reste attractive pour les locataires et acheteurs potentiels, les équipements durent plus longtemps, et les charges d\'entretien sont maîtrisées. Nous assurons aussi le <a href="/nettoyage-parking-rouen">nettoyage de parking à Rouen</a> pour vos espaces de stationnement.',
       ],
     },
     {
-      heading: 'Décontamination Immeubles Insalubres : Expertise Réhabilitation Rouennaise',
+      heading: 'Remise en État d\'Immeubles Dégradés : On Repart de Zéro',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise rouennaise de décontamination immeubles insalubres traite avec une efficacité scientifique les défis les plus complexes de remise en état des bâtiments dégradés. L\'environnement urbain rouennais présente des problématiques d\'insalubrité spécifiques liées à l\'histoire industrielle et aux évolutions urbaines : bâtiments abandonnés dans les anciennes zones industrielles nécessitant une décontamination complète, immeubles squattés dans les centres urbains denses requérant une désinfection approfondie, structures dégradées par l\'humidité continentale et les infiltrations d\'eau, contaminations diverses liées aux activités industrielles passées, développements biologiques importants dans les espaces confinés et humides. Notre approche scientifique garantit une réhabilitation complète et sécurisée.',
-        'Nos techniques décontamination insalubre rouennaises comprennent l\'évaluation sanitaire complète de l\'ampleur des contaminations par inspection experte ultra-approfondie avec équipements de détection spécialisés et analyses microbiologiques, le débarras sécurisé de tous les éléments contaminés avec tri et évacuation selon les réglementations sanitaires et environnementales strictes, la décontamination systématique de toutes les surfaces avec produits ultra-spécialisés certifiés pour éliminer toutes les contaminations biologiques, chimiques et olfactives, l\'assèchement professionnel des structures humides avec équipements industriels et traitement anti-fongique préventif, la désinfection complète de tous les espaces avec techniques d\'aérosolisation et de nébulisation pour atteindre tous les recoins, l\'application de traitements de réhabilitation pour restaurer la salubrité et préparer les espaces à une nouvelle occupation.',
-        'Ces interventions décontamination ultra-spécialisées transforment les bâtiments insalubres en espaces habitables sains et contribuent à la réhabilitation urbaine et à la <strong>valorisation immobilière</strong> rouennaise.',
+        'Immeuble squatté, logement insalubre après un départ, parties communes abandonnées depuis des mois — on intervient quand la situation a dégénéré. Ce n\'est pas du nettoyage classique. C\'est de la remise en état complète : débarras des déchets et encombrants, désinfection de toutes les surfaces, traitement des moisissures et champignons, élimination des odeurs tenaces, assèchement des zones humides.',
+        'On commence par évaluer l\'ampleur des dégâts sur place. Ensuite on évacue tout ce qui doit l\'être, en respectant les réglementations sanitaires (tri, transport, élimination). On décontamine chaque surface avec des produits professionnels certifiés — murs, sols, plafonds, canalisations accessibles. On traite les problèmes d\'humidité avec du matériel industriel et on applique des traitements anti-fongiques pour empêcher la récidive. On désinfecte par nébulisation pour atteindre les recoins inaccessibles.',
+        'À la fin de l\'intervention, l\'espace est sain, propre et prêt à être occupé à nouveau. C\'est souvent le premier pas vers une <strong>valorisation immobilière</strong> concrète — un bien remis en état se reloue ou se revend beaucoup plus facilement.',
       ],
     },
     {
-      heading: 'Entretien Bâtiments Commerciaux : Excellence Business Rouennaise',
+      heading: 'Entretien de Locaux Commerciaux : Propreté = Chiffre d\'Affaires',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'entretien bâtiments commerciaux à Rouen maîtrise parfaitement les contraintes spécifiques des espaces dédiés au commerce et aux services dans l\'environnement métropolitain. Les bâtiments commerciaux rouennais présentent des exigences particulières liées à leur fonction économique : image de marque cruciale nécessitant un entretien esthétique irréprochable, flux clients importants exigeant des interventions discrètes et non-perturbantes, <strong>contraintes d\'hygiène</strong> renforcées selon les secteurs d\'activité, coordination complexe avec les rythmes d\'ouverture et les événements commerciaux, adaptation aux évolutions saisonnières et aux pics d\'activité. Notre approche business garantit une optimisation parfaite de l\'attractivité commerciale.',
-        'Nos techniques bâtiments commerciaux rouennaises incluent la planification ultra-flexible des interventions avec adaptation temps réel aux contraintes d\'exploitation et aux flux clients, l\'entretien renforcé des espaces d\'accueil et de circulation avec techniques préservant l\'image de marque et l\'expérience client, le nettoyage spécialisé des vitrines et façades commerciales avec produits préservant la visibilité et l\'attractivité des présentations, l\'entretien des espaces de vente selon leur spécificité sectorielle (alimentaire, textile, high-tech, services) avec adaptation aux contraintes réglementaires, la maintenance des équipements commerciaux (systèmes d\'éclairage, climatisation, sécurité) pour optimiser l\'environnement de vente, la coordination avec les équipes commerciales et les prestataires externes pour optimiser l\'organisation globale.',
-        'Ces interventions commerciales ultra-spécialisées optimisent l\'attractivité de vos espaces business et contribuent directement à votre performance économique dans l\'environnement commercial rouennais dynamique. Nous intervenons également pour le <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a> de vos façades.',
+        'Les locaux commerciaux ont des contraintes bien particulières. Vos clients entrent et sortent toute la journée, les sols se salissent vite, les vitrines se ternissent, les sanitaires doivent être impeccables. Et vous ne pouvez pas fermer pour nettoyer. On intervient avant l\'ouverture ou après la fermeture, de manière discrète et efficace, pour que vos clients trouvent toujours un espace propre. Les <strong>contraintes d\'hygiène</strong> sont respectées selon votre secteur — alimentaire, santé, commerce de détail.',
+        'On s\'adapte à votre activité : nettoyage renforcé des zones d\'accueil et de passage, entretien des vitrines et façades pour maintenir votre visibilité, nettoyage des espaces de vente adapté à votre secteur (produits alimentaires, textile, high-tech), entretien des sanitaires clients et employés, maintenance de base des équipements (éclairage, climatisation). On se coordonne avec votre équipe sur place pour ne jamais perturber l\'exploitation.',
+        'Un local commercial propre, c\'est un client qui reste plus longtemps et qui revient. C\'est directement lié à votre chiffre d\'affaires. Nous intervenons également pour le <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a> de vos devantures.',
       ],
     },
     {
-      heading: 'ProClean Rouen : Votre Partenaire Immobilier de Référence Métropolitaine',
+      heading: 'ProClean : le Prestataire d\'Entretien qui Ne Vous Laisse Pas Tomber',
       headingLevel: 2,
       paragraphs: [
-        'Choisir ProClean pour l\'entretien de vos immeubles à Rouen, c\'est opter résolument pour l\'excellence absolue du service d\'entretien immobilier et la sérénité de gestion totale au quotidien. Notre expertise locale ultra-spécialisée, développée spécifiquement pour les conditions rouennaises, nous permet de proposer des solutions parfaitement calibrées et optimalement adaptées à votre environnement immobilier métropolitain. Faites votre <a href="/devis-gratuit-rouen">demande de devis</a> pour un entretien adapté à votre immeuble.',
+        'On travaille avec des syndics et des gestionnaires qui veulent un prestataire fiable, pas un de plus qui disparaît au bout de trois mois. Chez ProClean, chaque immeuble a un interlocuteur dédié, un planning clair, et un compte-rendu après chaque intervention. Faites votre <a href="/devis-gratuit-rouen">demande de devis</a> pour un entretien adapté à votre immeuble.',
       ],
     },
   ],
@@ -1086,8 +1086,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'L\'Expertise ProClean pour Vos Équipements Libre-Service à Rouen',
       headingLevel: 2,
       paragraphs: [
-        'Au cœur de la métropole normande, vos équipements libre-service évoluent dans un environnement urbain complexe : pollution urbaine, variations climatiques continentales importantes, forte densité de population, trafic automobile intense, et contraintes patrimoniales du centre historique. Chez ProClean, nous maîtrisons parfaitement ces spécificités rouennaises pour adapter nos protocoles de nettoyage et garantir la longévité de vos installations.',
-        'Notre équipe de techniciens spécialisés intervient sur tous types d\'<strong>équipements libre-service</strong> dans la métropole Rouen Normandie : laveries automatiques des quartiers Saint-Sever et Grammont, stations de lavage automobile des Zones Industrielles Sud et des Sapins, distributeurs automatiques du centre-ville historique et de la Place du Vieux-Marché, bornes interactives touristiques de la Cathédrale et des Musées, terminaux de paiement des parkings souterrains et du métrobus. Chaque intervention est personnalisée selon les spécificités de votre secteur d\'activité et l\'environnement d\'installation. N\'hésitez pas à <a href="/devis-gratuit-rouen">demander un devis gratuit</a> adapté à vos besoins.',
+        'Les touches de votre distributeur collent. Le bac de récupération est crade. La machine sent mauvais. Vos clients évitent les boutons — et vos ventes baissent. ProClean intervient sur tous les types d\'<strong>équipements libre-service</strong> : distributeurs automatiques, laveries, stations de lavage auto, bornes de paiement, terminaux tactiles. On démonte, on dégraisse, on désinfecte. Résultat : des machines propres qui fonctionnent et qui rapportent.',
+        'Nos techniciens connaissent chaque type de machine sur le terrain : laveries automatiques, portiques de lavage auto, distributeurs de boissons et snacks, bornes interactives, terminaux bancaires. On intervient selon vos horaires, sans bloquer l\'exploitation. Un seul distributeur ou un parc de 50 machines : même rigueur, même protocole. <a href="/devis-gratuit-rouen">Demandez un devis gratuit</a> avec un chiffrage adapté à votre parc.',
       ],
     },
     {
@@ -1100,24 +1100,24 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Une Connaissance Approfondie de l\'Environnement Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Implantés à Rouen depuis notre création, nous connaissons parfaitement les défis que représente l\'environnement urbain normand pour vos équipements libre-service. La pollution atmosphérique liée au trafic sur l\'A13 et les boulevards périphériques, l\'humidité constante de la vallée de Seine, les variations de température entre les hivers rigoureux et les étés chauds, les particules industrielles de la zone pétrochimique : autant de facteurs que nous intégrons dans nos protocoles de <strong>nettoyage préventif</strong>.',
-        'Nos interventions dans les quartiers industriels de Petit-Quevilly et Grand-Quevilly nous ont permis de développer une expertise unique dans le traitement des équipements exposés aux particules chimiques et aux résidus industriels. Dans le centre historique classé UNESCO, nous adaptons nos méthodes pour préserver l\'harmonie architecturale tout en assurant la parfaite fonctionnalité des installations modernes.',
+        'La poussière de frein, les particules fines, l\'humidité permanente — tout ça bouche vos filtres, grippe vos mécanismes et accélère la corrosion de vos équipements. On intègre ces facteurs dans chaque protocole de <strong>nettoyage préventif</strong> : produits anti-calcaire adaptés à la dureté de l\'eau locale, traitements anticorrosion pour les machines exposées en extérieur, nettoyage renforcé des grilles d\'aération saturées de particules.',
+        'En zone industrielle, vos machines encaissent des résidus chimiques et des dépôts gras qui attaquent les joints et les surfaces. En centre-ville, c\'est la fréquentation intense et la pollution qui usent prématurément les interfaces tactiles et les mécanismes. On adapte le protocole à chaque environnement d\'installation — pas de solution générique.',
       ],
     },
     {
       heading: 'Des Protocoles de Nettoyage Adaptés aux Spécificités Locales',
       headingLevel: 3,
       paragraphs: [
-        'Chaque secteur de Rouen présente ses propres contraintes pour vos équipements libre-service. Dans les quartiers de Rive Droite (Saint-Sever, Grammont, Saint-Clément), nous appliquons des traitements anti-pollution renforcés pour protéger les mécanismes des particules fines urbaines. Pour les installations de la Rive Gauche historique, nous utilisons des produits respectueux du patrimoine architectural et des contraintes ABF.',
-        'Les équipements situés dans les zones commerciales de Barentin, Mont-Saint-Aignan et Bonsecours bénéficient de protocoles adaptés à la forte fréquentation et aux salissures spécifiques du commerce de périphérie. Notre connaissance des habitudes de consommation rouennaises nous permet d\'optimiser les fréquences d\'intervention selon les pics d\'utilisation saisonniers et événementiels. Nous assurons aussi l\'<a href="/entretien-commerces-rouen">entretien de commerces à Rouen</a> pour vos espaces de vente.',
+        'Un distributeur installé dans un hall d\'immeuble ne s\'encrasse pas de la même façon qu\'une borne de paiement en station-service. Les mécanismes ne subissent pas les mêmes contraintes, les surfaces ne se salissent pas au même rythme. On calibre nos fréquences d\'intervention et nos produits en fonction de l\'usage réel de chaque machine — pas d\'un planning standard déconnecté du terrain.',
+        'Les équipements en zone commerciale à forte fréquentation reçoivent un nettoyage plus rapproché des interfaces de contact. Les machines en extérieur bénéficient de traitements anti-UV et anticorrosion. On ajuste aussi les interventions aux pics d\'utilisation : avant les fêtes, en période de rentrée, après les événements. Nous assurons aussi l\'<a href="/entretien-commerces-rouen">entretien de commerces à Rouen</a> pour vos espaces de vente.',
       ],
     },
     {
       heading: 'Une Équipe de Techniciens Spécialisés et Formés',
       headingLevel: 3,
       paragraphs: [
-        'Nos techniciens ProClean suivent des formations continues sur les dernières technologies d\'équipements libre-service et les protocoles de nettoyage les plus innovants. Certifiés en manipulation de produits professionnels et formés aux <strong>normes d\'hygiène</strong> et de sécurité alimentaire, ils interviennent en respectant scrupuleusement les recommandations des fabricants d\'équipements.',
-        'Chaque membre de notre équipe rouennaise possède une connaissance approfondie des spécificités techniques des différents types d\'installations : systèmes de lavage haute pression, mécanismes de distribution automatisée, interfaces tactiles, systèmes de paiement électronique, bornes interactives. Cette expertise technique nous permet d\'intervenir efficacement sans risquer d\'endommager les composants sensibles. Notre expertise couvre également le <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> pour vos locaux professionnels.',
+        'Nos techniciens savent démonter un groupe café, purger un circuit de distribution, nettoyer une tête d\'impression de borne sans la griller. Ils sont formés aux <strong>normes d\'hygiène</strong> alimentaire, aux produits de contact alimentaire, et aux procédures de sécurité électrique. Chaque intervention suit les recommandations constructeur — pas d\'improvisation.',
+        'Systèmes de lavage haute pression, mécanismes de distribution, écrans capacitifs, lecteurs de cartes, monnayeurs : chaque composant a son produit et sa technique de nettoyage. On ne passe pas un coup de chiffon sur un écran tactile avec du produit vitres. On utilise les bons outils pour ne pas endommager les composants sensibles. On intervient aussi sur vos locaux avec notre service de <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a>.',
       ],
     },
     {
@@ -1130,13 +1130,13 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Laveries Automatiques : Propreté et Hygiène Garanties',
       headingLevel: 3,
       paragraphs: [
-        'Rouen compte de nombreuses laveries automatiques dans les quartiers résidentiels de Saint-Sever, Grammont, Croix de Pierre, et les plateaux Est. Ces équipements, utilisés quotidiennement par les habitants et étudiants, nécessitent un entretien rigoureux pour garantir l\'hygiène et la satisfaction des utilisateurs.',
+        'Une laverie qui sent le moisi, c\'est une laverie vide. Les tambours s\'encrassent, les joints moisissent, les filtres se bouchent. Les résidus de lessive s\'accumulent dans les circuits. Les clients sentent l\'odeur, voient les traces — et partent. On démonte, on nettoie, on désinfecte. Votre laverie redevient un endroit où les gens ont envie d\'entrer.',
         'Nos prestations pour laveries automatiques incluent :',
       ],
       listItems: [
         'Nettoyage en profondeur des tambours de machines à laver et sèche-linge avec élimination des résidus de lessive, assouplissant et peluches',
         'Désinfection complète des surfaces intérieures pour éliminer bactéries, champignons et mauvaises odeurs',
-        'Détartrage des circuits d\'eau adapté à la dureté de l\'eau rouennaise et aux dépôts calcaires spécifiques de la vallée de Seine',
+        'Détartrage des circuits d\'eau adapté à la dureté de l\'eau rouennaise et aux dépôts calcaires spécifiques de la région',
         'Nettoyage des filtres et systèmes d\'évacuation pour maintenir les performances optimales',
         'Dégraissage des mécanismes d\'ouverture et de fermeture des portes et hublots',
         'Nettoyage des interfaces utilisateur : écrans tactiles, boutons, distributeurs de monnaie',
@@ -1150,7 +1150,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Stations de Lavage Automobile : Performance et Esthétique',
       headingLevel: 3,
       paragraphs: [
-        'Les stations de lavage automobile de Rouen, particulièrement présentes sur les axes de circulation principaux comme l\'Avenue des Canadiens, la Route de Lyons, le Boulevard de l\'Europe et la RN138, subissent des contraintes spécifiques liées au trafic urbain dense et à la pollution atmosphérique.',
+        'Vos buses sont entartrées, vos brosses laissent des traces, vos bornes de paiement sont graisseuses. Les clients voient que la station est mal entretenue — et ils vont chez le concurrent. On nettoie chaque composant de votre station : portiques, rouleaux, systèmes de rinçage, bornes, aires de stationnement. Tout est remis en état de fonctionnement optimal.',
         'Nos interventions spécialisées comprennent :',
       ],
       listItems: [
@@ -1170,7 +1170,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Distributeurs Automatiques : Hygiène et Attractivité',
       headingLevel: 3,
       paragraphs: [
-        'Dans le centre-ville de Rouen et les campus universitaires, les distributeurs automatiques de boissons et snacks équipent les halls d\'immeubles, entreprises, établissements scolaires et espaces publics. Ces équipements nécessitent une attention particulière pour garantir l\'<strong>hygiène alimentaire</strong> et l\'attractivité commerciale.',
+        'Un distributeur sale, c\'est un distributeur que personne n\'utilise. Les touches poisseuses, la vitre opaque, l\'odeur rance du bac de récupération — tout ça fait fuir les utilisateurs et fait chuter votre chiffre d\'affaires. On nettoie chaque compartiment, chaque mécanisme, chaque surface de contact pour garantir l\'<strong>hygiène alimentaire</strong> et redonner envie d\'acheter.',
         'Nos prestations spécialisées incluent :',
       ],
       listItems: [
@@ -1190,7 +1190,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Terminaux de Paiement et Bornes Interactives : Technologie Préservée',
       headingLevel: 3,
       paragraphs: [
-        'Le développement du paiement électronique et des services numériques a multiplié les terminaux et bornes interactives dans la métropole rouennaise. Ces équipements technologiques nécessitent des protocoles de nettoyage spécifiques pour préserver leur fonctionnalité.',
+        'Des centaines de doigts par jour sur vos écrans tactiles, vos claviers numériques, vos lecteurs de cartes. Sans nettoyage régulier, c\'est un nid à bactéries et un repoussoir pour les utilisateurs. Les écrans deviennent illisibles sous les traces de doigts, les capteurs dysfonctionnent, les mécanismes se grippent. On intervient avec des protocoles adaptés à chaque technologie pour nettoyer sans endommager.',
         'Nos services techniques comprennent :',
       ],
       listItems: [
@@ -1216,7 +1216,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Centre Historique et Zone Patrimoniale : Respect et Performance',
       headingLevel: 3,
       paragraphs: [
-        'Les équipements libre-service installés dans le centre historique classé UNESCO, autour de la Cathédrale, Place du Vieux-Marché, Rue du Gros-Horloge nécessitent des protocoles spéciaux respectueux du patrimoine architectural exceptionnel.',
+        'Les bornes et distributeurs installés en centre-ville sont soumis à des contraintes spécifiques : flux piéton dense, restrictions d\'accès pour les véhicules d\'intervention, réglementation stricte sur les produits utilisables à proximité de bâtiments classés. On travaille en horaires décalés, avec du matériel compact et des produits compatibles.',
         'Traitements spécialisés centre historique :',
       ],
       listItems: [
@@ -1233,7 +1233,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Zones Industrielles et Périphérie : Résistance aux Agressions',
       headingLevel: 3,
       paragraphs: [
-        'Les équipements situés dans les zones industrielles de Saint-Étienne-du-Rouvray, Petit-Quevilly, Grand-Quevilly et Canteleu subissent des agressions spécifiques : particules chimiques, résidus industriels, pollution atmosphérique intense, corrosion accélérée.',
+        'En zone industrielle, vos machines prennent cher : poussière de meulage, résidus d\'hydrocarbures, projection de graisse, corrosion accélérée par les rejets chimiques. Les filtres se colmatent deux fois plus vite, les joints se dégradent, les surfaces se piquent. On intervient avec des protocoles de décontamination et de protection renforcée.',
         'Protocoles zones industrielles :',
       ],
       listItems: [
@@ -1250,7 +1250,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Campus Universitaires et Zones Étudiantes : Adaptation aux Usages',
       headingLevel: 3,
       paragraphs: [
-        'Les campus du Madrillet, Mont-Saint-Aignan et centre-ville concentrent de nombreux équipements libre-service nécessitant une approche spécifique à la population étudiante.',
+        'Les machines sur campus encaissent une utilisation intensive : distributeurs sollicités en continu, laveries surchargées en période d\'examens, bornes malmenées. On adapte les fréquences au calendrier universitaire et on programme les nettoyages lourds pendant les vacances.',
         'Approche campus universitaires :',
       ],
       listItems: [
@@ -1272,7 +1272,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Formule "Essentiel" - Entretien Préventif',
       headingLevel: 3,
       paragraphs: [
-        'Idéale pour les petites installations et équipements à fréquentation modérée, cette formule garantit la propreté de base et la prévention des pannes majeures.',
+        'Vous avez quelques machines à faible trafic — un distributeur dans un hall, une borne dans un petit commerce. Pas besoin d\'un contrat lourd. La formule Essentiel assure le nettoyage de base et la détection des problèmes avant qu\'ils ne deviennent des pannes.',
         'Prestations incluses :',
         'Secteurs recommandés : Petits commerces de quartier, résidences, établissements scolaires',
       ],
@@ -1290,7 +1290,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Formule "Performance" - Entretien Complet',
       headingLevel: 3,
       paragraphs: [
-        'Solution optimale pour les installations moyennes nécessitant un niveau de propreté élevé et une <strong>maintenance préventive</strong> régulière.',
+        'Vos machines tournent tous les jours, les utilisateurs sont nombreux, et une panne vous coûte du chiffre d\'affaires. Cette formule inclut la <strong>maintenance préventive</strong> des mécanismes, le détartrage des circuits, et une intervention d\'urgence sous 24h quand ça bloque.',
         'Prestations complètes :',
         'Secteurs recommandés : Centres commerciaux, stations-service, établissements publics',
       ],
@@ -1310,7 +1310,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Formule "Excellence" - Maintenance Premium',
       headingLevel: 3,
       paragraphs: [
-        'Formule haut de gamme pour les installations critiques nécessitant une disponibilité maximale et une image irréprochable.',
+        'Vos équipements sont critiques : chaque heure d\'arrêt coûte de l\'argent, chaque panne impacte votre image. La formule Excellence inclut l\'astreinte 24h/7j, le démontage technique hebdomadaire, la maintenance prédictive et la formation de vos opérateurs.',
         'Secteurs recommandés : Équipements haute technologie, zones à forte fréquentation, installations critiques',
       ],
       listItems: [
@@ -1336,7 +1336,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Établissements Bancaires et Services Financiers',
       headingLevel: 3,
       paragraphs: [
-        'Les agences bancaires du centre-ville rouennais (BNP Paribas Place de la Cathédrale, Crédit Agricole Rue Jeanne d\'Arc, LCL Rue de la République) nous font confiance pour l\'entretien de leurs distributeurs automatiques et terminaux de services.',
+        'Un distributeur de billets avec un clavier poisseux et un écran couvert de traces de doigts, ça ne rassure personne. Les clients hésitent à taper leur code. On nettoie et désinfecte les DAB, bornes de consultation, automates de dépôt — sans interférer avec les systèmes de sécurité.',
         'Nos références bancaires :',
       ],
       listItems: [
@@ -1351,7 +1351,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Secteur Automobile et Transport',
       headingLevel: 3,
       paragraphs: [
-        'Le secteur automobile rouennais représente un marché important avec de nombreuses stations-service et centres auto équipés de systèmes libre-service.',
+        'Pompes à carburant graisseuses, bornes de paiement encrassées, pistolets de lavage entartrés — quand l\'équipement est sale, le client ne revient pas. On intervient en station-service, en centre auto et sur les bornes de recharge électrique avec des protocoles adaptés à chaque type de matériel.',
         'Nos interventions automobiles :',
       ],
       listItems: [
@@ -1366,7 +1366,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Secteur Alimentaire et Restauration',
       headingLevel: 3,
       paragraphs: [
-        'La restauration rapide et la distribution automatique se développent à Rouen avec l\'installation de nombreux équipements libre-service.',
+        'Un distributeur de boissons chaudes avec des buses encrassées sert du café qui a un goût bizarre. Une machine à pizza avec des résidus brûlés dans le four fait fuir les clients. On dégraisse, on détartre, on désinfecte chaque circuit alimentaire selon les normes HACCP — pas de compromis sur l\'hygiène.',
         'Nos clients alimentaires :',
       ],
       listItems: [
@@ -1381,7 +1381,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Secteur Public et Collectivités',
       headingLevel: 3,
       paragraphs: [
-        'Les collectivités rouennaises modernisent leurs services avec des équipements libre-service nécessitant un entretien spécialisé.',
+        'Les bornes de service public sont utilisées par tout le monde, y compris des personnes fragiles (hôpitaux, maisons de retraite). L\'hygiène n\'est pas une option. On assure la désinfection régulière des écrans tactiles, claviers et surfaces de contact avec des produits adaptés aux environnements sensibles.',
         'Nos partenaires publics :',
       ],
       listItems: [
@@ -1402,7 +1402,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Certifications Professionnelles',
       headingLevel: 3,
       paragraphs: [
-        'ProClean détient toutes les certifications nécessaires pour intervenir sur vos équipements libre-service en toute sécurité et conformité réglementaire :',
+        'On n\'improvise pas sur un distributeur alimentaire ou une borne bancaire. Chaque intervention est encadrée par des certifications et des protocoles stricts :',
       ],
       listItems: [
         'Certification Qualité ISO 9001 pour la gestion de la qualité des prestations',
@@ -1423,87 +1423,87 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '1. Quels types d\'équipements libre-service ProClean peut-il entretenir dans l\'agglomération rouennaise ?',
       headingLevel: 3,
       paragraphs: [
-        'ProClean intervient sur tous types d\'équipements libre-service installés dans la métropole Rouen Normandie : distributeurs automatiques de boissons et snacks, laveries automatiques, stations de lavage automobile, bornes de paiement et terminaux bancaires, bornes interactives d\'information touristique, automates de vente de titres de transport, machines à café professionnelles, distributeurs de produits d\'hygiène, bornes de recharge électrique. Notre expertise technique couvre les principales marques (Selecta, Crane, Azkoyen, Necta, Bianchi, Karcher, etc.) et nous adaptons nos protocoles aux spécificités de chaque équipement et environnement d\'installation rouennais.',
+        'ProClean intervient sur tous types d\'équipements libre-service : distributeurs automatiques de boissons et snacks, laveries automatiques, stations de lavage automobile, bornes de paiement et terminaux bancaires, bornes interactives, automates de vente de titres de transport, machines à café professionnelles, distributeurs de produits d\'hygiène, bornes de recharge électrique. On couvre les principales marques (Selecta, Crane, Azkoyen, Necta, Bianchi, Karcher, etc.) et on adapte le protocole à chaque machine et à son environnement d\'installation.',
       ],
     },
     {
       heading: '2. Comment ProClean adapte-t-il ses interventions aux contraintes du centre historique de Rouen classé UNESCO ?',
       headingLevel: 3,
       paragraphs: [
-        'Dans le centre historique de Rouen, nos interventions respectent scrupuleusement les contraintes patrimoniales et réglementaires. Nous utilisons des produits de nettoyage compatibles avec les matériaux anciens (pierre de Caen, colombages), nos équipements sont silencieux pour préserver la tranquillité, et nos horaires sont adaptés aux flux touristiques. Nos techniciens sont formés aux spécificités du patrimoine normand et coordonnent leurs interventions avec les services municipaux et l\'Architecte des Bâtiments de France (ABF). Les abords des équipements sont nettoyés en respectant l\'harmonie visuelle des monuments environnants.',
+        'En centre-ville, on utilise des produits compatibles avec les matériaux anciens (pierre, colombages), du matériel compact et silencieux, et on intervient en horaires décalés pour ne pas gêner le flux piéton. Nos techniciens connaissent les contraintes ABF (Architecte des Bâtiments de France) et coordonnent avec les services municipaux. Les abords de chaque équipement sont nettoyés sans laisser de traces sur les surfaces environnantes.',
       ],
     },
     {
       heading: '3. Quelle est la fréquence d\'intervention recommandée pour les équipements situés dans les zones à forte pollution urbaine comme Saint-Sever ?',
       headingLevel: 3,
       paragraphs: [
-        'Pour les équipements installés dans les zones urbaines denses comme Saint-Sever, soumis à une forte pollution atmosphérique et particules urbaines, nous recommandons un nettoyage hebdomadaire minimum avec un entretien approfondi bimensuel. Les surfaces exposées nécessitent un traitement anti-pollution spécialisé et les systèmes de filtration un nettoyage renforcé. Dans les zones industrielles de Petit-Quevilly et Grand-Quevilly, la fréquence peut être adaptée selon l\'exposition aux particules chimiques et résidus industriels. Nos formules "Performance" et "Excellence" intègrent ces contraintes environnementales spécifiques.',
+        'Pour les machines exposées à une forte pollution (particules fines, poussières de frein, résidus industriels), on recommande un nettoyage hebdomadaire minimum avec un entretien approfondi bimensuel. Les filtres et systèmes d\'aération se colmatent plus vite dans ces zones — il faut adapter la fréquence sous peine de pannes mécaniques. Nos formules "Performance" et Formule Excellence intègrent ces contraintes avec des fréquences renforcées.',
       ],
     },
     {
       heading: '4. ProClean peut-il intervenir sur les équipements des campus universitaires pendant les périodes d\'examens ?',
       headingLevel: 3,
       paragraphs: [
-        'Absolument ! Notre expérience avec l\'Université de Rouen Normandie nous a permis de développer une approche spécifique aux contraintes universitaires. Pendant les périodes d\'examens, nous privilégions les interventions matinales précoces ou nocturnes pour ne pas perturber les étudiants. Nos équipements silencieux et nos produits sans odeur permettent un nettoyage discret. Nous adaptons également nos fréquences aux périodes de forte affluence (rentrée, examens, événements étudiants) et programmons les nettoyages lourds pendant les vacances universitaires. Une coordination étroite avec les services techniques universitaires garantit le respect du calendrier académique.',
+        'Oui. On privilégie les interventions tôt le matin ou en soirée pour ne pas perturber les étudiants. Matériel silencieux, produits sans odeur, intervention rapide et ciblée. On adapte les fréquences aux pics d\'utilisation (rentrée, examens, événements) et on programme les nettoyages lourds — démontage des mécanismes, détartrage des circuits — pendant les vacances universitaires. On se coordonne directement avec les services techniques du campus.',
       ],
     },
     {
       heading: '5. Comment se déroule l\'entretien des distributeurs alimentaires dans le respect des normes HACCP ?',
       headingLevel: 3,
       paragraphs: [
-        'L\'entretien des distributeurs alimentaires suit un protocole HACCP strict que nos techniciens maîtrisent parfaitement. L\'intervention débute par une décontamination des mains et l\'équipement de protection individuelle, suivie du démontage des éléments accessibles avec désinfection complète des compartiments de stockage. Nous utilisons exclusivement des produits agréés contact alimentaire et procédons à un rinçage complet pour éliminer tout résidu chimique. Les circuits de boissons bénéficient d\'un traitement antibactérien spécialisé et les surfaces de contact d\'une désinfection longue durée. Un contrôle final avec relevé de températures clôture l\'intervention, documentée dans un rapport de traçabilité conforme aux exigences sanitaires.',
+        'Chaque intervention suit un protocole HACCP strict. Le technicien se désinfecte les mains, enfile l\'EPI, démonte les éléments accessibles et désinfecte chaque compartiment de stockage. On utilise exclusivement des produits agréés contact alimentaire, avec rinçage complet pour éliminer tout résidu. Les circuits de boissons sont traités avec un antibactérien dédié. Un contrôle final avec relevé de températures clôture l\'intervention, le tout documenté dans un rapport de traçabilité conforme aux exigences sanitaires.',
       ],
     },
     {
       heading: '6. ProClean peut-il intervenir en urgence pour nettoyer des équipements vandalisés ou dégradés ?',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'urgence est opérationnel 24h/7j pour nos clients sous contrat "Excellence" et disponible sous 24h pour les autres formules. En cas de vandalisme (graffitis, autocollants, dégradations), nos équipes mobiles interviennent rapidement avec des produits spécialisés dans l\'élimination des tags sans endommager les surfaces. Pour les dégradations plus importantes, nous établissons un diagnostic technique immédiat et proposons une remise en état complète en coordination avec vos services techniques ou assurances. Notre stock de produits anti-graffiti et notre matériel de nettoyage d\'urgence permettent une intervention efficace dans les plus brefs délais pour limiter l\'impact sur votre activité.',
+        'Oui. Les clients sous contrat Formule Excellence bénéficient d\'une astreinte 24h/7j. Pour les autres formules, on intervient sous 24h. Graffitis, autocollants, dégradations : nos équipes arrivent avec les produits anti-tags adaptés pour retirer sans abîmer les surfaces. Pour les dégâts plus importants, on fait un diagnostic technique sur place et on propose une remise en état complète, en coordination avec vos services techniques ou votre assurance. L\'objectif : remettre la machine en service le plus vite possible pour limiter la perte de revenus.',
       ],
     },
   ],
 
   'nettoyage-camion-rouen': [
     {
-      heading: 'L\'Expertise ProClean pour Vos Cabines Poids Lourds à Rouen',
+      heading: 'Nettoyage de Cabines Poids Lourds — ProClean',
       headingLevel: 2,
       paragraphs: [
-        'Votre chauffeur passe 10 heures par jour dans sa cabine. Poussière, odeurs de gasoil, miettes, sueur — l\'habitacle devient un problème d\'<strong>hygiène</strong> et de confort. À Rouen, le trafic dense sur l\'A13, les particules industrielles de la vallée de Seine et l\'humidité normande accélèrent l\'encrassement des selleries, tableaux de bord et filtres de ventilation. Résultat : vos conducteurs fatiguent plus vite, vos cabines vieillissent prématurément. ProClean nettoie les cabines poids lourds avec des protocoles pensés pour ces conditions précises.',
-        'Nos <strong>techniciens spécialisés</strong> interviennent chez les transporteurs de Petit-Quevilly, Grand-Quevilly, sur les plateformes de Barentin et Mont-Saint-Aignan, dans la zone Saint-Sever et en centre-ville pour la livraison urbaine. Flotte de 3 camions ou parc de 50 véhicules : on s\'adapte à vos rotations, vos horaires, vos contraintes terrain. Vous gérez aussi des utilitaires ? Découvrez notre <a href="/nettoyage-voiture-rouen">nettoyage de voiture à Rouen</a> pour compléter l\'entretien de votre flotte.',
+        'La cabine sent la transpiration et le diesel. Le tableau de bord est collant. Les sièges sont tachés de café et de graisse. La couchette n\'a jamais été nettoyée — et votre chauffeur dort dedans 5 nuits par semaine. C\'est un problème d\'<strong>hygiène</strong>, de confort, et au bout du compte de turnover. Un conducteur qui travaille dans une cabine dégueulasse ne reste pas longtemps. ProClean nettoie les cabines poids lourds avec des protocoles pensés pour le vrai état de vos véhicules.',
+        'Nos <strong>techniciens spécialisés</strong> interviennent directement sur vos dépôts, vos plateformes, vos aires de stationnement. Flotte de 5 camions ou parc de 50 véhicules : on cale un planning autour de vos rotations. Pendant que certains roulent, on nettoie les autres. Zéro immobilisation inutile. Vous gérez aussi des utilitaires ? Découvrez notre <a href="/nettoyage-voiture-rouen">nettoyage de voiture à Rouen</a> pour compléter l\'entretien de votre flotte.',
       ],
     },
     {
-      heading: 'Pourquoi Choisir ProClean pour le Nettoyage de Vos Cabines Poids Lourds à Rouen ?',
+      heading: 'Pourquoi Choisir ProClean pour le Nettoyage de Vos Cabines Poids Lourds ?',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: 'Une Connaissance Approfondie de l\'Environnement Logistique Rouennais',
+      heading: 'On Connaît la Réalité du Transport',
       headingLevel: 3,
       paragraphs: [
-        'Vos camions roulent sur l\'A13, l\'A28, les rocades saturées. Ils stationnent en zone industrielle, chargent sur des quais poussiéreux, traversent des chantiers. Nous connaissons chaque contrainte parce que nous y travaillons tous les jours. Pollution automobile, particules chimiques de la vallée de Seine, humidité qui fait moisir les couchettes — nous intégrons tout ça dans nos protocoles de nettoyage de <strong>cabines poids lourds</strong>.',
-        'Des années d\'interventions sur les zones logistiques, les plateformes multimodales et les dépôts industriels nous ont appris une chose : chaque flotte a ses propres salissures. Un camion frigorifique ne s\'encrasse pas comme un porteur de chantier. On adapte les produits, les temps de séchage et la fréquence à votre rotation réelle — pas à un protocole générique. Vos locaux administratifs ont aussi besoin d\'attention ? Notre <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> complète la prestation.',
+        'Les tapis de sol sont noirs de boue. Le volant est gras. Les rangements débordent de papiers, de bouteilles vides et de miettes. L\'aération souffle de la poussière. On ne parle pas d\'un coup d\'aspirateur — on parle de remettre un poste de travail en état. Nos protocoles de nettoyage de <strong>cabines poids lourds</strong> sont calibrés pour ce niveau de crasse, pas pour un intérieur de voiture de fonction.',
+        'Chaque flotte a ses propres salissures. Un camion frigorifique ne s\'encrasse pas comme un porteur de chantier. Un benne qui fait 3 carrières par jour n\'a rien à voir avec un porteur de messagerie. On adapte les produits, les temps de séchage et la fréquence à votre rotation réelle — pas à un protocole générique. Vos locaux administratifs ont aussi besoin d\'attention ? Notre <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> complète la prestation.',
       ],
     },
     {
-      heading: 'Des Protocoles de Nettoyage Adaptés aux Contraintes du Transport Rouennais',
+      heading: 'Des Protocoles Adaptés à Chaque Type de Transport',
       headingLevel: 3,
       paragraphs: [
-        'Livraison en centre-ville ou transport industriel en vallée de Seine : les salissures ne sont pas les mêmes. Pour la distribution urbaine, on traite les zones de passage — seuils, poignées, planchers — qui subissent des dizaines de montées-descentes par jour. Pour les cabines exposées aux sites pétrochimiques, on applique des <strong>désinfections adaptées</strong> aux particules chimiques avec des produits renforcés et un temps de contact plus long.',
-        'Et vos chauffeurs longue distance qui dorment dans leur cabine ? La couchette, la sellerie, les rangements personnels — tout doit être traité en profondeur. Un camion qui fait Rouen-Marseille chaque semaine accumule des salissures différentes d\'un porteur urbain. Nos protocoles tiennent compte de ces réalités terrain.',
+        'Distribution urbaine ou longue distance : les salissures ne sont pas les mêmes. Pour la distribution, on traite les zones de passage — seuils, poignées, planchers — qui subissent des dizaines de montées-descentes par jour. Pour les cabines de chantier ou de zone industrielle, on applique des <strong>désinfections adaptées</strong> aux particules et à la poussière abrasive, avec des produits renforcés et un temps de contact plus long.',
+        'Et vos chauffeurs longue distance qui dorment dans leur cabine ? La couchette, la sellerie, les rangements personnels — tout doit être traité en profondeur. Un camion qui fait 3 000 km par semaine accumule des salissures que vous ne voyez même plus. Nos protocoles tiennent compte de ces réalités terrain.',
       ],
     },
     {
-      heading: 'Une Équipe de Techniciens Spécialisés Transport Urbain',
+      heading: 'Des Techniciens Qui Connaissent les Camions',
       headingLevel: 3,
       paragraphs: [
         'Nos techniciens savent ce qu\'est une cabine de poids lourd. Pas un habitacle de berline. Ils connaissent les accès difficiles, les matériaux techniques, les systèmes embarqués qu\'il ne faut pas noyer. Formés à la manipulation de produits professionnels et aux normes de sécurité du transport, ils interviennent sans ralentir votre activité.',
-        'Cabine courte de porteur urbain, cabine longue avec couchette intégrée, poste de conduite avec GPS et télématique embarquée — chaque configuration a ses pièges. Nos techniciens les connaissent. Ils savent où la poussière s\'accumule dans un tableau de bord, comment traiter une sellerie tissu sans la détremper, et quel produit utiliser sur un écran tactile sans le rayer.',
+        'Cabine courte de porteur, cabine longue avec couchette intégrée, poste de conduite avec GPS et télématique embarquée — chaque configuration a ses pièges. Nos techniciens les connaissent. Ils savent où la poussière s\'accumule dans un tableau de bord, comment traiter une sellerie tissu sans la détremper, et quel produit utiliser sur un écran tactile sans le rayer.',
       ],
     },
     {
-      heading: 'Nos Services Complets de Nettoyage de Cabines Poids Lourds à Rouen',
+      heading: 'Nos Services de Nettoyage de Cabines Poids Lourds',
       headingLevel: 2,
       paragraphs: [
       ],
@@ -1512,7 +1512,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Transport Distribution Urbaine',
       headingLevel: 3,
       paragraphs: [
-        'Combien de fois par jour votre chauffeur monte et descend de sa cabine ? 30 ? 50 ? En distribution urbaine à Rouen — centre historique, zones commerciales, quartiers résidentiels — l\'habitacle encaisse. Les seuils s\'usent, les sièges se tachent, les odeurs de marchandises s\'incrustent.',
+        'Combien de fois par jour votre chauffeur monte et descend de sa cabine ? 30 ? 50 ? En distribution — zones commerciales, quartiers résidentiels, centres-villes — l\'habitacle encaisse. Les seuils s\'usent, les sièges se tachent, les odeurs de colis et de carton s\'incrustent.',
         'Nos prestations distribution urbaine :',
       ],
       listItems: [
@@ -1530,7 +1530,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Transport Routier Longue Distance',
       headingLevel: 3,
       paragraphs: [
-        'Votre chauffeur vit dans sa cabine. Littéralement. Sur un Rouen-Lyon ou un aller-retour Paris-Normandie via l\'A13, la cabine devient un lieu de vie : repas, repos, sommeil. En 48 heures, la couchette accumule transpiration et acariens, le réfrigérateur prend des odeurs, les vitres se couvrent de film gras.',
+        'Votre chauffeur vit dans sa cabine. Littéralement. Repas, repos, sommeil — tout se passe là-dedans. En 48 heures, la couchette accumule transpiration et acariens, le réfrigérateur prend des odeurs, les vitres se couvrent d\'un film gras. Le conducteur qui dort 5 nuits par semaine dans un espace jamais nettoyé, il finit par poser sa démission.',
         'Prestations transport routier :',
       ],
       listItems: [
@@ -1540,20 +1540,20 @@ export const serviceSections: Record<string, ContentBlock[]> = {
         'Désodorisation longue durée adaptée aux trajets de plusieurs jours',
         'Entretien des espaces de rangement vêtements et effets personnels',
         'Traitement des textiles contre l\'usure et les taches alimentaires persistantes',
-        'Assainissement des climatisations pour un air pur en circulation prolongée',
+        'Assainissement des climatisations pour un air propre en circulation prolongée',
         'Nettoyage des vitres panoramiques pour visibilité optimale sur autoroutes',
         'Protection des équipements électroniques embarqués contre l\'usure',
       ],
     },
     {
-      heading: 'Nettoyage Transport Industriel Vallée de Seine',
+      heading: 'Nettoyage Transport Industriel et Chantier',
       headingLevel: 3,
       paragraphs: [
-        'Pétrochimie, automobile, agroalimentaire — les cabines qui desservent les sites industriels de la vallée de Seine ramènent des polluants spécifiques. Particules fines, résidus chimiques, poussières abrasives. Sans traitement adapté, ces contaminants attaquent les surfaces, bouchent les filtres et dégradent la qualité de l\'air respiré par vos conducteurs.',
+        'Pétrochimie, BTP, agroalimentaire — les cabines qui desservent les sites industriels et les chantiers ramènent des polluants que l\'aspirateur ne suffit pas à traiter. Particules fines, résidus chimiques, poussières abrasives. Sans traitement adapté, ces contaminants attaquent les surfaces, bouchent les filtres et dégradent la qualité de l\'air que vos conducteurs respirent toute la journée.',
         'Protocoles transport industriel :',
       ],
       listItems: [
-        'Décontamination préventive des particules industrielles et chimiques',
+        'Décontamination préventive des poussières de chantier et chimiques',
         'Nettoyage des équipements de sécurité industrielle intégrés aux cabines',
         'Traitement des systèmes de ventilation contre les polluants spécifiques',
         'Désinfection renforcée des surfaces exposées aux environnements industriels',
@@ -1582,7 +1582,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: 'Formules de Nettoyage Adaptées aux Besoins Rouennais',
+      heading: 'Nos Formules de Nettoyage Cabines',
       headingLevel: 2,
       paragraphs: [
       ],
@@ -1591,45 +1591,45 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Formule "Essentiel Urbain" - Entretien Distribution Ville',
       headingLevel: 3,
       paragraphs: [
-        '30 minutes entre deux tournées. C\'est le temps qu\'il nous faut pour remettre une cabine de distribution en état. Aspiration, désinfection des surfaces de contact, traitement anti-odeurs — l\'essentiel, vite et bien.',
+        'Express en 30 minutes : aspiration complète, surfaces nettoyées, vitres, désodorisant. Votre chauffeur prend un café, il remonte dans une cabine propre. C\'est l\'entretien de base qui fait toute la différence au quotidien.',
         'Prestations Essentiel Urbain :',
         'Idéal pour : Distribution urbaine, livraisons express, rotations courtes quotidiennes',
       ],
       listItems: [
-        'Dépoussiérage express de l\'habitacle et ventilation contre les particules urbaines',
-        'Aspiration renforcée des sièges et planchers sollicités intensivement',
-        'Nettoyage des vitres intérieures pour visibilité optimale en circulation urbaine',
+        'Dépoussiérage express de l\'habitacle et ventilation',
+        'Aspiration renforcée des sièges et planchers',
+        'Nettoyage des vitres intérieures pour visibilité optimale',
         'Désinfection ciblée des surfaces de contact fréquent',
         'Traitement anti-odeurs express pour neutralisation rapide',
         'Intervention 30 minutes compatible avec les planning de livraison',
-        'Service mobile sur les zones de stationnement urbaines',
+        'Service mobile directement sur votre dépôt ou parking',
       ],
     },
     {
       heading: 'Formule "Confort Routier" - Entretien Transport Interurbain',
       headingLevel: 3,
       paragraphs: [
-        'Votre flotte fait du régional ou de l\'interurbain ? Les cabines ont besoin d\'un nettoyage plus poussé qu\'un simple dépoussiérage. En 60 minutes, on traite l\'habitacle complet : poste de conduite, rangements, sols, vitres.',
+        'Complet en 60 minutes : injection-extraction des sièges, shampoing tapis, traitement anti-odeurs, nettoyage du système de ventilation. Tout l\'habitacle est traité en profondeur, pas juste dépoussiéré.',
         'Prestations Confort Routier :',
         'Idéal pour : Transport régional, liaisons interurbaines, entretien hebdomadaire',
       ],
       listItems: [
         'Nettoyage intégral habitacle : poste de conduite et espaces fonctionnels',
-        'Traitement approfondi des sièges et surfaces d\'usage intensif',
+        'Injection-extraction des sièges et traitement des surfaces d\'usage intensif',
         'Entretien du tableau de bord et systèmes de navigation embarqués',
         'Nettoyage des rangements et compartiments fonctionnels',
-        'Traitement du sol contre l\'usure et les salissures persistantes',
+        'Shampoing tapis de sol et traitement des salissures persistantes',
         'Nettoyage des vitres et traitement anti-buée préventif',
         'Désodorisation standard pour confort de conduite prolongé',
         'Durée intervention 60 minutes pour traitement approfondi',
       ],
     },
     {
-      heading: 'Formule "Excellence Métropolitaine" - Traitement Premium Transport',
+      heading: 'Formule Excellence - Traitement Premium Transport',
       headingLevel: 3,
       paragraphs: [
-        'Pour les <strong>flottes premium</strong>, les véhicules de direction ou la remise à neuf avant changement de conducteur. C\'est notre formule la plus complète : traitement vapeur de la couchette, protection cuir longue durée, nébulisation anti-bactérienne, traitement hydrophobe des vitres. Le genre de prestation qui redonne à une cabine de 3 ans l\'aspect du neuf.',
-        'Prestations Excellence Métropolitaine :',
+        'Pour les <strong>flottes premium</strong>, les véhicules de direction ou la remise à neuf avant changement de conducteur. C\'est notre formule la plus complète : traitement vapeur de la couchette, protection cuir longue durée, nébulisation anti-bactérienne, traitement hydrophobe des vitres. 90 minutes pour redonner à une cabine de 3 ans l\'aspect du neuf.',
+        'Prestations Formule Excellence :',
         'Idéal pour : Flottes premium, véhicules de direction, remise à neuf, changement de conducteur',
       ],
       listItems: [
@@ -1646,33 +1646,33 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: 'Protocoles Spécialisés selon les Zones d\'Activité Rouennaises',
+      heading: 'Organisation des Interventions par Type de Site',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: 'Centre Historique et Zone Patrimoniale : Respect et Discrétion',
+      heading: 'Livraison Centre-Ville : Intervention Discrète et Rapide',
       headingLevel: 3,
       paragraphs: [
-        'Livrer en centre historique classé UNESCO, c\'est déjà compliqué. Faire nettoyer le camion sur place sans gêner ? C\'est notre affaire. Nos équipes interviennent tôt le matin, avec du matériel silencieux et des produits sans émanation, avant l\'ouverture des commerces.',
-        'Traitements centre historique :',
+        'Livrer en centre-ville piéton, c\'est déjà compliqué. Faire nettoyer le camion sur place sans gêner personne ? C\'est notre affaire. Nos équipes interviennent tôt le matin, avec du matériel silencieux et des produits sans émanation, avant l\'ouverture des commerces.',
+        'Organisation centre-ville :',
       ],
       listItems: [
-        'Interventions silencieuses pour respect de la quiétude patrimoniale',
-        'Produits écologiques compatibles avec l\'environnement historique',
+        'Interventions silencieuses avant 7h du matin',
+        'Produits écologiques sans émanation ni résidu',
         'Horaires adaptés aux contraintes de circulation en zone piétonne',
-        'Nettoyage discret pour préserver l\'harmonie visuelle',
-        'Coordination avec les services municipaux du patrimoine',
-        'Respect des contraintes de stationnement et de circulation',
-        'Interventions matinales avant ouverture des commerces historiques',
+        'Nettoyage discret sans encombrement de la voie publique',
+        'Coordination avec les gestionnaires de zone pour le stationnement',
+        'Respect des créneaux de livraison imposés par la mairie',
+        'Équipement compact qui ne bloque pas le passage',
       ],
     },
     {
-      heading: 'Zones Industrielles Vallée de Seine : Décontamination Renforcée',
+      heading: 'Zones Industrielles : Décontamination Renforcée',
       headingLevel: 3,
       paragraphs: [
-        'Petit-Quevilly, Grand-Quevilly, Notre-Dame-de-Gravenchon — vos camions qui circulent dans ces zones industrielles ramènent des polluants que le nettoyage classique ne suffit pas à éliminer. On utilise des protocoles de décontamination renforcée avec des produits anti-pollution ciblés.',
+        'Vos camions circulent en zone industrielle ? Ils ramènent des polluants que le nettoyage classique ne suffit pas à éliminer. Poussière de chantier, résidus chimiques, particules grasses — on utilise des protocoles de décontamination renforcée avec des produits anti-pollution ciblés.',
         'Protocoles zones industrielles :',
       ],
       listItems: [
@@ -1686,11 +1686,11 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: 'Zones Logistiques Périphériques : Efficacité Opérationnelle',
+      heading: 'Plateformes Logistiques : Zéro Temps Mort',
       headingLevel: 3,
       paragraphs: [
-        'Vos camions chargent à Barentin, déchargent à Mont-Saint-Aignan, repartent en tournée ? On s\'intercale dans votre flux. Pendant que votre chauffeur prend sa pause ou que le camion est en chargement, notre équipe mobile nettoie la cabine sur place. Zéro temps mort.',
-        'Approche logistique périphérique :',
+        'Vos camions chargent, déchargent, repartent en tournée ? On s\'intercale dans votre flux. Pendant que votre chauffeur prend sa pause ou que le camion est en chargement, notre équipe mobile nettoie la cabine sur place. Le camion ne perd pas une minute de plus.',
+        'Organisation plateformes logistiques :',
       ],
       listItems: [
         'Interventions programmées selon les planning de chargement',
@@ -1699,11 +1699,11 @@ export const serviceSections: Record<string, ContentBlock[]> = {
         'Coordination avec les gestionnaires de sites logistiques',
         'Adaptation aux pics d\'activité saisonniers',
         'Flexibilité horaire pour les contraintes 24h/24',
-        'Optimisation des tournées selon les implantations géographiques',
+        'Planning optimisé pour traiter X camions par jour sans blocage',
       ],
     },
     {
-      heading: 'Secteurs Clients Spécialisés à Rouen',
+      heading: 'Types de Flottes Qu\'on Entretient',
       headingLevel: 2,
       paragraphs: [
       ],
@@ -1712,44 +1712,44 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Transport et Logistique Urbaine',
       headingLevel: 3,
       paragraphs: [
-        'Les transporteurs et distributeurs de la métropole rouennaise comptent sur nous pour maintenir leurs cabines propres au quotidien. Quand vos chauffeurs font 40 arrêts par jour, l\'habitacle prend cher.',
-        'Nos références transport urbain :',
+        'Quand vos chauffeurs font 40 arrêts par jour, l\'habitacle prend cher. On entretient les flottes de distribution au quotidien pour que chaque conducteur retrouve une cabine propre à chaque prise de poste.',
+        'Exemples de flottes distribution :',
       ],
       listItems: [
-        'Chronopost : distribution express métropolitaine',
-        'DHL : logistique urbaine et périurbaine',
-        'La Poste : distribution colis et courrier',
-        'Distributeurs locaux : commerce et artisanat rouennais',
-        'Transporteurs express : livraisons urgentes et spécialisées',
+        'Messageries express : distribution colis et courrier',
+        'Transporteurs derniers kilomètres : livraison e-commerce',
+        'Distributeurs alimentaires : tournées commerces et GMS',
+        'Livreurs spécialisés : matériaux, mobilier, électroménager',
+        'Transporteurs express : livraisons urgentes et dédiées',
       ],
     },
     {
       heading: 'Transport Routier et Longue Distance',
       headingLevel: 3,
       paragraphs: [
-        'Vous faites du Paris-Normandie, du régional, du national ? Vos cabines ont besoin d\'un entretien adapté aux longues heures de route et aux conditions variables.',
-        'Clients transport routier :',
+        'Vos chauffeurs font du régional, du national, de l\'international ? Les cabines encaissent des milliers de kilomètres par semaine. Sans entretien régulier, elles deviennent invivables.',
+        'Flottes transport routier :',
       ],
       listItems: [
-        'Transporteurs A13 : liaisons Paris-Normandie',
-        'Transport régional : desserte Normandie et régions limitrophes',
+        'Transporteurs régionaux : navettes et tournées locales',
         'Groupages nationaux : distribution France entière',
-        'Transport international : corridors européens via Rouen',
+        'Transport international : corridors européens',
+        'Lots complets : longue distance et relais conducteurs',
         'Transport spécialisé : frigorifique, pharmaceutique, industriel',
       ],
     },
     {
-      heading: 'Secteur Industriel Vallée de Seine',
+      heading: 'Secteur Industriel et BTP',
       headingLevel: 3,
       paragraphs: [
-        'Les industriels de la vallée de Seine savent que leurs flottes nécessitent un entretien particulier. Polluants spécifiques, cadences soutenues, contraintes réglementaires — on gère tout ça.',
-        'Références secteur industriel :',
+        'Les flottes industrielles et de chantier encaissent des conditions que les autres ne connaissent pas. Boue, poussière de béton, résidus chimiques — on gère ce niveau de salissure au quotidien.',
+        'Flottes secteur industriel :',
       ],
       listItems: [
-        'Renault : transport automobile et pièces détachées',
-        'Industries pétrochimiques : transport produits chimiques',
+        'BTP : bennes, porteurs de chantier, toupies',
+        'Industries chimiques : transport produits et matières premières',
         'Agroalimentaire : transport alimentaire et boissons',
-        'Papeteries : transport matières premières et produits finis',
+        'Carrières et TP : transport de matériaux',
         'Sous-traitants industriels : maintenance et services',
       ],
     },
@@ -1757,19 +1757,19 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Services Publics et Collectivités',
       headingLevel: 3,
       paragraphs: [
-        'Collectivités, hôpitaux, établissements scolaires — les flottes publiques doivent être irréprochables. Nous assurons un entretien régulier conforme aux exigences du service public.',
-        'Partenaires publics :',
+        'Collectivités, hôpitaux, services techniques — les flottes publiques doivent être irréprochables. On assure un entretien régulier conforme aux exigences des marchés publics.',
+        'Flottes publiques :',
       ],
       listItems: [
-        'Métropole Rouen Normandie : services techniques et voirie',
-        'Ville de Rouen : services municipaux et maintenance',
-        'Conseil Départemental 76 : routes et équipements départementaux',
+        'Services techniques municipaux : voirie et espaces verts',
+        'Services de collecte : ordures ménagères et recyclage',
+        'Conseil Départemental : routes et équipements',
         'Services hospitaliers : transport médical et logistique',
         'Établissements scolaires : transport et maintenance',
       ],
     },
     {
-      heading: 'Avantages Compétitifs ProClean Transport Rouen',
+      heading: 'Ce Qui Fait la Différence avec ProClean',
       headingLevel: 2,
       paragraphs: [
       ],
@@ -1781,54 +1781,54 @@ export const serviceSections: Record<string, ContentBlock[]> = {
         'Vous voulez savoir si on est habilités à intervenir sur vos véhicules ? Voici nos certifications et agréments :',
       ],
       listItems: [
-        'Certification transport urbain et périurbain',
+        'Certification transport et véhicules industriels',
         'Agrément sanitaire pour transport alimentaire et pharmaceutique',
         'Formation sécurité routière et transport de marchandises',
-        'Certification environnementale normes métropolitaines',
+        'Certification environnementale et traitement des déchets',
         'Assurance transport avec garanties renforcées',
         'Habilitation intervention sur véhicules techniques spécialisés',
       ],
     },
     {
-      heading: 'Services Adaptés Environnement Urbain',
+      heading: 'Organisation Sans Immobilisation',
       headingLevel: 3,
       paragraphs: [
-        'Comment on s\'organise pour ne pas bloquer vos camions ? Voici notre approche :',
+        'Flottes de 5, 10, 50 camions ? On organise un planning : X camions par jour, pendant que les autres roulent. Voici comment on s\'organise :',
       ],
       listItems: [
-        'Service mobile silencieux respectueux de l\'environnement urbain',
-        'Interventions express adaptées aux rotations urbaines courtes',
-        'Planning flexible selon les contraintes de circulation',
-        'Équipes formées aux spécificités du transport urbain',
-        'Matériel compact adapté aux espaces urbains restreints',
-        'Coordination avec les services de circulation urbaine',
+        'Unité mobile autonome : on vient sur votre site, pas l\'inverse',
+        'Interventions express calées sur les pauses chauffeurs',
+        'Planning flexible : tôt le matin, tard le soir, week-end',
+        'Équipes formées aux contraintes opérationnelles du transport',
+        'Matériel compact qui s\'installe en 5 minutes sur n\'importe quel parking',
+        'Coordination directe avec votre exploitation ou vos dispatchers',
       ],
     },
     {
-      heading: 'Foire Aux Questions - Nettoyage Cabines Poids Lourds Rouen',
+      heading: 'Foire Aux Questions - Nettoyage Cabines Poids Lourds',
       headingLevel: 2,
       paragraphs: [
       ],
     },
     {
-      heading: '1. Comment ProClean adapte-t-il ses interventions aux contraintes de circulation du centre historique de Rouen ?',
+      heading: '1. Combien de temps dure le nettoyage d\'une cabine poids lourd ?',
       headingLevel: 3,
       paragraphs: [
-        'On intervient avant 7h du matin, avec des véhicules compacts qui passent dans les rues étroites. Nos produits sont écologiques, nos équipements silencieux. On se coordonne avec la police municipale pour le stationnement et on évite les heures de pointe touristique. Vos chauffeurs récupèrent une cabine propre avant leur première tournée, sans que personne dans le quartier n\'ait été dérangé.',
+        'Formule Essentiel : 30 minutes. Aspiration, surfaces, vitres, désodorisant — le basique qui change tout. Formule Confort : 60 minutes avec injection-extraction des sièges, shampoing tapis et traitement ventilation. Formule Excellence : 90 minutes pour un traitement complet vapeur, nébulisation anti-bactérienne et protection longue durée. On s\'adapte à votre planning : pendant la pause du chauffeur, pendant le chargement, ou le week-end quand les camions sont au dépôt.',
       ],
     },
     {
-      heading: '2. Quels protocoles ProClean applique-t-il pour les véhicules exposés à la pollution industrielle de la vallée de Seine ?',
+      heading: '2. Comment vous gérez une flotte de 20 ou 50 camions sans bloquer l\'activité ?',
       headingLevel: 3,
       paragraphs: [
-        'Les cabines qui circulent en zone industrielle — Petit-Quevilly, Grand-Quevilly, Notre-Dame-de-Gravenchon — reçoivent un traitement anti-pollution en 3 étapes : décontamination des particules chimiques sur toutes les surfaces, nettoyage renforcé des filtres de ventilation et des bouches d\'aération, puis traitement anti-corrosion des parties métalliques exposées. On adapte les produits au type de polluant (pétrochimie, automobile, agroalimentaire) et on ajuste la fréquence d\'intervention selon le niveau d\'exposition de vos véhicules.',
+        'On établit un planning avec votre exploitation. Par exemple : 5 camions par jour, du lundi au vendredi. On traite ceux qui sont au dépôt pendant que les autres roulent. Notre unité mobile est autonome en eau et en énergie — on s\'installe sur votre parking sans rien demander. Si un camion imprévu rentre, on le glisse dans le planning. L\'objectif est simple : zéro immobilisation supplémentaire.',
       ],
     },
     {
-      heading: '3. ProClean peut-il intervenir sur les aires autoroutières fréquentées par les transporteurs rouennais ?',
+      heading: '3. ProClean peut-il intervenir sur les aires de repos autoroutières ?',
       headingLevel: 3,
       paragraphs: [
-        'Oui, notre unité mobile est autonome en énergie et en eau. On intervient sur les aires de repos de l\'A13 et de l\'A28, pendant le temps de pause réglementaire de vos conducteurs. Nos équipes sont formées à la sécurité autoroutière et se coordonnent avec les gestionnaires d\'aires. Les formules "Confort Routier" et "Excellence Métropolitaine" incluent ces interventions sur aires. Pour <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>, contactez notre équipe spécialisée transport.',
+        'Oui, notre unité mobile est totalement autonome. On intervient pendant le temps de pause réglementaire de vos conducteurs. Nos équipes sont formées à la sécurité autoroutière et se coordonnent avec les gestionnaires d\'aires. Les formules Confort Routier et Formule Excellence incluent ces interventions sur aires. Pour <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>, contactez notre équipe.',
       ],
     },
     {
@@ -1839,10 +1839,10 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: '5. ProClean propose-t-il des interventions d\'urgence pour les flottes de transport express ?',
+      heading: '5. Que faire en cas d\'urgence — camion sali par un incident, audit surprise ?',
       headingLevel: 3,
       paragraphs: [
-        'En urgence, on est là en 4 heures — et en 2 heures pour les clients sous contrat "Excellence Métropolitaine" (disponible 24h/7j). Véhicule sali lors d\'une livraison, accident, remise en état express avant un audit : nos équipes mobiles ont tout le matériel nécessaire à bord. On se synchronise avec vos dispatchers pour intervenir au bon moment, sans bloquer le véhicule plus longtemps que nécessaire.',
+        'En urgence, on est là en 4 heures — et en 2 heures pour les clients sous contrat Formule Excellence (disponible 24h/7j). Véhicule sali lors d\'une livraison, accident, remise en état express avant un audit : nos équipes mobiles ont tout le matériel nécessaire à bord. On se synchronise avec vos dispatchers pour intervenir au bon moment, sans bloquer le véhicule plus longtemps que nécessaire.',
       ],
     },
     {
@@ -1859,8 +1859,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'L\'Expertise ProClean pour Vos Canapés à Rouen',
       headingLevel: 2,
       paragraphs: [
-        'Au cœur de la métropole normande, vos canapés et tissus d\'ameublement évoluent dans un environnement urbain complexe : pollution atmosphérique liée à la circulation dense, particules industrielles de la vallée de Seine, humidité constante du climat continental normand, variations thermiques importantes entre saisons, poussières urbaines des chantiers de rénovation du patrimoine. Chez <strong>ProClean</strong>, nous maîtrisons parfaitement ces contraintes environnementales pour adapter nos protocoles de nettoyage et garantir la longévité de vos meubles.',
-        'Notre équipe de techniciens spécialisés intervient dans tous les secteurs de la métropole rouennaise : appartements du centre historique classé UNESCO, lofts des anciens quartiers industriels rénovés, maisons des quartiers résidentiels de Mont-Saint-Aignan et Bonsecours, logements étudiants des campus universitaires, résidences modernes de Barentin et Saint-Étienne-du-Rouvray. Chaque intervention est personnalisée selon l\'environnement architectural, les contraintes d\'accès et le style de vie des habitants.',
+        'Votre canapé a pris un coup ? Tache de vin, pipi du chat, auréoles après des années d\'utilisation — on voit ça tous les jours. Chez <strong>ProClean</strong>, notre machine injecte un mélange eau + détergent professionnel dans le tissu, puis aspire tout : saleté, acariens, bactéries. Le résultat est visible immédiatement, et votre canapé retrouve son aspect d\'origine.',
+        'On intervient directement chez vous, partout à Rouen et alentour. Appartement en centre-ville, maison à Mont-Saint-Aignan, studio étudiant ou résidence à Sotteville — peu importe. On arrive avec tout le matériel, on protège votre sol, et en 1 à 2 heures c\'est terminé. Pas besoin de déplacer votre canapé, on s\'occupe de tout sur place.',
       ],
     },
     {
@@ -1873,24 +1873,24 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Une Connaissance Approfondie de l\'Environnement Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Implantés à Rouen depuis notre création, nous connaissons parfaitement les défis que représente l\'environnement urbain normand pour vos <strong>tissus d\'ameublement</strong>. La pollution automobile des axes saturés (A13, rocades) qui encrasse les fibres, les particules industrielles qui s\'incrustent dans les textiles, l\'humidité de la vallée de Seine qui favorise moisissures et acariens, les poussières fines urbaines qui ternissent les couleurs : autant de facteurs que nous intégrons dans nos protocoles de nettoyage spécialisés.',
-        'Nos interventions dans les différents quartiers rouennais nous ont permis de développer une expertise unique. Dans les appartements du centre historique (Vieux-Marché, Saint-Maclou), nous adaptons nos méthodes aux contraintes patrimoniales et d\'accessibilité. Pour les lofts des anciens quartiers industriels transformés, nous traitons les problématiques de volumes importants et de mobilier design. Dans les quartiers résidentiels (Rive Droite, Mont-Saint-Aignan), nous optimisons nos interventions selon les types de logement et les habitudes familiales. Pour obtenir une estimation, il suffit de <a href="/devis-gratuit-rouen">demander un devis gratuit</a>.',
+        'Un canapé, ça absorbe tout : la transpiration, les miettes, les poils de chien, la poussière. Au bout de quelques années, même un tissu qui paraît propre en surface est rempli d\'acariens et de bactéries. C\'est invisible à l\'œil nu, mais c\'est là. Notre nettoyage en profondeur par <strong>injection-extraction</strong> va chercher la saleté au cœur des fibres, pas juste en surface.',
+        'On a nettoyé des centaines de canapés : des vieux Chesterfield en cuir craquelé, des canapés Ikea pleins de taches de ketchup, des modèles design en tissu fragile. À chaque fois, on adapte le produit et la technique au type de tissu. Pas de recette toute faite — on regarde, on teste un coin caché, et on y va. Pour obtenir une estimation, il suffit de <a href="/devis-gratuit-rouen">demander un devis gratuit</a>.',
       ],
     },
     {
       heading: 'Des Protocoles de Nettoyage Adaptés aux Spécificités Locales',
       headingLevel: 3,
       paragraphs: [
-        'Chaque secteur de Rouen présente ses propres défis pour vos canapés. Les logements du centre historique nécessitent des interventions respectueuses du patrimoine avec des contraintes d\'accès particulières. Les résidences des quartiers industriels (Petit-Quevilly, Grand-Quevilly) bénéficient de traitements anti-pollution renforcés adaptés aux particules chimiques.',
-        'Les logements étudiants des campus nécessitent des approches spécifiques à l\'usage intensif et aux contraintes budgétaires, tandis que les résidences haut de gamme des communes périphériques requièrent des traitements premium respectueux des tissus de luxe et du mobilier design contemporain. Nous intervenons aussi pour le <a href="/nettoyage-matelas-rouen">nettoyage de matelas</a>, autre textile essentiel de votre confort.',
+        'Canapé en tissu, en microfibre, en velours, en lin, en cuir — chaque matière se nettoie différemment. Un produit trop agressif sur du velours, et c\'est foutu. Un mauvais dosage sur du cuir clair, et ça fait des traces. C\'est pour ça qu\'on fait toujours un test sur une zone cachée avant de traiter l\'ensemble.',
+        'On adapte aussi la méthode selon l\'état du canapé. Un canapé avec une tache fraîche de café, ce n\'est pas le même travail qu\'un canapé grisâtre après 10 ans d\'utilisation quotidienne. Dans tous les cas, on vous explique ce qu\'on va faire et ce que vous pouvez attendre comme résultat. Pas de surprise. On intervient aussi pour le <a href="/nettoyage-matelas-rouen">nettoyage de matelas</a>, autre textile essentiel de votre confort.',
       ],
     },
     {
       heading: 'Une Équipe de Techniciens Experts Formés',
       headingLevel: 3,
       paragraphs: [
-        'Nos techniciens ProClean sont spécialement formés aux techniques de pointe du nettoyage textile et aux spécificités des différents types de fibres et matériaux. Certifiés manipulation de produits professionnels et formés aux innovations technologiques du secteur, ils maîtrisent parfaitement les protocoles d\'<strong>injection-extraction</strong>, les traitements par type de tissu et les techniques de restauration textile avancées.',
-        'Chaque membre de notre équipe rouennaise possède une expertise approfondie des différents types de canapés : tissus traditionnels (coton, lin, laine, velours), fibres modernes (microfibre, polyester, acrylique), matériaux techniques (tissus anti-taches, textiles haute performance), cuirs et similicuirs, mobilier design et contemporain. Cette connaissance technique nous permet d\'adapter précisément nos interventions pour optimiser les résultats sans risquer d\'endommager vos précieux meubles. Notre savoir-faire textile couvre aussi le <a href="/nettoyage-tapis-rouen">nettoyage de tapis à Rouen</a>.',
+        'Nos techniciens font ça toute la journée, tous les jours. Ils savent reconnaître un tissu fragile au toucher, choisir le bon produit pour chaque type de tache, et doser la pression de la machine pour ne pas abîmer les fibres. Ce n\'est pas de la théorie — c\'est de la pratique, canapé après canapé.',
+        'Coton, lin, velours, microfibre, cuir, similicuir, tissu anti-taches — on connaît chaque matière et ses réactions aux produits. Un canapé en lin ne se traite pas comme un canapé en polyester. Et un cuir clair demande une attention particulière qu\'un cuir foncé ne demande pas. C\'est ce genre de détail qui fait la différence entre un nettoyage raté et un résultat impeccable. On s\'occupe aussi du <a href="/nettoyage-tapis-rouen">nettoyage de tapis à Rouen</a>.',
       ],
     },
     {
@@ -1903,8 +1903,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Canapés Design et Contemporains',
       headingLevel: 3,
       paragraphs: [
-        'Les canapés design et contemporains nécessitent une expertise particulière respectueuse des matériaux innovants et des formes architecturales modernes.',
-        'Nos prestations mobilier design :',
+        'Canapé design avec un tissu fragile ou un revêtement technique ? On teste toujours un coin caché avant de traiter l\'ensemble. Pas question d\'abîmer un meuble à 3000 euros.',
+        'Ce qu\'on fait sur du mobilier design :',
       ],
       listItems: [
         'Analyse préalable des matériaux et techniques de construction spécifiques',
@@ -1922,8 +1922,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Canapés Anciens et de Collection',
       headingLevel: 3,
       paragraphs: [
-        'Les canapés anciens et de collection demandent une approche conservatoire respectueuse du patrimoine mobilier.',
-        'Protocoles patrimoniaux spécialisés :',
+        'Vieux canapé de famille, fauteuil Voltaire hérité de mamie, bergère en tapisserie d\'époque — on sait que ça a de la valeur (sentimentale ou financière). On y va doucement, avec des produits adaptés aux fibres anciennes.',
+        'Notre approche pour le mobilier ancien :',
       ],
       listItems: [
         'Évaluation experte de l\'état et de la valeur patrimoniale du mobilier',
@@ -1941,8 +1941,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Canapés Professionnels et Bureaux',
       headingLevel: 3,
       paragraphs: [
-        'Les canapés de bureaux et espaces professionnels subissent un usage intensif nécessitant des protocoles de <strong>nettoyage de canapé</strong> renforcés.',
-        'Prestations professionnelles :',
+        'Les canapés de salle d\'attente ou d\'espace détente au bureau, ça prend cher. Des dizaines de personnes s\'assoient dessus chaque jour. Le <strong>nettoyage de canapé</strong> pro remet tout ça au propre.',
+        'Ce qu\'on propose aux entreprises :',
       ],
       listItems: [
         'Nettoyage à usage intensif résistant au passage quotidien',
@@ -1960,8 +1960,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Canapés Hôtellerie et Restauration',
       headingLevel: 3,
       paragraphs: [
-        'Les établissements hôteliers et de restauration nécessitent des standards d\'hygiène élevés et une image irréprochable.',
-        'Standards hôtellerie :',
+        'Hôtel, restaurant, bar — vos clients s\'assoient sur vos canapés et banquettes toute la journée. Une tache visible, c\'est une mauvaise impression. On remet tout ça au propre, souvent de nuit pour ne pas gêner votre activité.',
+        'Ce qu\'on fait pour l\'hôtellerie-restauration :',
       ],
       listItems: [
         'Protocoles d\'hygiène conformes aux normes hôtelières',
@@ -1985,25 +1985,25 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Système d\'Injection-Extraction Haute Performance',
       headingLevel: 3,
       paragraphs: [
-        'Notre technologie d\'injection-extraction utilise des équipements de dernière génération adaptés aux exigences urbaines rouennaises.',
-        'Processus technique optimisé :',
-        '1. Pré-diagnostic complet du mobilier et identification des problématiques',
-        '2. Aspiration haute puissance éliminant poussières urbaines et particules fines',
-        '3. Pré-traitement ciblé selon nature des taches et type de tissu',
-        '4. Injection contrôlée de solutions nettoyantes à température optimale',
-        '5. Action mécanique douce respectueuse des fibres et structures',
-        '6. Extraction immédiate des salissures et humidité par aspiration puissante',
-        '7. Rinçage complet éliminant tout résidu de produit',
-        '8. Séchage accéléré par ventilation forcée et contrôle hygrométrique',
-        '9. Finitions professionnelles pour aspect et toucher d\'origine',
+        'Concrètement, comment ça marche ? Notre machine envoie un mélange d\'eau chaude et de détergent dans le tissu sous pression, puis aspire tout immédiatement. La saleté, les acariens, les bactéries — tout ressort avec l\'eau sale. Votre canapé est propre en profondeur, pas juste en surface.',
+        'Les étapes du nettoyage :',
+        '1. On inspecte le canapé et on identifie les taches, le type de tissu, les zones usées',
+        '2. Aspiration complète pour enlever poussières, miettes, poils d\'animaux',
+        '3. Pré-traitement des taches tenaces (vin, café, gras, urine) avec un produit adapté',
+        '4. Injection du mélange nettoyant dans le tissu à température contrôlée',
+        '5. Brossage doux pour décoller la saleté incrustée sans abîmer les fibres',
+        '6. Extraction immédiate — la machine aspire l\'eau sale avec toute la saleté',
+        '7. Rinçage pour éliminer tout résidu de produit',
+        '8. Séchage accéléré avec ventilation — le canapé est utilisable en quelques heures',
+        '9. Vérification finale — on vous montre le résultat et la différence',
       ],
     },
     {
       heading: 'Traitements Anti-Pollution Urbaine',
       headingLevel: 3,
       paragraphs: [
-        'Les canapés rouennais nécessitent des traitements spécialisés contre les agressions urbaines spécifiques.',
-        'Arsenal anti-pollution :',
+        'Votre canapé est près d\'une fenêtre ouverte sur une rue passante ? Avec le temps, la poussière et la pollution s\'incrustent dans le tissu. On a les produits pour traiter ça en profondeur.',
+        'Ce qu\'on élimine :',
       ],
       listItems: [
         'Décontamination des particules fines et pollutions atmosphériques',
@@ -2026,8 +2026,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Centre Historique UNESCO : Respect Patrimonial',
       headingLevel: 3,
       paragraphs: [
-        'Les logements du centre historique classé nécessitent des protocoles respectueux du patrimoine architectural exceptionnel.',
-        'Traitements patrimoniaux :',
+        'Escalier étroit, pas d\'ascenseur, 4e étage ? On monte avec du matériel portable. Ça arrive souvent dans le centre-ville, on est équipés pour.',
+        'Ce qu\'on gère dans le centre :',
       ],
       listItems: [
         'Interventions respectueuses du cadre historique et architectural',
@@ -2044,8 +2044,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Quartiers Universitaires : Adaptation Jeunesse',
       headingLevel: 3,
       paragraphs: [
-        'Les logements étudiants et résidences universitaires nécessitent des approches spécifiques.',
-        'Protocoles campus universitaires :',
+        'Canapé de coloc qui a survécu à 4 ans de soirées ? On connaît bien le genre. Et on a des tarifs étudiants pour que ça reste abordable.',
+        'Ce qu\'on propose aux étudiants :',
       ],
       listItems: [
         'Tarifs étudiants adaptés aux budgets restreints',
@@ -2062,8 +2062,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Zones Industrielles Rénovées : Défis Contemporains',
       headingLevel: 3,
       paragraphs: [
-        'Les lofts et espaces des anciens quartiers industriels transformés présentent des défis particuliers.',
-        'Approche espaces atypiques :',
+        'Grand loft, espace ouvert, canapé XXL ? Pas de problème, on a le matériel pour traiter les grandes surfaces rapidement.',
+        'Ce qu\'on gère dans les grands espaces :',
       ],
       listItems: [
         'Adaptation aux volumes importants et espaces ouverts',
@@ -2085,8 +2085,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Équipements Technologiques Avancés',
       headingLevel: 3,
       paragraphs: [
-        'Notre parc machine de dernière génération garantit des résultats optimaux dans l\'environnement urbain exigeant.',
-        'Technologies de pointe :',
+        'On n\'arrive pas avec un aspirateur et du Febreze. Notre matériel pro :',
+        'Équipements qu\'on utilise :',
       ],
       listItems: [
         'Machines injection-extraction Kärcher série Puzzi Pro adaptées usage intensif',
@@ -2103,8 +2103,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Gamme Produits Professionnels Écologiques',
       headingLevel: 3,
       paragraphs: [
-        'Tous nos produits respectent l\'environnement urbain et la santé des habitants métropolitains.',
-        'Sélection produits responsables :',
+        'On utilise des produits pro qui nettoient vraiment, mais sans danger pour votre famille ou vos animaux. Pas de produits chimiques agressifs qui laissent une odeur pendant 3 jours.',
+        'Nos produits :',
       ],
       listItems: [
         'Détergents enzymatiques biodégradables à action profonde',
@@ -2127,8 +2127,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage d\'Ensemble Décoratif Complet',
       headingLevel: 3,
       paragraphs: [
-        'Pour une harmonie parfaite de votre intérieur rouennais, nous proposons des services complémentaires.',
-        'Prestations d\'ensemble :',
+        'Tant qu\'on est chez vous, autant en profiter pour nettoyer les autres textiles. Rideaux, coussins, matelas — tout se fait dans la foulée, et ça revient moins cher que de nous faire revenir.',
+        'Autres textiles qu\'on peut traiter en même temps :',
       ],
       listItems: [
         'Nettoyage coordonné de tous les textiles d\'ameublement',
@@ -2144,8 +2144,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Programmes de Maintenance Préventive',
       headingLevel: 3,
       paragraphs: [
-        'Un entretien planifié et régulier optimise la durée de vie et l\'apparence de vos canapés.',
-        'Contrats de maintenance :',
+        'Un nettoyage par an, c\'est l\'idéal pour garder un canapé en bon état. On propose des contrats d\'entretien avec un tarif réduit pour les clients réguliers.',
+        'Ce que ça inclut :',
       ],
       listItems: [
         'Planification annuelle avec interventions programmées',
@@ -2167,8 +2167,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Rouen Centre et Rive Gauche Historique',
       headingLevel: 3,
       paragraphs: [
-        'Nos équipes maîtrisent parfaitement les spécificités du centre historique et ses contraintes particulières.',
-        'Zones d\'intervention patrimoniales :',
+        'On connaît bien le centre-ville et ses escaliers étroits. On s\'adapte.',
+        'Quartiers du centre :',
       ],
       listItems: [
         'Vieux-Marché : appartements historiques et lofts de charme',
@@ -2182,8 +2182,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Rive Droite et Quartiers Modernes',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise s\'étend aux quartiers contemporains et zones de développement urbain.',
-        'Secteurs rive droite :',
+        'On intervient aussi sur la rive droite et les quartiers autour.',
+        'Quartiers rive droite :',
       ],
       listItems: [
         'Saint-Sever : centre commercial et habitat dense moderne',
@@ -2197,8 +2197,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Métropole et Communes Périphériques',
       headingLevel: 3,
       paragraphs: [
-        'Nos services couvrent toute la métropole Rouen Normandie pour un service de proximité complet.',
-        'Communes métropolitaines :',
+        'On se déplace aussi dans les communes autour. Pas de frais de déplacement supplémentaires.',
+        'Communes desservies :',
       ],
       listItems: [
         'Mont-Saint-Aignan : résidences haut de gamme et pavillons de standing',
@@ -2218,7 +2218,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Certifications et Garanties Métropolitaines',
       headingLevel: 3,
       paragraphs: [
-        'ProClean vous assure des garanties adaptées à l\'environnement urbain rouennais :',
+        'On ne part pas tant que vous n\'êtes pas satisfait. Et si un problème apparaît après notre passage, on revient gratuitement :',
       ],
       listItems: [
         'Garantie satisfaction complète avec nouvelle intervention gratuite si besoin',
@@ -2233,7 +2233,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Service Client Métropolitain',
       headingLevel: 3,
       paragraphs: [
-        'Notre approche client s\'adapte aux spécificités urbaines :',
+        'Besoin d\'un devis rapide ? Envoyez-nous une photo par WhatsApp et on vous répond sous 2 heures :',
       ],
       listItems: [
         'Devis instantané par photos WhatsApp ou email sous 2h',
@@ -2254,42 +2254,42 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '1. Comment ProClean adapte-t-il ses techniques aux contraintes du centre historique de Rouen ?',
       headingLevel: 3,
       paragraphs: [
-        'Dans le centre historique classé UNESCO, nos interventions respectent scrupuleusement les contraintes patrimoniales et d\'accessibilité. Nous utilisons du matériel compact adapté aux rues étroites et escaliers anciens, nos techniques sont silencieuses pour respecter la tranquillité des lieux historiques, et nos produits écologiques préservent l\'environnement patrimonial. Nos équipes coordonnent leurs interventions avec les syndics de monuments historiques et respectent les réglementations spécifiques. Les contraintes d\'accès (absence d\'ascenseur, escaliers en colimaçon) sont anticipées avec du matériel mobile léger et des techniques adaptées aux espaces restreints.',
+        'Escalier étroit, pas d\'ascenseur, 4e étage sans place pour se garer ? On gère. On a du matériel portable qu\'on peut monter partout. On se gare où on peut et on monte à pied, ça fait partie du métier. Les escaliers en colimaçon, les paliers minuscules — on a l\'habitude. On protège aussi vos murs et sols en passant, pas de traces de passage.',
       ],
     },
     {
       heading: '2. Quels protocoles spécialisés ProClean applique-t-il pour les canapés exposés à la pollution urbaine rouennaise ?',
       headingLevel: 3,
       paragraphs: [
-        'L\'environnement urbain rouennais, avec sa circulation dense et son activité industrielle, nécessite des traitements anti-pollution spécialisés. Nous appliquons une décontamination préventive contre les particules fines automobiles, un nettoyage renforcé des résidus industriels de la vallée de Seine, et des traitements de restauration des couleurs ternies par la pollution urbaine. Nos produits neutralisent spécifiquement les odeurs d\'hydrocarbures et les résidus chimiques. Les fréquences d\'entretien sont adaptées selon l\'exposition : plus fréquentes pour les logements donnant sur les grands axes (A13, rocades) et près des zones industrielles (Petit-Quevilly, Grand-Quevilly).',
+        'Si votre canapé est près d\'une fenêtre que vous ouvrez souvent, il absorbe la poussière de la rue au fil des mois. On voit souvent des tissus grisâtres côté fenêtre et plus clairs côté mur — c\'est la pollution. Notre nettoyage en profondeur retire ces particules incrustées et redonne au tissu sa couleur d\'origine. Pour les appartements en rez-de-chaussée sur rue passante, on recommande un nettoyage tous les 6 à 8 mois plutôt qu\'une fois par an.',
       ],
     },
     {
       heading: '3. ProClean propose-t-il des tarifs adaptés aux étudiants des campus rouennais ?',
       headingLevel: 3,
       paragraphs: [
-        'Absolument ! Connaissant les contraintes budgétaires étudiantes, nous avons développé des formules spéciales campus avec des tarifs préférentiels, des interventions groupées pour optimiser les coûts, et des facilités de paiement adaptées. Nous travaillons en partenariat avec les résidences universitaires pour des interventions programmées pendant les vacances scolaires. Les interventions peuvent être regroupées par étage ou bâtiment pour réduire les coûts individuels. Nous proposons aussi des conseils d\'entretien économiques et des produits grand public efficaces pour l\'entretien courant entre nos passages professionnels.',
+        'Oui, on a des tarifs étudiants. Et si vous êtes plusieurs dans la même résidence ou coloc, on regroupe les interventions pour baisser le prix par personne. Concrètement, si 3 colocataires font nettoyer leur canapé en même temps, chacun paie moins cher que tout seul. On peut aussi intervenir pendant les vacances si c\'est plus pratique. Envoyez-nous une photo du canapé par WhatsApp et on vous fait un devis dans la journée.',
       ],
     },
     {
       heading: '4. Comment se déroule le nettoyage de canapés dans les lofts des anciens quartiers industriels ?',
       headingLevel: 3,
       paragraphs: [
-        'Les lofts des anciens quartiers industriels présentent des défis spécifiques que nous maîtrisons parfaitement. Nous adaptons nos techniques aux grands volumes et à l\'acoustique particulière de ces espaces, utilisons des équipements puissants pour traiter efficacement les grandes surfaces, et appliquons des protocoles spécialisés pour éliminer les éventuels résidus industriels historiques. Nos interventions respectent l\'esthétique industrielle contemporaine et coordonnent avec les autres corps de métier souvent présents dans ces espaces en rénovation. Les matériaux bruts (béton, métal, verre) sont protégés pendant nos interventions et nous adaptons nos méthodes de séchage aux volumes importants.',
+        'Grand canapé d\'angle dans un loft ouvert ? Pas de souci. On a des machines assez puissantes pour traiter les grandes surfaces rapidement. On protège le béton ou le parquet autour, et on fait attention au mobilier design. Le séchage est un peu plus long dans les grands volumes, mais avec nos ventilateurs, ça reste raisonnable. Si vous avez des travaux en cours à côté, on se coordonne avec les autres artisans pour ne pas se gêner mutuellement.',
       ],
     },
     {
       heading: '5. ProClean peut-il intervenir en urgence pour des taches fraîches ou des incidents ?',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'urgence est opérationnel 24h/7j pour la métropole rouennaise. En cas d\'incident (renversement de liquide, tache importante), nous intervenons dans les 4 heures avec des protocoles d\'urgence adaptés pour éviter l\'incrustation définitive. Nous stockons en permanence les produits de <strong>détachage professionnel</strong> d\'urgence sur nos véhicules d\'intervention. Les tarifs d\'urgence restent raisonnables et nous privilégions toujours la sauvegarde de votre mobilier. Une ligne téléphonique dédiée permet un diagnostic rapide par téléphone avec conseils immédiats en attendant notre arrivée si nécessaire.',
+        'Oui. Votre gamin a renversé du vin rouge sur le canapé beige ? Le chat a vomi ? Plus vous attendez, plus la tache s\'incruste. Appelez-nous, on essaie d\'intervenir dans les 4 heures. En attendant, on vous donne des conseils par téléphone : éponger sans frotter, ne pas mettre de produit maison qui risque de fixer la tache. On a toujours du matériel de <strong>détachage professionnel</strong> d\'urgence dans nos véhicules. Les tarifs urgence sont un peu plus élevés mais restent raisonnables — on ne profite pas de la situation.',
       ],
     },
     {
       heading: '6. Quelles sont les spécificités du nettoyage de canapés en cuir dans l\'environnement urbain rouennais ?',
       headingLevel: 3,
       paragraphs: [
-        'Le cuir en environnement urbain subit des agressions spécifiques nécessitant des protocoles adaptés. Nous appliquons des traitements anti-pollution pour neutraliser les particules urbaines incrustées, utilisons des produits de nourrissage renforcés contre le dessèchement dû au chauffage urbain, et appliquons des protections UV contre la décoloration par les grandes baies vitrées modernes. L\'humidité urbaine de la vallée de Seine nécessite des traitements antifongiques préventifs. Nous adaptons notre choix de produits selon l\'exposition (rue passante, cour intérieure, étage élevé) et proposons des entretiens plus fréquents pour les cuirs clairs particulièrement sensibles à la pollution urbaine.',
+        'Le cuir, c\'est un cas à part. On ne met pas les mêmes produits que sur du tissu. D\'abord on nettoie en douceur avec un savon spécial cuir, puis on nourrit avec une crème qui empêche le cuir de se craqueler. Si votre canapé en cuir est près d\'un radiateur ou d\'une baie vitrée, il se dessèche plus vite — on applique une protection supplémentaire. Le cuir clair (blanc, beige) se salit beaucoup plus vite que le foncé : taches de jeans, traces de mains, marques de sueur. On traite tout ça. Pour un cuir clair, on recommande un entretien tous les 6 mois.',
       ],
     },
   ],
@@ -2299,8 +2299,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'L\'Expertise ProClean pour Vos Tapis à Rouen',
       headingLevel: 2,
       paragraphs: [
-        'Au cœur de la métropole normande, vos tapis évoluent dans un environnement urbain complexe : pollution atmosphérique liée à la circulation dense sur l\'A13 et les rocades, particules industrielles de la vallée de Seine, humidité constante du climat continental normand, poussières urbaines des chantiers de rénovation du patrimoine historique, variations thermiques importantes entre saisons. Chez ProClean, nous maîtrisons parfaitement ces contraintes environnementales pour adapter nos protocoles de <strong>nettoyage de tapis à Rouen</strong> et garantir la longévité de vos précieux tapis.',
-        'Notre équipe de techniciens spécialisés intervient dans tous les secteurs de la métropole rouennaise : appartements du centre historique classé UNESCO, lofts des anciens quartiers industriels rénovés, maisons des quartiers résidentiels de Mont-Saint-Aignan et Bonsecours, logements étudiants des campus universitaires, résidences contemporaines de Barentin et Saint-Étienne-du-Rouvray. Chaque intervention est personnalisée selon l\'environnement architectural, les contraintes patrimoniales et le mode de vie des habitants.',
+        'Votre tapis a changé de couleur depuis l\'achat ? Normal — poussière, miettes, poils de chien, ça s\'accumule dans les fibres semaine après semaine. Un aspirateur retire le superficiel. Nous, on va chercher ce qui est incrusté au fond. Notre machine injecte un mélange eau + détergent pro directement dans le tapis, puis aspire tout d\'un coup : saleté, acariens, bactéries. Résultat visible immédiatement. C\'est ça, le vrai <strong>nettoyage de tapis à Rouen</strong> en profondeur.',
+        'On intervient chez vous, directement au sol — pas besoin de transporter votre tapis quelque part. Appartement, maison, bureau : on arrive avec tout le matériel nécessaire. On protège le parquet ou le carrelage en dessous, on traite le tapis, et en général c\'est bouclé en 1 à 2 heures selon la taille. Séchage complet entre 4 et 8 heures selon l\'épaisseur des fibres.',
       ],
     },
     {
@@ -2313,24 +2313,24 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Une Connaissance Approfondie de l\'Environnement Urbain Rouennais',
       headingLevel: 3,
       paragraphs: [
-        'Implantés à Rouen depuis notre création, nous connaissons parfaitement les défis que représente l\'environnement urbain normand pour vos tapis. La pollution automobile des axes saturés qui encrasse les fibres textiles, les particules industrielles qui s\'incrustent et ternissent les couleurs, l\'humidité de la vallée de Seine qui favorise moisissures et acariens, les poussières fines urbaines qui s\'accumulent quotidiennement : autant de facteurs que nous intégrons dans nos protocoles de nettoyage spécialisés.',
-        'Nos interventions dans les différents quartiers rouennais nous ont permis de développer une expertise unique. Dans les appartements du centre historique (Vieux-Marché, Saint-Maclou, Cathédrale), nous respectons les contraintes patrimoniales tout en garantissant l\'efficacité. Pour les lofts des anciens quartiers industriels transformés, nous traitons les problématiques de volumes importants et de mobilier contemporain. Dans les quartiers résidentiels (Rive Droite, Mont-Saint-Aignan), nous optimisons nos interventions selon les types de logement et les habitudes familiales. Pour planifier votre entretien, vous pouvez <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>.',
+        'Un tapis dans un couloir d\'entrée, ça prend tout : chaussures boueuses, pattes du chien, poussière du dehors. Un tapis de salon sous la table basse, c\'est les miettes, les éclaboussures de café, les jouets des enfants traînés dessus. Chaque pièce a ses salissures. On adapte notre traitement en fonction : pré-détachage ciblé sur les zones de passage, extraction renforcée pour les fibres très encrassées, produits doux pour les tapis fragiles.',
+        'On a nettoyé des tapis dans tous les types de logements : petits studios où le tapis prend toute la pièce, grandes maisons avec un tapis par chambre, bureaux avec des dalles textiles partout. Peu importe la configuration, on s\'adapte. Pour planifier votre entretien, vous pouvez <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>.',
       ],
     },
     {
       heading: 'Des Protocoles de Nettoyage Adaptés aux Spécificités Urbaines',
       headingLevel: 3,
       paragraphs: [
-        'Chaque secteur de Rouen présente ses propres défis pour vos tapis. Les logements du centre historique nécessitent des interventions respectueuses du patrimoine avec des contraintes d\'accès particulières. Les résidences des quartiers industriels (Petit-Quevilly, Grand-Quevilly) bénéficient de traitements anti-pollution renforcés adaptés aux particules chimiques et industrielles.',
-        'Les logements étudiants des campus nécessitent des approches économiques adaptées à l\'usage intensif et aux contraintes budgétaires, tandis que les résidences haut de gamme des communes périphériques requièrent des traitements premium respectueux des tapis de collection et des revêtements de luxe contemporains.',
+        'Un tapis dans une entrée d\'appartement en centre-ville, ça s\'encrasse deux fois plus vite qu\'un tapis de chambre. Les fibres captent tout ce qui passe : semelles, poussière, pollens au printemps. On dose notre intervention en fonction de l\'usure réelle, pas d\'un protocole générique.',
+        'Pour les tapis de qualité type laine épaisse ou soie, on utilise des produits plus doux et une pression d\'injection réduite. Pour les tapis synthétiques du quotidien, on peut y aller plus franchement — les fibres encaissent bien. L\'important, c\'est de ne jamais appliquer le même traitement partout sans réfléchir.',
       ],
     },
     {
       heading: 'Une Équipe de Techniciens Experts Urbains',
       headingLevel: 3,
       paragraphs: [
-        'Nos techniciens ProClean sont spécialement formés aux techniques avancées de <strong>nettoyage en profondeur</strong> et aux spécificités de l\'environnement urbain dense. Certifiés manipulation de produits professionnels et formés aux innovations technologiques du secteur, ils maîtrisent parfaitement les protocoles d\'injection-extraction, les traitements anti-pollution, les techniques de restauration des couleurs et les méthodes de conservation des tapis anciens patrimoniaux.',
-        'Chaque membre de notre équipe rouennaise possède une expertise approfondie des différents types de tapis : tapis d\'Orient et persans patrimoniaux, tapis contemporains et design, tapis en <strong>fibres naturelles</strong> et synthétiques, tapis anciens et de collection, revêtements techniques modernes. Cette connaissance technique nous permet d\'adapter précisément nos interventions pour optimiser les résultats dans le respect de vos précieux investissements textiles.',
+        'Nos techniciens font du <strong>nettoyage en profondeur</strong> de tapis au quotidien. Ils savent reconnaître un tapis noué main d\'un tapis mécanique, ajuster la température de l\'eau selon la fibre, et repérer une tache ancienne qui nécessite un pré-traitement spécifique. Ce n\'est pas de la théorie — c\'est de l\'expérience terrain, tapis après tapis.',
+        'Tapis d\'Orient noué main, tapis berbère en laine, tapis shaggy à poils longs, tapis en <strong>fibres naturelles</strong> (jute, sisal, coco), tapis synthétiques modernes — chaque matière réagit différemment au nettoyage. Un mauvais produit sur un tapis en soie, et les couleurs déteignent. On teste toujours sur un coin caché avant de traiter l\'ensemble.',
       ],
     },
     {
@@ -2343,8 +2343,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Tapis Patrimoniaux et de Collection',
       headingLevel: 3,
       paragraphs: [
-        'Les tapis anciens et patrimoniaux nécessitent une approche conservatoire respectueuse de l\'histoire textile et des techniques traditionnelles.',
-        'Nos prestations patrimoniales :',
+        'Tapis persan de famille ? Kilim rapporté de voyage ? On sait que ça vaut cher et que ça se remplace pas. Test sur un coin, produits doux, séchage à plat. Zéro risque.',
+        'Ce qu\'on fait pour vos pièces de valeur :',
       ],
       listItems: [
         'Expertise historique du tissage, origine géographique et époque de fabrication',
@@ -2362,7 +2362,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Tapis Design et Contemporains',
       headingLevel: 3,
       paragraphs: [
-        'Les tapis modernes et design nécessitent une expertise spécialisée respectueuse des matériaux innovants et des créations contemporaines.',
+        'Vous avez investi dans un beau tapis design et maintenant il y a une tache de vin en plein milieu ? Pas de panique. On connaît les fibres modernes et on sait comment les traiter sans abîmer les couleurs ni les motifs.',
         'Prestations design contemporain :',
       ],
       listItems: [
@@ -2381,8 +2381,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Tapis Familiaux Usage Intensif',
       headingLevel: 3,
       paragraphs: [
-        'Les tapis familiaux subissent un usage quotidien intensif nécessitant des protocoles renforcés et durables. Pour vos sols textiles, découvrez aussi notre <a href="/nettoyage-moquette-rouen">nettoyage de moquette</a>.',
-        'Protocoles familiaux urbains :',
+        'Les enfants mangent dessus, le chien s\'y couche, tout le monde marche dessus pieds nus ou en chaussures. Après quelques mois, ça se sent et ça se voit. On remet tout ça au propre avec un traitement costaud mais sans produit agressif. Pour vos sols textiles, découvrez aussi notre <a href="/nettoyage-moquette-rouen">nettoyage de moquette</a>.',
+        'Ce qu\'on traite au quotidien dans les foyers :',
       ],
       listItems: [
         'Traitement des taches multiples et variées du quotidien familial urbain',
@@ -2400,8 +2400,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Tapis Professionnels et Bureaux',
       headingLevel: 3,
       paragraphs: [
-        'Les tapis de bureaux et espaces professionnels subissent un usage commercial intensif nécessitant des protocoles spécialisés.',
-        'Prestations professionnelles urbaines :',
+        'Un tapis de bureau ou de salle de réunion, c\'est des dizaines de passages par jour. Ça s\'use vite, ça absorbe les odeurs, et ça donne une mauvaise image quand c\'est sale. On intervient le soir ou le week-end pour ne pas gêner votre activité.',
+        'Nos prestations pour les pros :',
       ],
       listItems: [
         'Nettoyage commercial résistant au passage quotidien intensif',
@@ -2425,25 +2425,25 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Système d\'Injection-Extraction Anti-Pollution',
       headingLevel: 3,
       paragraphs: [
-        'Notre technologie d\'injection-extraction est spécialement adaptée aux défis de l\'environnement urbain rouennais.',
-        'Processus urbain spécialisé :',
-        '1. Diagnostic pollution de l\'état d\'encrassement urbain des fibres',
-        '2. Aspiration renforcée contre particules fines et pollution atmosphérique',
-        '3. Pré-traitement anti-pollution selon types de contaminations urbaines',
-        '4. Injection sous pression de solutions décontaminantes spécialisées',
-        '5. Action mécanique respectueuse des fibres fragilisées par la pollution',
-        '6. Extraction puissante des salissures et polluants incrustés',
-        '7. Rinçage décontaminant pour élimination complète des résidus',
-        '8. Séchage accéléré adapté à l\'humidité urbaine ambiante',
-        '9. Contrôle qualité final avec vérification de la décontamination',
+        'Concrètement, comment ça marche ? On vous explique le processus étape par étape, comme ça vous savez exactement ce qu\'on fait chez vous.',
+        'Notre méthode complète :',
+        '1. On examine le tapis : type de fibre, nature des taches, zones les plus sales',
+        '2. Aspiration en profondeur pour retirer poussière, sable et débris secs',
+        '3. Pré-traitement des taches tenaces (vin, café, urine, graisse)',
+        '4. Injection sous pression d\'une solution nettoyante adaptée à la fibre',
+        '5. Brossage mécanique doux pour décoller les salissures incrustées',
+        '6. Extraction puissante : on aspire l\'eau sale, la crasse et les résidus',
+        '7. Rinçage à l\'eau claire pour éliminer toute trace de produit',
+        '8. Séchage accéléré avec ventilation pour limiter le temps d\'attente',
+        '9. Vérification finale : on contrôle chaque zone avant de partir',
       ],
     },
     {
       heading: 'Traitements Anti-Pollution Urbaine Spécialisés',
       headingLevel: 3,
       paragraphs: [
-        'Les tapis rouennais nécessitent des traitements préventifs contre les agressions urbaines quotidiennes.',
-        'Arsenal anti-pollution métropolitain :',
+        'Votre tapis capte tout ce qui flotte dans l\'air : poussière fine, pollens, suie. Avec le temps, les couleurs ternissent et une odeur de renfermé s\'installe. On élimine tout ça en profondeur.',
+        'Nos traitements spécialisés :',
       ],
       listItems: [
         'Décontamination des particules fines et suies automobiles',
@@ -2466,8 +2466,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Centre Historique UNESCO : Respect Patrimonial Absolu',
       headingLevel: 3,
       paragraphs: [
-        'Les logements du centre historique classé nécessitent des protocoles ultra-respectueux du patrimoine architectural exceptionnel.',
-        'Traitements patrimoniaux UNESCO :',
+        'Appartement ancien en centre-ville avec un escalier étroit ? On connaît. Notre matériel est compact, on ne raye pas les murs, et on fait attention aux parquets anciens sous le tapis.',
+        'Ce qu\'on prend en compte dans le centre :',
       ],
       listItems: [
         'Interventions respectueuses du cadre historique et architectural classé',
@@ -2484,8 +2484,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Quartiers Universitaires : Adaptation Campus Urbain',
       headingLevel: 3,
       paragraphs: [
-        'Les logements étudiants et résidences universitaires nécessitent des approches spécifiques à la population estudiantine urbaine.',
-        'Protocoles campus métropolitains :',
+        'Tapis récupéré sur Leboncoin qui a vécu trois colocs avant vous ? On peut lui redonner un coup de jeune sans exploser votre budget.',
+        'Nos solutions pour les étudiants :',
       ],
       listItems: [
         'Tarifs étudiants négociés avec CROUS et résidences privées',
@@ -2502,7 +2502,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Zones Industrielles Rénovées : Défis Loft Contemporains',
       headingLevel: 3,
       paragraphs: [
-        'Les lofts et espaces des anciens quartiers industriels transformés présentent des défis contemporains spécifiques.',
+        'Grand tapis dans un loft avec 3 mètres sous plafond et du béton partout ? Pas de souci — on a le matériel pour traiter les grandes surfaces et on protège vos sols bruts pendant l\'intervention.',
         'Approche lofts industriels :',
       ],
       listItems: [
@@ -2525,8 +2525,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Équipements Technologiques Anti-Pollution',
       headingLevel: 3,
       paragraphs: [
-        'Notre parc machine de dernière génération est spécialement adapté aux défis de l\'environnement urbain rouennais.',
-        'Technologies urbaines avancées :',
+        'On n\'arrive pas avec un aspirateur domestique et un flacon de détachant. Notre matériel pro est conçu pour extraire ce qu\'un nettoyage classique ne peut pas atteindre.',
+        'Ce qu\'on utilise :',
       ],
       listItems: [
         'Machines injection-extraction série urbaine avec filtration anti-pollution',
@@ -2543,8 +2543,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Gamme Produits Anti-Pollution Urbaine',
       headingLevel: 3,
       paragraphs: [
-        'Tous nos produits sont spécialement sélectionnés pour leur efficacité contre les agressions urbaines.',
-        'Sélection anti-pollution urbaine :',
+        'Chaque produit qu\'on utilise est sélectionné pour un usage précis. On ne met pas le même détergent sur un tapis en laine et sur un tapis synthétique — ça paraît évident, mais beaucoup de gens font l\'erreur.',
+        'Notre gamme de produits pro :',
       ],
       listItems: [
         'Détergents décontaminants spécialisés particules fines et suies',
@@ -2567,8 +2567,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage d\'Ensemble Décoratif Métropolitain',
       headingLevel: 3,
       paragraphs: [
-        'Pour une harmonie parfaite de votre intérieur rouennais, nous proposons des services d\'ensemble urbains. Nous réalisons aussi le <a href="/nettoyage-canape-rouen">nettoyage de canapé</a>, pour un intérieur impeccable.',
-        'Prestations coordonnées urbaines :',
+        'Tant qu\'on est chez vous avec le matériel, autant en profiter. On peut traiter vos tapis, vos rideaux, vos coussins — tout en une seule visite. Nous réalisons aussi le <a href="/nettoyage-canape-rouen">nettoyage de canapé</a>, pour un intérieur impeccable.',
+        'Ce qu\'on peut faire en plus :',
       ],
       listItems: [
         'Nettoyage harmonisé de tous les textiles d\'ameublement',
@@ -2584,8 +2584,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Programmes de Maintenance Urbaine Préventive',
       headingLevel: 3,
       paragraphs: [
-        'Un entretien planifié urbain optimise la résistance aux agressions citadines et prolonge la durée de vie de vos tapis.',
-        'Contrats d\'entretien métropolitains :',
+        'Un tapis nettoyé une fois par an garde ses couleurs et dure deux fois plus longtemps. On peut mettre en place un passage régulier pour que ça reste propre sans que vous ayez à y penser.',
+        'Nos formules d\'entretien :',
       ],
       listItems: [
         'Planification urbaine adaptée aux cycles de pollution saisonniers',
@@ -2607,8 +2607,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Rouen Centre et Rive Gauche Historique',
       headingLevel: 3,
       paragraphs: [
-        'Nos équipes maîtrisent parfaitement les spécificités du centre historique et ses contraintes patrimoniales uniques.',
-        'Zones d\'intervention patrimoniales :',
+        'On se déplace partout dans le centre et la rive gauche, même dans les rues étroites où il faut porter le matériel à la main.',
+        'Zones d\'intervention :',
       ],
       listItems: [
         'Vieux-Marché : appartements historiques et lofts de charme',
@@ -2622,8 +2622,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Rive Droite et Quartiers Modernes',
       headingLevel: 3,
       paragraphs: [
-        'Notre expertise s\'étend aux quartiers contemporains et zones de développement urbain récent.',
-        'Secteurs rive droite modernes :',
+        'On couvre aussi tous les quartiers résidentiels de la rive droite — maisons, résidences, pavillons.',
+        'Secteurs rive droite :',
       ],
       listItems: [
         'Saint-Sever : centre commercial et habitat dense contemporain',
@@ -2637,8 +2637,8 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Métropole et Communes Périphériques',
       headingLevel: 3,
       paragraphs: [
-        'Nos services couvrent toute la métropole Rouen Normandie pour un service de proximité métropolitain complet.',
-        'Communes métropolitaines :',
+        'On se déplace partout dans l\'agglomération. Pas de frais de déplacement supplémentaires.',
+        'Communes desservies :',
       ],
       listItems: [
         'Mont-Saint-Aignan : résidences haut de gamme et pavillons de standing',
@@ -2658,7 +2658,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Certifications et Garanties Urbaines',
       headingLevel: 3,
       paragraphs: [
-        'ProClean vous assure des garanties adaptées à l\'environnement urbain rouennais :',
+        'On ne vous demande pas de nous faire confiance les yeux fermés. Voilà ce qu\'on garantit noir sur blanc :',
       ],
       listItems: [
         'Garantie satisfaction complète avec réintervention gratuite si nécessaire',
@@ -2673,7 +2673,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Service Client Métropolitain',
       headingLevel: 3,
       paragraphs: [
-        'Notre approche s\'adapte aux spécificités de la vie urbaine rouennaise :',
+        'On essaie de rendre les choses simples et rapides pour vous :',
       ],
       listItems: [
         'Devis rapide par photos WhatsApp sous 1h pour réactivité urbaine',
@@ -2694,42 +2694,42 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '1. Comment ProClean adapte-t-il ses techniques à la pollution urbaine spécifique de Rouen ?',
       headingLevel: 3,
       paragraphs: [
-        'L\'environnement urbain rouennais, avec sa circulation dense et son activité industrielle de la vallée de Seine, génère des pollutions spécifiques nécessitant des adaptations techniques. Nous appliquons des protocoles de décontamination contre les particules fines automobiles, utilisons des produits neutralisants contre les résidus chimiques industriels, et proposons des traitements de restauration des couleurs ternies par la pollution atmosphérique. Nos équipements incluent des systèmes de filtration anti-pollution et nos produits sont spécialement formulés pour éliminer suies, hydrocarbures et particules industrielles. Les fréquences d\'entretien sont adaptées selon l\'exposition : plus rapprochées pour les logements donnant sur les grands axes.',
+        'C\'est surtout une question de diagnostic. Quand on arrive chez vous, on regarde d\'abord d\'où vient la saleté : poussière de rue qui rentre par les fenêtres, traces de chaussures dans l\'entrée, suie sur un tapis près d\'une route passante. En fonction de ça, on adapte le produit et l\'intensité du traitement. Un tapis d\'entrée face à un boulevard n\'a pas les mêmes besoins qu\'un tapis de chambre au 4e étage. Pour les logements exposés à beaucoup de passage ou de poussière, on recommande un nettoyage tous les 6 mois plutôt qu\'une fois par an.',
       ],
     },
     {
       heading: '2. Quels protocoles spécialisés ProClean applique-t-il dans le centre historique classé UNESCO ?',
       headingLevel: 3,
       paragraphs: [
-        'Dans le centre historique de Rouen, nos interventions respectent scrupuleusement les contraintes patrimoniales et réglementaires. Nous utilisons du matériel compact et silencieux adapté aux rues étroites médiévales, nos produits écologiques préservent l\'environnement historique, et nos horaires respectent les flux touristiques et la tranquillité patrimoniale. Nos équipes coordonnent avec les Architectes des Bâtiments de France et respectent les réglementations spécifiques aux monuments historiques. Pour les tapis anciens patrimoniaux, nous appliquons des techniques conservatoires avec documentation photographique et conseils de préservation adaptés au patrimoine textile.',
+        'Le centre historique, c\'est surtout des contraintes d\'accès : escaliers étroits, pas d\'ascenseur, stationnement compliqué. On vient avec du matériel compact qu\'on peut monter à la main. Pour les tapis anciens qu\'on trouve souvent dans ces appartements, on fait un test de solidité des couleurs avant tout traitement. On utilise des produits doux et on sèche à plat pour éviter toute déformation. Rien de sorcier, juste de l\'attention et du bon sens appliqué à des pièces qui méritent qu\'on prenne le temps.',
       ],
     },
     {
       heading: '3. ProClean propose-t-il des solutions adaptées aux budgets étudiants des campus rouennais ?',
       headingLevel: 3,
       paragraphs: [
-        'Absolument ! Connaissant les contraintes budgétaires estudiantines, nous avons développé des formules campus avec tarifs préférentiels négociés, interventions groupées par résidence pour optimiser les coûts, et facilités de paiement adaptées aux revenus étudiants. Nous travaillons en partenariat avec le CROUS et les résidences privées pour des interventions programmées pendant les vacances universitaires. Les techniques sont adaptées pour redonner vie aux tapis d\'occasion typiques des logements étudiants. Nous proposons aussi des conseils d\'entretien économiques et des produits grand public efficaces pour l\'entretien courant entre nos passages professionnels.',
+        'Oui. Un tapis de chambre étudiante, c\'est souvent petit et pas très épais — du coup ça se nettoie vite et ça coûte moins cher. On propose des tarifs adaptés, surtout quand plusieurs voisins de résidence regroupent leurs demandes. On intervient souvent pendant les vacances pour la remise en état des logements. Et entre deux passages pro, un bon aspirateur une fois par semaine + un détachant basique sur les taches fraîches, ça suffit à maintenir un tapis correct.',
       ],
     },
     {
       heading: '4. Comment se déroule le nettoyage de tapis dans les lofts des anciens quartiers industriels ?',
       headingLevel: 3,
       paragraphs: [
-        'Les lofts des anciens quartiers industriels rouennais présentent des défis spécifiques que nous maîtrisons parfaitement. Nous adaptons nos techniques aux grands volumes et à l\'acoustique particulière de ces espaces décloisonnés, utilisons des équipements puissants pour traiter efficacement les grandes surfaces, et appliquons des protocoles pour éliminer les éventuels résidus industriels historiques. Nos interventions respectent l\'esthétique industrielle contemporaine et se coordonnent avec les autres corps de métier souvent présents. Les matériaux bruts (béton, métal, verre) sont protégés pendant nos interventions et nous adaptons nos méthodes de séchage aux volumes importants et à la réverbération acoustique.',
+        'Un loft, c\'est souvent un grand tapis au milieu d\'un espace ouvert — plus facile d\'accès qu\'un appartement classique, en fait. La seule particularité, c\'est la taille : un tapis de 15m2, ça prend plus de temps et plus de produit. On protège le béton ou le sol autour, on traite la surface complète, et on installe une ventilation pour accélérer le séchage dans ces grands volumes. Si vous avez un tapis design posé sur du béton ciré, on fait attention à ne pas mouiller les bords pour éviter les traces sur le sol.',
       ],
     },
     {
       heading: '5. ProClean peut-il intervenir rapidement en cas de tache importante ou d\'incident ?',
       headingLevel: 3,
       paragraphs: [
-        'Notre service d\'urgence couvre toute la métropole rouennaise 24h/7j. En cas d\'incident majeur (renversement important, dégât des eaux sur tapis), nous intervenons dans les 3 heures avec des protocoles d\'urgence adaptés pour éviter les dommages irréversibles. Nous stockons en permanence les produits d\'urgence nécessaires sur nos véhicules d\'intervention métropolitains. Les tarifs d\'urgence restent raisonnables et nous privilégions toujours la sauvegarde de votre tapis. Une ligne téléphonique dédiée permet un diagnostic rapide avec conseils immédiats par téléphone en attendant notre arrivée sur site.',
+        'Oui, on peut intervenir en urgence. Vin rouge renversé sur un tapis clair, dégât des eaux, pipi du chat — plus on agit vite, plus on a de chances de tout récupérer. Appelez-nous directement, on vous donne des conseils immédiats par téléphone (ne frottez surtout pas, épongez !), et on essaie de passer dans les heures qui suivent. En attendant notre arrivée, tamponnez la tache avec un chiffon blanc propre et de l\'eau froide — jamais d\'eau chaude, ça fixe la plupart des taches.',
       ],
     },
     {
       heading: '6. Quelles sont les spécificités du nettoyage de tapis d\'Orient dans l\'environnement urbain rouennais ?',
       headingLevel: 3,
       paragraphs: [
-        'Les tapis d\'Orient en environnement urbain subissent des agressions spécifiques nécessitant une expertise patrimoniale adaptée. Nous appliquons des techniques conservatoires respectueuses des fibres anciennes et des teintures naturelles, utilisons des produits compatibles avec les colorants végétaux traditionnels, et proposons des traitements anti-pollution préservant l\'authenticité. L\'humidité urbaine de la vallée de Seine et la pollution atmosphérique nécessitent des adaptations : séchage contrôlé contre moisissures, décontamination douce des particules, restauration des couleurs ternies. Nous proposons des conseils de conservation spécialisés et des entretiens préventifs adaptés à la valeur patrimoniale de ces pièces d\'exception.',
+        'Un tapis d\'Orient noué main, c\'est des mois de travail artisanal et des teintures naturelles qui peuvent réagir mal à un produit chimique. On commence toujours par un test de solidité des couleurs sur l\'envers. On utilise des produits au pH neutre, compatibles avec les teintures végétales. Le séchage se fait à plat, jamais suspendu (ça déforme les fibres). Pour l\'entretien courant entre nos passages, retournez votre tapis de temps en temps pour que l\'usure soit uniforme, et aspirez régulièrement dans le sens des fibres — jamais à rebrousse-poil.',
       ],
     },
   ],
@@ -2739,101 +2739,101 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Professionnel de Moquette à Rouen 76 | ProClean - Spécialiste Injection-Extraction Normandie',
       headingLevel: 3,
       paragraphs: [
-        'Réveillez l\'éclat de vos moquettes avec ProClean Rouen, leader du nettoyage textile professionnel en Seine-Maritime. Nos experts en <strong>nettoyage de moquette à Rouen</strong> transforment vos revêtements textiles encrassés en surfaces impeccables grâce à notre technique d\'injection-extraction de pointe. Intervention rapide dans toute la métropole rouennaise pour particuliers, entreprises et collectivités.',
+        'Votre moquette de bureau est grise alors qu\'elle était bleue à l\'achat ? 200 passages par jour, semelles mouillées, café renversé — en 6 mois, les fibres sont saturées de crasse. L\'aspirateur n\'y fait plus rien. Notre équipe de <strong>nettoyage de moquette à Rouen</strong> intervient avec la technique d\'injection-extraction pour sortir toute la saleté incrustée en profondeur. Résultat visible immédiatement.',
       ],
     },
     {
       heading: '🏛️ ProClean Rouen : Excellence et Tradition Normande du Nettoyage Textile',
       headingLevel: 3,
       paragraphs: [
-        'Implanté au cœur de la métropole rouennaise depuis plus de 12 ans, <strong>ProClean</strong> s\'est imposé comme la référence incontournable du nettoyage professionnel de moquettes en Seine-Maritime. Notre expertise reconnue couvre l\'ensemble des quartiers historiques et modernes de Rouen : du Vieux-Marché aux Quartiers Sud, de la Rive Gauche au Plateau Nord.',
-        'Notre philosophie repose sur l\'alliance parfaite entre savoir-faire artisanal normand et technologies de pointe pour offrir à nos clients rouennais des prestations d\'exception. Chaque intervention est menée avec la rigueur et l\'attention au détail qui caractérisent l\'excellence normande, adaptée aux spécificités architecturales et climatiques de notre belle région. Notre expertise textile couvre également le <a href="/nettoyage-tapis-rouen">nettoyage de tapis à Rouen</a>.',
-        'Spécialisation unique : nous maîtrisons parfaitement les défis posés par les bâtiments historiques rouennais (maisons à colombages, immeubles haussmanniens, constructions contemporaines) où les moquettes nécessitent des techniques respectueuses du patrimoine tout en garantissant une efficacité optimale.',
+        '<strong>ProClean</strong> nettoie des moquettes depuis plus de 12 ans — bureaux, commerces, hôtels, appartements. On a vu des moquettes tellement encrassées qu\'on ne devinait plus la couleur d\'origine. Et on les a toutes remises en état. On intervient chez les particuliers comme chez les professionnels.',
+        'On ne se contente pas de passer un coup d\'aspirateur amélioré. Notre technique d\'injection-extraction va chercher la saleté au cœur des fibres — là où votre aspirateur de bureau ne peut pas aller. C\'est la même rigueur qu\'on applique à notre <a href="/nettoyage-tapis-rouen">nettoyage de tapis à Rouen</a>.',
+        'On intervient partout : open spaces modernes, cabinets médicaux, restaurants, appartements. Chaque type de moquette (laine, synthétique, bouclée, velours) a ses spécificités — on adapte notre traitement pour un résultat optimal sans risque pour les fibres.',
       ],
     },
     {
       heading: '🔬 Méthode d\'Injection-Extraction ProClean : La Science au Service de Vos Textiles',
       headingLevel: 3,
       paragraphs: [
-        'L\'<strong>injection-extraction</strong> représente l\'excellence technique mondiale en matière de nettoyage professionnel de moquettes. Cette méthode avancée, maîtrisée à la perfection par nos équipes rouennaises, garantit des résultats impossibles à obtenir avec les techniques traditionnelles.',
-        'Phase Préparatoire : Diagnostic Expert Nos techniciens certifiés débutent chaque intervention par une analyse minutieuse de votre installation textile. Identification précise du type de fibres (laine, polyamide, polypropylène, fibres mixtes), évaluation du degré d\'encrassement, cartographie des zones à traiter spécifiquement. Cette expertise technique détermine le protocole optimal et la sélection des produits adaptés.',
-        'Phase Active : Décontamination Profonde Aspiration préliminaire ultra-puissante éliminant l\'ensemble des particules libres et résidus de surface. Application ciblée de pré-traitants spécifiques selon la nature des souillures identifiées : taches organiques, minérales, graisseuses... Chaque type de salissure reçoit son traitement optimal.',
-        'Phase Technique : Injection-Extraction Contrôlée Injection sous pression calibrée de notre solution nettoyante professionnelle, chauffée à la température optimale pour une efficacité maximale. Cette solution pénètre au cœur des fibres textiles, décroche et solubilise l\'ensemble des impuretés incrustées. Extraction simultanée par aspiration ultra-puissante : la solution chargée en salissures est immédiatement évacuée, laissant votre moquette propre et assainie.',
-        'Phase Finale : Optimisation Esthétique Brossage directionnel spécialisé redressant les fibres selon leur orientation naturelle. Cette étape cruciale restitue l\'aspect d\'origine de votre moquette et homogénéise le rendu visuel. Contrôle qualité final et optimisation du processus de séchage.',
+        'L\'<strong>injection-extraction</strong>, c\'est simple : on injecte une solution chaude dans la moquette sous pression, elle décroche toute la saleté incrustée dans les fibres, et on aspire tout immédiatement. La crasse, les acariens, les bactéries — tout sort. C\'est la seule technique qui nettoie vraiment en profondeur, pas juste en surface.',
+        'Phase 1 : Diagnostic On commence par identifier le type de fibres (laine, polyamide, polypropylène...) et le niveau d\'encrassement. Une moquette de hall d\'accueil piétinée 500 fois par jour ne se traite pas comme la moquette d\'un bureau individuel. On repère aussi les taches spécifiques qui auront besoin d\'un pré-traitement ciblé.',
+        'Phase 2 : Aspiration et pré-traitement Aspiration puissante pour retirer toutes les particules en surface — poussière, sable, cheveux, miettes. Ensuite, on applique des pré-traitants sur les zones les plus sales : taches de café, de nourriture, de boue, traces de semelles. Chaque type de tache a son produit.',
+        'Phase 3 : Injection-extraction On injecte une solution nettoyante chaude sous pression dans les fibres. Elle pénètre en profondeur et décroche tout : saleté incrustée, graisses, résidus collants. L\'aspiration simultanée extrait immédiatement toute cette eau sale. Votre moquette est propre et quasiment sèche en une seule passe.',
+        'Phase 4 : Finition On brosse les fibres dans le bon sens pour retrouver l\'aspect d\'origine de la moquette. Séchage en 3 à 5 heures — vos collaborateurs retrouvent une moquette qui a l\'air neuve le lendemain matin. Contrôle qualité final avant de partir.',
       ],
     },
     {
       heading: '🎯 Secteurs d\'Excellence ProClean à Rouen et Métropole',
       headingLevel: 3,
       paragraphs: [
-        'Centre Historique et Quartiers Patrimoniaux Les prestigieux bâtiments du centre historique rouennais - maisons à colombages, hôtels particuliers, immeubles de caractère - abritent souvent des moquettes de qualité nécessitant un savoir-faire spécialisé. Nos équipes interviennent dans les cabinets d\'avocats de la rue Jeanne d\'Arc, études notariales du Vieux-Marché, bureaux de la rue Grand-Pont avec des techniques respectueuses du patrimoine architectural. Retrouvez nos solutions dédiées pour le <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux</a>.',
-        'Quartier d\'Affaires et Pôles Economiques La dynamique économique rouennaise se concentre autour de pôles d\'excellence où l\'image professionnelle est primordiale. Nos techniciens spécialisés entretiennent les <strong>moquettes de bureau</strong> des sièges sociaux du quartier Madrillet, centres de formation technologique, espaces de coworking innovants pour maintenir un environnement professionnel impeccable.',
-        'Secteur Hospitalier et Médical Normand Les établissements de santé rouennais - CHU, cliniques privées, maisons de retraite - exigent des protocoles d\'hygiène renforcés. Notre expertise médicale certifiée répond aux normes les plus strictes : désinfection complète, traitement anti-bactérien, élimination des allergènes selon les référentiels sanitaires en vigueur.',
-        'Hôtellerie et Restauration de Prestige L\'accueil touristique et d\'affaires à Rouen nécessite des standards esthétiques irréprochables. Nos équipes interviennent dans les hôtels de charme du centre-ville, restaurants gastronomiques, brasseries traditionnelles pour maintenir des espaces d\'accueil parfaitement entretenus. Planification flexible respectant les contraintes d\'exploitation.',
-        'Établissements d\'Enseignement Supérieur Les campus universitaires rouennais et grandes écoles normandes accueillent des milliers d\'étudiants quotidiennement. Nos protocoles adaptés au milieu éducatif incluent traitements hypoallergéniques, désinfection renforcée, techniques de séchage rapide pour limiter les interruptions pédagogiques.',
-        'Résidences Privées et Habitat Familial Dans les quartiers résidentiels du Plateau Nord, de la Rive Gauche ou des coteaux rouennais, nos techniciens apportent le même niveau d\'exigence professionnelle. Élimination des taches domestiques, <strong>traitement anti-acariens</strong>, désodorisation naturelle pour un environnement familial sain et accueillant.',
+        'Bureaux et espaces professionnels Les moquettes de bureau prennent cher : passages répétés, semelles mouillées, roulettes de chaises qui écrasent les fibres. On intervient dans les cabinets, études, agences et open spaces pour remettre les moquettes en état sans perturber votre activité. Retrouvez nos solutions dédiées pour le <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux</a>.',
+        'Sièges sociaux et espaces de coworking Quand vos clients ou partenaires entrent dans vos locaux, la première chose qu\'ils voient c\'est le sol. Des <strong>moquettes de bureau</strong> tachées et grises, ça envoie le mauvais message. On intervient régulièrement dans les sièges sociaux, centres de formation et espaces de coworking pour maintenir un aspect professionnel.',
+        'Cabinets médicaux et établissements de santé Les moquettes dans un environnement médical, c\'est un sujet sérieux : bactéries, allergènes, hygiène stricte. On maîtrise les protocoles de désinfection renforcés : traitement anti-bactérien, élimination des allergènes, produits compatibles avec les normes sanitaires en vigueur.',
+        'Hôtels et restaurants Vos clients marchent sur vos moquettes avec des chaussures de rue, renversent des boissons, traînent des valises à roulettes. L\'usure est rapide et visible. On intervient en dehors de vos heures d\'ouverture — le soir, la nuit, le week-end — pour que vos espaces d\'accueil restent impeccables sans perturber votre activité.',
+        'Établissements d\'enseignement Des centaines de passages par jour, des semelles boueuses, des boissons renversées — les moquettes d\'établissements scolaires sont mises à rude épreuve. On utilise des produits hypoallergéniques et un séchage rapide pour limiter les interruptions. Intervention pendant les vacances ou les week-ends.',
+        'Appartements et maisons Vous avez de la moquette chez vous et elle a perdu sa couleur d\'origine ? Taches de vin, de jus de fruit, traces de pattes du chien — on traite tout. <strong>Traitement anti-acariens</strong> inclus pour un intérieur plus sain, surtout si vous avez des enfants ou des personnes allergiques à la maison.',
       ],
     },
     {
       heading: '🌿 Défis Climatiques Normands : Notre Expertise Régionale',
       headingLevel: 3,
       paragraphs: [
-        'Le climat continental normand de la région rouennaise présente des spécificités que nous maîtrisons parfaitement pour optimiser l\'entretien de vos moquettes tout au long de l\'année.',
-        'Gestion de l\'Humidité Continentale L\'humidité importante des vallées de Seine et des plateaux normands favorise le développement de moisissures et l\'apparition d\'odeurs persistantes dans les fibres textiles. Notre protocole anti-humidité intègre des agents déshumidifiants naturels et des techniques de séchage accéléré parfaitement adaptées aux conditions climatiques locales.',
-        'Adaptation aux Variations Saisonnières Les contrastes thermiques marqués entre les hivers rigoureux et les étés chauds nécessitent une approche adaptative. Nos techniciens ajustent leurs interventions selon la saison : traitement hivernal renforcé contre l\'humidité et les salissures de déneigement, protocole estival intensif contre la poussière et les allergènes saisonniers.',
-        'Spécificités des Constructions Normandes L\'architecture traditionnelle normande (maisons à pans de bois, constructions en pierre calcaire) crée des microclimats intérieurs particuliers. Notre expérience régionale nous permet d\'adapter nos techniques selon la typologie du bâtiment : ventilation optimisée dans les constructions anciennes, contrôle hygrométrique dans les bâtiments récents.',
+        'Les moquettes ont des ennemis bien concrets, et ils n\'ont rien à voir avec la météo. Voici les vrais problèmes qu\'on rencontre au quotidien et comment on les traite.',
+        'Problème n°1 : l\'humidité et les moisissures Une moquette qui reste humide (fuite d\'eau, semelles mouillées, mauvaise ventilation), c\'est une moquette qui moisit. Ça sent le renfermé, ça noircit les fibres et ça devient un problème de santé. On traite avec des agents anti-moisissures et un séchage accéléré pour éliminer le problème à la source.',
+        'Problème n°2 : les acariens et allergènes Les moquettes sont le terrain de jeu préféré des acariens — des millions de ces bestioles vivent dans les fibres et se nourrissent de peaux mortes. Si quelqu\'un éternue en permanence au bureau ou à la maison, la moquette est souvent en cause. Notre traitement élimine 99% des acariens et allergènes.',
+        'Problème n°3 : les taches tenaces et les odeurs Café, vin rouge, encre, chewing-gum, vomi — on a tout vu. Plus une tache est ancienne, plus elle est difficile à retirer. Mais avec les bons produits et la bonne technique, on en vient à bout dans 95% des cas. Les odeurs (tabac, nourriture, animaux) sont traitées en profondeur, pas juste masquées.',
       ],
     },
     {
       heading: '✨ Bénéfices Multiples du Nettoyage Professionnel ProClean',
       headingLevel: 3,
       paragraphs: [
-        'Renaissance Esthétique Spectaculaire Notre intervention transforme radicalement l\'apparence de vos moquettes ternies et encrassées. Les couleurs retrouvent leur vivacité d\'origine, les motifs ressortent avec une netteté saisissante, l\'aspect général redevient celui d\'un revêtement neuf. Impact visuel immédiat et satisfaction garantie.',
-        'Assainissement Intégral et Hygiène Renforcée Élimination totale des micro-organismes pathogènes : bactéries, virus, champignons, acariens responsables d\'allergies et de troubles respiratoires. Notre protocole de décontamination professionnel garantit un environnement intérieur sain, particulièrement bénéfique pour les personnes sensibles ou allergiques.',
-        'Optimisation de la Durabilité Le nettoyage professionnel régulier préserve considérablement l\'investissement que représentent vos moquettes de qualité. Nos techniques douces mais ultra-efficaces éliminent les particules abrasives responsables de l\'usure prématurée des fibres. Durée de vie multipliée par 3 à 5 selon la qualité d\'entretien.',
-        'Amélioration Significative de la Qualité de l\'Air Les moquettes non entretenues constituent de véritables réservoirs à polluants : poussières fines, particules allergènes, COV... Notre intervention libère l\'atmosphère intérieure de ces éléments nocifs, contribuant significativement à l\'amélioration de la qualité respiratoire.',
-        'Neutralisation Définitive des Nuisances Olfactives Odeurs d\'humidité, d\'animaux, de tabac, de cuisine... Notre traitement en profondeur neutralise durablement les molécules odorantes piégées dans les fibres textiles. Résultat : un parfum frais et naturel, sans masquage artificiel. Pour bénéficier de ce traitement, il suffit de <a href="/devis-gratuit-rouen">demander un devis gratuit</a>.',
+        'Résultat visible immédiatement Votre moquette grise redevient bleue (ou rouge, ou beige — la couleur qu\'elle avait à l\'achat). Les motifs ressortent, les fibres sont redressées, l\'aspect général est celui d\'une moquette neuve. La différence est flagrante dès qu\'on a fini.',
+        'Un air intérieur plus sain Une moquette sale, c\'est un réservoir à bactéries, acariens et champignons. Chaque pas soulève des particules que vous respirez toute la journée. Après notre passage, tout ça disparaît. Les personnes allergiques ou asthmatiques sentent la différence dès le premier jour.',
+        'Votre moquette dure plus longtemps Les particules de sable et de poussière agissent comme du papier de verre sur les fibres à chaque passage. Un nettoyage professionnel régulier retire ces particules abrasives et peut multiplier la durée de vie de votre moquette par 3 à 5. C\'est un investissement qui se rentabilise.',
+        'Moins de poussière dans l\'air Les moquettes non entretenues stockent des kilos de poussière, de pollens et de particules fines. À chaque passage, tout ça remonte dans l\'air que vous respirez. Après notre nettoyage, la quantité de particules en suspension chute drastiquement. C\'est mesurable.',
+        'Fini les mauvaises odeurs Odeur de renfermé, de tabac froid, de cantine ou d\'animaux — tout ça reste piégé dans les fibres de la moquette. Les sprays ne font que masquer le problème. Notre traitement en profondeur neutralise les molécules odorantes à la source. Résultat : un air frais, sans artifice. <a href="/devis-gratuit-rouen">Demander un devis gratuit</a>.',
       ],
     },
     {
       heading: '🏗️ Arsenal Technique Professionnel : L\'Innovation au Service de la Performance',
       headingLevel: 3,
       paragraphs: [
-        'Machines d\'Injection-Extraction Haute Performance Nos équipements industriels de dernière génération développent une puissance d\'aspiration exceptionnelle permettant une extraction maximale des résidus et de l\'humidité résiduelle. Système de chauffe intégré optimisant l\'efficacité des solutions nettoyantes. Capacité de traitement importante pour les grandes surfaces commerciales et institutionnelles.',
-        'Systèmes de Ventilation et Séchage Rapide Turbines de séchage professionnelles et déshumidificateurs industriels réduisant drastiquement les temps d\'immobilisation de vos espaces. Vos moquettes retrouvent leur usage normal dans les meilleurs délais, minimisant l\'impact sur votre activité professionnelle ou votre confort familial.',
-        'Monobrosses Textiles Spécialisées Nos monobrosses dédiées exclusivement aux revêtements textiles garantissent un brossage homogène respectueux des fibres les plus délicates. Vitesses de rotation modulables, brosses interchangeables selon la nature du textile, réglages de pression adaptés à chaque spécificité.',
-        'Laboratoire de Solutions Professionnelles Gamme complète de produits certifiés : détergents écologiques haute performance, détachants spécifiques pour chaque type de souillure, agents désinfectants et désodorisants naturels. Formulations développées spécifiquement pour répondre aux exigences de l\'environnement normand.',
+        'Machines d\'injection-extraction pro Nos machines ne sont pas des shampouineuses de supermarché. Ce sont des équipements industriels avec une puissance d\'aspiration qui extrait la quasi-totalité de l\'eau et des saletés. Système de chauffe intégré pour une solution toujours à la bonne température. On traite des surfaces de 20 à 2000 m² sans problème.',
+        'Séchage rapide On ne vous laisse pas avec une moquette trempée pendant 24h. Nos turbines et déshumidificateurs accélèrent le séchage : la moquette est praticable en quelques heures. Pour les bureaux, on intervient le soir — le lendemain matin c\'est sec et prêt.',
+        'Monobrosses textiles Pour les cas difficiles, on utilise des monobrosses avec des brosses spécifiques aux textiles — pas les mêmes que pour le carrelage. Vitesse de rotation et pression ajustables selon que votre moquette est en laine délicate ou en synthétique résistant.',
+        'Produits professionnels certifiés On utilise des détergents éco-certifiés performants, des détachants spécifiques (un produit différent pour le café, le vin, la graisse, l\'encre...), et des désinfectants efficaces mais sans odeur chimique agressive. Pas de résidus toxiques dans vos locaux ou votre maison.',
       ],
     },
     {
       heading: '🧬 Expertise Textile Approfondie : Tous Types de Fibres Maîtrisées',
       headingLevel: 3,
       paragraphs: [
-        'Fibres Naturelles de Prestige Moquettes en laine pure : notre protocole délicat préserve les propriétés naturelles exceptionnelles de cette fibre noble tout en garantissant un nettoyage en profondeur. Traitement spécifique anti-mites et protection longue durée.',
-        'Synthétiques Haute Performance Polyamide (Nylon) : résistance exceptionnelle permettant un nettoyage intensif, Polypropylène : excellente tenue aux produits chimiques, Polyester : facilité d\'entretien et séchage rapide. Adaptation parfaite de nos techniques selon les propriétés spécifiques de chaque fibre.',
-        'Textiles Techniques et Spécialisés Moquettes antistatiques (salles informatiques, laboratoires), revêtements acoustiques (auditoriums, salles de spectacle), textiles ignifugés (ERP, établissements recevant du public), moquettes d\'accueil haute résistance (halls, zones de passage intense).',
+        'Moquettes en laine La laine est une fibre délicate — mauvais produit ou mauvaise température, et elle feutre ou se décolore. On adapte notre protocole : eau tiède (pas chaude), produits au pH neutre, séchage contrôlé. Traitement anti-mites inclus pour les moquettes en laine.',
+        'Moquettes synthétiques Polyamide (Nylon) : résistante, elle supporte un nettoyage intensif. Polypropylène : tient bien face aux produits chimiques. Polyester : sèche vite et s\'entretient facilement. Chaque fibre a ses points forts — on adapte la pression, la température et les produits en conséquence.',
+        'Moquettes techniques Moquettes antistatiques de salles serveurs, revêtements acoustiques d\'auditoriums, textiles ignifugés d\'ERP, dalles plombantes de halls d\'accueil — on sait traiter chaque type de moquette technique sans altérer ses propriétés spéciales (antistatique, phonique, ignifuge).',
       ],
     },
     {
       heading: '⚡ Processus d\'Intervention ProClean : Service Intégral Clés en Main',
       headingLevel: 3,
       paragraphs: [
-        'Phase Préliminaire : Expertise et Devis Sur-Mesure Évaluation technique complète réalisée par nos experts rouennais lors d\'un rendez-vous à votre convenance. Analyse précise de vos installations textiles, identification des problématiques spécifiques, conseil personnalisé sur la stratégie d\'entretien optimale. Devis détaillé gratuit établi dans les 24h suivant la visite.',
-        'Phase Préparatoire : Organisation et Logistique Planification minutieuse respectant vos contraintes d\'activité professionnelle ou de vie familiale. Interventions possibles en soirée, week-end ou périodes de fermeture pour les entreprises. Préparation complète de l\'espace d\'intervention : protection du mobilier, organisation des accès, préparation du matériel.',
-        'Phase Opérationnelle : Excellence Technique Mise en œuvre rigoureuse de notre protocole d\'injection-extraction par nos techniciens certifiés. Contrôle permanent des paramètres techniques, adaptation en temps réel selon la réactivité de vos textiles, respect scrupuleux des temps de contact pour une efficacité optimale.',
-        'Phase Qualité : Contrôle et Finition Vérification systématique du résultat sur l\'ensemble des zones traitées, retouches ciblées si nécessaire, brossage final pour optimiser l\'aspect esthétique. Conseils d\'entretien personnalisés pour maximiser la durabilité des bénéfices obtenus.',
-        'Phase Suivi : Garantie et Accompagnement Garantie satisfaction sur toutes nos prestations, suivi post-intervention pour vérifier votre entière satisfaction. Planification préventive de votre prochain entretien selon la fréquence recommandée pour votre usage spécifique.',
+        'Étape 1 : Devis gratuit et visite technique On vient voir vos moquettes, on identifie le type de fibre, le niveau d\'encrassement et les taches spécifiques. On vous donne un prix ferme dans les 24h. Pas de surprise, pas de coût caché.',
+        'Étape 2 : Planification et préparation On s\'organise autour de vos contraintes — intervention le soir, le week-end, pendant la fermeture annuelle. On protège le mobilier, on prépare l\'espace, et on arrive avec tout notre matériel. Vous n\'avez rien à faire.',
+        'Étape 3 : Nettoyage par injection-extraction On déroule notre protocole complet : aspiration, pré-traitement des taches, injection-extraction, brossage. On surveille en permanence la réaction des fibres et on ajuste si nécessaire. Pas de traitement à l\'aveugle.',
+        'Étape 4 : Contrôle et finition On vérifie chaque zone traitée. Si une tache résiste, on la retraite immédiatement. Brossage final des fibres, conseils d\'entretien pour que le résultat dure le plus longtemps possible.',
+        'Étape 5 : Suivi et garantie On vous recontacte après l\'intervention pour s\'assurer que tout vous convient. Si besoin, on planifie le prochain nettoyage selon la fréquence adaptée à votre usage. Garantie satisfaction sur toutes nos prestations.',
       ],
     },
     {
       heading: '❓ Foire aux Questions : Tout Savoir sur le Nettoyage de Moquettes',
       headingLevel: 3,
       paragraphs: [
-        'Quelle est la fréquence d\'entretien recommandée pour mes moquettes professionnelles ? La fréquence optimale dépend principalement du trafic et de l\'environnement. Pour les bureaux standards, nous recommandons un nettoyage professionnel tous les 6 mois. Les espaces à fort passage (halls d\'accueil, commerces) bénéficient d\'un entretien trimestriel. Les établissements médicaux ou hôtels nécessitent souvent une intervention mensuelle. Nos experts évaluent précisément vos besoins lors du diagnostic initial.',
-        'Vos produits de nettoyage sont-ils compatibles avec les normes environnementales ? Absolument ! ProClean utilise exclusivement des solutions éco-certifiées respectueuses de l\'environnement et de la santé. Nos produits sont sans solvants toxiques, biodégradables et hypoallergéniques. Ils répondent aux normes européennes les plus strictes et conviennent parfaitement aux espaces accueillant des enfants ou des personnes sensibles. Certification disponible sur demande.',
-        'Combien de temps faut-il pour que mes moquettes sèchent complètement ? Grâce à notre système d\'extraction haute performance et nos équipements de séchage accéléré, vos moquettes sont généralement utilisables sous 4 à 6 heures. Dans des conditions optimales (ventilation, température), le séchage complet intervient sous 2 à 3 heures. Pour les interventions en entreprise, nous planifions les créneaux pour minimiser l\'impact sur votre activité.',
-        'Pouvez-vous éliminer les taches anciennes et incrustées ? Notre expertise en détachage spécialisé nous permet de traiter efficacement la majorité des taches, même anciennes : vin, café, sang, encre, graisse, chocolat... Chaque type de souillure fait l\'objet d\'un traitement spécifique avec des produits adaptés. Le taux de réussite dépasse 95% sur les taches courantes. Diagnostic gratuit et engagement de résultat lors de l\'établissement du devis.',
-        'Intervenez-vous dans les bâtiments historiques et patrimoniaux ? ProClean possède une expertise particulière pour l\'entretien des textiles dans les bâtiments classés et monuments historiques de Rouen. Nos techniques respectent les contraintes patrimoniales : produits neutres, méthodes douces, respect des matériaux anciens. Nous collaborons régulièrement avec les architectes des Bâtiments de France et les conservateurs du patrimoine.',
+        'À quelle fréquence faut-il nettoyer une moquette de bureau ? Ça dépend du nombre de passages. Bureaux normaux : tous les 6 mois. Halls d\'accueil, commerces, couloirs à fort trafic : tous les 3 mois. Hôtels et cabinets médicaux : tous les mois. On évalue vos besoins lors de la première visite et on vous recommande la fréquence adaptée à votre situation.',
+        'Vos produits sont-ils sans danger pour les enfants et les animaux ? Oui. Tous nos produits sont éco-certifiés, sans solvants toxiques, biodégradables et hypoallergéniques. Vos enfants peuvent jouer sur la moquette dès qu\'elle est sèche, et votre chat peut s\'y vautrer sans risque. Certifications disponibles sur demande si besoin.',
+        'Combien de temps de séchage ? Entre 3 et 5 heures en moyenne. Si l\'espace est bien ventilé et chauffé, ça peut descendre à 2 heures. Pour les bureaux, on intervient en fin de journée — le lendemain matin, c\'est sec et praticable. On ne vous laisse jamais avec une moquette détrempée.',
+        'Vous pouvez vraiment enlever les vieilles taches ? Dans 95% des cas, oui. Vin rouge, café, sang, encre, graisse, chocolat — chaque tache a son traitement spécifique. Les taches très anciennes (plusieurs années) sont plus difficiles, mais on y arrive souvent. Si on estime qu\'une tache est irrécupérable, on vous le dit honnêtement avant de commencer.',
+        'Vous intervenez aussi chez les particuliers ? Bien sûr. On ne travaille pas que pour les entreprises. Si vous avez de la moquette chez vous (chambre, couloir, escalier), on la nettoie avec le même matériel pro. Les résultats sont souvent encore plus impressionnants chez les particuliers, parce que la moquette est de meilleure qualité et mieux préservée.',
         'Proposez-vous des contrats d\'entretien pour les professionnels ? Nos contrats d\'entretien annuels offrent de nombreux avantages : tarifs préférentiels, interventions planifiées, priorité d\'intervention, suivi personnalisé. Ces formules s\'adaptent à tous les secteurs : bureaux, commerces, hôtels, établissements de santé, collectivités. Devis personnalisé selon votre superficie et vos contraintes spécifiques.',
       ],
     },
@@ -2841,9 +2841,9 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '💳 Conditions Tarifaires et Modalités de Paiement',
       headingLevel: 3,
       paragraphs: [
-        'Politique Tarifaire Transparente Nos prix sont calculés au mètre carré réel traité, avec application automatique de coefficients dégressifs pour les grandes surfaces. Le devis gratuit établit précisément les coûts sans surprise ultérieure. Tarifs préférentiels pour les contrats d\'entretien régulier et les interventions groupées.',
+        'On facture au mètre carré réel traité — pas de forfait gonflé pour une petite surface, et des tarifs dégressifs pour les grands espaces. Le devis est gratuit et le prix est fixe : pas de supplément surprise le jour de l\'intervention. Réductions pour les contrats d\'entretien régulier.',
         'Modalités de Règlement Acceptées',
-        'Documentation Comptable Conforme Factures détaillées mentionnant les prestations réalisées, surfaces traitées, produits utilisés. Documents conformes aux exigences comptables et fiscales pour vos services administratifs.',
+        'Factures détaillées avec prestations réalisées, surfaces traitées et produits utilisés. Documents conformes pour votre comptabilité.',
       ],
       listItems: [
         'Chèque à l\'ordre de ProClean Rouen',
@@ -2855,7 +2855,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '📞 Prenez Rendez-vous avec ProClean Rouen',
       headingLevel: 3,
       paragraphs: [
-        'Intervention rapide dans toute la métropole rouennaise et les communes environnantes. Devis gratuit sous 24h, intervention d\'urgence possible sous 48h.',
+        'Devis gratuit sous 24h. Intervention possible sous 48h en cas d\'urgence. On se déplace chez vous pour évaluer le travail — sans engagement.',
       ],
     },
   ],
@@ -2865,115 +2865,115 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Professionnel de Matelas à Rouen 76 | ProClean - Expert Anti-Acariens Injection-Extraction Normandie',
       headingLevel: 3,
       paragraphs: [
-        'Transformez votre literie en sanctuaire de bien-être avec ProClean Rouen, référence absolue du <strong>nettoyage de matelas à Rouen</strong> et désinfection à domicile en Seine-Maritime. Nos maîtres de l\'hygiène nocturne révolutionnent votre environnement de sommeil grâce à notre technologie d\'injection-extraction anti-allergènes de pointe. Élimination scientifiquement prouvée de 99% des acariens, bactéries et pathogènes pour des nuits sublimes dans toute la métropole rouennaise.',
+        'Vous vous réveillez avec le nez bouché ? Les yeux qui piquent ? C\'est probablement votre matelas. Il contient en moyenne 2 millions d\'acariens après 2 ans, plus des kilos de transpiration et de peaux mortes accumulées. Notre <strong>nettoyage de matelas à Rouen</strong> élimine 99% des acariens et bactéries par injection-extraction — sans tremper votre matelas. Séchage en quelques heures, vous dormez dessus le soir même.',
       ],
     },
     {
       heading: '🏛️ ProClean Rouen : Héritage Normand et Innovation Sanitaire d\'Excellence',
       headingLevel: 3,
       paragraphs: [
-        'Ancré dans le patrimoine rouennais depuis plus de 12 ans, ProClean incarne l\'excellence du savoir-faire normand appliqué aux technologies sanitaires les plus avancées. Notre implantation au cœur de la métropole nous permet d\'intervenir dans tous les quartiers emblématiques : du Vieux-Marché aux Plateaux Nord, de la Rive Gauche aux coteaux résidentiels.',
-        'Notre vision avancée : votre santé nocturne mérite la même attention que votre santé diurne. Chaque nuit, nous passons un tiers de notre existence en contact intime avec notre matelas. Cette proximité prolongée avec un environnement contaminé peut déclencher allergies chroniques, troubles respiratoires et perturbations du sommeil réparateur.',
-        'Expertise régionale approfondie : nous excellons dans le traitement des problématiques spécifiques au climat continental rouennais qui favorise l\'accumulation d\'humidité dans les matelas, créant des conditions optimales pour la prolifération massive d\'acariens et micro-organismes pathogènes dans les foyers normands. Cette technique est aussi employée pour le <a href="/nettoyage-canape-rouen">nettoyage de canapé</a>, autre textile essentiel du foyer.',
+        'ProClean nettoie des matelas à domicile depuis plus de 12 ans. On a traité des milliers de matelas — des matelas d\'enfants tachés de pipi, des matelas d\'occasion douteux, des matelas de personnes allergiques qui n\'arrivaient plus à dormir. On intervient directement chez vous avec tout notre matériel.',
+        'Un matelas, ça absorbe tout : transpiration (environ 0,5 litre par nuit), peaux mortes, sébum, poussière. Au bout de 2-3 ans, même un matelas qui a l\'air propre est un nid à allergènes. Vous passez 8 heures par nuit le nez dedans — si vous avez des problèmes d\'allergies ou de sommeil, c\'est souvent le premier endroit où chercher.',
+        'On traite le matelas en profondeur sans le tremper — c\'est toute la différence avec un "nettoyage maison" au bicarbonate qui ne fait que gratter la surface. Notre technique d\'injection-extraction va chercher les saletés au cœur du matelas et les aspire immédiatement. C\'est la même technique qu\'on utilise pour le <a href="/nettoyage-canape-rouen">nettoyage de canapé</a>, autre textile essentiel du foyer.',
       ],
     },
     {
       heading: '🚀 Technologie d\'Injection-Extraction Anti-Acariens : L\'Innovation au Service de Votre Bien-Être',
       headingLevel: 3,
       paragraphs: [
-        'L\'injection-extraction constitue la référence scientifique mondiale en matière de décontamination profonde des environnements de sommeil. Cette technologie avancée, parfaitement maîtrisée par nos équipes rouennaises expertes, garantit l\'éradication validée de 99% des acariens, allergènes et agents pathogènes.',
-        'Phase Analytique : Diagnostic Technique Exhaustif Nos spécialistes certifiés initient chaque intervention par une analyse technique approfondie de votre literie. Identification précise du type de garnissage (mousse haute résilience, ressorts ensachés, latex naturel), évaluation du degré de contamination biologique, localisation des zones critiques nécessitant un traitement intensif. Cette expertise technique fondamentale détermine le protocole optimal et guide la sélection des solutions les plus performantes.',
-        'Phase Préparatoire : Décontamination de Surface Ultra-Performante Aspiration préliminaire ultra-puissante avec nos équipements industriels spécialisés, éliminant l\'intégralité des particules libres, squames humaines, débris organiques et colonies d\'acariens morts présents en surface. Cette étape fondamentale prépare les fibres profondes à recevoir le traitement de stérilisation intensive.',
-        'Phase Ciblée : Traitement Anti-Acariens Spécialisé Application méthodique de notre prétraitement anti-acariens professionnel sur les zones de concentration maximale : zone tête (accumulation de squames et sébum), centre du matelas (transpiration nocturne), zones périphériques (circulation d\'air réduite). Notre formulation scientifique pénètre instantanément pour neutraliser les colonies d\'acariens vivants.',
-        'Phase Centrale : Injection-Extraction Désinfectante Synchronisée Injection sous pression calibrée de notre solution désinfectante professionnelle, portée à la température optimale de 65°C pour maximiser son efficacité germicide. Cette formulation avancée solubilise et décroche l\'ensemble des contaminants organiques incrustés : sueur cristallisée, cellules mortes, sécrétions corporelles, allergènes protéiques. Extraction immédiate haute puissance : la solution enrichie en pathogènes est instantanément aspirée, laissant votre matelas parfaitement stérilisé.',
-        'Phase Préventive : Traitement Barrière Longue Durée Application d\'un bouclier préventif <strong>anti-acariens</strong> longue durée créant un environnement hostile à la réinfestation. Optimisation du processus de séchage grâce à nos systèmes de ventilation industriels. Votre matelas atteint une hygiène hospitalière et retrouve son usage sous 3 à 5 heures.',
+        'L\'injection-extraction est la seule technique qui nettoie un matelas en profondeur sans le détremper. On injecte une solution désinfectante chaude qui pénètre dans les fibres, décroche toute la saleté accumulée (transpiration, peaux mortes, acariens), et on aspire tout immédiatement. Résultat : 99% des acariens et bactéries éliminés.',
+        'Phase 1 : Diagnostic On identifie le type de matelas (mousse, ressorts, latex, hybride) et on évalue son état. Où sont les taches ? Y a-t-il des odeurs ? Des auréoles de transpiration ? Des traces suspectes ? On adapte le traitement en fonction de ce qu\'on trouve — un matelas en latex ne se traite pas comme un matelas à ressorts.',
+        'Phase 2 : Aspiration profonde Aspiration industrielle de toute la surface — on retire les peaux mortes, la poussière, les acariens morts (oui, votre matelas en est plein) et tous les débris accumulés en surface. Cette étape prépare le matelas à recevoir le traitement en profondeur.',
+        'Phase 3 : Traitement anti-acariens ciblé On traite en priorité les zones les plus contaminées : la zone de la tête (sébum, squames), le centre (transpiration), et les bords (là où les acariens se concentrent parce qu\'il fait chaud et humide). Le produit pénètre dans les fibres et neutralise les acariens vivants.',
+        'Phase 4 : Injection-extraction On injecte une solution désinfectante chaude (65°C) sous pression contrôlée. Elle décroche tout ce qui est incrusté dans le matelas : transpiration cristallisée, peaux mortes, résidus corporels, allergènes. L\'aspiration simultanée extrait immédiatement toute cette eau sale. Votre matelas est désinfecté en profondeur sans être trempé.',
+        'Phase 5 : Protection et séchage On applique un traitement préventif <strong>anti-acariens</strong> longue durée qui ralentit la recolonisation. Séchage accéléré avec nos ventilateurs industriels — votre matelas est prêt à être utilisé sous 3 à 5 heures. Vous pouvez dormir dessus le soir même.',
       ],
     },
     {
       heading: '🎯 Domaines d\'Excellence ProClean dans la Métropole Rouennaise',
       headingLevel: 3,
       paragraphs: [
-        'Habitat Familial et Résidences Privées Dans les quartiers résidentiels du Plateau Nord, de Bonsecours, Saint-Léger-du-Bourg-Denis ou des coteaux rouennais, nos équipes déploient un service personnalisé à domicile. Assainissement de la literie familiale complète : matelas parentaux, enfants, nourrissons avec protocoles spécifiquement adaptés à chaque tranche d\'âge. Expertise particulière pour les chambres d\'allergiques et personnes à sensibilité respiratoire aiguë.',
-        'Patrimoine Hôtelier et Hébergement d\'Excellence L\'excellence de l\'hôtellerie rouennaise exige une <strong>hygiène de literie</strong> irréprochable. Nos équipes ultra-spécialisées interviennent dans les hôtels de prestige du centre historique, établissements contemporains de la métropole, chambres d\'hôtes de caractère pour garantir un confort nocturne optimal à votre clientèle. Protocoles logistiques flexibles s\'adaptant aux contraintes d\'exploitation et taux d\'occupation.',
-        'Hébergements Touristiques et Locations Saisonnières Les locations de vacances rouennaises et de la vallée de Seine nécessitent un assainissement systématique de la literie entre chaque rotation de locataires. Notre service garantit une hygiène parfaite pour chaque nouveau séjour : stérilisation complète, neutralisation des odeurs résiduelles, traitement préventif anti-réinfestation. Intervention ultra-rapide compatible avec vos plannings de rotation serrés. Consultez aussi notre <a href="/nettoyage-appartement-rouen">nettoyage d\'appartement à Rouen</a> pour une remise en état complète.',
-        'Secteur Médical et Établissements de Santé Normands Les établissements de santé de l\'agglomération rouennaise - CHU Charles Nicolle, cliniques spécialisées, EHPAD, maisons de convalescence - imposent des protocoles sanitaires draconiens pour la literie médicalisée. Notre expertise hospitalière certifiée satisfait aux exigences les plus rigoureuses : stérilisation hospitalière des matelas, élimination des pathogènes nosocomiaux, prévention des infections croisées conformément aux référentiels d\'hygiène médicale française.',
-        'Campus Universitaires et Résidences Étudiantes Les résidences universitaires de l\'Université de Rouen Normandie et logements étudiants privés nécessitent un entretien spécialisé de la literie compte tenu de la rotation importante des occupants. Nos protocoles étudiants adaptés incluent <strong>désinfection en profondeur</strong>, élimination des punaises de lit, traitement préventif anti-parasitaire pour garantir un environnement nocturne sain aux nouveaux résidents.',
-        'Collectivités et Logements Sociaux Métropolitains Les résidences sociales et logements collectifs de la métropole rouennaise bénéficient de nos protocoles adaptés aux contraintes budgétaires tout en maintenant des standards d\'hygiène élevés. Tarifs sociaux préférentiels, interventions groupées, programmes d\'entretien préventif pour améliorer durablement la qualité de vie des résidents.',
+        'Familles et particuliers On nettoie tous les matelas de la maison en une seule intervention : matelas des parents, des enfants, du bébé (chacun avec un protocole adapté). Si quelqu\'un dans la famille est allergique ou asthmatique, on renforce le traitement anti-acariens. Intervention à domicile — on vient avec tout le matériel.',
+        'Hôtels et chambres d\'hôtes Vos clients dorment dans vos lits — l\' <strong>hygiène de literie</strong> n\'est pas optionnelle. On intervient entre les séjours ou lors des périodes creuses pour traiter tous vos matelas. Planning flexible qui s\'adapte à votre taux d\'occupation. Un matelas propre, ça se voit dans les avis clients.',
+        'Locations saisonnières et Airbnb Entre deux locataires, un nettoyage de matelas fait la différence. Odeurs du précédent occupant, taches suspectes, hygiène douteuse — on remet la literie en état pour que le prochain locataire dorme dans un lit propre. Intervention rapide compatible avec vos rotations serrées. Consultez aussi notre <a href="/nettoyage-appartement-rouen">nettoyage d\'appartement à Rouen</a> pour une remise en état complète.',
+        'Établissements de santé et EHPAD La literie dans un établissement médical doit répondre à des normes d\'hygiène strictes. On maîtrise les protocoles de stérilisation renforcés : élimination des bactéries pathogènes, prévention des infections croisées, produits compatibles avec les normes hospitalières. Intervention régulière planifiée selon vos besoins.',
+        'Résidences étudiantes Les matelas de résidences étudiantes changent d\'occupant tous les ans — et souvent personne ne les nettoie entre deux. <strong>Désinfection en profondeur</strong>, élimination des punaises de lit si besoin, traitement préventif anti-parasitaire. On intervient pendant les périodes de rotation pour que les nouveaux résidents dorment dans des lits propres.',
+        'Collectivités et logements sociaux On propose des tarifs adaptés aux budgets des collectivités, avec interventions groupées pour réduire les coûts. L\'hygiène de la literie n\'est pas un luxe — c\'est une question de santé. Programmes d\'entretien préventif pour améliorer durablement la qualité de vie des résidents.',
       ],
     },
     {
       heading: '🌿 Adaptation aux Spécificités Climatiques Continentales Normandes',
       headingLevel: 3,
       paragraphs: [
-        'Le climat continental dégradé caractéristique de la région rouennaise génère des conditions particulières que nous intégrons parfaitement dans nos protocoles d\'intervention pour maximiser l\'efficacité de l\'assainissement de votre literie.',
-        'Maîtrise de l\'Humidité Continentale Saisonnière L\'humidité importante des vallées de Seine et les brouillards fréquents créent un environnement hyperfavorable à la prolifération d\'acariens dans les matelas rouennais. Notre protocole anti-humidité spécialisé intègre des agents déshydratants naturels et des méthodologies de séchage turbo spécialement étalonnées pour neutraliser l\'impact du climat continental sur votre environnement de sommeil.',
-        'Adaptation aux Cycles Climatiques Marqués Les alternances saisonnières contrastées entre hivers humides et froids et étés chauds et secs nécessitent une approche modulaire sophistiquée. Nos spécialistes adaptent leurs méthodes selon la période : protocole automno-hivernal intensifié contre l\'humidité et les moisissures de condensation, traitement printemps-été optimisé contre la prolifération d\'acariens stimulée par l\'élévation thermique.',
-        'Optimisation selon l\'Architecture Rouennaise L\'architecture traditionnelle rouennaise (maisons à pans de bois, constructions en pierre calcaire, immeubles haussmanniens) génère des microclimats intérieurs distincts. Notre expérience régionale approfondie nous permet d\'optimiser nos interventions : gestion hygrométrique dans les constructions anciennes à forte inertie thermique, contrôle climatique dans les édifices contemporains à isolation renforcée.',
+        'Un matelas accumule des problèmes bien concrets au fil du temps. Voici ce qu\'on trouve le plus souvent — et comment on le traite.',
+        'Transpiration et humidité accumulées Chaque nuit, votre corps libère de la sueur et de la vapeur d\'eau dans le matelas. Au fil des mois, ça crée un environnement humide parfait pour les acariens et les moisissures. Si votre matelas sent le renfermé ou présente des auréoles jaunes, c\'est le signe qu\'il est temps d\'intervenir. On traite l\'humidité avec des agents déshydratants et un séchage accéléré.',
+        'Acariens et allergènes Les acariens adorent les matelas : c\'est chaud, humide, et plein de peaux mortes à manger. Après 2 ans, un matelas peut contenir 2 millions d\'acariens. Si vous vous réveillez avec le nez bouché, les yeux qui démangent ou des éternuements — c\'est probablement eux. Notre traitement en élimine 99%.',
+        'Taches et odeurs tenaces Urine (d\'enfant ou d\'animal), transpiration chronique, liquides renversés — ces taches et odeurs s\'incrustent dans le matelas et ne partent pas avec un simple nettoyage de surface. On utilise des produits enzymatiques qui digèrent les résidus organiques en profondeur. Résultat : tache et odeur éliminées, pas juste masquées.',
       ],
     },
     {
       heading: '✨ Bénéfices Exceptionnels de Notre Expertise Sanitaire ProClean',
       headingLevel: 3,
       paragraphs: [
-        'Éradication Scientifiquement Validée de 99% des Acariens Notre protocole développé en collaboration avec des laboratoires spécialisés élimine efficacement les acariens Dermatophagoides pteronyssinus et farinae, responsables de 80% des allergies domestiques. Neutralisation simultanée des allergènes d\'origine animale, spores fongiques et pollens incrustés pour un environnement nocturne parfaitement purifié.',
-        'Stérilisation Complète Anti-Pathogène Élimination totale des bactéries pathogènes (Staphylococcus aureus, Streptococcus pyogenes, Escherichia coli), virus grippaux et champignons dermatophytes responsables d\'infections cutanées et de troubles respiratoires chroniques. Votre matelas atteint un niveau de stérilité hospitalière favorable à un sommeil régénérateur optimal.',
-        'Neutralisation Définitive des Pollutions Olfactives Odeurs de transpiration chronique, d\'humidité de condensation, d\'animaux domestiques, de tabac ancien... Notre traitement en profondeur neutralise définitivement les molécules odorantes emprisonnées dans les structures de garnissage. Résultat : une atmosphère nocturne pure et rafraîchie, sans artifices chimiques masquants.',
-        'Optimisation Drastique de la Qualité du Sommeil Réparateur Un matelas parfaitement assaini permet un sommeil plus profond et pleinement réparateur. Disparition des micro-réveils liés aux réactions allergiques, amélioration significative de la qualité respiratoire nocturne, confort thermique et tactile optimisé. Bénéfices physiologiques constatés dès la première nuit post-intervention.',
-        'Protection Durable de Votre Investissement Literie L\'entretien professionnel systématique préserve considérablement la valeur patrimoniale de votre literie haut de gamme. Élimination des substances organiques corrosives (sueur acidifiée, sébum oxydé) qui dégradent prématurément les fibres de garnissage et les structures métalliques. Longévité multipliée par 3 à 4 selon la régularité d\'entretien professionnel. Pour protéger votre investissement, vous pouvez <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>.',
+        '99% des acariens éliminés Les acariens Dermatophagoides sont responsables de 80% des allergies domestiques. Notre traitement les élimine ainsi que leurs déjections (c\'est ça qui provoque les réactions allergiques). On neutralise aussi les allergènes d\'animaux, les spores de moisissures et les pollens incrustés dans le matelas.',
+        'Désinfection complète On élimine les bactéries (staphylocoques, streptocoques, E. coli), les virus et les champignons qui peuvent provoquer des infections cutanées ou des problèmes respiratoires. Après notre passage, votre matelas est propre au niveau bactériologique — pas juste en apparence.',
+        'Fini les odeurs Transpiration rance, pipi de chat, odeur de renfermé, tabac — ces odeurs sont piégées dans le garnissage du matelas et aucun spray ne les élimine. Notre traitement en profondeur détruit les molécules odorantes à la source. Vous retrouvez un matelas qui sent le propre, vraiment.',
+        'Vous dormez mieux dès la première nuit Un matelas propre = un sommeil plus profond. Plus de micro-réveils causés par les allergènes, plus de nez bouché au réveil, plus d\'irritations cutanées inexpliquées. Beaucoup de nos clients nous disent qu\'ils ont retrouvé un vrai sommeil réparateur après notre intervention.',
+        'Votre matelas dure plus longtemps La transpiration acide et le sébum dégradent les mousses et les fibres de garnissage au fil du temps. Un nettoyage professionnel régulier retire ces substances corrosives et peut multiplier la durée de vie de votre matelas par 3 à 4. Quand on sait le prix d\'un bon matelas, ça vaut le coup. <a href="/devis-gratuit-rouen">Obtenir votre devis personnalisé</a>.',
       ],
     },
     {
       heading: '🏗️ Arsenal Technologique de Pointe : L\'Excellence Matérielle au Service de Votre Santé',
       headingLevel: 3,
       paragraphs: [
-        'Aspirateurs Industriels Anti-Acariens Haute Performance Nos aspirateurs ultra-spécialisés dernière génération développent une puissance d\'aspiration exceptionnelle de 600 mbar permettant l\'extraction des acariens vivants et de leurs déjections incrustés jusqu\'à 15 cm de profondeur dans les garnissages. Filtration HEPA H14 absolue capturant 99,99% des particules jusqu\'à 0,1 micron. Brosses oscillantes spécialement développées pour les textiles de literie haute densité.',
-        'Systèmes d\'Injection-Extraction Dédiés Environnement Sommeil Machines professionnelles ultra-performantes spécifiquement conçues pour le traitement des matelas avec paramètrages de pression, température et débit optimisés pour chaque typologie de garnissage. Réservoirs haute capacité pour solutions stérilisantes, systèmes de chauffage intégrés maximisant l\'efficacité germicide des formulations.',
-        'Équipements de Séchage et Déshumidification Turbo Turbines de séchage industrielles et déshumidificateurs professionnels haute capacité réduisant drastiquement les délais d\'immobilisation de votre literie. Votre matelas retrouve son usage normal optimal sous 3 à 5 heures, minimisant l\'inconfort domestique et permettant une utilisation le soir même. Contrôle hygrométrique de précision évitant toute sur-humidification résiduelle.',
-        'Laboratoire de Formulations Sanitaires Avancées Arsenal complet de solutions certifiées : agents anti-acariens à efficacité prouvée, <strong>traitement anti-bactérien</strong> hospitalier non toxique, détachants enzymatiques pour chaque typologie de souillure organique. Formulations hypoallergéniques et écologiques développées spécifiquement pour l\'environnement intime de repos, compatibles avec les peaux les plus sensibles et les organismes fragiles.',
+        'Aspirateurs industriels anti-acariens Nos aspirateurs développent une puissance de 600 mbar — largement de quoi extraire les acariens vivants et leurs déjections jusqu\'à 15 cm de profondeur dans le matelas. Filtration HEPA H14 qui capture 99,99% des particules (y compris les allergènes microscopiques). Rien ne ressort dans l\'air de votre chambre.',
+        'Injecteurs-extracteurs spécial matelas Nos machines sont réglées spécifiquement pour les matelas — pression, température et débit adaptés pour nettoyer en profondeur sans détremper le garnissage. Eau chauffée à 65°C pour une efficacité maximale contre les bactéries. On traite un matelas 2 places en 30-40 minutes.',
+        'Séchage rapide On ne vous laisse pas avec un matelas humide. Nos turbines et déshumidificateurs accélèrent le séchage — votre matelas est prêt sous 3 à 5 heures. On intervient le matin, vous dormez dessus le soir. Pas de nuit sur le canapé.',
+        'Produits certifiés et non toxiques Tous nos produits sont hypoallergéniques et éco-certifiés : <strong>traitement anti-bactérien</strong> sans résidu toxique, détachants enzymatiques pour chaque type de tache (urine, sang, transpiration...), anti-acariens à efficacité prouvée. Compatibles avec les peaux sensibles, les bébés et les personnes fragiles. Vous dormez le nez dedans — on choisit nos produits en conséquence.',
       ],
     },
     {
       heading: '🧬 Maîtrise Technique Exhaustive : Expertise Universelle Tous Matelas',
       headingLevel: 3,
       paragraphs: [
-        'Matelas à Ressorts Traditionnels et Ensachés Haute Gamme Adaptation technique parfaite de notre protocole aux matelas à ressorts : pression d\'injection rigoureusement calibrée pour préserver l\'intégrité des ressorts métalliques, extraction optimisée pour éliminer l\'humidité résiduelle sans générer de corrosion. Traitement spécialisé des zones de cuvette naturelle et points de pression maximale.',
-        'Matelas en Mousse Haute Résilience et Mémoire de Forme Protocole ultra-délicat pour les mousses viscoélastiques thermosensibles : solutions adaptées au pH parfaitement neutre, temps de contact précisément contrôlés, séchage accéléré pour préserver intégralement les propriétés mécaniques et thermiques de la mousse. Respect absolu de la structure alvéolaire et des zones de confort différenciées.',
-        'Matelas en Latex Naturel et Synthétique Premium Techniques ultra-spécialisées pour le latex : produits rigoureusement compatibles avec les propriétés élastiques naturelles, traitement respectueux de la structure perforée caractéristique, séchage optimisé pour éviter toute dégradation du matériau polymère. Préservation intégrale des qualités hypoallergéniques naturelles et de la respirabilité du latex.',
-        'Matelas Hybrides et Technologies d\'Avant-Garde Adaptation experte aux matelas nouvelle génération combinant plusieurs technologies innovantes : zones de confort ergonomiques différenciées, matériaux techniques multicouches, garnissages complexes intégrant fibres naturelles et synthétiques. Notre expertise technique de pointe s\'adapte à chaque innovation technologique pour garantir un assainissement optimal sans altération des performances ergonomiques.',
+        'Matelas à ressorts On calibre la pression d\'injection pour ne pas abîmer les ressorts. L\'extraction est optimisée pour retirer un maximum d\'humidité — pas question de laisser de l\'eau qui pourrait rouiller les ressorts. On traite en priorité les zones de cuvette où la transpiration s\'accumule le plus.',
+        'Matelas en mousse et mémoire de forme Les mousses viscoélastiques sont sensibles — mauvais produit ou trop d\'eau, et elles perdent leurs propriétés. On utilise des solutions au pH neutre, on contrôle les temps de contact, et on sèche rapidement pour que votre matelas garde exactement le même confort qu\'avant le nettoyage.',
+        'Matelas en latex Le latex (naturel ou synthétique) a une structure perforée qu\'il faut respecter. On utilise des produits compatibles avec les propriétés élastiques du latex et un séchage optimisé. Votre matelas garde sa respirabilité et ses qualités hypoallergéniques naturelles après le nettoyage.',
+        'Matelas hybrides et nouvelle génération Les matelas modernes combinent souvent mousse, ressorts et latex en plusieurs couches. On adapte notre technique à chaque couche et chaque matériau. Qu\'il s\'agisse d\'un matelas à 200 ou à 2000 euros, on le traite avec le même soin — et on préserve toutes ses propriétés de confort.',
       ],
     },
     {
       heading: '⚡ Processus ProClean Intégral : Service Premium de Bout en Bout',
       headingLevel: 3,
       paragraphs: [
-        'Phase Contact : Conseil Expert et Devis Sur-Mesure Évaluation téléphonique approfondie de vos besoins spécifiques : nombre de matelas, dimensions précises, problématiques particulières (allergies familiales, odeurs persistantes, taches spécifiques). Planification du rendez-vous à votre convenance absolue, interventions possibles soirées, week-ends et jours fériés. Devis détaillé gratuit établi selon vos besoins précis sans engagement.',
-        'Phase Préparation : Logistique et Protection Complète Nos techniciens experts arrivent avec l\'intégralité du matériel professionnel nécessaire. Protection exhaustive de votre environnement domestique : sols, mobilier, objets personnels, installations électriques. Préparation optimisée de l\'espace de travail pour maximiser l\'efficacité technique tout en minimisant la perturbation de votre quotidien familial.',
-        'Phase Diagnostic : Analyse Technique Précise sur Site Examen visuel et tactile minutieux de chaque matelas : identification des zones problématiques critiques, évaluation du degré de contamination biologique, adaptation du protocole selon les spécificités matérielles constatées. Information transparente sur les traitements à appliquer et les résultats attendus.',
-        'Phase Intervention : Excellence Opérationnelle Technique Déploiement rigoureux de notre protocole complet : aspiration ultra-performante, traitement ciblé des souillures, injection-extraction stérilisante, application préventive anti-acariens. Monitoring permanent de la qualité d\'intervention avec adaptation dynamique si nécessaire pour optimiser les résultats.',
-        'Phase Finalisation : Contrôle Qualité et Conseils Experts Optimisation personnalisée du séchage avec nos équipements de ventilation industriels, vérification exhaustive de la qualité du résultat obtenu, conseils sur-mesure pour l\'entretien préventif et la préservation durable des bénéfices. Nettoyage méticuleux de l\'espace d\'intervention.',
-        'Phase Accompagnement : Garantie et Suivi Relationnel Garantie satisfaction intégrale sur toutes nos réalisations, suivi téléphonique personnalisé sous 48h pour confirmer votre entière satisfaction. Conseils préventifs pour l\'optimisation de votre hygiène domestique et planification de l\'entretien optimal selon vos habitudes de vie familiales.',
+        'Étape 1 : Devis gratuit par téléphone Appelez-nous, on vous pose quelques questions : combien de matelas, quelles tailles, quels problèmes (taches, odeurs, allergies). On vous donne un prix ferme tout de suite. Intervention possible en soirée, week-end ou jour férié. Sans engagement.',
+        'Étape 2 : On protège votre intérieur On arrive avec tout le matériel. Avant de commencer, on protège le sol autour du lit, le mobilier et vos affaires. Aucun risque d\'éclaboussures ou de taches. On travaille proprement — votre chambre est dans le même état qu\'avant notre passage (le matelas en plus propre).',
+        'Étape 3 : Diagnostic du matelas On examine chaque matelas : taches, auréoles, odeurs, zones usées. On identifie le type de garnissage et on adapte le traitement. On vous dit clairement ce qu\'on peut faire et ce à quoi vous pouvez vous attendre comme résultat. Pas de promesses en l\'air.',
+        'Étape 4 : Nettoyage complet On déroule le protocole : aspiration profonde, traitement des taches, injection-extraction désinfectante, application anti-acariens. On surveille en permanence la réaction du matelas et on ajuste si nécessaire. Durée : environ 30-40 minutes par matelas 2 places.',
+        'Étape 5 : Séchage et vérification On installe les ventilateurs pour accélérer le séchage, on vérifie le résultat sur chaque zone traitée, et on vous donne des conseils pour garder votre matelas propre plus longtemps (housse anti-acariens, aération quotidienne, etc.). On range et on nettoie avant de partir.',
+        'Étape 6 : Suivi et garantie On vous rappelle sous 48h pour vérifier que tout va bien. Garantie satisfaction sur toutes nos interventions. Si besoin, on planifie le prochain nettoyage — en général, un passage par an suffit pour un matelas de particulier.',
       ],
     },
     {
       heading: '❓ Foire aux Questions : Expertise ProClean à Votre Service',
       headingLevel: 3,
       paragraphs: [
-        'À quelle fréquence dois-je faire nettoyer professionnellement mes matelas familiaux ? La fréquence optimale dépend principalement de votre environnement et de vos sensibilités. Pour un foyer standard sans allergies, nous recommandons un nettoyage professionnel annuel. Les familles avec enfants allergiques ou animaux domestiques bénéficient d\'un entretien semestriel. Les personnes asthmatiques ou très sensibles peuvent nécessiter une intervention trimestrielle. Notre diagnostic initial détermine précisément vos besoins spécifiques.',
-        'Vos produits de traitement sont-ils totalement sécurisés pour ma famille ? Absolument ! ProClean utilise exclusivement des solutions éco-certifiées respectueuses de la santé familiale et de l\'environnement. Nos produits sont exempts de substances toxiques, 100% biodégradables et certifiés hypoallergéniques. Ils satisfont aux réglementations sanitaires européennes les plus exigeantes et conviennent parfaitement aux chambres d\'enfants et aux personnes hypersensibles. Certifications complètes disponibles sur demande.',
-        'Combien de temps avant de pouvoir réutiliser nos matelas après votre intervention ? Grâce à notre système d\'extraction ultra-performant et nos équipements de séchage turbo, vos matelas redeviennent parfaitement utilisables sous 3 à 5 heures selon les conditions ambiantes. Dans un environnement optimal (aération, température), le séchage intégral peut s\'effectuer sous 2 heures. Nous adaptons nos horaires d\'intervention pour que votre literie soit prête pour votre coucher habituel.',
-        'Votre expertise permet-elle de traiter les taches anciennes et les odeurs persistantes ? Notre maîtrise du détachage spécialisé organique nous permet de résoudre efficacement l\'immense majorité des souillures, même très anciennes et incrustées : urine, sang, vomissures, transpiration chronique, taches alimentaires, sécrétions diverses... Chaque typologie de contamination fait l\'objet d\'un protocole enzymatique spécifique avec des formulations ciblées. Le taux de réussite atteint 97% sur les souillures organiques courantes. Diagnostic gratuit et engagement de résultat formalisé.',
-        'Maîtrisez-vous le traitement des infestations de punaises de lit ? ProClean développe une expertise anti-parasitaire spécialisée pour l\'éradication des punaises de lit dans les matelas rouennais. Notre protocole combine traitement thermique (vapeur surchauffée à 120°C), aspiration spécialisée des œufs et larves, application d\'agents ovicides et traitement préventif barrière. Intervention certifiée avec garantie anti-réinfestation de 6 mois. Collaboration avec des entomologistes pour les cas complexes.',
-        'Développez-vous des formules d\'entretien régulier pour les professionnels ? Nos contrats de maintenance professionnels procurent de multiples avantages : tarification préférentielle dégressive, interventions programmées automatiquement, traitement prioritaire d\'urgence, accompagnement technique personnalisé. Ces formules s\'adaptent à tous les secteurs d\'activité : hôtellerie, hébergement social, résidences étudiantes, établissements de santé. Proposition commerciale sur-mesure établie selon votre parc de literie et vos contraintes opérationnelles.',
+        'À quelle fréquence faut-il nettoyer un matelas ? Pour un foyer sans problème particulier : une fois par an suffit. Si vous avez des enfants allergiques ou des animaux qui montent sur le lit : tous les 6 mois. Personne asthmatique : tous les 3 mois. On vous recommande la bonne fréquence selon votre situation après le premier passage.',
+        'Vos produits sont-ils sans danger pour les bébés et les enfants ? Oui, tous nos produits sont certifiés hypoallergéniques, sans substances toxiques et biodégradables. On traite des matelas de bébé régulièrement — nos produits sont conçus pour être en contact direct avec la peau, y compris les peaux sensibles. Certifications disponibles sur demande.',
+        'On peut dormir dessus le soir même ? Oui. Le matelas est sec en 3 à 5 heures (parfois 2h si la pièce est bien aérée et chauffée). On intervient le matin ou en début d\'après-midi — le soir, c\'est sec et prêt. Pas de nuit sur le canapé.',
+        'Vous pouvez enlever les taches d\'urine et de transpiration ? Oui, dans 97% des cas. Urine (enfant ou animal), sang, vomi, transpiration chronique avec auréoles jaunes — on traite chaque type de tache avec un produit enzymatique spécifique. Plus la tache est récente, plus c\'est facile. Mais même les vieilles taches de plusieurs années, on en vient généralement à bout.',
+        'Vous traitez les punaises de lit ? Oui. Notre protocole combine vapeur à 120°C (les punaises meurent à cette température), aspiration des œufs et larves, traitement ovicide et protection préventive. Garantie anti-réinfestation de 6 mois. Pour les infestations sévères, on travaille avec des spécialistes en désinsectisation.',
+        'Vous proposez des contrats pour les hôtels et les collectivités ? Oui, avec tarifs dégressifs, interventions programmées automatiquement et priorité d\'urgence. C\'est la solution la plus économique pour les hôtels, résidences étudiantes, EHPAD et collectivités. On fait un devis sur-mesure selon le nombre de matelas et la fréquence souhaitée.',
       ],
     },
     {
       heading: '💳 Politique Tarifaire Transparente et Solutions de Paiement',
       headingLevel: 3,
       paragraphs: [
-        'Grille Tarifaire Particuliers 2024',
-        'Conditions Professionnelles Avantageuses Dégressivité automatique selon le volume de matelas traités simultanément. Contrats d\'entretien annuels avec remises substantielles pour établissements hôteliers, résidences, collectivités. Devis personnalisés pour interventions groupées et prestations techniques spécialisées.',
+        'Grille Tarifaire Particuliers',
+        'Pour les pros : tarifs dégressifs selon le nombre de matelas traités. Plus vous en faites d\'un coup, moins ça coûte par unité. Contrats annuels avec remises pour les hôtels, résidences et collectivités. Devis personnalisé sur demande.',
         'Moyens de paiement acceptés',
-        'Facturation Professionnelle Transparente Factures exhaustives détaillant précisément les prestations effectuées, surfaces traitées, produits mis en œuvre. Aucun coût caché, prix définitif établi contractuellement avant intervention.',
+        'Factures détaillées avec prestations, tailles de matelas et produits utilisés. Prix fixé avant l\'intervention, pas de surprise à la fin.',
       ],
       listItems: [
         'Matelas bébé (60x120cm) : 28€',
@@ -2991,7 +2991,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '📞 Contactez ProClean Rouen Immédiatement',
       headingLevel: 3,
       paragraphs: [
-        'Intervention express dans toute la métropole rouennaise et l\'agglomération. Devis gratuit sous 24h, intervention d\'urgence réalisable sous 48h pour les situations critiques.',
+        'Devis gratuit sous 24h. Intervention possible sous 48h. On se déplace à domicile avec tout le matériel — vous n\'avez rien à préparer.',
       ],
     },
   ],
@@ -3001,108 +3001,108 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Professionnel de Vitres à Rouen 76 | ProClean - Expert Lavage Carreaux Vérandas Normandie',
       headingLevel: 3,
       paragraphs: [
-        'Traces de pluie, calcaire, pollution — vos vitres sont opaques et la lumière ne rentre plus. ProClean Rouen assure le <strong>lavage professionnel de vitres</strong> en Seine-Maritime : eau pure déminéralisée, perches carbone jusqu\'à 20 mètres, technique mouilleur-raclette pour les surfaces accessibles. Résultat sans trace. Particuliers, commerces, bureaux — nous intervenons dans toute l\'agglomération rouennaise.',
+        'Vous venez de nettoyer vos vitres et il y a déjà des traces. Le produit du supermarché laisse un film gras, le papier journal fait des peluches, le soleil révèle toutes les imperfections. ProClean assure le <strong>lavage professionnel de vitres</strong> avec de l\'eau pure déminéralisée, des perches carbone jusqu\'à 20 mètres et la technique mouilleur-raclette. Résultat sans trace, garanti. Particuliers, commerces, bureaux — on se déplace chez vous.',
       ],
     },
     {
-      heading: '🏛️ ProClean Rouen : L\'Excellence Normande au Service de Votre Image',
+      heading: '🏛️ ProClean : 12 Ans de Vitres Impeccables',
       headingLevel: 3,
       paragraphs: [
-        'Depuis plus de 12 ans, <strong>ProClean</strong> nettoie les vitres à Rouen et dans toute l\'agglomération. Du Vieux-Marché aux Plateaux, de la Rive Gauche aux quartiers d\'affaires — nos équipes connaissent chaque quartier, chaque type de bâtiment, chaque difficulté d\'accès.',
+        'Depuis plus de 12 ans, <strong>ProClean</strong> nettoie les vitres pour des particuliers, des commerces, des bureaux. On a vu tous les cas de figure : fenêtres inaccessibles, baies vitrées immenses, vérandas opaques, Velux qu\'on ne peut pas ouvrir.',
         'Vos vitres parlent de vous. Un client qui entre dans un commerce aux vitres sales ? Il repart. Un bureau avec des carreaux opaques ? Vos collaborateurs perdent en confort et en moral. Des vitres propres, c\'est une image pro immédiate — et ça change l\'ambiance d\'un espace en quelques heures.',
-        'Colombages du centre historique, immeubles haussmanniens, façades vitrées modernes — chaque bâtiment demande une approche différente. On adapte la technique au support : produits neutres sur les huisseries anciennes, eau pure sur les grandes surfaces contemporaines. Nous assurons également l\'<a href="/entretien-immeubles-rouen">entretien d\'immeubles à Rouen</a> pour vos copropriétés et résidences.',
+        'Bâtiment ancien avec boiseries fragiles, immeuble moderne tout en verre, maison avec véranda — chaque situation demande une approche différente. On adapte la technique au support : produits neutres sur les huisseries anciennes, eau pure sur les grandes surfaces contemporaines. Nous assurons également l\'<a href="/entretien-immeubles-rouen">entretien d\'immeubles à Rouen</a> pour vos copropriétés et résidences.',
       ],
     },
     {
-      heading: '🚀 Technologies de Nettoyage Révolutionnaires : L\'Innovation au Service de la Perfection',
+      heading: '🚀 Pourquoi Vos Vitres Ont des Traces — Et Comment On Règle le Problème',
       headingLevel: 3,
       paragraphs: [
-        'Pourquoi vos vitres ont-elles des traces après un nettoyage classique ? À cause du calcaire dans l\'eau. Notre système d\'eau pure règle ce problème : une eau déminéralisée à 0 TDS (zéro résidu) qui garantit des <strong>vitres sans la moindre trace</strong>. Le verre sèche naturellement, sans auréole.',
+        'Pourquoi vos vitres ont-elles des traces après un nettoyage classique ? À cause du calcaire dans l\'eau du robinet. Notre système d\'eau pure règle ce problème : une eau déminéralisée à 0 TDS (zéro résidu) qui garantit des <strong>vitres sans la moindre trace</strong>. Le verre sèche naturellement, sans auréole. C\'est aussi simple que ça.',
         'Perches télescopiques carbone : nos perches modulaires atteignent jusqu\'à 20 mètres de hauteur — soit 6 étages — sans nacelle ni échafaudage. Plus rapide, moins cher, pas de balisage lourd devant votre commerce. Les brosses rotatives alimentées en eau pure nettoient et rincent en un seul passage. Résultat visible immédiatement.',
-        'Technique <strong>mouilleur-raclette</strong> : pour les vitres accessibles, c\'est la méthode la plus efficace. Mouilleur microfibre qui décolle la saleté, raclette en caoutchouc naturel qui évacue l\'eau en un geste. Nos techniciens changent les lames de raclette chaque jour pour un essuyage parfait. Pas de traces, pas de coulures sur vos encadrements.',
-        'Accès en hauteur sécurisé : cordistes certifiés IRATA pour les façades difficiles, nacelles de 14 à 35 mètres pour les immeubles, échafaudages pour les chantiers longs. Chaque technique répond à une contrainte précise — on choisit la plus adaptée à votre bâtiment, pas la plus chère.',
+        'Technique <strong>mouilleur-raclette</strong> : pour les vitres accessibles, c\'est la méthode la plus efficace. Mouilleur microfibre qui décolle la saleté, raclette en caoutchouc naturel qui évacue l\'eau en un geste. On change les lames de raclette chaque jour — c\'est ça le secret d\'un résultat impeccable. Une lame usée laisse des traces, pas les nôtres.',
+        'Les vitres en hauteur ? Baie vitrée au 3e étage, véranda inaccessible, fenêtre de toit — vous ne pouvez pas y accéder sans risque. C\'est notre métier. Cordistes certifiés IRATA, nacelles de 14 à 35 mètres, échafaudages si nécessaire. On choisit la technique adaptée à votre bâtiment, pas la plus chère.',
       ],
     },
     {
-      heading: '🎯 Secteurs d\'Excellence ProClean dans la Métropole Rouennaise',
+      heading: '🎯 On S\'adapte à Votre Activité',
       headingLevel: 3,
       paragraphs: [
-        'Centre historique — Vieux-Marché, Gros-Horloge, quartier Cathédrale. Cabinets d\'avocats, offices notariaux, institutions : vos vitres sont encadrées de boiseries anciennes qu\'il faut respecter. On utilise des produits neutres et des techniques douces qui nettoient le verre sans abîmer les huisseries d\'époque.',
-        'Quartiers d\'affaires et zones tertiaires. Sièges sociaux, centres de formation, espaces coworking — vos vitres doivent être impeccables en permanence. On intervient tôt le matin ou le week-end pour ne pas perturber votre activité. Contrats mensuels ou trimestriels selon vos besoins. Découvrez aussi notre service de <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> pour vos locaux professionnels.',
-        'Commerces et vitrines. Votre vitrine, c\'est votre premier vendeur. Sale, elle fait fuir. Propre, elle attire le regard et donne envie d\'entrer. On s\'adapte à votre calendrier commercial : nettoyage renforcé avant les soldes, entretien hebdomadaire en période de fêtes. Les commerçants du centre-ville nous connaissent bien.',
+        'Bâtiments avec boiseries anciennes. Cabinets, offices notariaux, institutions : vos vitres sont encadrées de menuiseries qu\'il faut respecter. On utilise des produits neutres et des techniques douces qui nettoient le verre sans abîmer les huisseries.',
+        'Bureaux et espaces de travail. Sièges sociaux, centres de formation, espaces coworking — vos vitres doivent être impeccables en permanence. On intervient tôt le matin ou le week-end pour ne pas perturber votre activité. Contrats mensuels ou trimestriels selon vos besoins. Découvrez aussi notre service de <a href="/nettoyage-bureaux-rouen">nettoyage de bureaux à Rouen</a> pour vos locaux professionnels.',
+        'Commerces et vitrines. Votre vitrine, c\'est votre premier vendeur. Sale, elle fait fuir. Propre, elle attire le regard et donne envie d\'entrer. On s\'adapte à votre calendrier commercial : nettoyage renforcé avant les soldes, entretien hebdomadaire en période de fêtes.',
         'Hôtels et restaurants. Vos clients voient vos vitres avant de voir votre carte. Un restaurant avec des vitres ternes perd en standing immédiatement. On intervient en toute discrétion, avant l\'ouverture, pour que vos baies vitrées laissent entrer la lumière naturelle sans aucune trace.',
-        'Établissements scolaires et campus. Université de Rouen Normandie, grandes écoles, lycées — des centaines de mètres carrés de vitres à entretenir. On programme les interventions pendant les vacances scolaires. Des salles de classe lumineuses, c\'est un meilleur confort pour les étudiants et le personnel.',
-        'Résidences privées. Plateau Nord, Bonsecours, coteaux rouennais — vous avez de belles baies vitrées mais les nettoyer vous-même est risqué ou impossible. Vérandas, verrières, Velux, fenêtres en hauteur : on s\'en occupe avec le même soin que pour nos clients professionnels. Pour <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>, contactez-nous directement.',
+        'Écoles et campus. Des centaines de mètres carrés de vitres à entretenir. On programme les interventions pendant les vacances scolaires. Des salles de classe lumineuses, c\'est un meilleur confort pour les étudiants et le personnel.',
+        'Résidences privées. Vous avez de belles baies vitrées mais les nettoyer vous-même est risqué ou impossible. Vérandas, verrières, Velux, fenêtres en hauteur : on s\'en occupe avec le même soin que pour nos clients professionnels. Pour <a href="/devis-gratuit-rouen">obtenir votre devis personnalisé</a>, contactez-nous directement.',
       ],
     },
     {
-      heading: '🏠 Services Résidentiels d\'Exception : L\'Élégance Normande Révélée',
+      heading: '🏠 Vérandas, Verrières, Velux : Les Surfaces Que Personne Ne Nettoie',
       headingLevel: 3,
       paragraphs: [
-        'Vérandas et structures vitrées. Votre véranda verdit sur le toit ? C\'est normal — le climat humide de Rouen favorise mousses et lichens sur les toits vitrés. On élimine la végétation sans abîmer les joints d\'étanchéité, on nettoie les gouttières intégrées, et on restitue la transparence du vitrage. Votre véranda retrouve sa luminosité d\'origine.',
+        'Véranda opaque ? Le calcaire et les algues vertes s\'accumulent sur le toit en polycarbonate. On le traite avec des produits adaptés, pas du Kärcher qui rayerait tout. On élimine la végétation sans abîmer les joints d\'étanchéité, on nettoie les gouttières intégrées, et on restitue la transparence du vitrage. Votre véranda retrouve sa luminosité d\'origine.',
         'Verrières et puits de lumière. Ces surfaces en hauteur sont souvent oubliées. Poussière, fientes d\'oiseaux, pollution — elles s\'opacifient lentement et vous perdez de la lumière sans vous en rendre compte. On y accède en sécurité avec nos équipements spécialisés, produits compatibles avec tous types de verre et de joints.',
         'Baies vitrées et fenêtres panoramiques. Vous avez investi dans de grandes baies pour profiter de la vue — encore faut-il qu\'elles soient propres. On nettoie le vitrage, mais aussi les rails de coulissement et les joints d\'étanchéité. Verres feuilletés, double ou triple vitrage, verre à isolation renforcée : on adapte la technique au support.',
         'Velux et fenêtres de toit. Difficiles d\'accès, souvent négligés — vos Velux accumulent poussière et résidus de pluie en quelques mois. On les nettoie intérieur et extérieur, on vérifie les mécanismes d\'ouverture et l\'étanchéité. Intervention sécurisée avec harnais et points d\'ancrage vérifiés.',
       ],
     },
     {
-      heading: '🌿 Adaptation aux Spécificités Climatiques Continentales Normandes',
+      heading: '🌿 Pourquoi Vos Vitres Se Salissent Si Vite',
       headingLevel: 3,
       paragraphs: [
-        'Le climat de Rouen est rude pour vos vitres. Humidité, brouillards de vallée, pollution urbaine — vos carreaux se salissent plus vite qu\'ailleurs.',
-        'Humidité et brouillards de vallée. La Seine crée des brouillards qui déposent un film d\'humidité sur vos vitres chaque matin. On utilise des agents séchants naturels et des raclettes haute performance qui garantissent un séchage sans trace, même par temps humide. Un nettoyage classique laisserait des auréoles — pas le nôtre.',
-        'Variations saisonnières. En hiver, gel et condensation laissent des traces tenaces sur vos vitres. En été, c\'est la poussière et le pollen qui s\'accumulent. On adapte nos produits et techniques à chaque saison pour un résultat constant toute l\'année.',
-        'Architecture locale. Rouen mélange colombages médiévaux et façades vitrées modernes. On ne nettoie pas un vitrail du Vieux-Marché comme une baie vitrée de bureau. Notre équipe connaît les spécificités de chaque quartier et adapte ses techniques aux matériaux : produits neutres sur bois ancien, eau pure sur verre contemporain.',
+        'Humidité, brouillards, pollution — vos carreaux se salissent plus vite que vous ne pouvez les nettoyer. C\'est normal, et c\'est pour ça qu\'un entretien régulier par un pro fait toute la différence.',
+        'L\'humidité dépose un film sur vos vitres chaque matin. On utilise des agents séchants naturels et des raclettes haute performance qui garantissent un séchage sans trace, même par temps humide. Un nettoyage classique laisserait des auréoles — pas le nôtre.',
+        'En hiver, gel et condensation laissent des traces tenaces sur vos vitres. En été, c\'est la poussière et le pollen qui s\'accumulent. On adapte nos produits et techniques à chaque saison pour un résultat constant toute l\'année.',
+        'Boiseries anciennes ou façades vitrées modernes — on ne nettoie pas un châssis en bois comme une baie vitrée en alu. Notre équipe adapte ses techniques aux matériaux : produits neutres sur bois ancien, eau pure sur verre contemporain.',
       ],
     },
     {
-      heading: '🛠️ Arsenal Technologique de Pointe : L\'Innovation au Service de l\'Excellence',
+      heading: '🛠️ Notre Matériel : Ce Qui Fait la Différence',
       headingLevel: 3,
       paragraphs: [
-        'Station d\'eau pure mobile. Notre unité de déminéralisation embarquée produit une eau à 0 TDS — zéro calcaire, zéro résidu. Quatre étapes de filtration : préfiltre mécanique, charbon actif, résines échangeuses d\'ions, osmose inverse. On contrôle la qualité en continu avec des analyseurs électroniques. C\'est ce qui fait la différence entre "propre" et "parfait".',
+        'Station d\'eau pure mobile. Notre unité de déminéralisation embarquée produit une eau à 0 TDS — zéro calcaire, zéro résidu. Quatre étapes de filtration : préfiltre mécanique, charbon actif, résines échangeuses d\'ions, osmose inverse. On contrôle la qualité en continu. C\'est ce qui fait la différence entre "propre" et "parfait".',
         'Perches carbone de 8 à 20 mètres. Légères, rigides, précises. Les brosses rotatives à poils souples nettoient sans risque de rayure. L\'eau pure circule directement dans la perche pour un rinçage continu pendant le brossage. Un opérateur au sol nettoie vos vitres du 6ème étage en toute sécurité.',
-        'Nacelles de 14 à 35 mètres. Nacelles araignées pour les accès étroits du centre-ville, nacelles articulées pour contourner les balcons et corniches, nacelles sur chenilles pour les cours avec sols fragiles. Tout notre parc est certifié et contrôlé avant chaque intervention.',
-        'Matériel professionnel renouvelé en continu. Mouilleurs microfibre de toutes tailles, raclettes avec lames en caoutchouc naturel changées chaque jour, perches d\'extension ergonomiques, seaux avec systèmes d\'essorage. Du matériel neuf, c\'est un résultat net — une lame usée laisse des traces.',
+        'Nacelles de 14 à 35 mètres. Nacelles araignées pour les accès étroits, nacelles articulées pour contourner les balcons et corniches, nacelles sur chenilles pour les cours avec sols fragiles. Tout notre parc est certifié et contrôlé avant chaque intervention.',
+        'Matériel renouvelé en continu. Mouilleurs microfibre de toutes tailles, raclettes avec lames en caoutchouc naturel changées chaque jour, perches d\'extension ergonomiques. Du matériel neuf, c\'est un résultat net — une lame usée laisse des traces, point final.',
       ],
     },
     {
-      heading: '⚗️ Solutions Nettoyantes Haute Performance : Excellence Chimique et Respect Environnemental',
+      heading: '⚗️ Nos Produits : Efficaces et Sans Danger pour Votre Jardin',
       headingLevel: 3,
       paragraphs: [
-        'Détergents professionnels adaptés au climat normand. Agents dégraissants concentrés, tensioactifs biodégradables qui améliorent le pouvoir mouillant, séquestrants qui neutralisent le calcaire local. pH calibré pour nettoyer en profondeur sans attaquer vos vitrages ni vos encadrements.',
+        'Détergents professionnels adaptés à chaque situation. Agents dégraissants concentrés, tensioactifs biodégradables qui améliorent le pouvoir mouillant, séquestrants qui neutralisent le calcaire. pH calibré pour nettoyer en profondeur sans attaquer vos vitrages ni vos encadrements.',
         'Gamme écologique certifiée Ecolabel. Tous nos produits sont 100% biodégradables, sans phosphates, sans COV. On ne pollue pas votre jardin ou vos plantations en nettoyant vos vitres. Et avec le système d\'eau pure, on réduit encore l\'usage de détergents au strict minimum.',
-        'Désincrustants pour vitres très encrassées. Calcaire incrusté, pollution urbaine, traces de ciment après travaux — nos acides organiques tamponnés dissolvent les dépôts sans rayer le verre. Application contrôlée par nos techniciens, rinçage immédiat, protection de surface incluse.',
+        'Désincrustants pour vitres très encrassées. Calcaire incrusté, pollution, traces de ciment après travaux — nos acides organiques tamponnés dissolvent les dépôts sans rayer le verre. Application contrôlée par nos techniciens, rinçage immédiat, protection de surface incluse.',
       ],
     },
     {
-      heading: '⚡ Processus d\'Intervention ProClean : Service Intégral d\'Excellence',
+      heading: '⚡ Comment Se Passe une Intervention ProClean',
       headingLevel: 3,
       paragraphs: [
-        'Phase Conseil : on se déplace gratuitement pour évaluer vos vitres. Combien de m² ? Quelle hauteur ? Quel type de verre ? Quelles contraintes d\'accès ? On identifie les problèmes spécifiques et on vous remet un devis détaillé sous 24h — nettoyage, entretien huisseries, traitements préventifs inclus. On vous recommande aussi la bonne fréquence d\'entretien.',
+        'Phase Conseil : on se déplace gratuitement pour évaluer vos vitres. Combien de m² ? Quelle hauteur ? Quel type de verre ? Quelles contraintes d\'accès ? On identifie les problèmes et on vous remet un devis détaillé sous 24h — nettoyage, entretien huisseries, traitements préventifs inclus. On vous recommande aussi la bonne fréquence d\'entretien.',
         'Phase Organisation : on cale l\'intervention à votre convenance. Tôt le matin pour les commerces, hors heures de bureau pour le tertiaire, quand vous voulez pour les résidences. On se coordonne avec vos équipes ou votre gardien si nécessaire. Zéro perturbation.',
-        'Phase Préparation : balisage de la zone, protection de votre mobilier et de vos sols, vérification de tous les EPI. On prépare les solutions adaptées à vos vitres : formulation selon l\'exposition (nord, sud, urbaine, arborée), traitement préventif si besoin.',
+        'Phase Préparation : balisage de la zone, protection de votre mobilier et de vos sols, vérification de tous les EPI. On prépare les solutions adaptées à vos vitres : formulation selon l\'exposition (nord, sud, en ville, zone arborée), traitement préventif si besoin.',
         'Phase Technique : eau pure en hauteur, mouilleur-raclette au sol, désincrustant sur les encrassements tenaces. On nettoie aussi les huisseries, joints et appuis de fenêtre — pas juste le verre. Contrôle qualité en continu : si une vitre n\'est pas parfaite, on la reprend immédiatement.',
         'Phase Validation : inspection de chaque vitre sous éclairage technique. On traque la moindre trace. Essuyage des encadrements, nettoyage des éventuelles gouttes au sol, évacuation des eaux usées. On valide avec vous avant de partir et on vous donne des conseils d\'entretien entre deux passages.',
         'Phase Suivi : on vous recontacte sous 48h pour vérifier votre satisfaction. Votre prochaine intervention est déjà programmée si vous avez un contrat. Clients réguliers : tarifs préférentiels et priorité d\'intervention. Besoin urgent après une tempête ? On intervient sous 48h.',
       ],
     },
     {
-      heading: '❓ Foire aux Questions : Expertise ProClean à Votre Service',
+      heading: '❓ Questions Fréquentes sur le Nettoyage de Vitres',
       headingLevel: 3,
       paragraphs: [
-        'Quelle est la fréquence d\'entretien optimale pour mes vitres professionnelles ? Ça dépend de votre activité et de votre exposition. Bureaux : un nettoyage trimestriel suffit généralement. Commerces avec vitrine sur rue : tous les mois, voire toutes les deux semaines. Hôtels et restaurants : chaque semaine pour maintenir le standing. On définit la bonne fréquence lors du diagnostic gratuit.',
-        'Vos techniques respectent-elles les bâtiments historiques ? Oui. On utilise des produits neutres compatibles avec les huisseries anciennes, des méthodes douces sans pression sur les matériaux d\'époque. Pour les bâtiments classés, on travaille en coordination avec les Architectes des Bâtiments de France. Vos vitres sont propres, vos boiseries intactes.',
-        'Comment gérez-vous le nettoyage en hauteur ? Sécurité maximale. Nos équipes sont certifiées <strong>travaux en hauteur</strong> et qualifiées cordistes IRATA. Double vérification des équipements avant chaque intervention : harnais, longes, points d\'ancrage. Assurance professionnelle RC et décennale couvrant l\'intégralité de nos interventions.',
+        'À quelle fréquence faire nettoyer ses vitres ? Ça dépend de votre situation. Bureaux : un nettoyage trimestriel suffit généralement. Commerces avec vitrine sur rue : tous les mois, voire toutes les deux semaines. Hôtels et restaurants : chaque semaine pour maintenir le standing. On définit la bonne fréquence lors du diagnostic gratuit.',
+        'Vous ne risquez pas d\'abîmer mes menuiseries anciennes ? Non. On utilise des produits neutres compatibles avec les huisseries anciennes, des méthodes douces sans pression sur les matériaux d\'époque. Pour les bâtiments classés, on travaille en coordination avec les Architectes des Bâtiments de France. Vos vitres sont propres, vos boiseries intactes.',
+        'Comment vous faites pour les vitres en hauteur ? Sécurité maximale. Nos équipes sont certifiées <strong>travaux en hauteur</strong> et qualifiées cordistes IRATA. Double vérification des équipements avant chaque intervention : harnais, longes, points d\'ancrage. Assurance professionnelle RC et décennale couvrant l\'intégralité de nos interventions.',
         'Vos produits sont-ils écologiques ? Oui. Certifiés Ecolabel européen, sans phosphates, sans COV. Et dans 80% des cas, on utilise simplement de l\'eau pure déminéralisée — aucun produit chimique du tout. Vos plantes, votre jardin, vos gouttières : rien n\'est pollué par notre intervention.',
-        'Proposez-vous des contrats d\'entretien pour les professionnels ? Oui, avec des avantages concrets : tarifs dégressifs selon la fréquence, interventions programmées automatiquement, priorité en cas d\'urgence. On couvre tous les secteurs — bureaux, commerces, hôtels, santé, éducation. Le devis est calculé sur votre surface vitrée réelle et vos contraintes d\'accès.',
+        'Proposez-vous des contrats d\'entretien ? Oui, avec des avantages concrets : tarifs dégressifs selon la fréquence, interventions programmées automatiquement, priorité en cas d\'urgence. On couvre tous les secteurs — bureaux, commerces, hôtels, santé, éducation. Le devis est calculé sur votre surface vitrée réelle et vos contraintes d\'accès.',
         'Intervenez-vous en urgence après intempéries ? Oui. Tempête, neige, épisode de pollution — on peut intervenir sous 48h pour remettre vos vitres en état. Les ERP (établissements recevant du public) et les commerces sont traités en priorité. Appelez-nous au 07.49.13.06.83.',
       ],
     },
     {
-      heading: '💳 Politique Tarifaire Transparente et Solutions de Paiement',
+      heading: '💳 Nos Tarifs — Clairs et Sans Surprise',
       headingLevel: 3,
       paragraphs: [
-        'Grille Tarifaire Particuliers 2024',
+        'Grille Tarifaire Particuliers',
         'Tarifs professionnels. Immeubles de bureaux : 3,5€ à 5,5€/m² selon hauteur et fréquence. Commerces et vitrines : 5,5€ à 8,5€/m² selon exposition. Hôtellerie et restauration : 4,5€ à 6,5€/m². Contrats annuels : remise de 20% à 30% selon volume. Plus vous nettoyez régulièrement, moins ça coûte cher au m².',
         'Moyens de paiement acceptés',
         'Facturation claire et sans surprise. Vos factures détaillent les surfaces traitées, les techniques utilisées, les produits appliqués. Le prix du devis est le prix final. Paiement comptant pour les particuliers, 30 jours pour les professionnels.',
@@ -3121,10 +3121,10 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: '📞 Contactez ProClean Rouen Immédiatement',
+      heading: '📞 Appelez-nous — Devis Gratuit sous 24h',
       headingLevel: 3,
       paragraphs: [
-        'Intervention rapide à Rouen et dans toute l\'agglomération. Devis gratuit sous 24h. Urgence possible sous 48h.',
+        'Intervention rapide, devis gratuit sous 24h. Urgence possible sous 48h.',
         '☎️ Contact Direct : 07.49.13.06.83',
       ],
     },
@@ -3135,75 +3135,75 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: 'Nettoyage Professionnel Toiture Façade Gouttières à Rouen 76 | ProClean - Expert Démoussage Traitement Normandie',
       headingLevel: 3,
       paragraphs: [
-        'Mousse verte, lichens noirs, tuiles qui verdissent — votre toiture vieillit votre maison de 10 ans. ProClean Rouen assure le <strong>nettoyage et démoussage de toitures</strong>, façades et gouttières en Seine-Maritime. Nettoyage basse pression qui respecte vos matériaux, traitement hydrofuge qui protège pendant 5 à 10 ans. On intervient en sécurité sur tous types de couvertures dans toute l\'agglomération rouennaise.',
+        'La mousse s\'installe entre les tuiles, année après année. Les racines soulèvent les tuiles, l\'eau s\'infiltre, les gouttières se bouchent. Plus vous attendez, plus ça coûte cher. ProClean assure le <strong>nettoyage et démoussage de toitures</strong>, façades et gouttières. Nettoyage basse pression qui respecte vos matériaux, traitement hydrofuge qui protège pendant 5 à 10 ans. On intervient en sécurité sur tous types de couvertures.',
       ],
     },
     {
-      heading: '🏛️ ProClean Rouen : Excellence Normande Face aux Défis Climatiques Continentaux',
+      heading: '🏛️ ProClean : 12 Ans d\'Entretien de Toitures',
       headingLevel: 3,
       paragraphs: [
-        '12 ans d\'expérience en entretien de toitures à Rouen. Du centre historique aux plateaux résidentiels, de la Rive Gauche aux communes périurbaines — on connaît chaque quartier, chaque type de couverture, chaque problème lié au climat local.',
-        'Pourquoi votre toiture verdit-elle si vite ? Le climat de Rouen combine tout ce qu\'il faut pour développer des <strong>mousses, lichens et algues</strong> : humidité des vallées de Seine, brouillards fréquents, variations de température marquées. Ajoutez la pollution urbaine et vous comprenez pourquoi vos tuiles noircissent et votre façade grise en quelques années.',
-        'Colombages du centre-ville, pavillons des plateaux, immeubles haussmanniens, résidences modernes — chaque type de construction demande une approche différente. On ne traite pas une toiture en ardoise comme une toiture en tuile terre cuite. On adapte la pression, les produits et les techniques à vos matériaux.',
+        '12 ans d\'expérience en entretien de toitures. Pavillons, immeubles, bâtiments anciens, résidences modernes — on connaît chaque type de couverture et chaque problème qui va avec.',
+        'Pourquoi votre toiture verdit-elle si vite ? Humidité, brouillards fréquents, variations de température — c\'est le cocktail parfait pour développer des <strong>mousses, lichens et algues</strong>. Ajoutez la pollution et vous comprenez pourquoi vos tuiles noircissent et votre façade grise en quelques années.',
+        'Ardoise, tuile terre cuite, zinc, toiture-terrasse — chaque matériau demande une approche différente. On ne traite pas une toiture en ardoise comme une toiture en tuile. On adapte la pression, les produits et les techniques à vos matériaux.',
       ],
     },
     {
-      heading: '🚀 Méthode Professionnelle ProClean : Innovation et Respect du Patrimoine',
+      heading: '🚀 On Ne Monte Pas sur Votre Toit avec un Kärcher à Fond',
       headingLevel: 3,
       paragraphs: [
-        'Votre toiture est un investissement. Un mauvais nettoyage au karcher peut la détruire en une journée. Voici comment on procède pour un résultat durable sans abîmer vos matériaux.',
+        'Trop de pression = tuiles cassées, joints arrachés, infiltrations. On ne fait pas ça. On travaille à basse pression (20-80 bars) ou à la brosse selon le type de couverture. Voici comment on procède pour un résultat durable sans abîmer vos matériaux.',
         'Phase 1 : Diagnostic gratuit sur place. On monte sur votre toit, on inspecte chaque versant, on évalue l\'état des tuiles ou ardoises, l\'épaisseur de la mousse, l\'état des gouttières. On vérifie l\'orientation, l\'exposition, les zones d\'ombre qui favorisent la végétation. Vous savez exactement ce qu\'il faut faire — et ce que ça coûte — avant qu\'on commence.',
         'Phase 2 : Nettoyage basse pression. Pas de karcher haute pression qui casse les tuiles et décolle les ardoises. On travaille entre 20 et 80 bars maximum, adapté à chaque matériau :',
-        'Phase 3 : Traitement anti-mousse et hydrofuge. On applique un traitement fongicide biodégradable qui empêche la mousse de revenir pendant 3 à 5 ans. Puis un hydrofuge qui imperméabilise vos tuiles pour 5 à 10 ans. Produits conformes aux normes environnementales — pas de risque pour vos plantations ou la faune locale.',
+        'Phase 3 : Traitement anti-mousse et hydrofuge. Après le nettoyage, on applique un traitement fongicide biodégradable qui empêche la mousse de revenir pendant 3 à 5 ans. Puis un hydrofuge qui empêche l\'eau de pénétrer dans les tuiles — protection pour 5 à 10 ans. Votre toit reste propre beaucoup plus longtemps.',
       ],
       listItems: [
-        'Ardoises de la vallée d\'Angers traditionnelles des toitures historiques',
-        'Tuiles terre cuite normandes mécaniques et canal typiques de la région',
-        'Zinc et cuivre des architectures bourgeoises et contemporaines',
-        'Toitures-terrasses des constructions modernes et réhabilitations urbaines',
+        'Ardoises naturelles (toitures anciennes et traditionnelles)',
+        'Tuiles terre cuite mécaniques et canal',
+        'Zinc et cuivre (bâtiments bourgeois et contemporains)',
+        'Toitures-terrasses (constructions modernes et réhabilitations)',
       ],
     },
     {
-      heading: '🎯 Services Spécialisés ProClean : Expertise Complète de l\'Entretien Patrimonial',
+      heading: '🎯 Tout Ce Qu\'on Traite : Toiture, Façade, Gouttières et le Reste',
       headingLevel: 3,
       paragraphs: [
         'Démoussage et nettoyage de toitures. La mousse s\'infiltre sous vos tuiles, les soulève, crée des infiltrations. On l\'élimine en profondeur à basse pression — pas juste en surface. Puis on applique un traitement préventif qui ralentit la repousse pendant plusieurs années. Tuiles, ardoises, zinc : on traite tous les matériaux.',
-        '<strong>Traitement hydrofuge</strong> professionnel. Après le nettoyage, on applique un hydrofuge qui crée une barrière invisible contre l\'eau. Vos tuiles absorbent jusqu\'à 80% d\'eau en moins. Résultat : moins de gel-dégel, moins de mousse, une toiture qui dure plus longtemps. Particulièrement utile à Rouen où l\'humidité de la vallée de Seine accélère la dégradation.',
-        'Nettoyage de gouttières avec test d\'écoulement. Des gouttières bouchées, c\'est l\'eau qui déborde sur vos murs. Et à Rouen, avec la pluviométrie locale, ça arrive vite. On retire feuilles, mousses et débris, puis on teste l\'écoulement pour vérifier que tout s\'évacue correctement. Vos murs et fondations restent au sec.',
-        'Nettoyage de chêneaux. Les chêneaux — ces gouttières intégrées qu\'on trouve sur beaucoup de bâtiments anciens à Rouen — sont particulièrement sensibles. Mal entretenus, ils provoquent des infiltrations dans les murs porteurs. On les nettoie, on contrôle l\'étanchéité, on protège contre l\'usure climatique.',
-        'Entretien de caches-moineaux. Pigeons, moineaux, corvidés — les oiseaux urbains nichent sous vos toitures et provoquent des dégâts : fientes acides, obstruction des aérations, dégradation de l\'isolation. On nettoie, on traite et on protège vos caches-moineaux pour maintenir l\'étanchéité sous toiture.',
+        '<strong>Traitement hydrofuge</strong> professionnel. Après le nettoyage, on applique un hydrofuge qui crée une barrière invisible contre l\'eau. Vos tuiles absorbent jusqu\'à 80% d\'eau en moins. Résultat : moins de gel-dégel, moins de mousse, une toiture qui dure plus longtemps. Quand il pleut beaucoup, c\'est ce traitement qui fait la différence.',
+        'Nettoyage de gouttières avec test d\'écoulement. Des gouttières bouchées, c\'est l\'eau qui déborde sur vos murs. Avec des pluies régulières, ça arrive vite. On retire feuilles, mousses et débris, puis on teste l\'écoulement pour vérifier que tout s\'évacue correctement. Vos murs et fondations restent au sec.',
+        'Nettoyage de chêneaux. Les chêneaux — ces gouttières intégrées qu\'on trouve sur beaucoup de bâtiments anciens — sont particulièrement sensibles. Mal entretenus, ils provoquent des infiltrations dans les murs porteurs. On les nettoie, on contrôle l\'étanchéité, on protège contre l\'usure.',
+        'Entretien de caches-moineaux. Pigeons, moineaux, corvidés — les oiseaux nichent sous vos toitures et provoquent des dégâts : fientes acides, obstruction des aérations, dégradation de l\'isolation. On nettoie, on traite et on protège vos caches-moineaux pour maintenir l\'étanchéité sous toiture.',
         'Nettoyage de façades et volets. Votre façade est grise, vos volets ternis ? On adapte la technique au matériau — brique, pierre, crépi, colombage :',
         'Portes de garage. Métal oxydé, PVC jauni par la pollution — on restaure l\'aspect d\'origine et on applique un traitement anti-oxydation. Un détail souvent oublié qui change l\'allure de votre maison. Nous proposons aussi le <a href="/nettoyage-terrasse-rouen">nettoyage de terrasse à Rouen</a> pour vos espaces extérieurs.',
       ],
       listItems: [
-        'Brique rouge normande des constructions industrielles et bourgeoises',
-        'Pierre de Vernon des édifices prestigieux et monuments',
-        'Colombages des maisons médiévales du centre historique',
-        'Crépi traditionnel normand adapté au climat continental Élimination complète des traces de pollution urbaine et dépôts atmosphériques caractéristiques du climat rouennais.',
+        'Brique rouge (constructions industrielles et bourgeoises)',
+        'Pierre de taille (édifices anciens et monuments)',
+        'Colombages (maisons à pans de bois)',
+        'Crépi et enduit (élimination des traces de pollution et dépôts atmosphériques)',
       ],
     },
     {
-      heading: '🏘️ Secteurs d\'Expertise Architecturale : Maîtrise de Tous les Patrimoines Rouennais',
+      heading: '🏘️ Chaque Type de Bâtiment a Ses Problèmes — On Les Connaît',
       headingLevel: 3,
       paragraphs: [
-        'Centre historique et Vieux-Marché. Colombages, hôtels particuliers, édifices gothiques — ces bâtiments classés exigent des techniques ultra-douces. On nettoie sans pression excessive, avec des produits neutres compatibles avec la pierre ancienne et le bois. Respect strict des contraintes Monuments Historiques.',
-        'Quartiers haussmanniens. Façades en pierre de taille, ornements sculptés, <strong>toitures en ardoise</strong> — votre immeuble mérite un nettoyage qui respecte les détails architecturaux. On restaure l\'éclat d\'origine sans abîmer les modénatures et on applique une protection anti-salissure pour retarder le réencrassement.',
-        'Pavillons des plateaux. Votre pavillon sur le Plateau Nord ou Sud est exposé aux vents dominants — votre toiture prend tout. Tuiles mécaniques, façades enduites, portails : on nettoie et on traite pour résister aux conditions climatiques des hauteurs rouennaises.',
+        'Bâtiments anciens et classés. Colombages, hôtels particuliers, édifices en pierre — ces bâtiments exigent des techniques douces. On nettoie sans pression excessive, avec des produits neutres compatibles avec la pierre ancienne et le bois. Respect strict des contraintes Monuments Historiques.',
+        'Immeubles en pierre de taille. Façades sculptées, ornements, <strong>toitures en ardoise</strong> — votre immeuble mérite un nettoyage qui respecte les détails. On restaure l\'éclat d\'origine sans abîmer les modénatures et on applique une protection anti-salissure pour retarder le réencrassement.',
+        'Pavillons en zone exposée. Votre pavillon est exposé aux vents dominants — votre toiture prend tout. Tuiles mécaniques, façades enduites, portails : on nettoie et on traite pour résister aux intempéries.',
         'Bâtiments industriels réhabilités. Lofts en brique, structures métalliques, grandes verrières — ces espaces atypiques accumulent pollution et traces d\'usure. On nettoie en respectant le caractère industriel d\'origine. Pour vos surfaces vitrées, découvrez notre <a href="/nettoyage-vitres-rouen">nettoyage de vitres à Rouen</a>.',
       ],
     },
     {
-      heading: '🌿 Adaptation aux Spécificités Climatiques Continentales Normandes',
+      heading: '🌿 L\'Humidité, le Gel, l\'Ombre : Les Vrais Ennemis de Votre Toit',
       headingLevel: 3,
       paragraphs: [
-        'Le climat rouennais est l\'ennemi numéro un de votre toiture. Voici pourquoi — et comment on s\'y adapte.',
-        'Humidité et brouillards de vallée. La Seine génère des brouillards qui maintiennent vos tuiles humides des heures — le paradis pour les mousses et lichens. Notre traitement fongicide préventif agit même en atmosphère humide persistante. Il ne se contente pas de tuer la mousse existante : il empêche la repousse pendant 3 à 5 ans.',
+        'Le climat humide est l\'ennemi numéro un de votre toiture. Voici pourquoi — et comment on s\'y adapte.',
+        'L\'humidité maintient vos tuiles mouillées des heures — le paradis pour les mousses et lichens. Notre traitement fongicide préventif agit même en atmosphère humide persistante. Il ne se contente pas de tuer la mousse existante : il empêche la repousse pendant 3 à 5 ans.',
         'Gel-dégel : le tueur silencieux. L\'eau s\'infiltre dans vos tuiles poreuses, gèle, se dilate, fissure le matériau. Saison après saison, votre toiture se dégrade. L\'hydrofuge empêche cette absorption d\'eau et casse le cycle de gel-dégel. En été, on traite la prolifération accélérée de mousse favorisée par la chaleur humide.',
-        'Rues étroites et cours intérieures. Dans le centre de Rouen, vos façades et toitures voient peu le soleil. L\'humidité stagne, la mousse prospère deux fois plus vite. On renforce le traitement sur les zones ombragées et les façades nord. Ces surfaces demandent un suivi plus fréquent — on vous le dit dès le diagnostic.',
+        'Zones ombragées et façades nord. Si votre toiture voit peu le soleil, l\'humidité stagne et la mousse prospère deux fois plus vite. On renforce le traitement sur ces zones. Ces surfaces demandent un suivi plus fréquent — on vous le dit dès le diagnostic.',
       ],
     },
     {
-      heading: '🛠️ Zones d\'Intervention ProClean : Couverture Intégrale de la Métropole',
+      heading: '🛠️ Où On Intervient',
       headingLevel: 3,
       paragraphs: [
         'Rouen Métropole — on intervient partout :',
@@ -3241,7 +3241,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: '⚡ Processus d\'Intervention ProClean : Excellence Opérationnelle Intégrale',
+      heading: '⚡ Comment Se Passe une Intervention Toiture',
       headingLevel: 3,
       paragraphs: [
         'Phase Conseil : on vient chez vous gratuitement. On inspecte votre toiture, votre façade, vos gouttières. On identifie les zones critiques et on vous remet un devis détaillé sous 48h — avec le planning prévisionnel et les garanties. Pas de surprise, pas de coût caché.',
@@ -3253,11 +3253,11 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: '❓ Foire aux Questions : Expertise ProClean à Votre Service',
+      heading: '❓ Questions Fréquentes sur l\'Entretien de Toiture',
       headingLevel: 3,
       paragraphs: [
-        'À quelle fréquence faire entretenir sa toiture à Rouen ? Toiture standard en tuiles ou ardoises : tous les 3 à 5 ans. Toiture exposée nord, en zone arborée ou sur les plateaux ventés : tous les 2 à 3 ans. Avec un traitement hydrofuge, vous espacez les interventions. On détermine la bonne fréquence lors du diagnostic gratuit en fonction de votre exposition et de vos matériaux.',
-        'Vos techniques respectent-elles les bâtiments anciens ? Oui. Pression réduite à 20 bars maximum sur les matériaux fragiles, produits neutres compatibles avec la pierre ancienne et le bois, respect strict des prescriptions ABF (Architectes des Bâtiments de France). On travaille régulièrement sur des bâtiments classés dans le centre de Rouen.',
+        'À quelle fréquence faire entretenir sa toiture ? Toiture standard en tuiles ou ardoises : tous les 3 à 5 ans. Toiture exposée nord ou en zone arborée : tous les 2 à 3 ans. Avec un traitement hydrofuge, vous espacez les interventions. On détermine la bonne fréquence lors du diagnostic gratuit en fonction de votre exposition et de vos matériaux.',
+        'Vos techniques respectent-elles les bâtiments anciens ? Oui. Pression réduite à 20 bars maximum sur les matériaux fragiles, produits neutres compatibles avec la pierre ancienne et le bois, respect strict des prescriptions ABF (Architectes des Bâtiments de France). On travaille régulièrement sur des bâtiments classés.',
         'Comment assurez-vous la sécurité sur les toits ? Chaque intervention commence par la vérification des points d\'ancrage, harnais et longes. Nos équipes sont certifiées travail en hauteur. Double contrôle systématique avant de monter. Assurance RC et décennale couvrant l\'intégralité des travaux. En 12 ans, zéro accident.',
         'Vos traitements sont-ils écologiques ? 100% biodégradables, non toxiques pour la faune et la flore. Vos plantes, votre pelouse, vos animaux ne risquent rien. L\'hydrofuge qu\'on applique protège pendant 5 à 10 ans selon l\'exposition — vous nettoyez moins souvent, c\'est mieux pour l\'environnement et pour votre budget. Pour une <a href="/devis-gratuit-rouen">estimation gratuite et sans engagement</a>, appelez-nous.',
         'Proposez-vous des contrats pour les copropriétés ? Oui. Contrats pluriannuels avec tarifs préférentiels, interventions programmées, priorité en cas d\'urgence. Le syndic budgétise sur plusieurs années et les copropriétaires paient moins cher. On adapte le devis à la taille de votre copropriété, au nombre de bâtiments et aux matériaux.',
@@ -3265,7 +3265,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: '💳 Politique Tarifaire Transparente et Solutions de Paiement',
+      heading: '💳 Nos Tarifs Toiture — Clairs et Sans Surprise',
       headingLevel: 3,
       paragraphs: [
         'Grille Tarifaire Indicative 2024',
@@ -3282,7 +3282,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
         'Configuration et accessibilité du bâtiment',
         'Degré d\'encrassement et type de végétation',
         'Matériaux de construction et techniques requises',
-        'Surface totale à traiter et complexité architecturale',
+        'Surface totale à traiter et difficulté d\'accès',
         'Traitements complémentaires et garanties souhaitées',
         'Chèque à l\'ordre de ProClean Rouen',
         'Virement bancaire (coordonnées fournies avec facture)',
@@ -3290,18 +3290,18 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       ],
     },
     {
-      heading: '📞 Contactez ProClean Rouen pour Valoriser Votre Patrimoine',
+      heading: '📞 Appelez-nous — Diagnostic Gratuit sous 48h',
       headingLevel: 3,
       paragraphs: [
-        'Intervention rapide à Rouen et dans toute l\'agglomération. Diagnostic gratuit sous 48h, devis détaillé adapté à votre toiture et vos matériaux.',
+        'Intervention rapide. Diagnostic gratuit sous 48h, devis détaillé adapté à votre toiture et vos matériaux.',
         '☎️ Contact Direct : 07.49.13.06.83',
         '✉️ Email : contact@proclean-rouen.fr',
-        'ProClean Rouen — Spécialistes toiture, façade, gouttières. *Siège social : Rouen, Seine-Maritime.* *Zone d\'intervention : Rouen Métropole, Petit-Couronne, Grand-Couronne, Sotteville-lès-Rouen, Saint-Étienne-du-Rouvray, Canteleu, Maromme, Déville-lès-Rouen, Bonsecours, Franqueville-Saint-Pierre, Barentin, Elbeuf et toute la Seine-Maritime.*',
+        'ProClean — Spécialistes toiture, façade, gouttières. *Siège social : Le Havre, Seine-Maritime.* *Zone d\'intervention : Rouen et toute la Seine-Maritime.*',
         'Pourquoi entretenir votre toiture régulièrement ?',
       ],
       listItems: [
-        'Maintenir l\'étanchéité face aux intempéries continentales normandes',
-        'Préserver la valeur patrimoniale dans un marché immobilier rouennais dynamique',
+        'Maintenir l\'étanchéité face aux intempéries',
+        'Préserver la valeur de votre bien immobilier',
         'Éviter les réparations coûteuses liées à l\'usure et aux infiltrations',
         'Améliorer les performances énergétiques et réduire les déperditions thermiques',
       ],
