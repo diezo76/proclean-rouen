@@ -52,7 +52,7 @@ export default function SiteHeader() {
       <div className="container-main">
         <div className="flex items-center justify-between h-20 md:h-24">
           {/* Logo — CLean.png sur fond sombre, logo.png sur fond blanc */}
-          <Link href="/" className="relative z-50 flex-shrink-0">
+          <Link href="/" className="relative z-[70] flex-shrink-0" onClick={() => mobileOpen && setMobileOpen(false)}>
             <Image
               src={!scrolled && hasDarkHero ? '/images/CLean.png' : '/images/logo.png'}
               alt={!scrolled && hasDarkHero ? 'ProClean entreprise de nettoyage Rouen' : 'ProClean société de nettoyage à Rouen'}
@@ -64,7 +64,7 @@ export default function SiteHeader() {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center gap-1">
+          <nav className="hidden lg:flex items-center gap-0">
             {navigation.mainMenu.map((item, idx) =>
               item.children && item.children.length > 0 ? (
                 /* Dropdown item */
@@ -75,12 +75,12 @@ export default function SiteHeader() {
                   onMouseLeave={() => setOpenDropdown(null)}
                 >
                   <button
-                    className={`flex items-center gap-1 px-4 py-2 text-sm font-semibold uppercase tracking-wide transition-colors ${textColor}`}
+                    className={`flex items-center gap-1 px-2.5 xl:px-3.5 py-2 text-xs xl:text-sm font-semibold uppercase tracking-wide transition-colors whitespace-nowrap ${textColor}`}
                     aria-expanded={openDropdown === idx}
                   >
                     {item.label}
                     <ChevronDown
-                      className={`w-4 h-4 transition-transform duration-200 ${
+                      className={`w-3.5 h-3.5 transition-transform duration-200 ${
                         openDropdown === idx ? 'rotate-180' : ''
                       }`}
                     />
@@ -115,7 +115,7 @@ export default function SiteHeader() {
                 <Link
                   key={item.label}
                   href={item.href}
-                  className={`px-4 py-2 text-sm font-semibold uppercase tracking-wide transition-colors ${textColor}`}
+                  className={`px-2.5 xl:px-3.5 py-2 text-xs xl:text-sm font-semibold uppercase tracking-wide transition-colors whitespace-nowrap ${textColor}`}
                 >
                   {item.label}
                 </Link>
@@ -139,7 +139,7 @@ export default function SiteHeader() {
 
           {/* Mobile hamburger */}
           <button
-            className={`lg:hidden z-50 p-2 ${!scrolled && hasDarkHero ? 'text-white' : 'text-navy dark:text-dark-text'}`}
+            className={`lg:hidden relative z-[70] p-2 ${mobileOpen ? 'text-white' : !scrolled && hasDarkHero ? 'text-white' : 'text-navy dark:text-dark-text'}`}
             onClick={() => setMobileOpen(!mobileOpen)}
             aria-label={mobileOpen ? 'Fermer le menu' : 'Ouvrir le menu'}
           >
@@ -156,15 +156,15 @@ export default function SiteHeader() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.3 }}
-            className="fixed inset-0 bg-white dark:bg-dark-bg z-40 lg:hidden"
+            className="fixed inset-0 bg-navy z-[60] lg:hidden"
           >
             <nav className="pt-24 px-6 pb-8 h-full overflow-y-auto">
               {navigation.mainMenu.map((item, idx) =>
                 item.children && item.children.length > 0 ? (
                   /* Dropdown accordion */
-                  <div key={item.label} className="border-b border-gray-border/50 dark:border-gray-border/10">
+                  <div key={item.label} className="border-b border-white/10">
                     <button
-                      className="flex items-center justify-between w-full py-4 text-lg font-display font-semibold text-navy dark:text-dark-text"
+                      className="flex items-center justify-between w-full py-4 text-lg font-display font-semibold text-white"
                       onClick={() =>
                         setMobileAccordion(mobileAccordion === idx ? null : idx)
                       }
@@ -172,7 +172,7 @@ export default function SiteHeader() {
                     >
                       {item.label}
                       <ChevronDown
-                        className={`w-5 h-5 transition-transform duration-200 ${
+                        className={`w-5 h-5 text-white/60 transition-transform duration-200 ${
                           mobileAccordion === idx ? 'rotate-180' : ''
                         }`}
                       />
@@ -191,7 +191,7 @@ export default function SiteHeader() {
                               <Link
                                 key={link.href}
                                 href={link.href}
-                                className="block py-2 text-gray-text dark:text-dark-text-secondary hover:text-proclean-blue transition-colors"
+                                className="block py-2 text-white/70 hover:text-proclean-blue-light transition-colors"
                                 onClick={() => setMobileOpen(false)}
                               >
                                 {link.label}
@@ -204,10 +204,10 @@ export default function SiteHeader() {
                   </div>
                 ) : (
                   /* Direct link */
-                  <div key={item.label} className="border-b border-gray-border/50 dark:border-gray-border/10">
+                  <div key={item.label} className="border-b border-white/10">
                     <Link
                       href={item.href}
-                      className="block py-4 text-lg font-display font-semibold text-navy dark:text-dark-text hover:text-proclean-blue transition-colors"
+                      className="block py-4 text-lg font-display font-semibold text-white hover:text-proclean-blue-light transition-colors"
                       onClick={() => setMobileOpen(false)}
                     >
                       {item.label}
@@ -219,7 +219,7 @@ export default function SiteHeader() {
               <div className="mt-8 space-y-4">
                 <a
                   href={`tel:${siteConfig.phoneFormatted}`}
-                  className="flex items-center justify-center gap-2 py-3 text-lg font-medium text-navy dark:text-dark-text"
+                  className="flex items-center justify-center gap-2 py-3 text-lg font-medium text-white"
                 >
                   <Phone className="w-5 h-5" />
                   {siteConfig.phone}
