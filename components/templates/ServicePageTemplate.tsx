@@ -123,6 +123,8 @@ export default function ServicePageTemplate({
           sections={content.sections}
           contentImage={service.contentImage}
           contentImageAlt={`${service.title} à domicile à Rouen — ProClean`}
+          contentImage2={service.contentImage2}
+          contentImage2Alt={`${service.title} — intervention ProClean à Rouen`}
         />
       )}
 

@@ -11,6 +11,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-canape-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-canape-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-canape-rouen-1.jpg',
   },
   {
     slug: 'nettoyage-tapis-rouen',
@@ -21,6 +22,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-tapis-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-tapis-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-tapis-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-moquette-rouen',
@@ -31,6 +33,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-nettoyage-moquette-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-moquette-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-moquette-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-matelas-rouen',
@@ -41,6 +44,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-nettoyage-matelas-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-matelas-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-matelas-rouen-2.jpg',
   },
 
   // --- Particuliers (9) ---
@@ -53,6 +57,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.9,
     heroImage: '/images/services/hero-nettoyage-diogene-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-diogene-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-diogene-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-apres-travaux-rouen',
@@ -63,6 +68,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-apres-travaux-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-apres-travaux-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-apres-travaux-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-lustre-rouen',
@@ -73,6 +79,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.6,
     heroImage: '/images/services/hero-nettoyage-lustre-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-lustre-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-lustre-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-apres-demenagement-rouen',
@@ -83,6 +90,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-apres-demenagement-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-apres-demenagement-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-apres-demenagement-rouen-2.jpg',
   },
   {
     slug: 'debarras-maison-rouen',
@@ -93,6 +101,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-debarras-maison-rouen.jpg',
     contentImage: '/images/services/content-debarras-maison-rouen.jpg',
+    contentImage2: '/images/services/content-debarras-maison-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-appartement-rouen',
@@ -103,6 +112,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-appartement-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-appartement-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-appartement-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-voiture-rouen',
@@ -113,6 +123,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.6,
     heroImage: '/images/services/hero-nettoyage-voiture-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-voiture-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-voiture-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-terrasse-rouen',
@@ -123,6 +134,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.6,
     heroImage: '/images/services/hero-nettoyage-terrasse-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-terrasse-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-terrasse-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-vitres-rouen',
@@ -133,6 +145,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-nettoyage-vitres-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-vitres-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-vitres-rouen-2.jpg',
   },
 
   // --- Professionnels (7) ---
@@ -145,6 +158,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.9,
     heroImage: '/images/services/hero-nettoyage-bureaux-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-bureaux-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-bureaux-rouen-2.jpg',
   },
   {
     slug: 'entretien-commerces-rouen',
@@ -155,6 +169,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-entretien-commerces-rouen.jpg',
     contentImage: '/images/services/content-entretien-commerces-rouen.jpg',
+    contentImage2: '/images/services/content-entretien-commerces-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-parking-rouen',
@@ -165,6 +180,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.6,
     heroImage: '/images/services/hero-nettoyage-parking-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-parking-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-parking-rouen-2.jpg',
   },
   {
     slug: 'entretien-immeubles-rouen',
@@ -175,6 +191,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-entretien-immeubles-rouen.jpg',
     contentImage: '/images/services/content-entretien-immeubles-rouen.jpg',
+    contentImage2: '/images/services/content-entretien-immeubles-rouen-1.jpg',
   },
   {
     slug: 'nettoyage-distributeurs-rouen',
@@ -185,6 +202,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.5,
     heroImage: '/images/services/hero-nettoyage-distributeurs-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-distributeurs-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-distributeurs-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-camion-rouen',
@@ -195,6 +213,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.5,
     heroImage: '/images/services/hero-nettoyage-camion-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-camion-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-camion-rouen-2.jpg',
   },
   {
     slug: 'nettoyage-toiture-rouen',
@@ -205,6 +224,7 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-nettoyage-toiture-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-toiture-rouen.jpg',
+    contentImage2: '/images/services/content-nettoyage-toiture-rouen-2.jpg',
   },
 ];
 
