@@ -11,8 +11,6 @@ interface ContentSectionsProps {
   sections: ContentBlock[];
   contentImage?: string;
   contentImageAlt?: string;
-  contentImage2?: string;
-  contentImage2Alt?: string;
 }
 
 interface FAQBentoData {
@@ -96,12 +94,11 @@ function buildRenderItems(sections: ContentBlock[]): RenderItem[] {
   return items;
 }
 
-export default function ContentSections({ sections, contentImage, contentImageAlt, contentImage2, contentImage2Alt }: ContentSectionsProps) {
+export default function ContentSections({ sections, contentImage, contentImageAlt }: ContentSectionsProps) {
   if (sections.length === 0) return null;
 
   const renderItems = buildRenderItems(sections);
   const imageInsertIndex = 1;
-  const image2InsertIndex = 4;
 
   return (
     <>
@@ -127,19 +124,6 @@ export default function ContentSections({ sections, contentImage, contentImageAl
                     <Image
                       src={contentImage}
                       alt={contentImageAlt || 'ProClean Rouen - Service professionnel'}
-                      width={600}
-                      height={800}
-                      className="w-full h-auto rounded-xl"
-                      loading="lazy"
-                      sizes="(max-width: 768px) 100vw, 45vw"
-                    />
-                  </div>
-                )}
-                {contentImage2 && originalIndex === image2InsertIndex && (
-                  <div className="mb-4 w-full md:float-right md:w-[45%] md:ml-5 md:mb-2">
-                    <Image
-                      src={contentImage2}
-                      alt={contentImage2Alt || 'ProClean Rouen - Intervention professionnelle'}
                       width={600}
                       height={800}
                       className="w-full h-auto rounded-xl"

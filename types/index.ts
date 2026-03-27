@@ -169,7 +169,6 @@ export interface ServiceDefinition {
   priority: number;
   heroImage?: string;
   contentImage?: string;
-  contentImage2?: string;
 }
 
 // ============================================================
