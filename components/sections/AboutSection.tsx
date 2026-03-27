@@ -107,14 +107,14 @@ export default function AboutSection({ content }: AboutSectionProps) {
                   sizes="(max-width: 1024px) 75vw, 35vw"
                 />
               </div>
-              {/* Small overlapping image */}
-              <div className="absolute bottom-0 right-0 w-[55%] h-[50%] rounded-2xl overflow-hidden shadow-lg border-4 border-white dark:border-dark-bg">
+              {/* Logo overlapping */}
+              <div className="absolute bottom-0 right-0 w-[55%] h-[50%] rounded-2xl overflow-hidden shadow-lg border-4 border-white dark:border-dark-bg bg-white flex items-center justify-center p-6">
                 <Image
-                  src="/images/about/about-2.webp"
-                  alt="Résultat après nettoyage professionnel à Rouen"
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 1024px) 55vw, 25vw"
+                  src="/images/CLean.png"
+                  alt="Logo ProClean entreprise de nettoyage à Rouen"
+                  width={300}
+                  height={120}
+                  className="object-contain w-full h-auto"
                 />
               </div>
             </div>
