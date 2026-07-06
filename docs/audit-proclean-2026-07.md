@@ -12,7 +12,9 @@
 - [x] **Phase B.1 — Métadonnées trop longues** : titre `/nettoyage-saint-etienne-du-rouvray` (61→47c), description homepage (160→142c), description `/entreprise-nettoyage-rouen` (156→146c), description `/nettoyage-saint-etienne-du-rouvray` (157→138c).
 - [x] **Phase B.2 — Images WebP** : 11 images converties (cwebp qualité 58-85 selon densité de détail), toutes <150 Ko. Originaux JPG archivés dans `public/images/_originals/` (non référencés, à supprimer après vérification visuelle).
 - [x] **Hygiène repo** : suppression de 2 doublons d'images non référencés (`content-entretien-immeubles-rouen 2.jpg`/`3.jpg`) ; `package-lock.json` ajouté au suivi git (n'était pas ignoré mais jamais commité).
-- [ ] **Non touché (session séparée prévue)** : diversification des intros de zone des 20 pages services, densité "métropole"/"patrimoine", structure "Étape 1/2/3" de `rouen-sections.ts` — voir Phase D points 4-6.
+- [x] **Phase D.4/D.5 — Diversification des 20 intros de zone + réduction densité "métropole"/"patrimoine"** : 20 intros réécrites avec 40 liens internes vers les city hubs (2/intro), "métropole" éliminé, "patrimoine/patrimonial" ramené à 2 occurrences légitimes (session du 2026-07-07).
+- [~] **Phase D.9 — Maillage interne services → villes** : partiel, via les 20 intros de zone (voir ci-dessus). Reste à traiter le maillage depuis le corps des pages services.
+- [ ] **Non touché (session séparée prévue)** : structure "Étape 1/2/3" identique de `rouen-sections.ts` — voir Phase D point 6.
 
 ---
 
@@ -114,8 +116,8 @@ Avant de cloner ce template vers les 19 autres villes du réseau : diversifier l
 3. Raccourcir les 3 descriptions >155 caractères et le titre 61 caractères.
 
 ### Contenu — priorité avant duplication du template
-4. **Diversifier les 20 intros de zone des pages services** (le point le plus impactant de tout l'audit) — remplacer la phrase unique "Nous intervenons pour le nettoyage de X dans toute la métropole" par 4-5 variantes selon la catégorie de service.
-5. Réduire la densité de "métropole" (27→~12) et "patrimoine" (12→~6) dans `content/rouen.ts`.
+4. [x] **Diversifier les 20 intros de zone des pages services** (le point le plus impactant de tout l'audit) — remplacer la phrase unique "Nous intervenons pour le nettoyage de X dans toute la métropole" par 4-5 variantes selon la catégorie de service. *Fait le 2026-07-07 : 20 intros réécrites, 40 liens internes vers les villes (2/intro, 3-4 occurrences par ville).*
+5. [x] Réduire la densité de "métropole" (27→~12) et "patrimoine" (12→~6) dans `content/rouen.ts`. *Fait le 2026-07-07 : "métropole" éliminé (0 occurrence), "patrimoine/patrimonial" ramené à 2 occurrences légitimes.*
 6. Casser la structure "Étape 1/2/3" identique de `content/rouen-sections.ts` : varier le nombre d'étapes et les titres de section par service.
 
 ### SEO local — ce qui manque
@@ -123,7 +125,7 @@ Avant de cloner ce template vers les 19 autres villes du réseau : diversifier l
 8. Zone géographique : le contenu hyper-local est bon sur les FAQ villes mais pourrait être renforcé sur les pages services (actuellement génériques "métropole").
 
 ### Maillage interne
-9. Les 12 pages villes sont bien maillées entre elles (villes voisines) mais gagneraient à recevoir plus de liens entrants explicites depuis les pages services (actuellement le lien se fait presque uniquement homepage → villes).
+9. [~] Les 12 pages villes sont bien maillées entre elles (villes voisines) mais gagneraient à recevoir plus de liens entrants explicites depuis les pages services (actuellement le lien se fait presque uniquement homepage → villes). *Partiel le 2026-07-07 : les 20 intros de zone des pages services lient maintenant vers 2 city hubs chacune (40 liens). Reste à faire : maillage depuis le corps des pages services (hors bloc zone).*
 
 ---
 
