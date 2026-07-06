@@ -26,7 +26,7 @@ export const rouenContent: RouenContent = {
       heading:
         'Services de nettoyage personnalisés pour Rouennais particuliers et professionnels',
       paragraph:
-        'ProClean vous propose des solutions de nettoyage adaptées à Rouen et son agglomération. Établie au cœur de la Seine-Maritime, notre équipe comprend les enjeux spécifiques du patrimoine rouennais. Du vieux Rouen historique aux nouveaux quartiers de Saint-Sever, nous maîtrisons les techniques préservant l\'architecture normande traditionnelle face à l\'humidité de la Seine.',
+        'ProClean vous propose des solutions de nettoyage adaptées à Rouen et son agglomération. Implantée en Seine-Maritime, notre équipe connaît les spécificités du bâti rouennais. Du vieux Rouen historique aux nouveaux quartiers de Saint-Sever, nous maîtrisons les techniques préservant l\'architecture normande traditionnelle face à l\'humidité de la Seine.',
     },
     whyUs: {
       heading: 'Les atouts ProClean à Rouen',
@@ -34,7 +34,7 @@ export const rouenContent: RouenContent = {
         {
           title: 'Savoir-faire patrimonial',
           description:
-            'Depuis notre installation rouennaise, ProClean excelle dans la régénération des tissus d\'ameublement, la maintenance des espaces professionnels et la gestion des situations délicates comme le syndrome de Diogène. Nos spécialistes allient respect du patrimoine et méthodes modernes pour des résultats exceptionnels et pérennes.',
+            'Depuis notre installation rouennaise, ProClean excelle dans la régénération des tissus d\'ameublement, la maintenance des espaces professionnels et la gestion des situations délicates comme le syndrome de Diogène. Nos spécialistes allient connaissance du bâti local et méthodes modernes pour des résultats exceptionnels et pérennes.',
           icon: 'Shield',
           stat: '15+',
           statLabel: "ans d'expérience",
@@ -109,7 +109,7 @@ export const rouenContent: RouenContent = {
       heading: 'ProClean, l\'excellence du nettoyage à Rouen',
       subtitle: 'Des espaces transformés, une propreté irréprochable',
       paragraph:
-        'Implantés en Seine-Maritime, nous proposons des solutions de nettoyage sur mesure alliant techniques modernes et respect du patrimoine normand. Notre équipe de techniciens qualifiés intervient avec rigueur et discrétion pour remettre vos espaces en état.',
+        'Implantés en Seine-Maritime, nous proposons des solutions de nettoyage sur mesure alliant techniques modernes et connaissance des bâtiments normands anciens comme récents. Notre équipe de techniciens qualifiés intervient avec rigueur et discrétion pour remettre vos espaces en état.',
       bulletPoints: [
         'Assurance qualité sur chaque intervention',
         'Large gamme de services pour tous les besoins',
@@ -204,7 +204,7 @@ export const rouenContent: RouenContent = {
     'nettoyage-diogene-rouen': {
       slug: 'nettoyage-diogene-rouen',
       h1: 'Nettoyage syndrome de Diogène à Rouen : retrouvez votre dignité en toute confidentialité',
-      subtitle: 'Experts en décontamination de logements insalubres dans toute la métropole rouennaise',
+      subtitle: 'Experts en décontamination de logements insalubres à Rouen et dans les communes voisines',
       metaTitle: 'Nettoyage Syndrome de Diogène Rouen | ProClean - Expert Décontamination',
       metaDescription: 'Nettoyage syndrome de Diogène à Rouen. Débarras, désinfection et décontamination de logements insalubres. Intervention confidentielle, devis gratuit sous 24h.',
       sections: [
@@ -264,7 +264,7 @@ export const rouenContent: RouenContent = {
         { label: 'Situations extrêmes avec décès', price: '4.200€ - 8.500€' },
       ],
       zone: {
-        paragraph: 'Nous opérons pour le nettoyage syndrome de Diogène dans toute la métropole.',
+        paragraph: 'On intervient dans toute l\'agglomération pour ce type de situation, avec la même discrétion à <a href="/nettoyage-saint-etienne-du-rouvray">Saint-Étienne-du-Rouvray</a> qu\'à <a href="/nettoyage-maromme">Maromme</a>.',
         cities: ZONE_CITIES,
         paymentMethods: PAYMENT_METHODS,
       },
@@ -281,9 +281,9 @@ export const rouenContent: RouenContent = {
     'nettoyage-apres-travaux-rouen': {
       slug: 'nettoyage-apres-travaux-rouen',
       h1: 'Nettoyage après travaux à Rouen : révélez l\'éclat de vos espaces transformés',
-      subtitle: 'Société de nettoyage de fin de chantier et ménage après travaux dans toute la métropole rouennaise',
+      subtitle: 'Société de nettoyage de fin de chantier et ménage après travaux à Rouen et dans un rayon de 20 km',
       metaTitle: 'Nettoyage Après Travaux Rouen | ProClean - Fin de Chantier Expert',
-      metaDescription: 'Nettoyage après travaux à Rouen. Remise en état complète de locaux après chantier, respect du patrimoine. Devis gratuit sous 24h.',
+      metaDescription: 'Nettoyage après travaux à Rouen. Remise en état complète de locaux après chantier, sols et vitres compris. Devis gratuit sous 24h.',
       sections: [],
       pricing: [
         { label: 'Appartement standard après travaux', price: '9€ - 14€/m²' },
@@ -291,7 +291,7 @@ export const rouenContent: RouenContent = {
         { label: 'Maison à colombages', price: '18€ - 28€/m²' },
         { label: 'Locaux commerciaux centre historique', price: '12€ - 18€/m²' },
       ],
-      zone: { paragraph: 'Nous opérons pour le nettoyage de fin de chantier dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Après chantier, le nettoyage suit le rythme des travaux — de <a href="/nettoyage-saint-etienne-du-rouvray">Saint-Étienne-du-Rouvray</a> jusqu\'à <a href="/nettoyage-elbeuf">Elbeuf</a>, le déplacement est compris dans le devis, sans exception.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte un nettoyage après travaux ?', answer: 'Entre 9€ et 22€/m² selon le type de travaux et l\'état du chantier. Un T3 de 65m² revient généralement entre 600€ et 900€.' },
         { question: 'Combien de temps faut-il pour nettoyer après un chantier ?', answer: 'Comptez une journée complète pour un appartement standard. Les gros chantiers (maison entière, rénovation lourde) prennent 2 à 3 jours.' },
@@ -316,7 +316,7 @@ export const rouenContent: RouenContent = {
         { label: 'Suspension contemporaine', price: '75€ - 135€' },
         { label: 'Appliques murales (paire)', price: '55€ - 95€' },
       ],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de lustres dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Lustres, suspensions, luminaires d\'exception : on se déplace avec le matériel adapté, de <a href="/nettoyage-bois-guillaume">Bois-Guillaume</a> à <a href="/nettoyage-darnetal">Darnétal</a>, sans supplément de déplacement.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage d\'un lustre ?', answer: 'De 115€ pour un lustre classique (5-10 branches) à 430€ pour les pièces exceptionnelles de plus de 20 branches. Appliques murales : 55€ à 95€ la paire.' },
         { question: 'Vous démontez le lustre pour le nettoyer ?', answer: 'Pas forcément. On nettoie sur place dans 80% des cas. On ne démonte que les pièces très complexes ou fragiles qui nécessitent un travail en atelier.' },
@@ -329,7 +329,7 @@ export const rouenContent: RouenContent = {
     'nettoyage-apres-demenagement-rouen': {
       slug: 'nettoyage-apres-demenagement-rouen',
       h1: 'Nettoyage Après Déménagement et Fin de Bail à Rouen',
-      subtitle: 'Expert nettoyage après déménagement et fin de bail dans toute la métropole rouennaise',
+      subtitle: 'Expert nettoyage après déménagement et fin de bail à Rouen et sur les deux rives',
       metaTitle: 'Nettoyage Après Déménagement Rouen | ProClean - Fin de Bail Expert',
       metaDescription: 'Nettoyage après déménagement à Rouen. Récupérez votre caution avec un état des lieux impeccable. Devis gratuit sous 24h.',
       sections: [],
@@ -341,7 +341,7 @@ export const rouenContent: RouenContent = {
         { label: 'T5 et plus 90-120m²', price: '630€ - 820€' },
         { label: 'Maison individuelle 100-150m²', price: '720€ - 1.150€' },
       ],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage après déménagement dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'On couvre les deux rives pour la remise en état après déménagement — du <a href="/nettoyage-grand-quevilly">Grand-Quevilly</a> au <a href="/nettoyage-petit-quevilly">Petit-Quevilly</a>, le principe est le même : un logement rendu nickel avant l\'état des lieux.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Est-ce que je vais récupérer ma caution ?', answer: 'Dans 95% des cas, oui. On nettoie au standard "état des lieux" : sols, sanitaires, cuisine, vitres, placards. Si le propriétaire trouve un défaut lié à notre nettoyage, on repasse gratuitement sous 48h.' },
         { question: 'Combien ça coûte pour un T3 ?', answer: 'Entre 340€ et 470€ pour un T3 de 50-70m². Le prix dépend de la surface et de l\'état du logement. Devis exact après description par téléphone.' },
@@ -355,11 +355,11 @@ export const rouenContent: RouenContent = {
     'debarras-maison-rouen': {
       slug: 'debarras-maison-rouen',
       h1: 'Débarras de Maison à Rouen - ProClean',
-      subtitle: 'Expert débarras de maison et locaux professionnels dans toute la métropole rouennaise',
+      subtitle: 'Expert débarras de maison et locaux professionnels à Rouen et dans la première couronne',
       metaTitle: 'Débarras Maison Rouen | ProClean - Débarras Complet Expert',
       metaDescription: 'Débarras de maison à Rouen. Évacuation complète, tri sélectif, nettoyage après débarras. Devis gratuit sous 24h.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le débarras dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Du centre de Rouen à <a href="/nettoyage-sotteville-les-rouen">Sotteville</a>, en passant par <a href="/nettoyage-deville-les-rouen">Déville-lès-Rouen</a>, on débarrasse caves, greniers et logements entiers sur toute la première couronne.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte un débarras de maison ?', answer: 'Ça dépend du volume à évacuer. Comptez entre 500€ et 3 000€ pour une maison complète. On chiffre sur place gratuitement avant toute intervention.' },
         { question: 'Vous récupérez aussi les caves et greniers ?', answer: 'Oui, on vide tout : cave, grenier, garage, dépendances. On trie sur place — ce qui peut être recyclé ou donné ne part pas à la déchetterie.' },
@@ -385,7 +385,7 @@ export const rouenContent: RouenContent = {
         { label: 'Grand ménage T3/T4', price: '190€ - 270€' },
         { label: 'Grand ménage Maison 100-150m²', price: '270€ - 380€' },
       ],
-      zone: { paragraph: 'Nous intervenons sur l\'ensemble de la métropole rouennaise et ses communes associées.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Étudiants, familles, propriétaires bailleurs : on nettoie des appartements aussi bien à <a href="/nettoyage-mont-saint-aignan">Mont-Saint-Aignan</a> qu\'à <a href="/nettoyage-bihorel">Bihorel</a>, et partout entre les deux.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte un ménage régulier pour un T3 ?', answer: 'À partir de 48€ par séance pour un T3. Le tarif baisse avec la fréquence : hebdomadaire est plus avantageux que ponctuel.' },
         { question: 'Vous venez avec vos produits et votre matériel ?', answer: 'Oui, on apporte tout : aspirateur pro, produits, serpillères, chiffons. Vous n\'avez rien à fournir ni à préparer.' },
@@ -403,7 +403,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Intérieur Voiture Rouen | ProClean - Détailing Auto Expert',
       metaDescription: 'Nettoyage intérieur voiture à Rouen. Sièges, moquettes, tableaux de bord, désinfection complète. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage intérieur de voitures dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Intervention à domicile ou sur votre lieu de travail, jusqu\'à 20 km autour de Rouen — de <a href="/nettoyage-sotteville-les-rouen">Sotteville</a> à <a href="/nettoyage-canteleu">Canteleu</a>, le déplacement est inclus dans le devis.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte un nettoyage intérieur complet ?', answer: 'Entre 80€ et 150€ selon la taille du véhicule et son état. Un SUV très sale coûtera plus qu\'une citadine bien entretenue.' },
         { question: 'Les sièges seront secs en combien de temps ?', answer: 'Comptez 3 à 4h de séchage après notre passage. On utilise l\'injection-extraction qui retire 90% de l\'humidité — vos sièges ne seront pas détrempés.' },
@@ -416,7 +416,7 @@ export const rouenContent: RouenContent = {
     'nettoyage-terrasse-rouen': {
       slug: 'nettoyage-terrasse-rouen',
       h1: 'Nettoyage Balcon et Terrasse à Rouen - ProClean',
-      subtitle: 'Excellence mobile au cœur de la Normandie pour l\'entretien de vos espaces extérieurs',
+      subtitle: 'Excellence mobile en Normandie pour l\'entretien de vos espaces extérieurs',
       metaTitle: 'Nettoyage Terrasse Balcon Rouen | ProClean - Haute Pression Expert',
       metaDescription: 'Nettoyage terrasse et balcon à Rouen. Décapage haute pression, traitement anti-mousse, protection longue durée. Devis gratuit.',
       sections: [],
@@ -428,7 +428,7 @@ export const rouenContent: RouenContent = {
         { label: 'Terrasse 16-30m²', price: '125€' },
         { label: 'Terrasse 31-50m²', price: '185€' },
       ],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de terrasses et balcons dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Terrasses, balcons, dallages extérieurs : on couvre un large secteur pavillonnaire, de <a href="/nettoyage-bois-guillaume">Bois-Guillaume</a> à <a href="/nettoyage-bihorel">Bihorel</a>.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage d\'une terrasse ?', answer: 'De 75€ pour une terrasse de 15m² à 185€ pour 50m². Le traitement anti-mousse est en supplément (25 à 45€) mais fortement recommandé en Normandie.' },
         { question: 'Le karcher n\'abîme pas mes dalles ?', answer: 'On n\'utilise pas de karcher haute pression brut. On travaille en basse pression contrôlée avec des buses adaptées à chaque matériau — pierre, bois, carrelage, composite.' },
@@ -446,7 +446,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Bureaux Rouen | ProClean - Entretien Professionnel Expert',
       metaDescription: 'Nettoyage de bureaux à Rouen. Entretien quotidien, hebdomadaire ou mensuel. Espaces de travail impeccables. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de bureaux dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Nos clients bureaux viennent autant du centre de Rouen que du <a href="/nettoyage-grand-quevilly">Grand-Quevilly</a> ou de <a href="/nettoyage-mont-saint-aignan">Mont-Saint-Aignan</a> — cabinets, agences, sièges de PME.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Vous intervenez en dehors des heures de bureau ?', answer: 'Oui, c\'est même la norme. La majorité de nos clients préfèrent qu\'on passe tôt le matin (6h-8h) ou en soirée pour ne pas gêner les équipes.' },
         { question: 'Combien coûte l\'entretien de bureaux ?', answer: 'À partir de 0,50€/m² par passage. Le tarif dépend de la surface, de la fréquence et des prestations incluses. On établit un forfait mensuel fixe.' },
@@ -463,7 +463,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Entretien Commerces Rouen | ProClean - Nettoyage Boutiques Expert',
       metaDescription: 'Entretien de commerces à Rouen. Nettoyage régulier de boutiques, magasins et surfaces commerciales. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour l\'entretien de commerces dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Boutiques et commerces de proximité nous font confiance au <a href="/nettoyage-petit-quevilly">Petit-Quevilly</a> comme au <a href="/nettoyage-grand-quevilly">Grand-Quevilly</a> — même exigence de propreté avant chaque ouverture.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Vous passez pendant ou après les heures d\'ouverture ?', answer: 'Comme vous préférez. La plupart des commerces choisissent un passage avant l\'ouverture ou après la fermeture pour ne pas gêner la clientèle.' },
         { question: 'Combien ça coûte pour une boutique de 50m² ?', answer: 'Comptez entre 150€ et 250€/mois pour un entretien 3 fois par semaine. Le tarif exact dépend des prestations (sol, vitrines, sanitaires, etc.).' },
@@ -480,7 +480,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Parking Rouen | ProClean - Entretien Parking Expert',
       metaDescription: 'Nettoyage de parking à Rouen. Balayage, lavage, désinfection de parkings souterrains et extérieurs. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de parkings dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'On se déplace sur Rouen et les communes autour. <a href="/nettoyage-petit-quevilly">Petit-Quevilly</a>, <a href="/nettoyage-darnetal">Darnétal</a> : parkings souterrains ou extérieurs, on connaît le secteur.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Vous nettoyez quel type de parking ?', answer: 'Souterrains, couverts, extérieurs, en silo — on s\'adapte. On intervient aussi bien pour les copropriétés que pour les parkings d\'entreprise ou les centres commerciaux.' },
         { question: 'Comment vous enlevez les taches d\'huile au sol ?', answer: 'Dégraissant industriel + autolaveuse. Les taches récentes partent complètement. Les anciennes sont fortement atténuées — le sol retrouve un aspect propre et uniforme.' },
@@ -497,7 +497,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Entretien Immeubles Rouen | ProClean - Parties Communes Expert',
       metaDescription: 'Entretien d\'immeubles à Rouen. Nettoyage parties communes, cages d\'escalier, halls d\'entrée. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour l\'entretien d\'immeubles dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Nos contrats copropriétés couvrent aussi bien <a href="/nettoyage-sotteville-les-rouen">Sotteville</a> que <a href="/nettoyage-saint-etienne-du-rouvray">Saint-Étienne-du-Rouvray</a> — syndics, halls d\'entrée, cages d\'escalier.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Qu\'est-ce qui est inclus dans l\'entretien des parties communes ?', answer: 'Hall, escaliers, paliers, ascenseur, local poubelles, vitres des parties communes. On peut ajouter le parking et les caves si besoin.' },
         { question: 'Combien ça coûte pour un immeuble de 20 lots ?', answer: 'Entre 400€ et 700€/mois selon la fréquence et les prestations. On travaille beaucoup avec les syndics — le devis détaillé est présenté en AG.' },
@@ -514,7 +514,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Distributeurs Rouen | ProClean - Équipements Libre-Service',
       metaDescription: 'Nettoyage d\'équipements libre-service à Rouen. Distributeurs, bornes, laveries automatiques. Désinfection professionnelle. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage d\'équipements libre-service dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Nos clients équipés de distributeurs et bornes libre-service sont aussi bien à <a href="/nettoyage-maromme">Maromme</a> qu\'à <a href="/nettoyage-deville-les-rouen">Déville-lès-Rouen</a> — commerces, entreprises, halls d\'accueil.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Quels types de machines nettoyez-vous ?', answer: 'Distributeurs de boissons et snacks, bornes de paiement, laveries automatiques, bornes interactives, caisses automatiques — tout équipement en libre-service.' },
         { question: 'Vous utilisez des produits compatibles avec les écrans tactiles ?', answer: 'Oui, produits antistatiques spécifiques pour les écrans et surfaces électroniques. Aucun risque pour les composants, et les écrans retrouvent leur réactivité.' },
@@ -531,7 +531,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Cabine Poids Lourds Rouen | ProClean - Nettoyage Camion Expert',
       metaDescription: 'Nettoyage cabine poids lourds à Rouen. Intérieur, sièges, tableau de bord, désinfection complète. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de cabines de poids lourds dans toute la métropole.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Rouen et les communes limitrophes, on couvre large. <a href="/nettoyage-canteleu">Canteleu</a>, <a href="/nettoyage-elbeuf">Elbeuf</a> : cabines de poids lourds nettoyées sur site.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage d\'une cabine de camion ?', answer: 'Entre 90€ et 180€ selon l\'état et la taille de la cabine. Tarifs dégressifs à partir de 5 véhicules — idéal pour les flottes.' },
         { question: 'Vous venez sur notre dépôt ou on doit amener le camion ?', answer: 'On se déplace sur votre dépôt, zone industrielle ou parking. On a tout le matériel dans notre véhicule, pas besoin de point d\'eau sur place.' },
@@ -548,7 +548,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Canapé Rouen | ProClean - Rénovation Tissus Expert',
       metaDescription: 'Nettoyage de canapés à Rouen. Détachage, désinfection, rénovation de canapés, fauteuils et tissus d\'ameublement. Devis gratuit sous 24h.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de canapés dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Un canapé à rafraîchir à <a href="/nettoyage-sotteville-les-rouen">Sotteville</a> ou un fauteuil taché du côté du <a href="/nettoyage-grand-quevilly">Grand-Quevilly</a> ? On se déplace dans les deux cas, partout dans l\'agglomération rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage d\'un canapé ?', answer: 'Entre 60€ et 120€ pour un canapé 3 places standard. Le prix varie selon la matière (tissu, cuir, velours) et le niveau de salissure.' },
         { question: 'Mon canapé sera sec le soir même ?', answer: 'Oui, comptez 3 à 5h de séchage. On utilise l\'injection-extraction qui retire la majorité de l\'eau. Vous pouvez vous asseoir dessus le soir.' },
@@ -566,7 +566,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Tapis Rouen | ProClean - Nettoyage Tapis Expert',
       metaDescription: 'Nettoyage de tapis à Rouen. Shampooing, détachage, traitement anti-acariens pour tous types de tapis. Devis gratuit sous 24h.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de tapis dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Un tapis taché au <a href="/nettoyage-petit-quevilly">Petit-Quevilly</a> ou une carpette à traiter à <a href="/nettoyage-saint-etienne-du-rouvray">Saint-Étienne-du-Rouvray</a> ? On intervient dans les deux cas, avec le même soin.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage d\'un tapis ?', answer: 'Entre 8€ et 15€/m² selon le type de tapis. Un tapis de salon de 6m² revient donc entre 48€ et 90€.' },
         { question: 'Vous nettoyez les tapis orientaux sans les abîmer ?', answer: 'Oui, on adapte la technique au type de tapis. Les tapis orientaux, persans et en laine ont des produits spécifiques qui respectent les teintures et les fibres naturelles.' },
@@ -583,7 +583,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Moquette Rouen | ProClean - Shampooing Moquette Expert',
       metaDescription: 'Nettoyage de moquette à Rouen. Injection-extraction, shampooing professionnel, traitement anti-acariens. Devis gratuit sous 24h.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de moquettes dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Une moquette à shampooiner à <a href="/nettoyage-mont-saint-aignan">Mont-Saint-Aignan</a> ou une location à remettre en état à <a href="/nettoyage-bois-guillaume">Bois-Guillaume</a> ? Même équipe, même matériel professionnel, où que vous soyez.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Je peux marcher sur la moquette après le nettoyage ?', answer: 'Oui, mais en chaussettes propres. La moquette est humide mais pas détrempée. Comptez 4 à 6h pour un séchage complet.' },
         { question: 'Ça enlève les taches de la moquette de bureau ?', answer: 'Oui, les taches courantes (café, encre, nourriture) partent dans 90% des cas. On pré-traite chaque tache individuellement avant le shampooing général.' },
@@ -601,7 +601,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Matelas Rouen | ProClean - Désinfection Matelas Expert',
       metaDescription: 'Nettoyage de matelas à Rouen. Élimination acariens, allergènes, taches. Désinfection en profondeur. Devis gratuit sous 24h.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de matelas dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Un matelas à désinfecter à <a href="/nettoyage-darnetal">Darnétal</a> ou des acariens à traiter du côté de <a href="/nettoyage-canteleu">Canteleu</a> ? On se déplace avec le même protocole, chez vous.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage d\'un matelas ?', answer: 'Entre 50€ et 90€ pour un matelas 2 places. Le tarif dépend de la taille et du niveau de salissure. On fait souvent matelas + sommier ensemble.' },
         { question: 'Je peux dormir dessus le soir même ?', answer: 'Oui, on intervient le matin et le matelas est sec en 4 à 6h. Vous pouvez remettre vos draps et dormir dessus le soir sans problème.' },
@@ -619,7 +619,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Vitres Rouen | ProClean - Lavage Vitres Expert',
       metaDescription: 'Nettoyage de vitres à Rouen. Vitres, baies vitrées, vérandas pour particuliers et professionnels. Résultat sans traces. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de vitres dans toute la métropole rouennaise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Vitres et baies vitrées, sur Rouen comme dans les communes voisines. <a href="/nettoyage-maromme">Maromme</a>, <a href="/nettoyage-elbeuf">Elbeuf</a> : déplacement inclus, sans surprise.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Combien coûte le nettoyage de vitres ?', answer: 'Entre 3€ et 8€ par vitre standard (intérieur + extérieur). Pour une maison de 10 fenêtres, comptez entre 60€ et 120€ selon l\'accessibilité.' },
         { question: 'Vous nettoyez aussi les vitres en hauteur ?', answer: 'Oui, jusqu\'à 12m avec des perches télescopiques à eau pure. Au-delà, on utilise des nacelles. Pas besoin d\'échafaudage dans la majorité des cas.' },
@@ -636,7 +636,7 @@ export const rouenContent: RouenContent = {
       metaTitle: 'Nettoyage Toiture Façade Rouen | ProClean - Démoussage Expert Normandie',
       metaDescription: 'Nettoyage toiture, façade et gouttières à Rouen. Démoussage basse pression, traitement hydrofuge, entretien gouttières. Devis gratuit.',
       sections: [],
-      zone: { paragraph: 'Nous intervenons pour le nettoyage de toitures et façades dans toute la métropole rouennaise et la Seine-Maritime.', cities: [...ZONE_CITIES, 'Petit-Couronne', 'Grand-Couronne', 'Bonsecours', 'Franqueville-Saint-Pierre', 'Barentin', 'Elbeuf'], paymentMethods: PAYMENT_METHODS },
+      zone: { paragraph: 'Toitures et façades : intervention sur Rouen et au-delà. <a href="/nettoyage-deville-les-rouen">Déville-lès-Rouen</a>, <a href="/nettoyage-bihorel">Bihorel</a>, le secteur nous est familier.', cities: [...ZONE_CITIES, 'Petit-Couronne', 'Grand-Couronne', 'Bonsecours', 'Franqueville-Saint-Pierre', 'Barentin', 'Elbeuf'], paymentMethods: PAYMENT_METHODS },
       faq: [
         { question: 'Le nettoyage haute pression abîme-t-il les tuiles ?', answer: 'On ne fait jamais de haute pression sur une toiture. On travaille en basse pression contrôlée qui élimine mousses et lichens sans abîmer les tuiles, ardoises ou zinc.' },
         { question: 'Le traitement hydrofuge est-il vraiment nécessaire ?', answer: 'En Normandie, oui. L\'hydrofuge empêche l\'eau de pénétrer dans les tuiles et ralentit la repousse des mousses. Sans traitement, elles reviennent en 1 an. Avec, vous êtes tranquille 5 à 8 ans.' },
@@ -654,7 +654,7 @@ export const rouenContent: RouenContent = {
       subtitle: 'Services de nettoyage professionnel adaptés aux besoins des particuliers rouennais',
       metaTitle: 'Nettoyage Particuliers Rouen | ProClean - Services à Domicile',
       metaDescription: 'Services de nettoyage professionnel pour particuliers à Rouen. Appartements, maisons, après déménagement, syndrome de Diogène. Devis gratuit sous 24h.',
-      introText: 'ProClean accompagne les particuliers rouennais avec des services de nettoyage professionnel complets. De l\'entretien régulier de votre appartement au nettoyage après déménagement, en passant par les situations complexes comme le syndrome de Diogène, nos équipes interviennent avec professionnalisme et discrétion dans toute la métropole rouennaise. Chaque prestation est réalisée avec du matériel professionnel et des produits adaptés au patrimoine architectural normand.',
+      introText: 'ProClean accompagne les particuliers rouennais avec des services de nettoyage professionnel complets. De l\'entretien régulier de votre appartement au nettoyage après déménagement, en passant par les situations complexes comme le syndrome de Diogène, nos équipes interviennent avec professionnalisme et discrétion à Rouen et dans les communes voisines. Chaque prestation est réalisée avec du matériel professionnel, adapté aux logements normands comme aux constructions plus récentes.',
     },
     professionnels: {
       h1: 'Nettoyage pour Professionnels à Rouen',

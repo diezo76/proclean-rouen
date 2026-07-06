@@ -4,6 +4,7 @@ import { MapPin } from 'lucide-react';
 import type { ZoneInterventionSectionProps } from '@/types';
 import Heading from '@/components/ui/Heading';
 import AnimateOnScroll from '@/components/ui/AnimateOnScroll';
+import { parseInlineHtml } from '@/lib/parseInlineHtml';
 
 export default function ZoneInterventionSection({
   heading = "Zone d'intervention",
@@ -23,7 +24,7 @@ export default function ZoneInterventionSection({
 
         <AnimateOnScroll delay={0.1}>
           <p className="text-center text-gray-text dark:text-dark-text-secondary max-w-2xl mx-auto mb-8 leading-relaxed">
-            {paragraph}
+            {parseInlineHtml(paragraph)}
           </p>
         </AnimateOnScroll>
 
