@@ -19,7 +19,7 @@ export const services: ServiceDefinition[] = [
     category: 'tissus',
     icon: 'Layers',
     priority: 0.8,
-    heroImage: '/images/services/hero-nettoyage-tapis-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-tapis-rouen.webp',
     contentImage: '/images/services/content-nettoyage-tapis-rouen.jpg',
   },
   {
@@ -29,7 +29,7 @@ export const services: ServiceDefinition[] = [
     category: 'tissus',
     icon: 'Grid3X3',
     priority: 0.7,
-    heroImage: '/images/services/hero-nettoyage-moquette-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-moquette-rouen.webp',
     contentImage: '/images/services/content-nettoyage-moquette-rouen.jpg',
   },
   {
@@ -91,7 +91,7 @@ export const services: ServiceDefinition[] = [
     category: 'particuliers',
     icon: 'Trash2',
     priority: 0.7,
-    heroImage: '/images/services/hero-debarras-maison-rouen.jpg',
+    heroImage: '/images/services/hero-debarras-maison-rouen.webp',
     contentImage: '/images/services/content-debarras-maison-rouen.jpg',
   },
   {
@@ -111,7 +111,7 @@ export const services: ServiceDefinition[] = [
     category: 'particuliers',
     icon: 'Car',
     priority: 0.6,
-    heroImage: '/images/services/hero-nettoyage-voiture-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-voiture-rouen.webp',
     contentImage: '/images/services/content-nettoyage-voiture-rouen.jpg',
   },
   {
@@ -121,7 +121,7 @@ export const services: ServiceDefinition[] = [
     category: 'particuliers',
     icon: 'Sun',
     priority: 0.6,
-    heroImage: '/images/services/hero-nettoyage-terrasse-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-terrasse-rouen.webp',
     contentImage: '/images/services/content-nettoyage-terrasse-rouen.jpg',
   },
   {
@@ -131,7 +131,7 @@ export const services: ServiceDefinition[] = [
     category: 'particuliers',
     icon: 'GlassWater',
     priority: 0.7,
-    heroImage: '/images/services/hero-nettoyage-vitres-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-vitres-rouen.webp',
     contentImage: '/images/services/content-nettoyage-vitres-rouen.jpg',
   },
 
@@ -153,7 +153,7 @@ export const services: ServiceDefinition[] = [
     category: 'professionnels',
     icon: 'Store',
     priority: 0.8,
-    heroImage: '/images/services/hero-entretien-commerces-rouen.jpg',
+    heroImage: '/images/services/hero-entretien-commerces-rouen.webp',
     contentImage: '/images/services/content-entretien-commerces-rouen.jpg',
   },
   {
@@ -163,7 +163,7 @@ export const services: ServiceDefinition[] = [
     category: 'professionnels',
     icon: 'ParkingCircle',
     priority: 0.6,
-    heroImage: '/images/services/hero-nettoyage-parking-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-parking-rouen.webp',
     contentImage: '/images/services/content-nettoyage-parking-rouen.jpg',
   },
   {
@@ -203,8 +203,8 @@ export const services: ServiceDefinition[] = [
     category: 'professionnels',
     icon: 'CloudRain',
     priority: 0.7,
-    heroImage: '/images/services/hero-nettoyage-toiture-rouen.jpg',
-    contentImage: '/images/services/content-nettoyage-toiture-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-toiture-rouen.webp',
+    contentImage: '/images/services/content-nettoyage-toiture-rouen.webp',
   },
 ];
 

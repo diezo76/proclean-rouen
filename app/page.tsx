@@ -17,7 +17,7 @@ import CTASection from '@/components/sections/CTASection';
 export const metadata = generatePageMetadata({
   title: 'ProClean — Nettoyage professionnel à Rouen',
   description:
-    'ProClean, votre expert en nettoyage professionnel à Rouen. Particuliers et professionnels : canapés, bureaux, après travaux, syndrome de Diogène. Devis gratuit.',
+    'ProClean, expert en nettoyage professionnel à Rouen. Particuliers et professionnels : canapés, bureaux, après travaux, Diogène. Devis gratuit.',
   path: '/',
 });
 

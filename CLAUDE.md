@@ -377,6 +377,8 @@ Ce fichier est importé par chaque page et contient les textes pour chaque servi
 Les textes ont été rédigés par un humain et sont 100% uniques — NE PAS les modifier sans autorisation.
 Le fichier source des textes bruts est dans `content/raw/rouen-textes.txt`.
 
+- Audit complet (bugs techniques + risque duplicate content + recommandations) : `docs/audit-proclean-2026-07.md` — quick wins techniques (breadcrumb villes, métadonnées, images WebP) corrigés le 2026-07-06, voir section "Corrections appliquées" du rapport.
+
 ---
 
 ## Git & GitHub

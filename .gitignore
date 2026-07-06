@@ -50,3 +50,6 @@ DEPLOY.md
 # dossiers non-code
 /Image design/
 /.playwright-mcp/
+
+# archive temporaire images originales pré-webp (à supprimer après vérification visuelle)
+/public/images/_originals/

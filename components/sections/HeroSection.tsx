@@ -82,7 +82,7 @@ export default function HeroSection({
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background image */}
       <Image
-        src="/images/hero/newhero.jpg"
+        src="/images/hero/newhero.webp"
         alt="Nettoyage professionnel à Rouen — ProClean"
         fill
         className="object-cover"

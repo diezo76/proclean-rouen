@@ -5,14 +5,21 @@ import { Phone, ArrowRight, Star } from 'lucide-react';
 import { siteConfig } from '@/data/siteConfig';
 import type { CityData } from '@/data/cities';
 import LocalBusinessSchema from '@/components/schema/LocalBusinessSchema';
+import BreadcrumbSchema from '@/components/schema/BreadcrumbSchema';
 import FAQSchema from '@/components/schema/FAQSchema';
 import AnimateOnScroll from '@/components/ui/AnimateOnScroll';
 import FAQSection from '@/components/sections/FAQSection';
 
 export default function VilleTemplate({ city }: { city: CityData }) {
+  const breadcrumbItems = [
+    { label: 'Accueil', href: '/' },
+    { label: `Nettoyage à ${city.name}`, href: `/nettoyage-${city.slug}` },
+  ];
+
   return (
     <article>
       <LocalBusinessSchema />
+      <BreadcrumbSchema items={breadcrumbItems} />
       <FAQSchema items={city.faq} />
 
       {/* HERO compact */}
