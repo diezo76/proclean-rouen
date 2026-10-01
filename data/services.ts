@@ -9,8 +9,10 @@ export const services: ServiceDefinition[] = [
     category: 'tissus',
     icon: 'Sofa',
     priority: 0.8,
-    heroImage: '/images/services/hero-nettoyage-canape-rouen.jpg',
+    heroImage: '/images/services/hero-nettoyage-canape-rouen.webp',
     contentImage: '/images/services/content-nettoyage-canape-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-canape-rouen.webp',
+    faqImageAlt: "Brossage d'un coussin de canapé après nettoyage à Rouen",
   },
   {
     slug: 'nettoyage-tapis-rouen',
@@ -21,6 +23,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-tapis-rouen.webp',
     contentImage: '/images/services/content-nettoyage-tapis-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-tapis-rouen.webp',
+    faqImageAlt: "Contrôle des fibres d'un tapis en laine après nettoyage à Rouen",
   },
   {
     slug: 'nettoyage-moquette-rouen',
@@ -32,6 +36,8 @@ export const services: ServiceDefinition[] = [
     heroImage: '/images/services/hero-nettoyage-moquette-rouen.webp',
     contentImage: '/images/services/content-nettoyage-moquette-rouen.webp',
     contentImageAlt: 'Injection-extraction sur une moquette de bureau à Rouen',
+    faqImage: '/images/services/faq-nettoyage-moquette-rouen.webp',
+    faqImageAlt: "Shampouineuse professionnelle dans un couloir de bureaux moquetté à Rouen",
   },
   {
     slug: 'nettoyage-matelas-rouen',
@@ -42,6 +48,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-nettoyage-matelas-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-matelas-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-matelas-rouen.webp',
+    faqImageAlt: "Aspiration anti-acariens d'un matelas à Rouen",
   },
 
   // --- Particuliers (9) ---
@@ -54,6 +62,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.9,
     heroImage: '/images/services/hero-nettoyage-diogene-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-diogene-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-diogene-rouen.webp',
+    faqImageAlt: "Technicien en combinaison de protection évacuant des déchets à Rouen",
   },
   {
     slug: 'nettoyage-apres-travaux-rouen',
@@ -64,6 +74,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-apres-travaux-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-apres-travaux-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-apres-travaux-rouen.webp',
+    faqImageAlt: "Retrait des traces de peinture sur une fenêtre après travaux à Rouen",
   },
   {
     slug: 'nettoyage-lustre-rouen',
@@ -74,6 +86,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.6,
     heroImage: '/images/services/hero-nettoyage-lustre-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-lustre-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-lustre-rouen.webp',
+    faqImageAlt: "Nettoyage des pampilles en cristal d'un lustre à Rouen",
   },
   {
     slug: 'nettoyage-apres-demenagement-rouen',
@@ -84,6 +98,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-apres-demenagement-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-apres-demenagement-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-apres-demenagement-rouen.webp',
+    faqImageAlt: "Nettoyage des placards de cuisine après un déménagement à Rouen",
   },
   {
     slug: 'debarras-maison-rouen',
@@ -94,6 +110,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.7,
     heroImage: '/images/services/hero-debarras-maison-rouen.webp',
     contentImage: '/images/services/content-debarras-maison-rouen.jpg',
+    faqImage: '/images/services/faq-debarras-maison-rouen.webp',
+    faqImageAlt: "Évacuation de cartons lors d'un débarras de maison près de Rouen",
   },
   {
     slug: 'nettoyage-appartement-rouen',
@@ -104,6 +122,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.8,
     heroImage: '/images/services/hero-nettoyage-appartement-rouen.jpg',
     contentImage: '/images/services/content-nettoyage-appartement-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-appartement-rouen.webp',
+    faqImageAlt: "Nettoyage du plan de travail d'une cuisine d'appartement à Rouen",
   },
   {
     slug: 'nettoyage-voiture-rouen',
@@ -114,6 +134,8 @@ export const services: ServiceDefinition[] = [
     priority: 0.6,
     heroImage: '/images/services/hero-nettoyage-voiture-rouen.webp',
     contentImage: '/images/services/content-nettoyage-voiture-rouen.jpg',
+    faqImage: '/images/services/faq-nettoyage-voiture-rouen.webp',
+    faqImageAlt: "Aspiration des sièges arrière d'une voiture à Rouen",
   },
   {
     slug: 'nettoyage-terrasse-rouen',

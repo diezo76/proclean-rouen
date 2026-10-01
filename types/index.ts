@@ -170,6 +170,8 @@ export interface ServiceDefinition {
   heroImage?: string;
   contentImage?: string;
   contentImageAlt?: string;
+  faqImage?: string;
+  faqImageAlt?: string;
 }
 
 // ============================================================
@@ -322,6 +324,8 @@ export interface FAQSectionProps {
   heading?: string;
   items: FAQItem[];
   includeSchema?: boolean;
+  image?: string;
+  imageAlt?: string;
 }
 
 export interface CTASectionProps {
