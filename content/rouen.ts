@@ -117,7 +117,7 @@ export const rouenContent: RouenContent = {
         'Sécurité & confidentialité garanties',
       ],
       counters: [
-        { value: 5, suffix: '+', label: 'Années d\'expérience' },
+        { value: 20, suffix: '', label: 'Services proposés' },
         { value: 98, suffix: '%', label: 'Clients satisfaits' },
         { value: 530, suffix: '+', label: 'Interventions réalisées' },
       ],
