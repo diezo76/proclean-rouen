@@ -34,10 +34,10 @@ export const rouenContent: RouenContent = {
         {
           title: 'Savoir-faire patrimonial',
           description:
-            'Depuis notre installation rouennaise, ProClean excelle dans la régénération des tissus d\'ameublement, la maintenance des espaces professionnels et la gestion des situations délicates comme le syndrome de Diogène. Nos spécialistes allient connaissance du bâti local et méthodes modernes pour des résultats exceptionnels et pérennes.',
+            'À Rouen, ProClean excelle dans la régénération des tissus d\'ameublement, la maintenance des espaces professionnels et la gestion des situations délicates comme le syndrome de Diogène. Nos spécialistes allient connaissance du bâti local et méthodes modernes pour des résultats exceptionnels et pérennes.',
           icon: 'Shield',
-          stat: '15+',
-          statLabel: "ans d'expérience",
+          stat: '20',
+          statLabel: 'services proposés',
         },
         {
           title: 'Service rapide - Estimation en 24h',
@@ -93,7 +93,7 @@ export const rouenContent: RouenContent = {
           emoji: '🏠',
           title: 'Traitement Syndrome de Diogène et Locaux Insalubres',
           description:
-            'Pour les situations complexes, notre équipe rouennaise agit avec empathie et confidentialité. Spécialisés dans le syndrome de Diogène, nos techniciens emploient des méthodes éprouvées pour rétablir des espaces de vie salubres. Suivi individualisé en toute discrétion.',
+            'Pour les situations complexes, notre équipe agit avec empathie et confidentialité. Spécialisés dans le syndrome de Diogène, nos techniciens emploient des méthodes éprouvées pour rétablir des espaces de vie salubres. Suivi individualisé en toute discrétion.',
           slug: 'nettoyage-diogene-rouen',
         },
       ],

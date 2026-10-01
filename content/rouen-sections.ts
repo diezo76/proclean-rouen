@@ -507,7 +507,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
         'Le résultat se voit tout de suite et dure dans le temps. On utilise du matériel pro et des produits certifiés — pas de compromis entre efficacité et respect de votre santé.',
         'Entretien ponctuel ou régulier, <strong>remise en état complète</strong> ou coup de frais saisonnier — on a la formule qui correspond à votre situation. Pas de forfait rigide : on s\'adapte à ce dont vous avez vraiment besoin.',
         'Essayez une fois, vous comprendrez pourquoi nos clients ne reviennent plus au ménage par eux-mêmes. Contactez-nous pour un devis gratuit et personnalisé — on vous répond sous 24h. <a href="/devis-gratuit-rouen">devis gratuit en ligne</a>.',
-        'ProClean Rouen — Votre ménage, notre métier, depuis 2020.',
+        'ProClean Rouen — Votre ménage, notre métier.',
       ],
     },
   ],
@@ -641,7 +641,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
         'Le résultat est visible immédiatement et dure dans le temps. On n\'utilise que des produits certifiés et du matériel professionnel — pas de risque pour vos sièges en cuir ou votre tableau de bord. Et on respecte votre véhicule comme s\'il était le nôtre.',
         'Particulier avec une voiture familiale pleine de miettes ? Professionnel avec une flotte de véhicules à entretenir ? VTC qui veut offrir un habitacle impeccable à ses clients ? On s\'adapte à chaque situation. Notre <a href="/nettoyage-camion-rouen">nettoyage intérieur camion</a> complète cette offre pour les véhicules utilitaires et poids lourds.',
         'Envie de retrouver le plaisir de monter dans une voiture qui sent bon et qui brille ? Contactez-nous pour un devis gratuit — on vous répond sous 24h et on peut intervenir dans la semaine. <a href="/devis-gratuit-rouen">Obtenir votre devis personnalisé</a>.',
-        'ProClean — Nettoyage intérieur voiture à domicile à Rouen depuis 2020.',
+        'ProClean — Nettoyage intérieur voiture à domicile à Rouen.',
       ],
     },
   ],
@@ -783,7 +783,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       paragraphs: [
         'ProClean pour vos terrasses et balcons, c\'est la garantie d\'un travail bien fait. On ne bâcle pas, on ne sur-facture pas, et on adapte notre intervention à votre situation réelle. Matériel pro, produits adaptés, techniciens formés — tout ce qu\'il faut pour un résultat qui dure.',
         'Envie de profiter de votre terrasse cet été sans avoir honte de l\'état des dalles ? Contactez-nous pour un devis gratuit et personnalisé. On vient voir, on vous dit ce qu\'on peut faire et combien ça coûte. <a href="/devis-gratuit-rouen">devis gratuit en ligne</a>.',
-        'ProClean Rouen — Des terrasses propres et protégées, depuis 2020.',
+        'ProClean Rouen — Des terrasses propres et protégées.',
       ],
     },
   ],
@@ -2746,7 +2746,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '🏛️ ProClean Rouen : Excellence et Tradition Normande du Nettoyage Textile',
       headingLevel: 3,
       paragraphs: [
-        '<strong>ProClean</strong> nettoie des moquettes depuis plus de 12 ans — bureaux, commerces, hôtels, appartements. On a vu des moquettes tellement encrassées qu\'on ne devinait plus la couleur d\'origine. Et on les a toutes remises en état. On intervient chez les particuliers comme chez les professionnels.',
+        '<strong>ProClean</strong> nettoie tous types de moquettes — bureaux, commerces, hôtels, appartements. On a vu des moquettes tellement encrassées qu\'on ne devinait plus la couleur d\'origine. Et on les a toutes remises en état. On intervient chez les particuliers comme chez les professionnels.',
         'On ne se contente pas de passer un coup d\'aspirateur amélioré. Notre technique d\'injection-extraction va chercher la saleté au cœur des fibres — là où votre aspirateur de bureau ne peut pas aller. C\'est la même rigueur qu\'on applique à notre <a href="/nettoyage-tapis-rouen">nettoyage de tapis à Rouen</a>.',
         'On intervient partout : open spaces modernes, cabinets médicaux, restaurants, appartements. Chaque type de moquette (laine, synthétique, bouclée, velours) a ses spécificités — on adapte notre traitement pour un résultat optimal sans risque pour les fibres.',
       ],
@@ -2872,7 +2872,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '🏛️ ProClean Rouen : Héritage Normand et Innovation Sanitaire d\'Excellence',
       headingLevel: 3,
       paragraphs: [
-        'ProClean nettoie des matelas à domicile depuis plus de 12 ans. On a traité des milliers de matelas — des matelas d\'enfants tachés de pipi, des matelas d\'occasion douteux, des matelas de personnes allergiques qui n\'arrivaient plus à dormir. On intervient directement chez vous avec tout notre matériel.',
+        'ProClean nettoie des matelas à domicile. On traite tous les cas — des matelas d\'enfants tachés de pipi, des matelas d\'occasion douteux, des matelas de personnes allergiques qui n\'arrivaient plus à dormir. On intervient directement chez vous avec tout notre matériel.',
         'Un matelas, ça absorbe tout : transpiration (environ 0,5 litre par nuit), peaux mortes, sébum, poussière. Au bout de 2-3 ans, même un matelas qui a l\'air propre est un nid à allergènes. Vous passez 8 heures par nuit le nez dedans — si vous avez des problèmes d\'allergies ou de sommeil, c\'est souvent le premier endroit où chercher.',
         'On traite le matelas en profondeur sans le tremper — c\'est toute la différence avec un "nettoyage maison" au bicarbonate qui ne fait que gratter la surface. Notre technique d\'injection-extraction va chercher les saletés au cœur du matelas et les aspire immédiatement. C\'est la même technique qu\'on utilise pour le <a href="/nettoyage-canape-rouen">nettoyage de canapé</a>, autre textile essentiel du foyer.',
       ],
@@ -3008,7 +3008,7 @@ export const serviceSections: Record<string, ContentBlock[]> = {
       heading: '🏛️ ProClean : 12 Ans de Vitres Impeccables',
       headingLevel: 3,
       paragraphs: [
-        'Depuis plus de 12 ans, <strong>ProClean</strong> nettoie les vitres pour des particuliers, des commerces, des bureaux. On a vu tous les cas de figure : fenêtres inaccessibles, baies vitrées immenses, vérandas opaques, Velux qu\'on ne peut pas ouvrir.',
+        '<strong>ProClean</strong> nettoie les vitres pour des particuliers, des commerces, des bureaux. On a vu tous les cas de figure : fenêtres inaccessibles, baies vitrées immenses, vérandas opaques, Velux qu\'on ne peut pas ouvrir.',
         'Vos vitres parlent de vous. Un client qui entre dans un commerce aux vitres sales ? Il repart. Un bureau avec des carreaux opaques ? Vos collaborateurs perdent en confort et en moral. Des vitres propres, c\'est une image pro immédiate — et ça change l\'ambiance d\'un espace en quelques heures.',
         'Bâtiment ancien avec boiseries fragiles, immeuble moderne tout en verre, maison avec véranda — chaque situation demande une approche différente. On adapte la technique au support : produits neutres sur les huisseries anciennes, eau pure sur les grandes surfaces contemporaines. Nous assurons également l\'<a href="/entretien-immeubles-rouen">entretien d\'immeubles à Rouen</a> pour vos copropriétés et résidences.',
       ],
