@@ -743,3 +743,28 @@ Source : `docs/etat-des-lieux-2026-10-01.md`. Validé par « go » le 01/10.
 - `ContactForm.tsx`, mentions légales, confidentialité : `pt-28` pour dégager l'en-tête fixe.
 - Vérifié sur le build local : 0 titre avec marque en double, 0 titre dupliqué, `og:image` et icône sur les pages testées, `areaServed` = Bihorel sur la page Bihorel, marge H1/logo +27 px (375 px) et +25 px (768 px) contre −37 px avant.
 - Non traité, volontairement : 21 titres de plus de 60 caractères (texte client), H1 d'accueil sans « Rouen », `geo` et horaires du schéma (données réelles inconnues), pages villes, structure « Étape 1/2/3 ».
+
+---
+
+## Lot 2026-10-01 (soir) — Images IA, pleine largeur, polices
+
+Plan validé le 01/10. **Commits locaux uniquement : ni push ni déploiement avant validation visuelle.**
+
+- [x] 6 images converties en WebP sans métadonnées, références et alts mis à jour
+- [x] `contentImageAlt` optionnel sur `ServiceDefinition`, repli « à Rouen » (au lieu de « à domicile à Rouen »)
+- [x] `og.jpg` régénéré depuis le nouveau hero
+- [x] Anciens fichiers archivés puis supprimés, 0 référence restante
+- [x] `.container-main` à 1440 px, `ContentSections` en `max-w-3xl`
+- [x] Bricolage Grotesque (titres) + DM Sans (texte)
+- [x] Build : 0 erreur
+- [x] Captures 1440 / 1920 / 390 sur 4 pages
+- [ ] Image toiture — écartée (contredit le texte « pas de haute pression »), à régénérer
+- [ ] Validation visuelle par l'utilisateur, puis push et déploiement
+
+### Review
+
+- Mesuré sur `/`, `/nettoyage-canape-rouen`, `/nettoyage-sotteville-les-rouen`, `/nettoyage-moquette-rouen` aux trois largeurs : aucun défilement horizontal, conteneur plafonné à 1440 px, polices chargées (3 graisses Bricolage, 4 DM Sans), 0 image cassée, 0 erreur console, 0 bloc resté invisible après défilement.
+- Longueur de ligne des paragraphes longs : 51 à 87 caractères sur ordinateur, 37 à 46 sur mobile.
+- Point visuel à juger : dans `ContentSections`, l'image flottante occupe 45 % d'une colonne désormais plus étroite ; le titre voisin passe sur 4 lignes à 1440 px.
+- Trouvé en relisant les captures : un « 5+ Années d'expérience » restait dans le bloc « À propos » de l'accueil (échappé au retrait du matin). Remplacé par « 20 Services proposés ».
+- Captures : `~/projets/ProClean/captures-2026-10-01/` (hors dépôt).

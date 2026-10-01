@@ -37,7 +37,7 @@ Chaque page cible un service spécifique et doit se positionner en top 3 Google 
 | CSS | Tailwind CSS | 3.4.x |
 | Animations | Framer Motion | 12.x |
 | Icônes | Lucide React | latest |
-| Polices | Inter + Plus Jakarta Sans (Google Fonts via next/font) | - |
+| Polices | DM Sans + Bricolage Grotesque (Google Fonts via next/font) | - |
 | Email formulaire | Nodemailer (SMTP Hostinger, hôte configurable) | 7.x |
 | Linting | ESLint + Prettier | - |
 | Déploiement | VPS Contabo (PM2 + Nginx reverse proxy) | - |
@@ -192,8 +192,8 @@ Texte secondaire dark    : #94A3B8
 ```
 
 ### Polices
-- **Inter** : corps de texte (--font-inter)
-- **Plus Jakarta Sans** : titres, display (--font-jakarta)
+- **DM Sans** (400/500/600/700) : corps de texte (--font-dm-sans, classe `font-sans`)
+- **Bricolage Grotesque** (600/700/800) : titres, display (--font-bricolage, classe `font-display`)
 - Utiliser `font-display: swap` pour la performance
 
 ### Gradients
@@ -208,7 +208,7 @@ Blob décoratif           : radial-gradient(60% 60% at 30% 20%, rgba(33,150,243,
 - Coins arrondis : `rounded-xl` (12px) pour les cards, `rounded-2xl` (16px) pour les sections
 - Ombres : utiliser `shadow-soft` (0 1px 2px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.04))
 - Animations : Framer Motion avec `fadeInUp` et `staggerChildren` pour l'apparition des éléments
-- Espacement : sections padding `py-16 md:py-24`, container `max-w-7xl mx-auto px-4 sm:px-6 lg:px-8`
+- Espacement : sections padding `py-16 md:py-24`, container `max-w-[1440px] mx-auto px-5 sm:px-8 lg:px-12 xl:px-16` (blocs de lecture en `max-w-3xl`)
 - Dark mode : support complet avec `class` strategy Tailwind
 
 ---
@@ -383,6 +383,8 @@ Le fichier source des textes bruts est dans `content/raw/rouen-textes.txt`.
 - Audit SEO local 6 dimensions (score 35/100, skill `seo-local`, 2026-07-15) : `docs/LOCAL-SEO-ANALYSIS-societe-nettoyage-rouen.fr.md` — constat structurant : l'entreprise est au Havre, aucun GBP Rouen, donc pas d'accès au pack local (proximité = 55 % de la variance) ; le site joue en local organique, où il est solide (28 pages service, maillage hub-and-spoke, schema `CleaningService` correct). 3 priorités : trancher la contradiction Le Havre↔Rouen, lancer les avis Google, repasser les pages villes au-dessus de 60 % d'unicité.
 
 - État des lieux complet (production vs dépôt vs local, Search Console, problèmes classés, ordre de travail, 2026-10-01) : `docs/etat-des-lieux-2026-10-01.md` — constat structurant : la production tourne sur le build du 27 mars, aucune correction de juillet n'est en ligne, et le commit `16e7045` du 14/08 a annulé les corrections de contenu du 07/07 (toujours présentes en local, non commitées).
+
+- Images générées par IA posées le 2026-10-01 (tableau source → destination, poids, alts, image écartée) et règle d'usage — *images IA = illustrations, jamais présentées comme notre équipe réelle* : `docs/images-ia-2026-10.md`.
 
 ---
 
