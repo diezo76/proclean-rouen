@@ -145,3 +145,16 @@ Rien n'est perdu : les 3 fichiers « modifiés non commités » du dossier local
 **Toujours pas en ligne** : le déploiement n'a pas été fait. Tant qu'il ne l'est pas, la production reste le build du 27 mars.
 
 **Reste ouvert** : déploiement, certificat `www` + HSTS, test réel du formulaire, mesure d'audience, validation client des chiffres affichés, décision Le Havre ↔ Rouen, 21 titres de plus de 60 caractères, H1 d'accueil, `geo`/horaires du schéma, pages villes, structure « Étape 1/2/3 ».
+
+### Déploiement effectué le 2026-10-01 (soir)
+
+Serveur passé de `18c50c6` (27/03) à `2cb110b`. Vérifié depuis l'extérieur après redémarrage :
+- sitemap : 40 `lastmod` au 2026-10-01, 40 URLs en 200 ;
+- page Bihorel : `BreadcrumbList` présent, `areaServed` = Bihorel ;
+- page Diogène : 0 « dans toute la métropole », nouvelle intro avec liens villes ;
+- accueil : `newhero.webp`, `og:image` présent ; `/icon.png` et `/apple-icon.png` en 200 ;
+- titres : plus de marque en double.
+
+Relevé pendant le déploiement : le serveur tourne en **Node 18.20.8** (fin de support, une dépendance de lint réclame Node 20+), `npm audit` signale **9 vulnérabilités** (1 critique, 7 élevées), un `.env.local` est bien présent. Un `package-lock.json` local au serveur bloquait `git pull` ; il a été renommé en `package-lock.json.bak-20261001`.
+
+Toujours ouvert côté serveur : certificat `www`, HSTS, mise à jour de Node.

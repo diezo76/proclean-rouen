@@ -726,7 +726,7 @@ Source : `docs/etat-des-lieux-2026-10-01.md`. Validé par « go » le 01/10.
 - [x] `CLAUDE.md` : limite du formulaire = 5/heure (et non 5/minute)
 - [x] Build + vérification du HTML généré
 - [x] Push sur `main`
-- [ ] Déploiement VPS — **bloqué : accès serveur refusé à la session**
+- [x] Déploiement VPS — fait le 01/10 par l'utilisateur, vérifié depuis l'extérieur
 - [ ] Certificat `www` + HSTS — serveur
 - [ ] Test réel du formulaire — après déploiement
 - [ ] Mesure d'audience — décision à prendre
