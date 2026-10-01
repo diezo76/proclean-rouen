@@ -728,10 +728,10 @@ Source : `docs/etat-des-lieux-2026-10-01.md`. Validé par « go » le 01/10.
 - [x] Push sur `main`
 - [x] Déploiement VPS — fait le 01/10 par l'utilisateur, vérifié depuis l'extérieur
 - [ ] Certificat `www` + HSTS — serveur
-- [ ] Test réel du formulaire — après déploiement
+- [x] Test réel du formulaire — envoi accepté par Hostinger le 01/10 (réception en boîte à confirmer)
 - [ ] Mesure d'audience — décision à prendre
-- [ ] Chiffres affichés (15 ans, 530, 5/5) — validation client
-- [ ] Le Havre ↔ Rouen — décision client
+- [~] Chiffres affichés — ancienneté retirée le 01/10 ; restent 530+, 98 %, 5/5 sur Google
+- [x] Le Havre ↔ Rouen — décidé le 01/10 : siège au Havre, le site cible Rouen
 
 ### Review du lot 2026-10-01
 

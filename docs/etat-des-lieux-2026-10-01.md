@@ -167,3 +167,9 @@ Toujours ouvert côté serveur : certificat `www`, HSTS, mise à jour de Node.
 - **Positionnement** (décision du 01/10) : siège au Havre, site ciblant Rouen. « installation rouennaise » et « équipe rouennaise » retirés ; adresse du Havre conservée en pied de page et mentions légales.
 - Vérifié en ligne après déploiement de `c0295a3` : 40 URLs en 200, aucune des mentions retirées sur les 7 pages concernées.
 - Toujours ouvert : `https://www` (certificat) et HSTS, mot de passe SMTP + test réel, mesure d'audience, Node 20+ sur le serveur, « 530+ interventions » / « 98 % » / « 5/5 sur Google » non prouvés, discours de proclean20.fr (« parfois jusqu'à Rouen »).
+
+### Formulaire réparé le 2026-10-01 (nuit)
+
+- Le serveur portait encore le mot de passe d'exemple, puis une boîte `noreply@proclean20.fr` qu'Hostinger refusait. Adresse d'envoi passée sur `contact@proclean20.fr` (décision du 01/10), ancien fichier conservé sur le serveur en `.env.local.bak-20261001`.
+- Test réel via `/api/contact` : **HTTP 200, `success: true`** — Hostinger a accepté l'envoi (message intitulé « TEST technique - ne pas traiter »).
+- **Non vérifié** : l'arrivée effective du message dans la boîte `contact@proclean20.fr` (à contrôler par le destinataire, indésirables compris).
