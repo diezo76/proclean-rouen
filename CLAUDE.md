@@ -38,7 +38,7 @@ Chaque page cible un service spécifique et doit se positionner en top 3 Google 
 | Animations | Framer Motion | 12.x |
 | Icônes | Lucide React | latest |
 | Polices | Inter + Plus Jakarta Sans (Google Fonts via next/font) | - |
-| Email formulaire | Nodemailer (SMTP Gmail) | 7.x |
+| Email formulaire | Nodemailer (SMTP Hostinger, hôte configurable) | 7.x |
 | Linting | ESLint + Prettier | - |
 | Déploiement | VPS Contabo (PM2 + Nginx reverse proxy) | - |
 
@@ -306,8 +306,10 @@ Chaque page service suit cette structure HTML sémantique :
 
 ### Variables d'environnement (.env.local)
 ```
-EMAIL_USER=noreply@proclean20.fr
-EMAIL_PASS=xxx (mot de passe application Gmail ou SMTP)
+EMAIL_HOST=smtp.hostinger.com
+EMAIL_PORT=465
+EMAIL_USER=noreply@proclean20.fr (boîte qui doit exister chez Hostinger)
+EMAIL_PASS=xxx (mot de passe de cette boîte)
 EMAIL_TO=contact@proclean20.fr
 NEXT_PUBLIC_SITE_URL=https://societe-nettoyage-rouen.fr
 ```

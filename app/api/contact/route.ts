@@ -157,7 +157,7 @@ export async function POST(request: NextRequest) {
   } catch (error) {
     console.error('Contact form error:', error);
     return NextResponse.json(
-      { success: false, message: 'Erreur serveur. Veuillez réessayer.' },
+      { success: false, message: 'Envoi impossible pour le moment. Appelez-nous au 07 49 13 06 83.' },
       { status: 500 },
     );
   }
