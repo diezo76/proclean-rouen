@@ -759,7 +759,7 @@ Plan validé le 01/10. **Commits locaux uniquement : ni push ni déploiement ava
 - [x] Build : 0 erreur
 - [x] Captures 1440 / 1920 / 390 sur 4 pages
 - [ ] Image toiture — écartée (contredit le texte « pas de haute pression »), à régénérer
-- [ ] Validation visuelle par l'utilisateur, puis push et déploiement
+- [x] Validé par l'utilisateur, poussé et déployé le 01/10 (`f6148dd`), vérifié en ligne
 
 ### Review
 
