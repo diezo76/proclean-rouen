@@ -6,11 +6,15 @@ import type { ContentBlock } from '@/types';
 import AnimateOnScroll from '@/components/ui/AnimateOnScroll';
 import FAQBentoSection from '@/components/sections/FAQBentoSection';
 import { parseInlineHtml } from '@/lib/parseInlineHtml';
+import { isFAQHeading } from '@/lib/faq';
 
 interface ContentSectionsProps {
   sections: ContentBlock[];
   contentImage?: string;
   contentImageAlt?: string;
+  faqImage?: string;
+  faqImageAlt?: string;
+  faqImagePortrait?: boolean;
 }
 
 interface FAQBentoData {
@@ -21,11 +25,6 @@ interface FAQBentoData {
 type RenderItem =
   | { type: 'content'; block: ContentBlock; originalIndex: number }
   | { type: 'faq-bento'; data: FAQBentoData };
-
-function isFAQHeading(heading: string): boolean {
-  const lower = heading.toLowerCase();
-  return lower.includes('foire') && lower.includes('questions');
-}
 
 function parseFAQParagraph(text: string): { question: string; answer: string } {
   // Pattern B: "Question text? Answer text."
@@ -94,7 +93,14 @@ function buildRenderItems(sections: ContentBlock[]): RenderItem[] {
   return items;
 }
 
-export default function ContentSections({ sections, contentImage, contentImageAlt }: ContentSectionsProps) {
+export default function ContentSections({
+  sections,
+  contentImage,
+  contentImageAlt,
+  faqImage,
+  faqImageAlt,
+  faqImagePortrait,
+}: ContentSectionsProps) {
   if (sections.length === 0) return null;
 
   const renderItems = buildRenderItems(sections);
@@ -168,6 +174,9 @@ export default function ContentSections({ sections, contentImage, contentImageAl
             key={`faq-bento-${idx}`}
             title={item.data.title}
             items={item.data.items}
+            image={faqImage}
+            imageAlt={faqImageAlt}
+            imagePortrait={faqImagePortrait}
           />
         ))}
     </>

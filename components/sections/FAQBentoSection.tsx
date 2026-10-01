@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { parseInlineHtml } from '@/lib/parseInlineHtml';
 
 interface FAQBentoItem {
   question: string;
@@ -10,6 +11,7 @@ interface FAQBentoSectionProps {
   items: FAQBentoItem[];
   image?: string;
   imageAlt?: string;
+  imagePortrait?: boolean;
 }
 
 function FAQCard({ question, answer }: FAQBentoItem) {
@@ -19,7 +21,7 @@ function FAQCard({ question, answer }: FAQBentoItem) {
         {question}
       </h3>
       <p className="text-sm text-dark-text-secondary leading-relaxed">
-        {answer}
+        {parseInlineHtml(answer)}
       </p>
     </div>
   );
@@ -28,8 +30,9 @@ function FAQCard({ question, answer }: FAQBentoItem) {
 export default function FAQBentoSection({
   title,
   items,
-  image = '/images/cta/nettoyage-vitres-appartement-rouen.webp',
-  imageAlt = "Technicien nettoyant les vitres d'un salon à colombages à Rouen",
+  image,
+  imageAlt = '',
+  imagePortrait = false,
 }: FAQBentoSectionProps) {
   const leftItems = items.slice(0, 3);
   const rightItems = items.slice(3, 6);
@@ -52,7 +55,11 @@ export default function FAQBentoSection({
         </div>
 
         {/* Grille bento : 3 colonnes sur desktop */}
-        <div className="grid grid-cols-1 lg:grid-cols-[1fr_300px_1fr] gap-6 items-start">
+        <div
+          className={`grid grid-cols-1 gap-6 items-start ${
+            image ? 'lg:grid-cols-[1fr_300px_1fr]' : 'lg:grid-cols-2'
+          }`}
+        >
           {/* Colonne gauche : 3 FAQ */}
           <div className="flex flex-col gap-6">
             {leftItems.map((item, idx) => (
@@ -61,18 +68,20 @@ export default function FAQBentoSection({
           </div>
 
           {/* Image centrale portrait */}
-          <div className="hidden lg:flex items-center justify-center h-full">
-            <div className="relative w-[280px] h-[420px] rounded-xl overflow-hidden">
-              <Image
-                src={image}
-                alt={imageAlt}
-                fill
-                className="object-cover object-[78%_center]"
-                sizes="280px"
-                loading="lazy"
-              />
+          {image && (
+            <div className="hidden lg:flex items-center justify-center h-full">
+              <div className="relative w-[280px] h-[420px] rounded-xl overflow-hidden">
+                <Image
+                  src={image}
+                  alt={imageAlt}
+                  fill
+                  className={`object-cover ${imagePortrait ? 'object-center' : 'object-[78%_center]'}`}
+                  sizes="280px"
+                  loading="lazy"
+                />
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Colonne droite : 3 FAQ */}
           <div className="flex flex-col gap-6">

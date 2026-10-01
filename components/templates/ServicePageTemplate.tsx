@@ -14,6 +14,7 @@ import FAQSection from '@/components/sections/FAQSection';
 import RelatedServicesSection from '@/components/sections/RelatedServicesSection';
 import CTASection from '@/components/sections/CTASection';
 import ZoneInterventionSection from '@/components/sections/ZoneInterventionSection';
+import { hasFAQBento } from '@/lib/faq';
 
 const categoryLabels: Record<string, string> = {
   particuliers: 'Particuliers',
@@ -53,6 +54,9 @@ export default function ServicePageTemplate({
   content,
   relatedServices,
 }: ServicePageTemplateProps) {
+  // L'image FAQ va dans le bloc FAQ du contenu s'il existe, sinon à côté de l'accordéon.
+  const faqHasBento = hasFAQBento(content.sections);
+
   const breadcrumbItems = [
     { label: 'Accueil', href: '/' },
     {
@@ -123,6 +127,9 @@ export default function ServicePageTemplate({
           sections={content.sections}
           contentImage={service.contentImage}
           contentImageAlt={service.contentImageAlt ?? `${service.title} à Rouen — ProClean`}
+          faqImage={service.faqImage ?? service.heroImage}
+          faqImageAlt={service.faqImage ? service.faqImageAlt : service.title}
+          faqImagePortrait={Boolean(service.faqImage)}
         />
       )}
 
@@ -136,7 +143,12 @@ export default function ServicePageTemplate({
 
       {/* FAQ */}
       {content.faq.length > 0 && (
-        <FAQSection heading="Questions fréquentes" items={content.faq} />
+        <FAQSection
+          heading="Questions fréquentes"
+          items={content.faq}
+          image={faqHasBento ? undefined : service.faqImage}
+          imageAlt={service.faqImageAlt}
+        />
       )}
 
       {/* Services liés */}
