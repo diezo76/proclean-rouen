@@ -158,3 +158,12 @@ Serveur passé de `18c50c6` (27/03) à `2cb110b`. Vérifié depuis l'extérieur 
 Relevé pendant le déploiement : le serveur tourne en **Node 18.20.8** (fin de support, une dépendance de lint réclame Node 20+), `npm audit` signale **9 vulnérabilités** (1 critique, 7 élevées), un `.env.local` est bien présent. Un `package-lock.json` local au serveur bloquait `git pull` ; il a été renommé en `package-lock.json.bak-20261001`.
 
 Toujours ouvert côté serveur : certificat `www`, HSTS, mise à jour de Node.
+
+### Suite du 2026-10-01 (nuit) — formulaire, sécurité, ancienneté
+
+- **Formulaire en panne depuis l'origine** : le journal serveur compte 20 échecs d'envoi (essais du 01/10 compris), tous en `EAUTH 535` chez `smtp.gmail.com`. Cause : la messagerie de proclean20.fr est chez Hostinger (MX `mx1/mx2.hostinger.com`), le code visait Gmail. Corrigé : hôte et port lus dans l'environnement (`EMAIL_HOST`, `EMAIL_PORT`, défaut Hostinger 465). **Reste à saisir sur le serveur l'adresse et le mot de passe d'une boîte Hostinger existante, puis à tester un envoi réel — non vérifié à ce stade.**
+- **Next 15.5.27** déployé (faille critique). Restent 4 failles élevées (sharp, nodemailer, postcss, nanoid) : leurs correctifs exigent Node 20+, le serveur est en Node 18.20.8.
+- **Ancienneté retirée** (décision du 01/10) : « 15+ ans », « plus de 12 ans » ×3, « depuis 2020 » ×3, « milliers de matelas ». Pastille d'accueil remplacée par « 20 services proposés ».
+- **Positionnement** (décision du 01/10) : siège au Havre, site ciblant Rouen. « installation rouennaise » et « équipe rouennaise » retirés ; adresse du Havre conservée en pied de page et mentions légales.
+- Vérifié en ligne après déploiement de `c0295a3` : 40 URLs en 200, aucune des mentions retirées sur les 7 pages concernées.
+- Toujours ouvert : `https://www` (certificat) et HSTS, mot de passe SMTP + test réel, mesure d'audience, Node 20+ sur le serveur, « 530+ interventions » / « 98 % » / « 5/5 sur Google » non prouvés, discours de proclean20.fr (« parfois jusqu'à Rouen »).
