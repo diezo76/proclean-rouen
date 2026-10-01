@@ -1,21 +1,23 @@
 import type { Metadata } from 'next';
-import { Inter, Plus_Jakarta_Sans } from 'next/font/google';
+import { Bricolage_Grotesque, DM_Sans } from 'next/font/google';
 import { siteConfig } from '@/data/siteConfig';
 import SiteHeader from '@/components/ui/SiteHeader';
 import SiteFooter from '@/components/ui/SiteFooter';
 import MotionProvider from '@/components/ui/MotionProvider';
 import './globals.css';
 
-const inter = Inter({
+const dmSans = DM_Sans({
   subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
   display: 'swap',
-  variable: '--font-inter',
+  variable: '--font-dm-sans',
 });
 
-const jakarta = Plus_Jakarta_Sans({
+const bricolage = Bricolage_Grotesque({
   subsets: ['latin'],
+  weight: ['600', '700', '800'],
   display: 'swap',
-  variable: '--font-jakarta',
+  variable: '--font-bricolage',
 });
 
 export const metadata: Metadata = {
@@ -50,7 +52,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="fr" className={`${inter.variable} ${jakarta.variable}`}>
+    <html lang="fr" className={`${dmSans.variable} ${bricolage.variable}`}>
       <body className="font-sans text-navy bg-white antialiased dark:bg-dark-bg dark:text-dark-text">
         <a
           href="#main-content"

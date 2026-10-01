@@ -23,8 +23,8 @@ const config: Config = {
         'dark-text-secondary': '#94A3B8',
       },
       fontFamily: {
-        sans: ['var(--font-inter)', 'system-ui', 'sans-serif'],
-        display: ['var(--font-jakarta)', 'system-ui', 'sans-serif'],
+        sans: ['var(--font-dm-sans)', 'system-ui', 'sans-serif'],
+        display: ['var(--font-bricolage)', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
         soft: '0 1px 2px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.04)',
