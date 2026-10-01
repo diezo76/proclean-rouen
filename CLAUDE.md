@@ -380,6 +380,8 @@ Le fichier source des textes bruts est dans `content/raw/rouen-textes.txt`.
 - Audit complet (bugs techniques + risque duplicate content + recommandations) : `docs/audit-proclean-2026-07.md` — quick wins techniques (breadcrumb villes, métadonnées, images WebP) corrigés le 2026-07-06 ; diversification des 20 intros de zone + maillage interne vers les city hubs corrigés le 2026-07-07, voir section "Corrections appliquées" du rapport.
 - Audit SEO local 6 dimensions (score 35/100, skill `seo-local`, 2026-07-15) : `docs/LOCAL-SEO-ANALYSIS-societe-nettoyage-rouen.fr.md` — constat structurant : l'entreprise est au Havre, aucun GBP Rouen, donc pas d'accès au pack local (proximité = 55 % de la variance) ; le site joue en local organique, où il est solide (28 pages service, maillage hub-and-spoke, schema `CleaningService` correct). 3 priorités : trancher la contradiction Le Havre↔Rouen, lancer les avis Google, repasser les pages villes au-dessus de 60 % d'unicité.
 
+- État des lieux complet (production vs dépôt vs local, Search Console, problèmes classés, ordre de travail, 2026-10-01) : `docs/etat-des-lieux-2026-10-01.md` — constat structurant : la production tourne sur le build du 27 mars, aucune correction de juillet n'est en ligne, et le commit `16e7045` du 14/08 a annulé les corrections de contenu du 07/07 (toujours présentes en local, non commitées).
+
 ---
 
 ## Git & GitHub
