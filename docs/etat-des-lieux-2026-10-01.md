@@ -133,3 +133,15 @@ Rien n'est perdu : les 3 fichiers « modifiés non commités » du dossier local
 - Positions dans le pack local, backlinks, citations d'annuaires.
 - Indexation des 38 autres URLs (2 inspectées sur 40).
 - Fiche Google Business Profile du Havre (nombre d'avis réel).
+
+---
+
+## 8. Suite donnée le 2026-10-01 (soir)
+
+**Fait et poussé sur `main` (`6a0c686`)** :
+- corrections de contenu du 07/07 rétablies (`8ce733f`, identiques à `f57f979`) ;
+- titres sans doublon de marque, `og:image`, icônes, schéma `LocalBusiness` (`@id`, `image`, `areaServed` par ville), `prefers-reduced-motion`, en-tête mobile qui ne recouvre plus le H1 (devis + 2 pages légales).
+
+**Toujours pas en ligne** : le déploiement n'a pas été fait. Tant qu'il ne l'est pas, la production reste le build du 27 mars.
+
+**Reste ouvert** : déploiement, certificat `www` + HSTS, test réel du formulaire, mesure d'audience, validation client des chiffres affichés, décision Le Havre ↔ Rouen, 21 titres de plus de 60 caractères, H1 d'accueil, `geo`/horaires du schéma, pages villes, structure « Étape 1/2/3 ».
