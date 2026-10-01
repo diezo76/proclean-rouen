@@ -103,7 +103,7 @@ export default function ContentSections({ sections, contentImage, contentImageAl
   return (
     <>
       <section className="py-12 md:py-20">
-        <div className="container-main max-w-4xl">
+        <div className="container-main max-w-3xl">
           {renderItems.map((item, idx) => {
             if (item.type === 'faq-bento') {
               return null; // Rendered outside this section
@@ -160,7 +160,7 @@ export default function ContentSections({ sections, contentImage, contentImageAl
         </div>
       </section>
 
-      {/* FAQ Bento sections rendered full-width outside the max-w-4xl container */}
+      {/* FAQ Bento sections rendered full-width outside the max-w-3xl container */}
       {renderItems
         .filter((item): item is Extract<RenderItem, { type: 'faq-bento' }> => item.type === 'faq-bento')
         .map((item, idx) => (
