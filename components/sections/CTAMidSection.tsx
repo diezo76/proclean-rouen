@@ -47,8 +47,8 @@ export default function CTAMidSection({
           <AnimateOnScroll direction="right" delay={0.2}>
             <div className="relative h-[300px] lg:h-[380px] rounded-2xl overflow-hidden">
               <Image
-                src="/images/cta/cta-cleaner.webp"
-                alt="Technicien ProClean prêt pour intervention à Rouen"
+                src="/images/cta/nettoyage-vitres-appartement-rouen.webp"
+                alt="Technicien nettoyant les vitres d'un salon à colombages à Rouen"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

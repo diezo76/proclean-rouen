@@ -28,8 +28,8 @@ function FAQCard({ question, answer }: FAQBentoItem) {
 export default function FAQBentoSection({
   title,
   items,
-  image = '/images/cta/cta-cleaner.webp',
-  imageAlt = 'ProClean Rouen - Service professionnel',
+  image = '/images/cta/nettoyage-vitres-appartement-rouen.webp',
+  imageAlt = "Technicien nettoyant les vitres d'un salon à colombages à Rouen",
 }: FAQBentoSectionProps) {
   const leftItems = items.slice(0, 3);
   const rightItems = items.slice(3, 6);
@@ -67,7 +67,7 @@ export default function FAQBentoSection({
                 src={image}
                 alt={imageAlt}
                 fill
-                className="object-cover"
+                className="object-cover object-[78%_center]"
                 sizes="280px"
                 loading="lazy"
               />

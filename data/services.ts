@@ -30,7 +30,8 @@ export const services: ServiceDefinition[] = [
     icon: 'Grid3X3',
     priority: 0.7,
     heroImage: '/images/services/hero-nettoyage-moquette-rouen.webp',
-    contentImage: '/images/services/content-nettoyage-moquette-rouen.jpg',
+    contentImage: '/images/services/content-nettoyage-moquette-rouen.webp',
+    contentImageAlt: 'Injection-extraction sur une moquette de bureau à Rouen',
   },
   {
     slug: 'nettoyage-matelas-rouen',
@@ -184,7 +185,8 @@ export const services: ServiceDefinition[] = [
     icon: 'Monitor',
     priority: 0.5,
     heroImage: '/images/services/hero-nettoyage-distributeurs-rouen.jpg',
-    contentImage: '/images/services/content-nettoyage-distributeurs-rouen.jpg',
+    contentImage: '/images/services/content-nettoyage-distributeurs-rouen.webp',
+    contentImageAlt: "Désinfection d'un distributeur automatique en entreprise à Rouen",
   },
   {
     slug: 'nettoyage-camion-rouen',

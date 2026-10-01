@@ -82,8 +82,8 @@ export default function HeroSection({
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background image */}
       <Image
-        src="/images/hero/newhero.webp"
-        alt="Nettoyage professionnel à Rouen — ProClean"
+        src="/images/hero/nettoyage-appartement-rouen-hero.webp"
+        alt="Nettoyage professionnel d'un appartement lumineux à Rouen"
         fill
         className="object-cover"
         priority
