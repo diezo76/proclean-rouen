@@ -782,7 +782,7 @@ Plan validé. **Commits locaux uniquement : ni push ni déploiement avant valida
 - [x] `FAQSection` : image optionnelle à gauche de l'accordéon (ordinateur)
 - [x] Page canapé testée seule avant les autres
 - [x] Build : 0 erreur ; 20 pages services mesurées
-- [ ] Validation visuelle, puis push et déploiement
+- [x] Validé, poussé et déployé (`b735814`), vérifié en ligne sur les 20 pages services
 - [ ] Images FAQ restantes : terrasse, vitres, bureaux, commerces, parking, immeubles, distributeurs, camion, toiture
 
 ### Review
