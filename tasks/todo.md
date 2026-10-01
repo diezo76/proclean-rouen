@@ -710,3 +710,36 @@ Passer la homepage de 6 sections "flat" à 10 sections visuellement impactantes 
 - Phrases courtes (<6 mots) sur chaque page
 - Chiffres concrets (durées, taux, prix) sur chaque page
 - Build : 33 pages, 0 erreur
+
+---
+
+## Lot 2026-10-01 — Remise à niveau avant redéploiement
+
+Source : `docs/etat-des-lieux-2026-10-01.md`. Validé par « go » le 01/10.
+
+- [x] Recommiter les corrections de contenu du 07/07 annulées par `16e7045`
+- [x] Titres : supprimer le doublon de marque (gabarit `app/layout.tsx`)
+- [x] Image de partage (`og:image`) + icône du site
+- [x] En-tête mobile qui recouvre le H1 (devis, mentions légales, confidentialité)
+- [x] Schéma `LocalBusiness` : `@id`, `image`, `areaServed` propre à chaque page ville
+- [x] `prefers-reduced-motion` respecté (MotionConfig)
+- [x] `CLAUDE.md` : limite du formulaire = 5/heure (et non 5/minute)
+- [x] Build + vérification du HTML généré
+- [x] Push sur `main`
+- [ ] Déploiement VPS — **bloqué : accès serveur refusé à la session**
+- [ ] Certificat `www` + HSTS — serveur
+- [ ] Test réel du formulaire — après déploiement
+- [ ] Mesure d'audience — décision à prendre
+- [ ] Chiffres affichés (15 ans, 530, 5/5) — validation client
+- [ ] Le Havre ↔ Rouen — décision client
+
+### Review du lot 2026-10-01
+
+- `app/layout.tsx` : gabarit de titre ramené à `%s` (chaque page porte déjà la marque) ; `og:image` par défaut ; `MotionProvider`.
+- `lib/seo.ts`, `data/siteConfig.ts`, `types/index.ts` : `ogImage` centralisé dans `siteConfig`, repris par toutes les pages.
+- `public/images/og.jpg` (1200×630), `app/icon.png`, `app/apple-icon.png` : nouveaux.
+- `components/schema/LocalBusinessSchema.tsx` : `@id`, `image`, prop `areaServed` ; `VilleTemplate` passe le nom de la ville.
+- `components/ui/MotionProvider.tsx` : `MotionConfig reducedMotion="user"`.
+- `ContactForm.tsx`, mentions légales, confidentialité : `pt-28` pour dégager l'en-tête fixe.
+- Vérifié sur le build local : 0 titre avec marque en double, 0 titre dupliqué, `og:image` et icône sur les pages testées, `areaServed` = Bihorel sur la page Bihorel, marge H1/logo +27 px (375 px) et +25 px (768 px) contre −37 px avant.
+- Non traité, volontairement : 21 titres de plus de 60 caractères (texte client), H1 d'accueil sans « Rouen », `geo` et horaires du schéma (données réelles inconnues), pages villes, structure « Étape 1/2/3 ».

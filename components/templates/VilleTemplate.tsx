@@ -18,7 +18,7 @@ export default function VilleTemplate({ city }: { city: CityData }) {
 
   return (
     <article>
-      <LocalBusinessSchema />
+      <LocalBusinessSchema areaServed={city.name} />
       <BreadcrumbSchema items={breadcrumbItems} />
       <FAQSchema items={city.faq} />
 

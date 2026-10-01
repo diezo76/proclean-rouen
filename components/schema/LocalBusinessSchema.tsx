@@ -1,13 +1,15 @@
 import { siteConfig } from '@/data/siteConfig';
 
-export default function LocalBusinessSchema() {
+export default function LocalBusinessSchema({ areaServed }: { areaServed?: string }) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': ['CleaningService', 'LocalBusiness'],
+    '@id': `${siteConfig.url}/#business`,
     name: siteConfig.name,
     legalName: siteConfig.legalName,
     description: siteConfig.slogan,
     url: siteConfig.url,
+    image: `${siteConfig.url}${siteConfig.ogImage}`,
     telephone: siteConfig.phoneFormatted,
     email: siteConfig.email,
     address: {
@@ -20,7 +22,7 @@ export default function LocalBusinessSchema() {
     },
     areaServed: {
       '@type': 'City',
-      name: siteConfig.city,
+      name: areaServed ?? siteConfig.city,
     },
     paymentAccepted: siteConfig.paymentMethods.join(', '),
     priceRange: '€€',

@@ -201,6 +201,7 @@ export interface SiteConfig {
   slogan: string;
   domain: string;
   url: string;
+  ogImage: string;
   email: string;
   phone: string;
   phoneFormatted: string;

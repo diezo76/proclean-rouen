@@ -26,11 +26,13 @@ export function generatePageMetadata({
       siteName: siteConfig.name,
       locale: 'fr_FR',
       type: 'website',
+      images: [siteConfig.ogImage],
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
+      images: [siteConfig.ogImage],
     },
     robots: noIndex ? { index: false, follow: false } : undefined,
   };

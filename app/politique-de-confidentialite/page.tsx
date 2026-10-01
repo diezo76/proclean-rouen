@@ -21,7 +21,7 @@ export default function PolitiqueConfidentialitePage() {
           },
         ]}
       />
-      <article className="py-12 md:py-20">
+      <article className="pt-28 pb-12 md:pt-32 md:pb-20">
         <div className="container-main max-w-3xl">
           <h1 className="font-display text-3xl sm:text-4xl font-bold text-navy dark:text-dark-text mb-10">
             Politique de confidentialité

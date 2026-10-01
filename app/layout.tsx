@@ -3,6 +3,7 @@ import { Inter, Plus_Jakarta_Sans } from 'next/font/google';
 import { siteConfig } from '@/data/siteConfig';
 import SiteHeader from '@/components/ui/SiteHeader';
 import SiteFooter from '@/components/ui/SiteFooter';
+import MotionProvider from '@/components/ui/MotionProvider';
 import './globals.css';
 
 const inter = Inter({
@@ -21,16 +22,18 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
     default: `${siteConfig.name} — Nettoyage professionnel à ${siteConfig.city}`,
-    template: `%s | ${siteConfig.name} ${siteConfig.city}`,
+    template: '%s',
   },
   description: `${siteConfig.slogan}. Services de nettoyage professionnel à ${siteConfig.city} et en ${siteConfig.department}.`,
   openGraph: {
     siteName: siteConfig.name,
     locale: 'fr_FR',
     type: 'website',
+    images: [siteConfig.ogImage],
   },
   twitter: {
     card: 'summary_large_image',
+    images: [siteConfig.ogImage],
   },
   robots: {
     index: true,
@@ -55,9 +58,11 @@ export default function RootLayout({
         >
           Aller au contenu principal
         </a>
-        <SiteHeader />
-        <main id="main-content">{children}</main>
-        <SiteFooter />
+        <MotionProvider>
+          <SiteHeader />
+          <main id="main-content">{children}</main>
+          <SiteFooter />
+        </MotionProvider>
       </body>
     </html>
   );

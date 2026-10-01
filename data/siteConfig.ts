@@ -6,6 +6,7 @@ export const siteConfig: SiteConfig = {
   slogan: 'Nettoyage de Pro pour les Pros',
   domain: 'societe-nettoyage-rouen.fr',
   url: 'https://societe-nettoyage-rouen.fr',
+  ogImage: '/images/og.jpg',
   email: 'contact@proclean20.fr',
   phone: '07 49 13 06 83',
   phoneFormatted: '+33749130683',

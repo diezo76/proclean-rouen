@@ -301,7 +301,7 @@ Chaque page service suit cette structure HTML sémantique :
 - Envoi via Nodemailer SMTP vers `contact@proclean20.fr`
 - Email HTML formaté avec toutes les informations
 - Honeypot anti-spam (champ caché)
-- Rate limiting basique (max 5 envois/minute par IP)
+- Rate limiting basique (max 5 envois/heure par IP)
 - Réponse JSON { success: true/false, message: string }
 
 ### Variables d'environnement (.env.local)

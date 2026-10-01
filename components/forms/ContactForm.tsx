@@ -140,7 +140,7 @@ export default function ContactForm() {
   if (status === 'success') {
     return (
       <section className="bg-navy min-h-[60vh] flex items-center">
-        <div className="container-main py-12 md:py-20">
+        <div className="container-main pt-28 pb-12 md:pt-32 md:pb-20">
           <div className="max-w-lg mx-auto text-center">
             <div className="mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-proclean-green/20">
               <Check className="w-10 h-10 text-proclean-green" />
@@ -172,7 +172,7 @@ export default function ContactForm() {
 
   return (
     <section className="bg-navy">
-      <div className="container-main py-12 md:py-20">
+      <div className="container-main pt-28 pb-12 md:pt-32 md:pb-20">
         {/* Header */}
         <div className="text-center mb-10">
           <h1 className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold text-white tracking-tight">
