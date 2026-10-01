@@ -41,3 +41,51 @@ Le hero sort à 1536 px et non 1920 : la source fait 1536 px, elle n'a pas été
 - Alt des images de contenu : champ optionnel `contentImageAlt` sur `ServiceDefinition` (`types/index.ts`), lu en priorité par `ServicePageTemplate`. Repli : `<titre> à Rouen — ProClean`.
 - Anciennes images archivées dans `public/images/_originals/2026-10-01/` (dossier ignoré par git).
 - `service-circle-1.webp` et `service-circle-2.webp` gardent leur nom : vider `.next/cache/images` après déploiement si l'ancienne image persiste.
+
+---
+
+# Lot 2 — couverture canapé et images FAQ (2026-10-01, soir)
+
+## Images posées
+
+Toutes dans `public/images/services/`. Conversion `cwebp -q 82 -metadata none`, aucune baisse de qualité nécessaire. Contrôle métadonnées = 0 sur les 12 fichiers (`strings` et `webpmux -info`).
+
+| Source (`~/Downloads`) | Destination | Dimensions | Poids | Alt | Affichage |
+|---|---|---|---|---|---|
+| Nettoyage professionnel d’un canapé lumineux.png | `hero-nettoyage-canape-rouen.webp` | 1200×800 | 90,5 Ko (ancien `.jpg` : 138,0 Ko) | titre de la page (inchangé) | couverture |
+| Nettoyage professionnel du canapé.png | `faq-nettoyage-canape-rouen.webp` | 560×840 | 37,4 Ko | Brossage d'un coussin de canapé après nettoyage à Rouen | bloc FAQ du contenu |
+| Nettoyage professionnel d’un tapis fleuri.png | `faq-nettoyage-tapis-rouen.webp` | 560×840 | 70,4 Ko | Contrôle des fibres d'un tapis en laine après nettoyage à Rouen | bloc FAQ du contenu |
+| pc-faq-moquette.png.png | `faq-nettoyage-moquette-rouen.webp` | 560×840 | 55,4 Ko | Shampouineuse professionnelle dans un couloir de bureaux moquetté à Rouen | bloc FAQ du contenu |
+| pc-faq-matelas.png | `faq-nettoyage-matelas-rouen.webp` | 560×840 | 33,8 Ko | Aspiration anti-acariens d'un matelas à Rouen | bloc FAQ du contenu |
+| pc-faq-diogene.png | `faq-nettoyage-diogene-rouen.webp` | 560×840 | 25,2 Ko | Technicien en combinaison de protection évacuant des déchets à Rouen | à gauche de l'accordéon |
+| pc-faq-apres-travaux.png | `faq-nettoyage-apres-travaux-rouen.webp` | 560×840 | 27,4 Ko | Retrait des traces de peinture sur une fenêtre après travaux à Rouen | à gauche de l'accordéon |
+| pc-faq-lustre.png | `faq-nettoyage-lustre-rouen.webp` | 560×840 | 49,6 Ko | Nettoyage des pampilles en cristal d'un lustre à Rouen | à gauche de l'accordéon |
+| pc-faq-apres-demenagement.png | `faq-nettoyage-apres-demenagement-rouen.webp` | 560×840 | 23,8 Ko | Nettoyage des placards de cuisine après un déménagement à Rouen | à gauche de l'accordéon |
+| pc-faq-debarras.png | `faq-debarras-maison-rouen.webp` | 560×840 | 42,6 Ko | Évacuation de cartons lors d'un débarras de maison près de Rouen | à gauche de l'accordéon |
+| pc-faq-appartement.png | `faq-nettoyage-appartement-rouen.webp` | 560×840 | 28,3 Ko | Nettoyage du plan de travail d'une cuisine d'appartement à Rouen | à gauche de l'accordéon |
+| pc-faq-voiture.png | `faq-nettoyage-voiture-rouen.webp` | 560×840 | 39,8 Ko | Aspiration des sièges arrière d'une voiture à Rouen | à gauche de l'accordéon |
+
+## Où s'affiche l'image FAQ
+
+Deux gabarits de FAQ coexistent sur les pages services :
+
+- **Bloc FAQ du contenu** (`FAQBentoSection`, fond sombre, 6 questions autour d'une image) : présent sur 6 pages seulement — canapé, tapis, moquette, matelas, distributeurs, camion. Il dépend d'un titre « Foire aux questions » dans `content/rouen-sections.ts`.
+- **Accordéon** (`FAQSection`) : présent sur les 20 pages.
+
+Règle codée dans `ServicePageTemplate` (détection : `hasFAQBento` dans `lib/faq.ts`) :
+
+1. La page a un bloc FAQ du contenu → l'image y va. Sans `faqImage`, repli sur la couverture (`heroImage`, alt = titre du service).
+2. Sinon, si `faqImage` existe → image à gauche de l'accordéon, sur ordinateur uniquement.
+3. Sinon → accordéon seul, sans image.
+
+L'image n'apparaît donc jamais deux fois, et l'image globale `cta/nettoyage-vitres-appartement-rouen.webp` n'est plus utilisée que par le bloc d'appel à l'action de l'accueil.
+
+Cadrage : `object-center` pour une image FAQ dédiée (portrait), `object-[78%_center]` pour le repli couverture.
+
+## À faire
+
+Images FAQ à générer (portrait 2:3, 1024×1536 minimum) : **terrasse, vitres, bureaux, commerces, parking, immeubles, distributeurs, camion, toiture**.
+
+- **Distributeurs et camion** sont prioritaires : ce sont les deux pages en repli. La couverture y apparaît deux fois, et le cadrage à 78 % tombe mal sur distributeurs (couloir vide, le distributeur est au bord gauche).
+- Les 7 autres n'ont pas de bloc FAQ du contenu : leur image ira à gauche de l'accordéon.
+- **Couverture toiture** : toujours à régénérer (voir « Image écartée » plus haut).

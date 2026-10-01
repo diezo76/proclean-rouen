@@ -768,3 +768,29 @@ Plan validé le 01/10. **Commits locaux uniquement : ni push ni déploiement ava
 - Point visuel à juger : dans `ContentSections`, l'image flottante occupe 45 % d'une colonne désormais plus étroite ; le titre voisin passe sur 4 lignes à 1440 px.
 - Trouvé en relisant les captures : un « 5+ Années d'expérience » restait dans le bloc « À propos » de l'accueil (échappé au retrait du matin). Remplacé par « 20 Services proposés ».
 - Captures : `~/projets/ProClean/captures-2026-10-01/` (hors dépôt).
+
+---
+
+## Lot 2026-10-01 (nuit) — Couverture canapé + image FAQ par service
+
+Plan validé. **Commits locaux uniquement : ni push ni déploiement avant validation.**
+
+- [x] 12 images converties (couverture canapé + 11 FAQ), 0 métadonnée, toutes sous les cibles de poids
+- [x] `faqImage` / `faqImageAlt` sur `ServiceDefinition`, renseignés pour 11 services
+- [x] `lib/faq.ts` : détection du bloc FAQ du contenu
+- [x] `FAQBentoSection` : plus d'image globale par défaut, cadrage selon le type d'image
+- [x] `FAQSection` : image optionnelle à gauche de l'accordéon (ordinateur)
+- [x] Page canapé testée seule avant les autres
+- [x] Build : 0 erreur ; 20 pages services mesurées
+- [ ] Validation visuelle, puis push et déploiement
+- [ ] Images FAQ restantes : terrasse, vitres, bureaux, commerces, parking, immeubles, distributeurs, camion, toiture
+
+### Review
+
+- Mesuré sur les 20 pages services à 1440 px : 0 débordement, 0 image cassée, 0 erreur console, 0 occurrence de l'image globale. 11 pages affichent leur image FAQ dédiée (280×420, centrée), 7 n'en affichent aucune (accordéon inchangé), 2 sont en repli couverture (distributeurs, camion).
+- Doublons d'image : aucun, sauf la couverture répétée sur distributeurs et camion (repli voulu).
+- Mobile 390 px (page lustre) : image masquée, pas de débordement.
+- Le brief supposait un bloc FAQ à image sur toutes les pages : il n'existe que sur 6. Les 7 autres images sont posées à côté de l'accordéon (décision prise avant de coder).
+- Corrigé au passage : les réponses du bloc FAQ du contenu affichaient des balises `<strong>` en clair ; elles passent maintenant par `parseInlineHtml`.
+- Points visuels à juger : sur les pages à accordéon, l'image (420 px de haut) dépasse sous les questions fermées ; sur distributeurs, le cadrage de repli montre surtout un couloir vide.
+- Captures : `~/projets/ProClean/captures-2026-10-01-faq/` (hors dépôt).
