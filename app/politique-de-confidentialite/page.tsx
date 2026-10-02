@@ -1,6 +1,7 @@
 import { generatePageMetadata } from '@/lib/seo';
 import { siteConfig } from '@/data/siteConfig';
-import BreadcrumbSchema from '@/components/schema/BreadcrumbSchema';
+import JsonLd from '@/components/schema/JsonLd';
+import { buildBusiness, buildBreadcrumb } from '@/lib/schema';
 
 export const metadata = generatePageMetadata({
   title: 'Politique de Confidentialité | ProClean Rouen',
@@ -12,13 +13,16 @@ export const metadata = generatePageMetadata({
 export default function PolitiqueConfidentialitePage() {
   return (
     <>
-      <BreadcrumbSchema
-        items={[
-          { label: 'Accueil', href: '/' },
-          {
-            label: 'Politique de confidentialité',
-            href: '/politique-de-confidentialite',
-          },
+      <JsonLd
+        nodes={[
+          buildBusiness(),
+          buildBreadcrumb([
+            { label: 'Accueil', href: '/' },
+            {
+              label: 'Politique de confidentialité',
+              href: '/politique-de-confidentialite',
+            },
+          ]),
         ]}
       />
       <article className="pt-28 pb-12 md:pt-32 md:pb-20">

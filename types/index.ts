@@ -205,6 +205,7 @@ export interface SiteConfig {
   domain: string;
   url: string;
   ogImage: string;
+  logo: string;
   email: string;
   phone: string;
   phoneFormatted: string;
@@ -215,7 +216,12 @@ export interface SiteConfig {
     region: string;
     country: string;
   };
+  siren: string;
   siret: string;
+  naf: string;
+  geo: { latitude: number; longitude: number };
+  openingHours: { opens: string; closes: string };
+  sameAs: string[];
   paymentMethods: string[];
   city: string;
   department: string;

@@ -1,5 +1,8 @@
 import { generatePageMetadata } from '@/lib/seo';
+import JsonLd from '@/components/schema/JsonLd';
+import { buildBusiness, buildFAQ } from '@/lib/schema';
 import EntrepriseNettoyageContent from './EntrepriseNettoyageContent';
+import { ENTREPRISE_FAQ } from './faq';
 
 export const metadata = generatePageMetadata({
   title: 'Entreprise de nettoyage à Rouen | ProClean — Devis gratuit',
@@ -9,5 +12,10 @@ export const metadata = generatePageMetadata({
 });
 
 export default function Page() {
-  return <EntrepriseNettoyageContent />;
+  return (
+    <>
+      <JsonLd nodes={[buildBusiness(), buildFAQ(ENTREPRISE_FAQ)]} />
+      <EntrepriseNettoyageContent />
+    </>
+  );
 }

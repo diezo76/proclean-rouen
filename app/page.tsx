@@ -1,8 +1,7 @@
 import { rouenContent } from '@/content/rouen';
 import { generatePageMetadata } from '@/lib/seo';
-import LocalBusinessSchema from '@/components/schema/LocalBusinessSchema';
-import OrganizationSchema from '@/components/schema/OrganizationSchema';
-import FAQSchema from '@/components/schema/FAQSchema';
+import JsonLd from '@/components/schema/JsonLd';
+import { buildBusiness, buildFAQ } from '@/lib/schema';
 import HeroSection from '@/components/sections/HeroSection';
 import AboutSection from '@/components/sections/AboutSection';
 import ServicesShowcase from '@/components/sections/ServicesShowcase';
@@ -46,9 +45,7 @@ export default function HomePage() {
 
   return (
     <>
-      <LocalBusinessSchema />
-      <OrganizationSchema />
-      <FAQSchema items={homepage.faq} />
+      <JsonLd nodes={[buildBusiness(), buildFAQ(homepage.faq)]} />
 
       {/* 1. Hero - Full screen with background image */}
       <HeroSection

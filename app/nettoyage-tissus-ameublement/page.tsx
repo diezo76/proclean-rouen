@@ -2,7 +2,8 @@ import { rouenContent } from '@/content/rouen';
 import { getServicesByCategory } from '@/data/services';
 import { generatePageMetadata } from '@/lib/seo';
 import { getIcon } from '@/lib/icons';
-import BreadcrumbSchema from '@/components/schema/BreadcrumbSchema';
+import JsonLd from '@/components/schema/JsonLd';
+import { buildBusiness, buildBreadcrumb } from '@/lib/schema';
 import HeroSection from '@/components/sections/HeroSection';
 import Card from '@/components/ui/Card';
 import AnimateOnScroll from '@/components/ui/AnimateOnScroll';
@@ -25,7 +26,7 @@ export default function TissusAmeublementPage() {
 
   return (
     <>
-      <BreadcrumbSchema items={breadcrumbItems} />
+      <JsonLd nodes={[buildBusiness(), buildBreadcrumb(breadcrumbItems)]} />
 
       <HeroSection title={cat.h1} subtitle={cat.subtitle} variant="service" />
 

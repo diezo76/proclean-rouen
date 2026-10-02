@@ -1,5 +1,6 @@
 import { generatePageMetadata } from '@/lib/seo';
-import BreadcrumbSchema from '@/components/schema/BreadcrumbSchema';
+import JsonLd from '@/components/schema/JsonLd';
+import { buildBusiness, buildBreadcrumb } from '@/lib/schema';
 import ContactForm from '@/components/forms/ContactForm';
 
 export const metadata = generatePageMetadata({
@@ -12,10 +13,13 @@ export const metadata = generatePageMetadata({
 export default function DevisPage() {
   return (
     <>
-      <BreadcrumbSchema
-        items={[
-          { label: 'Accueil', href: '/' },
-          { label: 'Devis Gratuit', href: '/devis-gratuit-rouen' },
+      <JsonLd
+        nodes={[
+          buildBusiness(),
+          buildBreadcrumb([
+            { label: 'Accueil', href: '/' },
+            { label: 'Devis Gratuit', href: '/devis-gratuit-rouen' },
+          ]),
         ]}
       />
       <ContactForm />

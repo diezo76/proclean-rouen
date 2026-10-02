@@ -1,10 +1,7 @@
 import Link from 'next/link';
 import type { ServicePageTemplateProps } from '@/types';
 
-import ServiceSchema from '@/components/schema/ServiceSchema';
-import LocalBusinessSchema from '@/components/schema/LocalBusinessSchema';
-import BreadcrumbSchema from '@/components/schema/BreadcrumbSchema';
-import FAQSchema from '@/components/schema/FAQSchema';
+import JsonLd from '@/components/schema/JsonLd';
 
 import HeroSection from '@/components/sections/HeroSection';
 import ContentSections from '@/components/sections/ContentSections';
@@ -15,6 +12,7 @@ import RelatedServicesSection from '@/components/sections/RelatedServicesSection
 import CTASection from '@/components/sections/CTASection';
 import ZoneInterventionSection from '@/components/sections/ZoneInterventionSection';
 import { hasFAQBento } from '@/lib/faq';
+import { buildBusiness, buildBreadcrumb, buildFAQ, buildService } from '@/lib/schema';
 
 const categoryLabels: Record<string, string> = {
   particuliers: 'Particuliers',
@@ -68,15 +66,14 @@ export default function ServicePageTemplate({
 
   return (
     <article>
-      {/* JSON-LD Schemas */}
-      <ServiceSchema
-        serviceName={service.title}
-        description={content.metaDescription}
-        slug={service.slug}
+      <JsonLd
+        nodes={[
+          buildBusiness(),
+          buildService(service, content),
+          buildBreadcrumb(breadcrumbItems),
+          ...(content.faq.length > 0 ? [buildFAQ(content.faq)] : []),
+        ]}
       />
-      <LocalBusinessSchema />
-      <BreadcrumbSchema items={breadcrumbItems} />
-      {content.faq.length > 0 && <FAQSchema items={content.faq} />}
 
       {/* Hero avec image */}
       <HeroSection

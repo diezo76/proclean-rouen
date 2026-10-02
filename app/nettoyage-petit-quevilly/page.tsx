@@ -1,4 +1,7 @@
 import { generatePageMetadata } from '@/lib/seo';
+import { getCityBySlug } from '@/data/cities';
+import JsonLd from '@/components/schema/JsonLd';
+import { cityPageNodes } from '@/lib/schema';
 import VilleContent from './VilleContent';
 
 export const metadata = generatePageMetadata({
@@ -8,6 +11,13 @@ export const metadata = generatePageMetadata({
   path: '/nettoyage-petit-quevilly',
 });
 
+const city = getCityBySlug('petit-quevilly')!;
+
 export default function Page() {
-  return <VilleContent />;
+  return (
+    <>
+      <JsonLd nodes={cityPageNodes(city)} />
+      <VilleContent />
+    </>
+  );
 }

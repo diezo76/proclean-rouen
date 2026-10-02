@@ -3,12 +3,10 @@
 import Link from 'next/link';
 import { Phone, ArrowRight, Star, Sofa, Briefcase, Hammer, GlassWater, Trash2, Sun, Building2, CloudRain, Check } from 'lucide-react';
 import { siteConfig } from '@/data/siteConfig';
-import LocalBusinessSchema from '@/components/schema/LocalBusinessSchema';
-import FAQSchema from '@/components/schema/FAQSchema';
 import AnimateOnScroll from '@/components/ui/AnimateOnScroll';
 import FAQSection from '@/components/sections/FAQSection';
 import ZoneInterventionSection from '@/components/sections/ZoneInterventionSection';
-import type { FAQItem } from '@/types';
+import { ENTREPRISE_FAQ } from './faq';
 
 const SERVICES = [
   { icon: Sofa, title: 'Canapés & tissus', desc: 'Détachage, désinfection, rénovation de vos canapés, fauteuils et matelas.', href: '/nettoyage-canape-rouen' },
@@ -41,19 +39,10 @@ const ZONE_CITIES = [
   'Notre-Dame-de-Bondeville', 'Darnétal', 'Saint-Étienne-du-Rouvray',
 ];
 
-const FAQ_ITEMS: FAQItem[] = [
-  { question: 'Combien coûte un nettoyage professionnel à Rouen ?', answer: 'Ça dépend du service : à partir de 28€ pour un ménage d\'appartement, 60€ pour un canapé, 75€ pour une terrasse. On chiffre gratuitement avant chaque intervention.' },
-  { question: 'Vous intervenez chez les particuliers et les entreprises ?', answer: 'Oui, les deux. Appartements, maisons, bureaux, commerces, immeubles, parkings. On s\'adapte à chaque situation.' },
-  { question: 'Quel délai pour une intervention ?', answer: 'Devis sous 24h, intervention sous 48 à 72h en temps normal. On peut intervenir en urgence sous 24h si la situation le demande.' },
-  { question: 'Quels moyens de paiement acceptez-vous ?', answer: 'Chèque, virement bancaire et espèces. On vous envoie une facture après chaque intervention.' },
-  { question: 'Vous êtes assurés ?', answer: 'Oui, responsabilité civile professionnelle. En cas de problème pendant l\'intervention, vous êtes couvert.' },
-];
 
 export default function EntrepriseNettoyageContent() {
   return (
     <article>
-      <LocalBusinessSchema />
-      <FAQSchema items={FAQ_ITEMS} />
 
       {/* HERO compact */}
       <section className="bg-navy pt-28 md:pt-32 pb-12 md:pb-16">
@@ -208,7 +197,7 @@ export default function EntrepriseNettoyageContent() {
       />
 
       {/* FAQ */}
-      <FAQSection heading="Questions fréquentes" items={FAQ_ITEMS} />
+      <FAQSection heading="Questions fréquentes" items={ENTREPRISE_FAQ} />
 
       {/* CTA FINAL */}
       <section className="relative bg-cta-gradient overflow-hidden">
