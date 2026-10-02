@@ -269,7 +269,7 @@ export const rouenContent: RouenContent = {
         paymentMethods: PAYMENT_METHODS,
       },
       faq: [
-        { question: 'Combien coûte un nettoyage Diogène ?', answer: 'Entre 1 500€ et 8 000€ selon la gravité. On établit un devis gratuit après visite du logement — c\'est impossible à chiffrer sans voir sur place.' },
+        { question: 'Combien coûte un nettoyage Diogène ?', answer: 'Entre 900€ et 8 500€ selon la gravité. On établit un devis gratuit après visite du logement — c\'est impossible à chiffrer sans voir sur place.' },
         { question: 'Combien de temps dure l\'intervention ?', answer: '1 à 2 jours pour un cas modéré, jusqu\'à 5-7 jours pour les situations les plus lourdes. On vous donne un planning précis après la visite.' },
         { question: 'Est-ce que les voisins verront que c\'est un nettoyage Diogène ?', answer: 'Non. Véhicules banalisés, équipes en tenue neutre, sacs opaques. On travaille en toute discrétion, personne dans l\'immeuble ne saura pourquoi on intervient.' },
         { question: 'Vous évacuez aussi les déchets et encombrants ?', answer: 'Oui, on prend tout en charge : tri, évacuation, déchetterie. Vous n\'avez rien à gérer. Les objets de valeur sont mis de côté et restitués.' },
@@ -293,7 +293,7 @@ export const rouenContent: RouenContent = {
       ],
       zone: { paragraph: 'Après chantier, le nettoyage suit le rythme des travaux — de <a href="/nettoyage-saint-etienne-du-rouvray">Saint-Étienne-du-Rouvray</a> jusqu\'à <a href="/nettoyage-elbeuf">Elbeuf</a>, le déplacement est compris dans le devis, sans exception.', cities: ZONE_CITIES, paymentMethods: PAYMENT_METHODS },
       faq: [
-        { question: 'Combien coûte un nettoyage après travaux ?', answer: 'Entre 9€ et 22€/m² selon le type de travaux et l\'état du chantier. Un T3 de 65m² revient généralement entre 600€ et 900€.' },
+        { question: 'Combien coûte un nettoyage après travaux ?', answer: 'Entre 9€ et 28€/m² selon le type de travaux et l\'état du chantier. Un T3 de 65m² revient généralement entre 600€ et 900€.' },
         { question: 'Combien de temps faut-il pour nettoyer après un chantier ?', answer: 'Comptez une journée complète pour un appartement standard. Les gros chantiers (maison entière, rénovation lourde) prennent 2 à 3 jours.' },
         { question: 'La poussière de plâtre revient après votre passage ?', answer: 'Non. On utilise des aspirateurs industriels avec filtre HEPA qui captent les particules ultra-fines. On fait 2 à 3 passes pour être sûrs que tout est parti.' },
         { question: 'Vous enlevez les traces de peinture et de colle au sol ?', answer: 'Oui, c\'est notre spécialité. Grattoirs professionnels et solvants adaptés à chaque surface — on retire la peinture sans abîmer votre carrelage ou parquet.' },
