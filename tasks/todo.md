@@ -809,7 +809,7 @@ Plan validé. **Commits locaux uniquement : ni push ni déploiement avant valida
 - [x] FAQ Diogène et après-travaux alignées sur leur grille
 - [x] `scripts/check-jsonld.py` : 40 pages, 0 anomalie
 - [x] validator.schema.org : 0 erreur sur 7 pages
-- [ ] Validation, puis push et déploiement
+- [x] Validé, poussé et déployé le 02/10 (`e5bf008`) ; contrôle rejoué sur les 40 pages en ligne : 0 anomalie
 - [ ] À arbitrer avec le client : prix vitres, prix toiture, forfait déplacement Elbeuf
 
 ### Review
