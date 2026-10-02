@@ -794,3 +794,28 @@ Plan validé. **Commits locaux uniquement : ni push ni déploiement avant valida
 - Corrigé au passage : les réponses du bloc FAQ du contenu affichaient des balises `<strong>` en clair ; elles passent maintenant par `parseInlineHtml`.
 - Points visuels à juger : sur les pages à accordéon, l'image (420 px de haut) dépasse sous les questions fermées ; sur distributeurs, le cadrage de repli montre surtout un couloir vide.
 - Captures : `~/projets/ProClean/captures-2026-10-01-faq/` (hors dépôt).
+
+---
+
+## Lot 2026-10-02 — Refonte des données structurées JSON-LD
+
+Plan validé. **Commits locaux uniquement : ni push ni déploiement avant validation.**
+
+- [x] Entité entreprise unique (`lib/schema.ts`), données vérifiées dans `siteConfig`
+- [x] Un seul bloc `@graph` par page sur les 40 pages (`components/schema/JsonLd.tsx`)
+- [x] Pages services : `Service` + 31 offres de prix sur 6 pages
+- [x] Pages villes : `Service` par ville (Sotteville testée d'abord, puis les 11 autres)
+- [x] 5 anciens composants de schéma supprimés
+- [x] FAQ Diogène et après-travaux alignées sur leur grille
+- [x] `scripts/check-jsonld.py` : 40 pages, 0 anomalie
+- [x] validator.schema.org : 0 erreur sur 7 pages
+- [ ] Validation, puis push et déploiement
+- [ ] À arbitrer avec le client : prix vitres, prix toiture, forfait déplacement Elbeuf
+
+### Review
+
+- Le brief demandait `@type ["CleaningService","LocalBusiness"]`. Le validateur a rejeté `CleaningService` : ce type n'existe pas dans schema.org. Il était en ligne depuis mars. Retiré ; le type est `["LocalBusiness","Organization"]`.
+- Les 3 lignes « à partir de X€/séance » sont déclarées en prix minimum seul : 31 lignes sur 31, aucune ignorée.
+- Le JSON-LD des pages villes et de la page entreprise est émis depuis `page.tsx` (serveur) : leurs gabarits sont des composants client.
+- Le « 5/5 sur Google » reste affiché dans les pages ; il est absent du JSON-LD.
+- JSON des 4 pages demandées : `~/projets/ProClean/jsonld-2026-10-02/` (hors dépôt).

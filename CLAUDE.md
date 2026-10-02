@@ -217,9 +217,9 @@ Blob décoratif           : radial-gradient(60% 60% at 30% 20%, rgba(33,150,243,
 
 ### Technique
 1. **Chaque page** DOIT avoir un `generateMetadata()` unique avec title, description, canonical, openGraph, twitter
-2. **Chaque page service** DOIT avoir un Schema JSON-LD `Service` + `LocalBusiness` + `BreadcrumbList`
-3. **La page d'accueil** DOIT avoir un Schema `Organization` + `LocalBusiness` + `WebSite`
-4. **La page FAQ** (intégrée dans l'accueil) DOIT avoir un Schema `FAQPage`
+2. **Chaque page** émet UN seul bloc JSON-LD `@graph` contenant l'entité entreprise complète (`lib/schema.ts`, `<JsonLd>`). Règles strictes, parseur de prix et contrôle : `docs/donnees-structurees.md`
+3. **Chaque page service** y ajoute `Service` (+ offres si grille de prix) + `BreadcrumbList` + `FAQPage` ; **chaque page ville** un `Service` propre à la ville
+4. **Interdits dans le JSON-LD** : avis et notes, adresse à Rouen, lien vers proclean20.fr, type inexistant (`CleaningService`). Lancer `python3 scripts/check-jsonld.py` après chaque build
 5. **Sitemap.xml** dynamique avec toutes les pages et priorités correctes
 6. **Robots.txt** : Allow tout sauf /api/ et /_next/
 7. **Canonical URLs** : toutes les pages pointent vers leur URL canonique (https://societe-nettoyage-rouen.fr/...)
@@ -385,6 +385,8 @@ Le fichier source des textes bruts est dans `content/raw/rouen-textes.txt`.
 - État des lieux complet (production vs dépôt vs local, Search Console, problèmes classés, ordre de travail, 2026-10-01) : `docs/etat-des-lieux-2026-10-01.md` — constat structurant : la production tourne sur le build du 27 mars, aucune correction de juillet n'est en ligne, et le commit `16e7045` du 14/08 a annulé les corrections de contenu du 07/07 (toujours présentes en local, non commitées).
 
 - Images générées par IA posées le 2026-10-01 (tableau source → destination, poids, alts, image écartée) et règle d'usage — *images IA = illustrations, jamais présentées comme notre équipe réelle* : `docs/images-ia-2026-10.md`.
+
+- Données structurées JSON-LD (refonte du 2026-10-02 : entité entreprise unique, prix déclarés, un bloc par page, règles strictes, script de contrôle) : `docs/donnees-structurees.md`.
 
 ---
 
